@@ -1,0 +1,184 @@
+{
+  "historia_id": "casamento-cana",
+  "titulo": "A Festa de Casamento 🍇 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O casamento em Caná",
+  "referencia": "João 2",
+  "descricao": "Numa festa de casamento em Caná, a bebida acaba. Jesus manda encher os potes de água e faz o seu primeiro milagre! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: João 2\n💛 Lição: podemos contar a Jesus todas as nossas necessidades.",
+  "tags": [
+    "casamento em caná",
+    "água em vinho",
+    "primeiro milagre de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Contar tudo a Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem festa! E uma surpresa deliciosa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "homem",
+        "mulher",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tinha uma festa de casamento em Caná. Jesus foi convidado!"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Que festa bonita! Lá-lá-lá!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas, de repente, acabou o vinho da festa!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "maria",
+        "jesus",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "maria",
+          "texto": "Jesus, a bebida da festa acabou.",
+          "emocao": "triste"
+        },
+        {
+          "quem": "maria",
+          "texto": "Façam tudo o que ele mandar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Encham esses potes grandes com água.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Glub, glub, glub! Tá cheio até a boca!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "menino",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Agora, levem para o chefe da festa provar.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "homem",
+          "texto": "Humm! Delicioso! Guardaram o melhor para o final!",
+          "emocao": "surpreso",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "menino",
+          "texto": "Era água! Jesus transformou!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "maria",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Esse foi o primeiro milagre de Jesus. A festa continuou feliz!"
+        },
+        {
+          "quem": "maria",
+          "texto": "Obrigada, filho!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Podemos contar tudo para Jesus. Ele sempre cuida!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "historia_id": "daniel-comida",
+  "titulo": "Daniel e os Legumes 🥕 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Daniel e os legumes",
+  "referencia": "Daniel 1",
+  "descricao": "No palácio da Babilônia, Daniel e seus amigos escolhem comer legumes e beber água para obedecer a Deus, e ficam mais fortes que todos. Uma historinha contada pela ovelhinha Mel.\n\n📖 Referência: Daniel 1\n💛 Lição: quando escolhemos obedecer a Deus, ele nos ajuda.",
+  "tags": [
+    "daniel",
+    "legumes",
+    "daniel 1",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Escolher obedecer a Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "daniel": {
+      "preset": "daniel"
+    },
+    "sadraque": {
+      "preset": "sadraque"
+    },
+    "mesaque": {
+      "preset": "mesaque"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Chefe do palácio"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você gosta de cenoura? Crec, crec! Daniel também!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "daniel",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Daniel e seus amigos foram morar no palácio do rei."
+        },
+        {
+          "quem": "homem",
+          "texto": "Comam a comida do rei! É muito chique!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "daniel",
+          "texto": "Obrigado, mas queremos obedecer a Deus."
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "daniel",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "daniel",
+          "texto": "Nos dê só legumes e água por dez dias."
+        },
+        {
+          "quem": "homem",
+          "texto": "E se vocês ficarem fraquinhos?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "daniel",
+          "texto": "Vamos ver! Pode testar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "personagens": [
+        "daniel",
+        "sadraque",
+        "mesaque"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles comeram cenoura, feijão e verdurinhas. Nhac, nhac!"
+        },
+        {
+          "quem": "sadraque",
+          "texto": "Que delícia! Crocante!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mesaque",
+          "texto": "E que água fresquinha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "homem",
+        "daniel",
+        "sadraque"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois de dez dias, que surpresa!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Vocês estão mais fortes e bonitos que todos!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "daniel",
+          "texto": "Deus nos ajudou!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando você escolhe obedecer a Deus, ele te ajuda!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

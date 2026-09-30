@@ -1,0 +1,160 @@
+{
+  "historia_id": "naama-rio",
+  "titulo": "Naamã no Rio Jordão 🌊 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Naamã no rio Jordão",
+  "referencia": "2 Reis 5",
+  "descricao": "O general Naamã tinha uma doença na pele. Eliseu manda ele mergulhar sete vezes no rio Jordão e, quando obedece, Deus o cura. Uma historinha sobre obediência, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Reis 5\n💛 Lição: obedecer a Deus é sempre o melhor caminho.",
+  "tags": [
+    "naamã",
+    "rio jordão",
+    "eliseu",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Obedecer a Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "naama": {
+      "preset": "naama"
+    },
+    "eliseu": {
+      "preset": "eliseu"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Mensageiro"
+    },
+    "soldado": {
+      "preset": "soldado"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Vamos contar até sete? Tem mergulho na história de hoje!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "naama",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Naamã era um chefe importante, mas tinha uma doença na pele."
+        },
+        {
+          "quem": "homem",
+          "texto": "Eliseu mandou dizer: mergulhe sete vezes no rio Jordão."
+        },
+        {
+          "quem": "naama",
+          "texto": "No rio? Só isso? Hunf!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "naama",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "soldado",
+          "texto": "Senhor, é tão fácil! Por que não tenta?"
+        },
+        {
+          "quem": "naama",
+          "texto": "Tá bom... você tem razão. Vou obedecer.",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "naama",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tchibum! Um, dois, três, quatro, cinco, seis..."
+        },
+        {
+          "quem": "soldado",
+          "texto": "Falta só um! Vai!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E... sete! Tchibum! Que splash gostoso!"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "naama",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A pele de Naamã ficou lisinha, igual de criança!"
+        },
+        {
+          "quem": "naama",
+          "texto": "Estou curado! Agora sei que só o Senhor é Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Obedecer a Deus é sempre o melhor caminho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

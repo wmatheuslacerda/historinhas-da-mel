@@ -1,0 +1,168 @@
+{
+  "historia_id": "semeador",
+  "titulo": "O Semeador 🌾 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O semeador",
+  "referencia": "Mateus 13",
+  "descricao": "Um semeador jogou sementes no caminho, nas pedras, nos espinhos e na terra boa. Só a terra boa deu fruto! Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 13\n💛 Lição: Guarde a palavra de Deus no coração, como terra boa.",
+  "tags": [
+    "semeador",
+    "parábola",
+    "palavra de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Ter um coração de terra boa",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "semeador": {
+      "preset": "homem"
+    },
+    "pomba": {
+      "preset": "pomba"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje vamos plantar sementinhas!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus sentou num barquinho e contou uma história."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Um semeador saiu para jogar sementes.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "semeador",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "semeador",
+          "texto": "Jogo aqui, jogo ali! Xiii!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Umas caíram no caminho. Os passarinhos comeram!"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Nham, nham! Que delícia!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "semeador"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Outras caíram nas pedras e secaram no sol."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Outras caíram nos espinhos e ficaram apertadinhas."
+        },
+        {
+          "quem": "semeador",
+          "texto": "Ah, não! Não cresceram!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "semeador"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas algumas caíram na terra boa. Cresceram muito!"
+        },
+        {
+          "quem": "semeador",
+          "texto": "Olha quanta plantinha! Deu fruto demais!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "tarde",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "A semente é a palavra de Deus. A terra boa é quem escuta e entende.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Seja terra boa: guarde a palavra de Deus no coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

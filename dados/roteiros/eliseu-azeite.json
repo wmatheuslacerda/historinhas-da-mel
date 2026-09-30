@@ -1,0 +1,177 @@
+{
+  "historia_id": "eliseu-azeite",
+  "titulo": "O Azeite que Não Parava 🫙 | Historinha Bíblica #shorts",
+  "titulo_curto": "O azeite que não parava",
+  "referencia": "2 Reis 4",
+  "descricao": "Uma viúva só tinha um pouquinho de azeite, mas, seguindo o conselho de Eliseu, encheu muitos potes emprestados dos vizinhos. Uma historinha sobre fé e obediência, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Reis 4\n💛 Lição: Deus faz muito com o pouquinho que a gente tem.",
+  "tags": [
+    "eliseu",
+    "azeite da viúva",
+    "milagre",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus faz muito com pouco",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "eliseu": {
+      "preset": "eliseu"
+    },
+    "mulher": {
+      "preset": "mulher",
+      "nome": "Viúva"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "menina": {
+      "preset": "menina"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Vamos contar potes? Um, dois, três... muitos!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "eliseu",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "mulher",
+          "texto": "Eliseu, me ajuda! Eu não tenho dinheiro nenhum.",
+          "emocao": "triste"
+        },
+        {
+          "quem": "eliseu",
+          "texto": "O que você tem em casa?"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Só um pouquinho de azeite.",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "eliseu",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "eliseu",
+          "texto": "Peça muitos potes vazios aos vizinhos!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Vizinho! Empresta um pote?",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "menina",
+          "texto": "Mais um! E mais um!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mulher",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ela fechou a porta e começou a despejar. Gluc, gluc!"
+        },
+        {
+          "quem": "menina",
+          "texto": "Encheu! Traz outro pote!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O azeite só parou quando acabaram os potes!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "eliseu",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "eliseu",
+          "texto": "Agora venda o azeite e pague o que deve."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Obrigada, Deus! Sobrou para a gente viver!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "menino",
+          "texto": "Viva! Deus é bom!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus faz muito com o pouquinho que você tem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

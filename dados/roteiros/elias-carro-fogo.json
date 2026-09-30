@@ -1,0 +1,157 @@
+{
+  "historia_id": "elias-carro-fogo",
+  "titulo": "O Carro de Fogo de Elias 🌪️ | Historinha Bíblica #shorts",
+  "titulo_curto": "O carro de fogo",
+  "referencia": "2 Reis 2",
+  "descricao": "O profeta Eliseu não quer deixar seu mestre Elias, que sobe ao céu num redemoinho enquanto um carro de fogo aparece. Uma historinha sobre amizade e fidelidade, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Reis 2\n💛 Lição: Deus cuida de quem o ama, até o fim.",
+  "tags": [
+    "elias",
+    "eliseu",
+    "carro de fogo",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida dos seus amigos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "elias": {
+      "preset": "elias"
+    },
+    "eliseu": {
+      "preset": "eliseu"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você já viu um vento que gira, gira, gira?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "elias",
+        "eliseu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Elias e seu ajudante Eliseu andavam sempre juntinhos."
+        },
+        {
+          "quem": "elias",
+          "texto": "Eliseu, fica aqui descansando."
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Não! Eu vou com você!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "elias",
+        "eliseu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No rio Jordão, Elias bateu na água com sua capa."
+        },
+        {
+          "quem": "narrador",
+          "texto": "E a água se abriu! Shuuuá!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Uau! Deus abriu um caminho!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "elias",
+        "eliseu"
+      ],
+      "falas": [
+        {
+          "quem": "elias",
+          "texto": "O que você quer que eu faça por você?"
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Quero ter o seu espírito em dobro!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "eliseu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, apareceu um carro de fogo com cavalos!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Elias subiu ao céu num redemoinho. Vuuuum!"
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Meu pai! Meu pai!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de quem ama ele, até o fim!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

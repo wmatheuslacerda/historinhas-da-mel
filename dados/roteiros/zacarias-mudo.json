@@ -1,0 +1,197 @@
+{
+  "historia_id": "zacarias-mudo",
+  "titulo": "Zacarias Fica Sem Voz 🤐 | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "Zacarias sem voz",
+  "referencia": "Lucas 1",
+  "descricao": "O sacerdote Zacarias não acredita no anjo e fica sem falar até o bebê João nascer! Uma historinha bíblica divertida sobre confiar nas promessas de Deus, contada pela Mel.\n\n📖 Referência: Lucas 1\n💛 Lição: Deus sempre cumpre o que promete.",
+  "tags": [
+    "zacarias",
+    "isabel",
+    "joão batista",
+    "natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus sempre cumpre suas promessas",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "zacarias": {
+      "tipo": "humano",
+      "nome": "Zacarias",
+      "voz": "idoso",
+      "idade": "idoso",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "branco",
+      "estilo_cabelo": "curto",
+      "barba": "longa",
+      "roupa": "#f2efe6",
+      "roupa2": "#4a6fa5",
+      "cobertura": "faixa",
+      "acessorio": "nenhum",
+      "manto": true
+    },
+    "isabel": {
+      "tipo": "humano",
+      "nome": "Isabel",
+      "voz": "idosa",
+      "idade": "idoso",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "grisalho",
+      "estilo_cabelo": "coque",
+      "barba": "nenhuma",
+      "roupa": "#8e6bb0",
+      "roupa2": "#e8d9b5",
+      "cobertura": "veu",
+      "acessorio": "nenhum"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje um vovô ficou sem voz! Por quê?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "zacarias",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Zacarias servia a Deus no templo. Apareceu um anjo!"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Zacarias, sua esposa Isabel vai ter um bebê. Ele se chamará João!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "zacarias",
+          "texto": "Um bebê? Mas nós somos velhinhos!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "personagens": [
+        "zacarias",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "anjo",
+          "texto": "Você não acreditou. Vai ficar sem falar até o bebê nascer."
+        },
+        {
+          "quem": "zacarias",
+          "texto": "Hum! Hum-hum!",
+          "emocao": "surpreso",
+          "acao": "tremer"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Zacarias só conseguia fazer gestos. Que engraçado!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "isabel",
+        "zacarias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus cumpriu a promessa. O bebê João nasceu!"
+        },
+        {
+          "quem": "isabel",
+          "texto": "Que alegria! Deus foi bondoso com a gente!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "zacarias",
+        "isabel",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "Qual vai ser o nome do bebê?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Zacarias escreveu numa tabuinha: o nome dele é João!"
+        },
+        {
+          "quem": "zacarias",
+          "texto": "Louvado seja Deus! Eu voltei a falar!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus sempre cumpre o que promete!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

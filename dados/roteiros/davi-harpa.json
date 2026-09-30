@@ -1,0 +1,181 @@
+{
+  "historia_id": "davi-harpa",
+  "titulo": "Davi Toca Harpa para o Rei 🎶 | Historinha Bíblica #shorts",
+  "titulo_curto": "Davi toca harpa",
+  "referencia": "1 Samuel 16",
+  "descricao": "O rei Saul estava agitado e sem paz. O menino Davi toca sua harpa no palácio, e o rei se acalma! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 16\n💛 Lição: podemos usar nossos dons para ajudar os outros.",
+  "tags": [
+    "davi harpa",
+    "davi e saul",
+    "música na bíblia",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Nossos dons ajudam os outros",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "saul": {
+      "preset": "saul"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "davi": {
+      "preset": "davi"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você gosta de música? Plim, plim, plim!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "nublado",
+      "personagens": [
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei Saul andava muito triste e agitado."
+        },
+        {
+          "quem": "saul",
+          "texto": "Ai, ai! Não consigo ficar em paz!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "nublado",
+      "personagens": [
+        "soldado",
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "soldado",
+          "texto": "Rei, conheço um menino que toca harpa lindamente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "saul",
+          "texto": "Então tragam esse menino aqui!"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "davi",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Davi estava no campo, tocando para as ovelhinhas."
+        },
+        {
+          "quem": "davi",
+          "texto": "Plim, plim! Essa música é pra Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méééé!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "davi",
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Davi foi ao palácio e tocou sua harpa."
+        },
+        {
+          "quem": "davi",
+          "texto": "Plim, plim, plom...",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o rei Saul foi se acalmando."
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "saul",
+        "davi"
+      ],
+      "falas": [
+        {
+          "quem": "saul",
+          "texto": "Que música linda! Já me sinto melhor!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "saul",
+          "texto": "Fique aqui comigo, Davi!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Podemos usar nossos dons para ajudar os outros!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

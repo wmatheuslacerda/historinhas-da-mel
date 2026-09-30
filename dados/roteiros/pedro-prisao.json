@@ -1,0 +1,167 @@
+{
+  "historia_id": "pedro-prisao",
+  "titulo": "O Anjo Tira Pedro da Prisão 🔓 | Historinha Bíblica #shorts",
+  "titulo_curto": "Pedro sai da prisão",
+  "referencia": "Atos 12",
+  "descricao": "Pedro está preso, e os amigos oram sem parar. De noite, um anjo aparece, as correntes caem e as portas se abrem sozinhas! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 12\n💛 Lição: deus escuta quando a gente ora.",
+  "tags": [
+    "pedro na prisão",
+    "anjo",
+    "oração",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus escuta quando a gente ora",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Uma porta que abre sozinha? Nhééc! Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "personagens": [
+        "pedro",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei mandou prender Pedro, com correntes e soldados."
+        },
+        {
+          "quem": "soldado",
+          "texto": "Daqui ninguém sai!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Um soldado de cada lado, e mais guardas na porta!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Enquanto isso, os amigos oravam sem parar."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Deus, cuida do nosso amigo Pedro, por favor!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "pedro",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro dormia. De repente, uma luz! Era um anjo!"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Pedro, levante depressa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "As correntes caíram. Clanc, clanc!"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Pegue a capa e venha comigo.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "anjo",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Passaram pelos guardas, e o portão de ferro abriu sozinho. Nhééc!"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Não é sonho! Deus mandou o anjo me soltar!",
+          "emocao": "surpreso",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus escuta quando a gente ora!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

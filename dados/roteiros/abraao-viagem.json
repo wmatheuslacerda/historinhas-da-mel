@@ -1,0 +1,177 @@
+{
+  "historia_id": "abraao-viagem",
+  "titulo": "Abraão Muda de Casa 🐪 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Abraão muda de casa",
+  "referencia": "Gênesis 12",
+  "descricao": "Deus pede para Abraão sair da sua terra e ir para um lugar novo, e ele confia e obedece. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 12\n💛 Lição: podemos confiar em Deus mesmo sem saber o caminho.",
+  "tags": [
+    "abraão",
+    "viagem de abraão",
+    "confiança em deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "confiar em Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "abraao": {
+      "preset": "abraao"
+    },
+    "sara": {
+      "preset": "sara"
+    },
+    "camelo": {
+      "preset": "camelo"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você já mudou de casa? Abraão mudou! Vem ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "abraao"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Abraão, saia da sua terra."
+        },
+        {
+          "quem": "deus",
+          "texto": "Vá para a terra que eu vou te mostrar."
+        },
+        {
+          "quem": "abraao",
+          "texto": "Para onde, Deus?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Abraão não sabia, mas confiou em Deus!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "abraao",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "abraao",
+          "texto": "Sara, vamos arrumar as malas!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "sara",
+          "texto": "Vamos juntos! Deus vai nos guiar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "abraao",
+        "camelo",
+        "ovelha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Lá foram eles, com camelos e ovelhinhas."
+        },
+        {
+          "quem": "camelo",
+          "texto": "Pocotó, pocotó... que longe!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelha",
+          "texto": "Méé! Tô com calorzinho!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Força, turma! Deus está com a gente!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "abraao",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Chegaram numa terra verdinha e bonita."
+        },
+        {
+          "quem": "deus",
+          "texto": "Esta terra eu vou dar à sua família."
+        },
+        {
+          "quem": "abraao",
+          "texto": "Obrigado, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo sem saber o caminho, podemos confiar em Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

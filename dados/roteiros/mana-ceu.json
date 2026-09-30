@@ -1,0 +1,165 @@
+{
+  "historia_id": "mana-ceu",
+  "titulo": "Pão do Céu! 🍞 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Pão do céu",
+  "referencia": "Êxodo 16",
+  "descricao": "No deserto o povo sentiu fome, e Deus mandou o maná, um pãozinho do céu, todas as manhãs! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 16\n💛 Lição: Deus cuida de nós todos os dias.",
+  "tags": [
+    "maná",
+    "pão do céu",
+    "moisés no deserto",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de nós todos os dias",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Já pensou em pão caindo do céu?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No deserto, o povo estava com muita fome."
+        },
+        {
+          "quem": "menino",
+          "texto": "Minha barriga está roncando! Ronc, ronc!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "moises",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Eu vou mandar pão do céu para vocês!"
+        },
+        {
+          "quem": "moises",
+          "texto": "Ouviram? Deus vai cuidar de nós!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mulher",
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De manhã, o chão estava cheio de bolinhas branquinhas!"
+        },
+        {
+          "quem": "mulher",
+          "texto": "O que é isso?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "moises",
+          "texto": "É o pão que Deus deu pra vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O povo chamou de maná."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "menino",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "menino",
+          "texto": "Hum! Tem gostinho de bolacha com mel!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Cada família pegava só o que precisava."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Todos os dias, Deus mandava mais. Ninguém ficou com fome!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de nós todos os dias!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

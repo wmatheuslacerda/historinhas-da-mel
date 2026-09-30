@@ -1,0 +1,202 @@
+{
+  "historia_id": "dorcas",
+  "titulo": "Dorcas, a Costureira Bondosa 🧵 | Historinha Bíblica #shorts",
+  "titulo_curto": "Dorcas, a costureira",
+  "referencia": "Atos 9",
+  "descricao": "Dorcas costurava roupinhas para quem precisava. Quando ela fica doente, Pedro vem orar e Deus faz uma maravilha! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 9\n💛 Lição: fazer o bem com as mãos deixa Deus feliz.",
+  "tags": [
+    "dorcas",
+    "tabita",
+    "bondade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Fazer o bem com as mãos deixa Deus feliz",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "dorcas": {
+      "tipo": "humano",
+      "nome": "Dorcas",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "coque",
+      "barba": "nenhuma",
+      "roupa": "#d98c5f",
+      "roupa2": "#f6ead2",
+      "cobertura": "lenco",
+      "acessorio": "cesta",
+      "manto": false
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "pedro": {
+      "preset": "pedro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Conhece alguém que fazia roupinhas com amor? Vem ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "dorcas",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Dorcas morava em Jope. Ela adorava costurar."
+        },
+        {
+          "quem": "dorcas",
+          "texto": "Esta roupinha nova é pra você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Que linda! Obrigada, Dorcas!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "mulher",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, Dorcas ficou doente e não acordou mais."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Que tristeza! Vamos chamar Pedro depressa!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Dois amigos correram, correram, até encontrar Pedro."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "pedro",
+        "mulher",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro chegou, e todos mostraram as roupas que Dorcas fez."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Olha quanta roupa ela costurou pra gente!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Pedro ajoelhou e orou baixinho."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "pedro",
+        "dorcas"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Tabita, levante-se!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Dorcas abriu os olhos e sentou!"
+        },
+        {
+          "quem": "dorcas",
+          "texto": "Pedro! O que aconteceu?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "dorcas",
+        "mulher",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "menina",
+          "texto": "A Dorcas voltou! Obrigada, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Fazer o bem com as mãos deixa Deus feliz!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

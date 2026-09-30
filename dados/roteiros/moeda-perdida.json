@@ -1,0 +1,161 @@
+{
+  "historia_id": "moeda-perdida",
+  "titulo": "A Moedinha Perdida 🪙 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A moeda perdida",
+  "referencia": "Lucas 15",
+  "descricao": "Uma mulher perdeu uma das suas dez moedinhas e procurou pela casa toda até achar. Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 15\n💛 Lição: Cada pessoa é um tesouro para Deus.",
+  "tags": [
+    "moeda perdida",
+    "parábola",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "No céu tem festa quando alguém volta para Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "idosa": {
+      "preset": "idosa"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos brincar de procurar uma moedinha?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus contou mais uma historinha."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Uma mulher tinha dez moedinhas de prata.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "mulher",
+          "texto": "Uma, duas, três... nove! Ai, sumiu uma!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ela acendeu a lamparina e pegou a vassoura."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Vou procurar em cada cantinho!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Varre embaixo da mesa, xuc, xuc! Olha atrás do vaso!"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Não está aqui... nem aqui...",
+          "emocao": "triste"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Olha ela ali! Brilhando! Achei!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "mulher",
+        "idosa"
+      ],
+      "falas": [
+        {
+          "quem": "mulher",
+          "texto": "Vizinha, vem fazer festa! Achei minha moedinha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "idosa",
+          "texto": "Que alegria! Vamos comemorar!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jesus disse que no céu também tem festa quando alguém volta para Deus."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você é um tesouro para Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "historia_id": "jesus-ressuscitou",
+  "titulo": "Jesus Está Vivo! 🌅 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus está vivo!",
+  "referencia": "Mateus 28",
+  "descricao": "Bem cedinho, duas amigas de Jesus encontram o túmulo vazio e um anjo conta a notícia mais feliz do mundo. Uma historinha de Páscoa contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 28\n💛 Lição: jesus está vivo e está sempre com a gente.",
+  "tags": [
+    "jesus ressuscitou",
+    "páscoa",
+    "túmulo vazio",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus está vivo e está sempre com a gente",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "madalena": {
+      "tipo": "humano",
+      "nome": "Maria Madalena",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "morena",
+      "cabelo": "preto",
+      "estilo_cabelo": "longo",
+      "barba": "nenhuma",
+      "roupa": "#b5651d",
+      "roupa2": "#f3e3c3",
+      "cobertura": "veu",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "maria2": {
+      "tipo": "humano",
+      "nome": "Maria",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "coque",
+      "barba": "nenhuma",
+      "roupa": "#7b6fb0",
+      "roupa2": "#efe6d0",
+      "cobertura": "lenco",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "jesus": {
+      "preset": "jesus"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem a notícia mais feliz do mundo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "personagens": [
+        "madalena",
+        "maria2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Bem cedinho, duas amigas de Jesus foram ao túmulo dele."
+        },
+        {
+          "quem": "madalena",
+          "texto": "Ai, que saudade do nosso Jesus!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "maria2",
+          "texto": "Vamos ver onde ele está.",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Elas levavam perfumes cheirosos, com muito carinho."
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, a terra tremeu! Um anjo brilhante rolou a pedra, vrum!"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Ui, ui, que luz é essa?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "madalena",
+        "maria2"
+      ],
+      "falas": [
+        {
+          "quem": "anjo",
+          "texto": "Não tenham medo! Jesus não está aqui. Ele ressuscitou!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "madalena",
+          "texto": "Ele está vivo? Que alegria!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "madalena",
+        "maria2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No caminho, elas encontraram ninguém menos que... Jesus!"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Bom dia! Alegrem-se!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "maria2",
+          "texto": "Vamos contar pra todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus está vivo e está sempre com você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "historia_id": "paulo-silas-cantam",
+  "titulo": "Paulo e Silas Cantam na Prisão 🎶 | Historinha Bíblica #shorts",
+  "titulo_curto": "Paulo e Silas cantam",
+  "referencia": "Atos 16",
+  "descricao": "Paulo e Silas estão presos, mas à meia-noite cantam louvores a Deus. A terra treme, as portas se abrem e o carcereiro conhece Jesus! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 16\n💛 Lição: podemos louvar a Deus em qualquer situação.",
+  "tags": [
+    "paulo e silas",
+    "prisão",
+    "louvor",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Podemos louvar a Deus em qualquer situação",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "silas": {
+      "tipo": "humano",
+      "nome": "Silas",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "escura",
+      "cabelo": "preto",
+      "estilo_cabelo": "cacheado",
+      "barba": "curta",
+      "roupa": "#b04a4a",
+      "roupa2": "#eadcc0",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "carcereiro": {
+      "tipo": "humano",
+      "nome": "Carcereiro",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "preto",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#5a5a6e",
+      "roupa2": "#c9c0a8",
+      "cobertura": "nenhuma",
+      "acessorio": "lampiao",
+      "manto": false
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você gosta de cantar? Essa história tem música!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "personagens": [
+        "paulo",
+        "silas",
+        "carcereiro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paulo e Silas foram presos por falar de Jesus."
+        },
+        {
+          "quem": "carcereiro",
+          "texto": "Fiquem aí quietinhos!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Os pés deles ficaram presos na madeira."
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "paulo",
+        "silas"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas, à meia-noite, eles começaram a cantar!"
+        },
+        {
+          "quem": "silas",
+          "texto": "Lá, lá, lá! Deus é bom!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Vamos louvar a Deus mesmo aqui!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "paulo",
+        "silas",
+        "carcereiro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, a terra tremeu! Brrrum!",
+          "emocao": "surpreso",
+          "acao": "tremer"
+        },
+        {
+          "quem": "narrador",
+          "texto": "As portas se abriram e as correntes caíram!"
+        },
+        {
+          "quem": "carcereiro",
+          "texto": "Ai, ai! Os presos vão fugir!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Calma! Estamos todos aqui!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "carcereiro",
+        "paulo",
+        "silas"
+      ],
+      "falas": [
+        {
+          "quem": "carcereiro",
+          "texto": "O que eu faço pra ser salvo?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "silas",
+          "texto": "Creia no Senhor Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E toda a família dele creu em Jesus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "A gente pode louvar a Deus em qualquer lugar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

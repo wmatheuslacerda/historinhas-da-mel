@@ -1,0 +1,855 @@
+[
+ {
+  "id": "criacao",
+  "titulo": "Deus cria o mundo",
+  "ref": "Gênesis 1",
+  "ideia": "Deus faz a luz, o céu, o mar, as plantas, os bichos e tudo fica muito bom",
+  "t": "AT"
+ },
+ {
+  "id": "adao-eva-jardim",
+  "titulo": "Adão e Eva no jardim",
+  "ref": "Gênesis 2",
+  "ideia": "Deus cria Adão e Eva e dá a eles um jardim lindo para cuidar",
+  "t": "AT"
+ },
+ {
+  "id": "primeira-desobediencia",
+  "titulo": "A fruta proibida",
+  "ref": "Gênesis 3",
+  "ideia": "Adão e Eva desobedecem, ficam tristes, e Deus continua cuidando deles",
+  "t": "AT"
+ },
+ {
+  "id": "noe-constroi-arca",
+  "titulo": "Noé constrói a arca",
+  "ref": "Gênesis 6",
+  "ideia": "Noé obedece a Deus e constrói um barco gigante mesmo com gente rindo",
+  "t": "AT"
+ },
+ {
+  "id": "noe-animais",
+  "titulo": "Os bichinhos entram na arca",
+  "ref": "Gênesis 7",
+  "ideia": "Os animais entram de dois em dois na arca de Noé",
+  "t": "AT"
+ },
+ {
+  "id": "noe-chuva",
+  "titulo": "A grande chuva",
+  "ref": "Gênesis 7-8",
+  "ideia": "Chove muitos dias e Deus protege Noé e os animais dentro da arca",
+  "t": "AT"
+ },
+ {
+  "id": "noe-pomba",
+  "titulo": "A pomba e o raminho",
+  "ref": "Gênesis 8",
+  "ideia": "Noé solta a pomba, ela volta com um raminho de oliveira",
+  "t": "AT"
+ },
+ {
+  "id": "noe-arco-iris",
+  "titulo": "A promessa do arco-íris",
+  "ref": "Gênesis 9",
+  "ideia": "Deus coloca o arco-íris no céu como promessa de amor",
+  "t": "AT"
+ },
+ {
+  "id": "torre-babel",
+  "titulo": "A torre de Babel",
+  "ref": "Gênesis 11",
+  "ideia": "O povo quer fazer uma torre até o céu e Deus mistura as línguas",
+  "t": "AT"
+ },
+ {
+  "id": "abraao-estrelas",
+  "titulo": "Abraão e as estrelas",
+  "ref": "Gênesis 15",
+  "ideia": "Deus mostra o céu estrelado e promete uma família enorme a Abraão",
+  "t": "AT"
+ },
+ {
+  "id": "abraao-viagem",
+  "titulo": "Abraão muda de casa",
+  "ref": "Gênesis 12",
+  "ideia": "Abraão confia em Deus e viaja para uma terra nova",
+  "t": "AT"
+ },
+ {
+  "id": "sara-risada",
+  "titulo": "Sara dá risada",
+  "ref": "Gênesis 18; 21",
+  "ideia": "Sara ri da promessa, mas Deus cumpre e nasce Isaque, que significa riso",
+  "t": "AT"
+ },
+ {
+  "id": "rebeca-camelos",
+  "titulo": "Rebeca e os camelos",
+  "ref": "Gênesis 24",
+  "ideia": "Rebeca é gentil e dá água para os camelos com cuidado",
+  "t": "AT"
+ },
+ {
+  "id": "jaco-esau",
+  "titulo": "Jacó e Esaú, os gêmeos",
+  "ref": "Gênesis 25-27",
+  "ideia": "Dois irmãos gêmeos bem diferentes e uma briga por uma sopa",
+  "t": "AT"
+ },
+ {
+  "id": "jaco-escada",
+  "titulo": "A escada de Jacó",
+  "ref": "Gênesis 28",
+  "ideia": "Jacó sonha com uma escada até o céu e anjos subindo e descendo",
+  "t": "AT"
+ },
+ {
+  "id": "jaco-esau-abraco",
+  "titulo": "O abraço dos irmãos",
+  "ref": "Gênesis 33",
+  "ideia": "Jacó e Esaú fazem as pazes com um abraço",
+  "t": "AT"
+ },
+ {
+  "id": "jose-tunica",
+  "titulo": "A túnica colorida de José",
+  "ref": "Gênesis 37",
+  "ideia": "José ganha do pai uma túnica colorida e os irmãos ficam com ciúmes",
+  "t": "AT"
+ },
+ {
+  "id": "jose-sonhos",
+  "titulo": "Os sonhos de José",
+  "ref": "Gênesis 37",
+  "ideia": "José sonha com estrelas e feixes de trigo que se curvam",
+  "t": "AT"
+ },
+ {
+  "id": "jose-egito",
+  "titulo": "José no Egito",
+  "ref": "Gênesis 39",
+  "ideia": "José é levado ao Egito, mas Deus está com ele em todo lugar",
+  "t": "AT"
+ },
+ {
+  "id": "jose-farao",
+  "titulo": "José e os sonhos do Faraó",
+  "ref": "Gênesis 41",
+  "ideia": "José explica o sonho das vacas gordas e magras ao Faraó",
+  "t": "AT"
+ },
+ {
+  "id": "jose-perdao",
+  "titulo": "José perdoa os irmãos",
+  "ref": "Gênesis 45",
+  "ideia": "José encontra os irmãos e escolhe perdoar",
+  "t": "AT"
+ },
+ {
+  "id": "moises-cestinho",
+  "titulo": "Moisés no cestinho",
+  "ref": "Êxodo 2",
+  "ideia": "A mamãe coloca o bebê Moisés num cestinho no rio e a irmã Miriã vigia",
+  "t": "AT"
+ },
+ {
+  "id": "moises-sarca",
+  "titulo": "A sarça que não queimava",
+  "ref": "Êxodo 3",
+  "ideia": "Moisés vê um arbusto com fogo que não se apaga e Deus fala com ele",
+  "t": "AT"
+ },
+ {
+  "id": "moises-farao",
+  "titulo": "Deixe meu povo ir!",
+  "ref": "Êxodo 5",
+  "ideia": "Moisés e Arão pedem ao Faraó para libertar o povo",
+  "t": "AT"
+ },
+ {
+  "id": "mar-vermelho",
+  "titulo": "O mar se abre",
+  "ref": "Êxodo 14",
+  "ideia": "Deus abre o mar e o povo passa no chão seco",
+  "t": "AT"
+ },
+ {
+  "id": "mana-ceu",
+  "titulo": "Pão do céu",
+  "ref": "Êxodo 16",
+  "ideia": "Deus manda o maná todas as manhãs para o povo comer",
+  "t": "AT"
+ },
+ {
+  "id": "agua-rocha",
+  "titulo": "Água da pedra",
+  "ref": "Êxodo 17",
+  "ideia": "Moisés bate na rocha e sai água fresquinha",
+  "t": "AT"
+ },
+ {
+  "id": "dez-mandamentos",
+  "titulo": "Os dez mandamentos",
+  "ref": "Êxodo 20",
+  "ideia": "Deus dá regras de amor escritas em pedra para o povo",
+  "t": "AT"
+ },
+ {
+  "id": "jumenta-balaao",
+  "titulo": "A jumentinha que falou",
+  "ref": "Números 22",
+  "ideia": "A jumentinha de Balaão vê um anjo e fala",
+  "t": "AT"
+ },
+ {
+  "id": "jerico-muralhas",
+  "titulo": "As muralhas de Jericó",
+  "ref": "Josué 6",
+  "ideia": "O povo marcha, toca trombetas e as muralhas caem",
+  "t": "AT"
+ },
+ {
+  "id": "gideao-trombetas",
+  "titulo": "Gideão e os 300",
+  "ref": "Juízes 7",
+  "ideia": "Gideão vence com poucos homens, trombetas e tochas",
+  "t": "AT"
+ },
+ {
+  "id": "sansao-forte",
+  "titulo": "Sansão, o homem forte",
+  "ref": "Juízes 16",
+  "ideia": "Deus dá força a Sansão e ele aprende a depender de Deus",
+  "t": "AT"
+ },
+ {
+  "id": "rute-noemi",
+  "titulo": "Rute e Noemi",
+  "ref": "Rute 1",
+  "ideia": "Rute não abandona a sogra Noemi e diz: seu Deus será meu Deus",
+  "t": "AT"
+ },
+ {
+  "id": "rute-campo",
+  "titulo": "Rute no campo de Boaz",
+  "ref": "Rute 2",
+  "ideia": "Rute trabalha colhendo trigo e Boaz é bondoso com ela",
+  "t": "AT"
+ },
+ {
+  "id": "ana-oracao",
+  "titulo": "A oração de Ana",
+  "ref": "1 Samuel 1",
+  "ideia": "Ana ora pedindo um filho e Deus responde com Samuel",
+  "t": "AT"
+ },
+ {
+  "id": "samuel-chamado",
+  "titulo": "Samuel ouve a voz de Deus",
+  "ref": "1 Samuel 3",
+  "ideia": "O menino Samuel ouve alguém chamar de noite: fala, Senhor!",
+  "t": "AT"
+ },
+ {
+  "id": "davi-pastor",
+  "titulo": "Davi, o pastorzinho",
+  "ref": "1 Samuel 16",
+  "ideia": "Davi cuida das ovelhas e Deus escolhe o menino para ser rei",
+  "t": "AT"
+ },
+ {
+  "id": "davi-harpa",
+  "titulo": "Davi toca harpa para o rei",
+  "ref": "1 Samuel 16",
+  "ideia": "Davi toca harpa e acalma o rei Saul",
+  "t": "AT"
+ },
+ {
+  "id": "davi-golias",
+  "titulo": "Davi e o gigante Golias",
+  "ref": "1 Samuel 17",
+  "ideia": "Davi vence o gigante com uma pedrinha e confiança em Deus",
+  "t": "AT"
+ },
+ {
+  "id": "davi-jonatas",
+  "titulo": "Davi e Jônatas, melhores amigos",
+  "ref": "1 Samuel 18-20",
+  "ideia": "Uma amizade de verdade entre Davi e Jônatas",
+  "t": "AT"
+ },
+ {
+  "id": "davi-saul-caverna",
+  "titulo": "Davi poupa o rei Saul",
+  "ref": "1 Samuel 24",
+  "ideia": "Davi escolhe não fazer mal a Saul na caverna",
+  "t": "AT"
+ },
+ {
+  "id": "davi-mefibosete",
+  "titulo": "Davi e Mefibosete",
+  "ref": "2 Samuel 9",
+  "ideia": "Davi é bondoso com o filho de Jônatas que não andava",
+  "t": "AT"
+ },
+ {
+  "id": "salomao-sabedoria",
+  "titulo": "Salomão pede sabedoria",
+  "ref": "1 Reis 3",
+  "ideia": "Salomão pode pedir qualquer coisa e pede sabedoria",
+  "t": "AT"
+ },
+ {
+  "id": "salomao-templo",
+  "titulo": "Salomão constrói o templo",
+  "ref": "1 Reis 6",
+  "ideia": "Um lugar lindo para adorar a Deus",
+  "t": "AT"
+ },
+ {
+  "id": "elias-corvos",
+  "titulo": "Elias e os corvos",
+  "ref": "1 Reis 17",
+  "ideia": "Deus manda passarinhos levarem comida para Elias",
+  "t": "AT"
+ },
+ {
+  "id": "elias-viuva",
+  "titulo": "A farinha que não acabava",
+  "ref": "1 Reis 17",
+  "ideia": "A viúva divide o pouco que tem e a farinha nunca acaba",
+  "t": "AT"
+ },
+ {
+  "id": "elias-fogo",
+  "titulo": "Elias e o fogo do céu",
+  "ref": "1 Reis 18",
+  "ideia": "Deus responde a oração de Elias com fogo do céu",
+  "t": "AT"
+ },
+ {
+  "id": "elias-brisa",
+  "titulo": "Deus fala na brisa",
+  "ref": "1 Reis 19",
+  "ideia": "Elias descobre que Deus fala num sussurro suave",
+  "t": "AT"
+ },
+ {
+  "id": "elias-carro-fogo",
+  "titulo": "O carro de fogo",
+  "ref": "2 Reis 2",
+  "ideia": "Elias sobe ao céu num redemoinho",
+  "t": "AT"
+ },
+ {
+  "id": "eliseu-azeite",
+  "titulo": "O azeite que não parava",
+  "ref": "2 Reis 4",
+  "ideia": "A viúva enche muitos potes com um pouquinho de azeite",
+  "t": "AT"
+ },
+ {
+  "id": "eliseu-quarto",
+  "titulo": "O quartinho para Eliseu",
+  "ref": "2 Reis 4",
+  "ideia": "Uma família faz um quarto para o profeta e Deus abençoa",
+  "t": "AT"
+ },
+ {
+  "id": "naama-rio",
+  "titulo": "Naamã no rio Jordão",
+  "ref": "2 Reis 5",
+  "ideia": "Naamã mergulha sete vezes no rio e fica curado",
+  "t": "AT"
+ },
+ {
+  "id": "menina-naama",
+  "titulo": "A menina que ajudou Naamã",
+  "ref": "2 Reis 5",
+  "ideia": "Uma menina corajosa diz onde Naamã pode ser curado",
+  "t": "AT"
+ },
+ {
+  "id": "josias-rei-menino",
+  "titulo": "Josias, o rei menino",
+  "ref": "2 Reis 22",
+  "ideia": "Um menino de oito anos vira rei e ama a Deus",
+  "t": "AT"
+ },
+ {
+  "id": "neemias-muro",
+  "titulo": "Neemias reconstrói o muro",
+  "ref": "Neemias 2-6",
+  "ideia": "Todo mundo trabalha junto para reconstruir o muro",
+  "t": "AT"
+ },
+ {
+  "id": "ester-rainha",
+  "titulo": "A rainha Ester",
+  "ref": "Ester 2",
+  "ideia": "Ester vira rainha e Deus tem um plano para ela",
+  "t": "AT"
+ },
+ {
+  "id": "ester-coragem",
+  "titulo": "A coragem de Ester",
+  "ref": "Ester 4-7",
+  "ideia": "Ester é corajosa e salva seu povo",
+  "t": "AT"
+ },
+ {
+  "id": "jo-paciencia",
+  "titulo": "Jó confia em Deus",
+  "ref": "Jó 1; 42",
+  "ideia": "Jó perde muita coisa mas continua confiando em Deus",
+  "t": "AT"
+ },
+ {
+  "id": "salmo-pastor",
+  "titulo": "O Senhor é meu pastor",
+  "ref": "Salmo 23",
+  "ideia": "Deus cuida de nós como um pastor cuida das ovelhas",
+  "t": "AT"
+ },
+ {
+  "id": "fornalha",
+  "titulo": "Os três amigos na fornalha",
+  "ref": "Daniel 3",
+  "ideia": "Sadraque, Mesaque e Abede-Nego não se curvam e Deus os protege no fogo",
+  "t": "AT"
+ },
+ {
+  "id": "daniel-comida",
+  "titulo": "Daniel e os legumes",
+  "ref": "Daniel 1",
+  "ideia": "Daniel e os amigos comem legumes e ficam fortes",
+  "t": "AT"
+ },
+ {
+  "id": "daniel-leoes",
+  "titulo": "Daniel na cova dos leões",
+  "ref": "Daniel 6",
+  "ideia": "Daniel ora a Deus e um anjo fecha a boca dos leões",
+  "t": "AT"
+ },
+ {
+  "id": "jonas-foge",
+  "titulo": "Jonas foge de Deus",
+  "ref": "Jonas 1",
+  "ideia": "Jonas pega um barco para o lado errado e vem uma tempestade",
+  "t": "AT"
+ },
+ {
+  "id": "jonas-peixe",
+  "titulo": "Jonas dentro do grande peixe",
+  "ref": "Jonas 1-2",
+  "ideia": "Um peixe enorme engole Jonas e ele ora lá dentro",
+  "t": "AT"
+ },
+ {
+  "id": "jonas-ninive",
+  "titulo": "Jonas vai a Nínive",
+  "ref": "Jonas 3",
+  "ideia": "Jonas obedece e a cidade inteira se arrepende",
+  "t": "AT"
+ },
+ {
+  "id": "jonas-planta",
+  "titulo": "Jonas e a plantinha",
+  "ref": "Jonas 4",
+  "ideia": "Deus ensina Jonas a ter compaixão usando uma planta",
+  "t": "AT"
+ },
+ {
+  "id": "anjo-maria",
+  "titulo": "O anjo visita Maria",
+  "ref": "Lucas 1",
+  "ideia": "O anjo Gabriel conta a Maria que ela será a mãe de Jesus",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "zacarias-mudo",
+  "titulo": "Zacarias fica sem voz",
+  "ref": "Lucas 1",
+  "ideia": "Zacarias não acredita no anjo e fica sem falar até João nascer",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "viagem-belem",
+  "titulo": "A viagem para Belém",
+  "ref": "Lucas 2",
+  "ideia": "Maria e José viajam com o jumentinho e não há lugar na hospedaria",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "nascimento-jesus",
+  "titulo": "Jesus nasceu!",
+  "ref": "Lucas 2",
+  "ideia": "Jesus nasce e é colocado numa manjedoura",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "pastores-anjos",
+  "titulo": "Os pastores e os anjos",
+  "ref": "Lucas 2",
+  "ideia": "Anjos cantam no céu e os pastores correm para ver o bebê",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "magos-estrela",
+  "titulo": "Os magos e a estrela",
+  "ref": "Mateus 2",
+  "ideia": "Os magos seguem uma estrela e levam presentes para Jesus",
+  "t": "NT",
+  "tag": "natal"
+ },
+ {
+  "id": "jesus-templo-menino",
+  "titulo": "Jesus menino no templo",
+  "ref": "Lucas 2",
+  "ideia": "Jesus com 12 anos conversa com os mestres no templo",
+  "t": "NT"
+ },
+ {
+  "id": "batismo-jesus",
+  "titulo": "O batismo de Jesus",
+  "ref": "Mateus 3",
+  "ideia": "João batiza Jesus e uma pomba desce do céu",
+  "t": "NT"
+ },
+ {
+  "id": "pescadores",
+  "titulo": "Os pescadores amigos de Jesus",
+  "ref": "Mateus 4",
+  "ideia": "Jesus chama Pedro e André: venham comigo!",
+  "t": "NT"
+ },
+ {
+  "id": "pesca-maravilhosa",
+  "titulo": "A rede cheia de peixes",
+  "ref": "Lucas 5",
+  "ideia": "Os pescadores não pegam nada até Jesus mandar jogar a rede de novo",
+  "t": "NT"
+ },
+ {
+  "id": "casamento-cana",
+  "titulo": "A festa de casamento",
+  "ref": "João 2",
+  "ideia": "Jesus transforma água em vinho na festa",
+  "t": "NT"
+ },
+ {
+  "id": "teto-aberto",
+  "titulo": "Os amigos que abriram o teto",
+  "ref": "Marcos 2",
+  "ideia": "Quatro amigos descem o amigo pelo telhado até Jesus",
+  "t": "NT"
+ },
+ {
+  "id": "tempestade-acalma",
+  "titulo": "Jesus acalma a tempestade",
+  "ref": "Marcos 4",
+  "ideia": "O vento para quando Jesus diz: silêncio, fique quieto!",
+  "t": "NT"
+ },
+ {
+  "id": "jesus-anda-agua",
+  "titulo": "Jesus anda sobre as águas",
+  "ref": "Mateus 14",
+  "ideia": "Pedro caminha na água enquanto olha para Jesus",
+  "t": "NT"
+ },
+ {
+  "id": "paes-peixes",
+  "titulo": "Cinco pães e dois peixinhos",
+  "ref": "João 6",
+  "ideia": "Um menino divide o lanche e Jesus alimenta uma multidão",
+  "t": "NT"
+ },
+ {
+  "id": "jesus-criancas",
+  "titulo": "Jesus ama as criancinhas",
+  "ref": "Marcos 10",
+  "ideia": "Os discípulos querem mandar as crianças embora mas Jesus diz: deixem vir a mim",
+  "t": "NT"
+ },
+ {
+  "id": "zaqueu",
+  "titulo": "Zaqueu sobe na árvore",
+  "ref": "Lucas 19",
+  "ideia": "Zaqueu é baixinho, sobe numa árvore e Jesus vai à casa dele",
+  "t": "NT"
+ },
+ {
+  "id": "bartimeu",
+  "titulo": "Bartimeu volta a enxergar",
+  "ref": "Marcos 10",
+  "ideia": "Bartimeu grita por Jesus e volta a ver",
+  "t": "NT"
+ },
+ {
+  "id": "dez-leprosos",
+  "titulo": "O que voltou para agradecer",
+  "ref": "Lucas 17",
+  "ideia": "Dez homens são curados mas só um volta para dizer obrigado",
+  "t": "NT"
+ },
+ {
+  "id": "filha-jairo",
+  "titulo": "A filha de Jairo",
+  "ref": "Marcos 5",
+  "ideia": "Jesus segura a mão da menina e diz: levante-se!",
+  "t": "NT"
+ },
+ {
+  "id": "lazaro",
+  "titulo": "Lázaro, venha para fora!",
+  "ref": "João 11",
+  "ideia": "Jesus chora com os amigos e traz Lázaro de volta à vida",
+  "t": "NT"
+ },
+ {
+  "id": "marta-maria",
+  "titulo": "Marta e Maria",
+  "ref": "Lucas 10",
+  "ideia": "Marta trabalha correndo e Maria escuta Jesus com atenção",
+  "t": "NT"
+ },
+ {
+  "id": "ovelha-perdida",
+  "titulo": "A ovelha perdida",
+  "ref": "Lucas 15",
+  "ideia": "O pastor deixa as 99 ovelhas para procurar a que se perdeu",
+  "t": "NT"
+ },
+ {
+  "id": "moeda-perdida",
+  "titulo": "A moedinha perdida",
+  "ref": "Lucas 15",
+  "ideia": "A mulher procura a moeda pela casa toda e faz festa quando acha",
+  "t": "NT"
+ },
+ {
+  "id": "filho-prodigo",
+  "titulo": "O filho que voltou para casa",
+  "ref": "Lucas 15",
+  "ideia": "O pai corre para abraçar o filho que voltou",
+  "t": "NT"
+ },
+ {
+  "id": "bom-samaritano",
+  "titulo": "O bom samaritano",
+  "ref": "Lucas 10",
+  "ideia": "Um viajante para e ajuda o homem machucado na estrada",
+  "t": "NT"
+ },
+ {
+  "id": "casa-rocha",
+  "titulo": "A casa na rocha",
+  "ref": "Mateus 7",
+  "ideia": "Uma casa na areia e outra na rocha: qual fica de pé na chuva?",
+  "t": "NT"
+ },
+ {
+  "id": "semente-mostarda",
+  "titulo": "A sementinha de mostarda",
+  "ref": "Mateus 13",
+  "ideia": "A menor semente vira uma árvore enorme",
+  "t": "NT"
+ },
+ {
+  "id": "semeador",
+  "titulo": "O semeador",
+  "ref": "Mateus 13",
+  "ideia": "Sementes caem em lugares diferentes e só a terra boa dá fruto",
+  "t": "NT"
+ },
+ {
+  "id": "lirios-passaros",
+  "titulo": "Os passarinhos e as flores",
+  "ref": "Mateus 6",
+  "ideia": "Deus cuida dos passarinhos e das flores, e cuida de você",
+  "t": "NT"
+ },
+ {
+  "id": "oferta-viuva",
+  "titulo": "As duas moedinhas",
+  "ref": "Marcos 12",
+  "ideia": "Uma viúva dá tudo o que tem e Jesus fica feliz",
+  "t": "NT"
+ },
+ {
+  "id": "oracao-pai-nosso",
+  "titulo": "Jesus ensina a orar",
+  "ref": "Mateus 6",
+  "ideia": "Jesus ensina os amigos a conversar com Deus",
+  "t": "NT"
+ },
+ {
+  "id": "entrada-jerusalem",
+  "titulo": "Hosana! Jesus no jumentinho",
+  "ref": "Mateus 21",
+  "ideia": "O povo balança ramos e grita hosana",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "lava-pes",
+  "titulo": "Jesus lava os pés dos amigos",
+  "ref": "João 13",
+  "ideia": "Jesus mostra que amar é servir",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "ultima-ceia",
+  "titulo": "A ceia com os amigos",
+  "ref": "Lucas 22",
+  "ideia": "Jesus reparte o pão com os discípulos",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "jesus-ressuscitou",
+  "titulo": "Jesus está vivo!",
+  "ref": "Mateus 28",
+  "ideia": "As mulheres encontram o túmulo vazio e o anjo diz: ele ressuscitou!",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "emaus",
+  "titulo": "O caminho de Emaús",
+  "ref": "Lucas 24",
+  "ideia": "Dois amigos caminham com Jesus e só o reconhecem no jantar",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "tome",
+  "titulo": "Tomé quer ver para crer",
+  "ref": "João 20",
+  "ideia": "Tomé vê Jesus e acredita",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "cafe-na-praia",
+  "titulo": "Café da manhã na praia",
+  "ref": "João 21",
+  "ideia": "Jesus prepara peixe assado para os amigos na praia",
+  "t": "NT",
+  "tag": "pascoa"
+ },
+ {
+  "id": "ascensao",
+  "titulo": "Jesus sobe ao céu",
+  "ref": "Atos 1",
+  "ideia": "Jesus sobe nas nuvens e promete voltar",
+  "t": "NT"
+ },
+ {
+  "id": "pentecostes",
+  "titulo": "O vento e as línguas de fogo",
+  "ref": "Atos 2",
+  "ideia": "O Espírito Santo chega com vento forte e todos falam outras línguas",
+  "t": "NT"
+ },
+ {
+  "id": "pedro-joao-paralitico",
+  "titulo": "O homem que pulou de alegria",
+  "ref": "Atos 3",
+  "ideia": "Pedro e João ajudam um homem que não andava",
+  "t": "NT"
+ },
+ {
+  "id": "filipe-etiope",
+  "titulo": "Filipe e o homem da carruagem",
+  "ref": "Atos 8",
+  "ideia": "Filipe explica a Bíblia a um viajante numa carruagem",
+  "t": "NT"
+ },
+ {
+  "id": "paulo-luz",
+  "titulo": "A luz no caminho de Paulo",
+  "ref": "Atos 9",
+  "ideia": "Paulo vê uma luz forte e muda de vida",
+  "t": "NT"
+ },
+ {
+  "id": "paulo-cesto",
+  "titulo": "Paulo desce no cesto",
+  "ref": "Atos 9",
+  "ideia": "Os amigos ajudam Paulo a fugir descendo o muro num cesto",
+  "t": "NT"
+ },
+ {
+  "id": "dorcas",
+  "titulo": "Dorcas, a costureira bondosa",
+  "ref": "Atos 9",
+  "ideia": "Dorcas fazia roupas para quem precisava",
+  "t": "NT"
+ },
+ {
+  "id": "pedro-prisao",
+  "titulo": "O anjo tira Pedro da prisão",
+  "ref": "Atos 12",
+  "ideia": "Os amigos oram e um anjo abre as portas da prisão",
+  "t": "NT"
+ },
+ {
+  "id": "rode-porta",
+  "titulo": "Rode esquece de abrir a porta",
+  "ref": "Atos 12",
+  "ideia": "Rode fica tão feliz que esquece Pedro do lado de fora",
+  "t": "NT"
+ },
+ {
+  "id": "paulo-silas-cantam",
+  "titulo": "Paulo e Silas cantam na prisão",
+  "ref": "Atos 16",
+  "ideia": "Eles cantam de noite e a terra treme",
+  "t": "NT"
+ },
+ {
+  "id": "eutico-janela",
+  "titulo": "Êutico cai da janela",
+  "ref": "Atos 20",
+  "ideia": "Um rapaz dorme no sermão, cai da janela e Paulo o ajuda",
+  "t": "NT"
+ },
+ {
+  "id": "paulo-naufragio",
+  "titulo": "O naufrágio de Paulo",
+  "ref": "Atos 27",
+  "ideia": "O navio quebra na tempestade e todos chegam salvos na ilha",
+  "t": "NT"
+ },
+ {
+  "id": "timoteo",
+  "titulo": "Timóteo aprende com a vovó",
+  "ref": "2 Timóteo 1",
+  "ideia": "A vovó Loide e a mamãe Eunice ensinam a Bíblia a Timóteo",
+  "t": "NT"
+ },
+ {
+  "id": "fruto-espirito",
+  "titulo": "O fruto do Espírito",
+  "ref": "Gálatas 5",
+  "ideia": "Amor, alegria, paz, paciência e bondade",
+  "t": "NT"
+ },
+ {
+  "id": "armadura-deus",
+  "titulo": "A armadura de Deus",
+  "ref": "Efésios 6",
+  "ideia": "Capacete, escudo e espada que protegem o coração",
+  "t": "NT"
+ }
+]

@@ -1,0 +1,178 @@
+{
+  "historia_id": "mar-vermelho",
+  "titulo": "O Mar se Abre! 🌊 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O mar se abre",
+  "referencia": "Êxodo 14",
+  "descricao": "O povo de Deus fica entre o mar e os soldados do Faraó. Então Deus abre o mar e todos passam no chão sequinho! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 14\n💛 Lição: quando parece não ter saída, Deus abre um caminho.",
+  "tags": [
+    "mar vermelho",
+    "moisés abre o mar",
+    "travessia do mar",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus abre caminhos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você acha que um mar pode se abrir?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O povo de Deus saiu do Egito, bem feliz!"
+        },
+        {
+          "quem": "menina",
+          "texto": "Mas olha! Lá vêm os soldados do Faraó!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "tarde",
+      "personagens": [
+        "homem",
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "E agora? Na frente tem um marzão!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "moises",
+          "texto": "Não tenham medo! Deus vai lutar por nós!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés levantou o cajado. Um vento soprou a noite toda. Fuuuu!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o mar se abriu no meio! Duas paredes de água!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "menina",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "menina",
+          "texto": "Uau! O chão está sequinho!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Vamos, todo mundo, passando!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "moises",
+        "menina",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois, as águas voltaram pro lugar. Splash! O povo estava a salvo."
+        },
+        {
+          "quem": "moises",
+          "texto": "Obrigado, Deus! Você nos salvou!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "menina",
+          "texto": "Viva! Viva!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando não tem saída, Deus abre um caminho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "historia_id": "salomao-sabedoria",
+  "titulo": "Salomão Pede Sabedoria ✨ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Salomão e a sabedoria",
+  "referencia": "1 Reis 3",
+  "descricao": "Deus diz ao jovem rei Salomão que ele pode pedir o que quiser, e Salomão pede sabedoria para cuidar bem do povo. Uma historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Reis 3\n💛 Lição: a sabedoria vem de Deus, e Ele dá a quem pede.",
+  "tags": [
+    "salomão",
+    "sabedoria",
+    "rei salomão",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Peça sabedoria a Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "salomao": {
+      "preset": "salomao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Se você pudesse pedir qualquer coisa, o que pediria?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "salomao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Salomão era um rei bem jovem. Uma noite, ele dormiu e sonhou."
+        },
+        {
+          "quem": "deus",
+          "texto": "Salomão, peça o que você quiser, e eu te darei."
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "salomao"
+      ],
+      "falas": [
+        {
+          "quem": "salomao",
+          "texto": "Uau! Qualquer coisa? Hum... deixa eu pensar.",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "salomao",
+          "texto": "Eu sou pequeno para cuidar de tanta gente."
+        },
+        {
+          "quem": "salomao",
+          "texto": "Me dá sabedoria, Senhor, para fazer o que é certo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "salomao"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Você pediu muito bem! Eu te dou sabedoria."
+        },
+        {
+          "quem": "deus",
+          "texto": "E também te dou riquezas e honra."
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "salomao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Salomão acordou pulando de alegria!"
+        },
+        {
+          "quem": "salomao",
+          "texto": "Obrigado, Deus! Agora vou cuidar bem do povo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando não souber o que fazer, peça sabedoria a Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

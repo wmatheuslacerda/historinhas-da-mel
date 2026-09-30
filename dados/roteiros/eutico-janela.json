@@ -1,0 +1,190 @@
+{
+  "historia_id": "eutico-janela",
+  "titulo": "Êutico Cai da Janela 🪟 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Êutico cai da janela",
+  "referencia": "Atos 20",
+  "descricao": "Paulo fala até tarde da noite, e o jovem Êutico cochila na janela. Tum! Mas Paulo desce correndo e Deus cuida dele. Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 20\n💛 Lição: deus cuida de nós até nos momentos de susto.",
+  "tags": [
+    "êutico",
+    "paulo",
+    "cuidado de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de nós até nos momentos de susto",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "eutico": {
+      "tipo": "humano",
+      "nome": "Êutico",
+      "voz": "menino",
+      "idade": "crianca",
+      "genero": "m",
+      "pele": "morena",
+      "cabelo": "preto",
+      "estilo_cabelo": "cacheado",
+      "barba": "nenhuma",
+      "roupa": "#3f9f7f",
+      "roupa2": "#f0e4c8",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você já dormiu no lugar errado? Uaaah! Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "paulo",
+        "eutico",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os amigos se juntaram no terceiro andar para ouvir Paulo."
+        },
+        {
+          "quem": "paulo",
+          "texto": "E Jesus ama vocês! E tem mais...",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Paulo falou até a meia-noite!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "eutico"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Êutico estava sentado na janela."
+        },
+        {
+          "quem": "eutico",
+          "texto": "Uaaah... Que soninho...",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele cochilou... e caiu lá embaixo! Tum!",
+          "emocao": "surpreso",
+          "acao": "cair",
+          "alvo": "eutico"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "personagens": [
+        "mulher",
+        "homem",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "mulher",
+          "texto": "Socorro! O Êutico caiu!",
+          "emocao": "assustado"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Paulo desceu correndo e abraçou o rapaz."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Calma! A vida dele está nele!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "eutico",
+        "mulher",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "eutico",
+          "texto": "Estou bem! Deus cuidou de mim!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Que alívio! Obrigada, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Depois todos comeram juntos e voltaram pra casa bem felizes!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de você até nos sustos!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "historia_id": "jose-tunica",
+  "titulo": "A Túnica Colorida de José 🌈 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A túnica colorida de José",
+  "referencia": "Gênesis 37",
+  "descricao": "José ganha do pai Jacó uma túnica colorida muito especial, e seus irmãos ficam com ciúmes. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 37\n💛 Lição: o ciúme deixa o coração triste; o amor deixa feliz.",
+  "tags": [
+    "josé do egito",
+    "túnica colorida",
+    "ciúmes",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "trocar o ciúme pelo amor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jose_menino": {
+      "preset": "jose_menino"
+    },
+    "jaco": {
+      "preset": "jaco"
+    },
+    "irmao": {
+      "preset": "homem"
+    },
+    "irmao2": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você gosta de roupa colorida? José ganhou uma lindona!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "jaco",
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jacó tinha doze filhos. José era um dos mais novos."
+        },
+        {
+          "quem": "jaco",
+          "texto": "José, fiz um presente para você!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jaco",
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Era uma túnica colorida! Vermelho, azul, amarelo!"
+        },
+        {
+          "quem": "jose_menino",
+          "texto": "Uau! Que linda! Obrigado, papai!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "irmao",
+        "irmao2",
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "jose_menino",
+          "texto": "Olhem, irmãos! Minha túnica nova!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "irmao",
+          "texto": "Hunf! Por que só ele ganhou?",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "irmao2",
+          "texto": "O papai gosta mais do José!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "irmao",
+        "irmao2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os irmãos ficaram com ciúme. Bem emburrados!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E pararam de falar com carinho com José."
+        },
+        {
+          "quem": "irmao",
+          "texto": "Hunf! Não quero brincar com ele!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mas Deus tinha um plano lindo para José!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "O ciúme deixa o coração triste. O amor deixa feliz!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

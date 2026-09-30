@@ -1,0 +1,168 @@
+{
+  "historia_id": "davi-mefibosete",
+  "titulo": "Davi e Mefibosete 🍞 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Davi e Mefibosete",
+  "referencia": "2 Samuel 9",
+  "descricao": "O rei Davi lembra do seu melhor amigo Jônatas e cuida com carinho do filho dele, Mefibosete, que não andava. Uma historinha sobre bondade e amizade, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Samuel 9\n💛 Lição: Deus quer que a gente seja bondoso com todo mundo.",
+  "tags": [
+    "davi e mefibosete",
+    "rei davi",
+    "bondade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Seja bondoso como Davi",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "davi_rei": {
+      "preset": "davi_rei"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Ziba"
+    },
+    "mefibosete": {
+      "tipo": "humano",
+      "nome": "Mefibosete",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "cacheado",
+      "barba": "curta",
+      "roupa": "#6a8caf",
+      "roupa2": "#e8d9b0",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você sabe o que um rei fez pelo filho do amigo?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "davi_rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei Davi sentia saudade do amigo Jônatas."
+        },
+        {
+          "quem": "davi_rei",
+          "texto": "Será que alguém da família do Jônatas precisa de ajuda?",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "davi_rei",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "Tem sim, rei! O filho dele, Mefibosete. Ele não consegue andar.",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "davi_rei",
+          "texto": "Tragam ele aqui, por favor!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "davi_rei",
+        "mefibosete"
+      ],
+      "falas": [
+        {
+          "quem": "mefibosete",
+          "texto": "Oi, rei... O senhor me chamou?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "davi_rei",
+          "texto": "Não tenha medo! Quero ser bondoso com você.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "davi_rei",
+          "texto": "Você vai comer na minha mesa, todos os dias!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "davi_rei",
+        "mefibosete"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E assim foi! Mefibosete comia com o rei, como um filho."
+        },
+        {
+          "quem": "mefibosete",
+          "texto": "Oba! Obrigado, rei Davi!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus quer que a gente seja bondoso com todo mundo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

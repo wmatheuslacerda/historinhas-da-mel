@@ -1,0 +1,172 @@
+{
+  "historia_id": "ana-oracao",
+  "titulo": "A Oração de Ana 🙏 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A oração de Ana",
+  "referencia": "1 Samuel 1",
+  "descricao": "Ana queria muito um filhinho e contou tudo para Deus em oração. Deus respondeu com o bebê Samuel! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 1\n💛 Lição: você pode contar tudo para Deus, porque Ele sempre escuta.",
+  "tags": [
+    "ana e samuel",
+    "oração de ana",
+    "deus ouve a oração",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus escuta nossas orações",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "ana": {
+      "preset": "ana"
+    },
+    "eli": {
+      "preset": "eli"
+    },
+    "bebe": {
+      "tipo": "humano",
+      "idade": "bebe",
+      "nome": "Samuel bebê",
+      "voz": "menino",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "roupa": "#bfe3f5"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você sabia que Deus escuta as nossas orações?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "ana"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ana queria muito ter um bebê. Ela ficava tristinha."
+        },
+        {
+          "quem": "ana",
+          "texto": "Eu queria tanto um filhinho...",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "personagens": [
+        "ana",
+        "eli"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ana foi ao templo e orou bem baixinho."
+        },
+        {
+          "quem": "ana",
+          "texto": "Deus, me dá um filhinho? Ele vai ser teu!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "eli",
+          "texto": "O que houve, moça?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ana",
+        "eli"
+      ],
+      "falas": [
+        {
+          "quem": "ana",
+          "texto": "Estou contando pra Deus o que sinto."
+        },
+        {
+          "quem": "eli",
+          "texto": "Vá em paz. Que Deus te dê o que pediu!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ana voltou pra casa sorrindo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "ana",
+        "bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E Deus respondeu! Nasceu um bebê lindo!"
+        },
+        {
+          "quem": "ana",
+          "texto": "Vou chamar você de Samuel! Deus me ouviu!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "bebe",
+          "texto": "Gugu, dadá!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você pode contar tudo pra Deus. Ele sempre escuta!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

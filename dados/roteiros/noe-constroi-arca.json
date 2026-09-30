@@ -1,0 +1,192 @@
+{
+  "historia_id": "noe-constroi-arca",
+  "titulo": "Noé Constrói a Arca 🔨 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Noé constrói a arca",
+  "referencia": "Gênesis 6",
+  "descricao": "Noé obedece a Deus e constrói um barco gigante, mesmo com gente dando risada dele. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 6\n💛 Lição: obedecer a Deus é sempre o melhor caminho, mesmo quando os outros riem.",
+  "tags": [
+    "noé",
+    "arca de noé",
+    "obediência",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "obedecer a Deus sempre",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "noe": {
+      "preset": "noe"
+    },
+    "esposa_noe": {
+      "preset": "esposa_noe"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Já pensou em construir um barco gigante? Vem ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Noé amava a Deus de todo o coração."
+        },
+        {
+          "quem": "noe",
+          "texto": "Bom dia, Deus! Te amo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Noé, construa uma arca bem grande!"
+        },
+        {
+          "quem": "noe",
+          "texto": "Um barco? Aqui no seco?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "noe",
+          "texto": "Tá bom, Deus. Eu vou obedecer!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Noé pegou madeira e martelo. Toc, toc, toc!"
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Que barco grandão, Noé!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "noe",
+          "texto": "Deus mandou, e eu obedeço!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "noe",
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "Rá, rá! Um barco sem mar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Esse Noé é engraçado!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "noe",
+          "texto": "Deus sabe o que faz!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Noé não ficou bravo. Continuou trabalhando, feliz."
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Toc, toc... e a arca ficou prontinha!"
+        },
+        {
+          "quem": "noe",
+          "texto": "Viva! Terminamos!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Obedecer a Deus é sempre o melhor caminho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

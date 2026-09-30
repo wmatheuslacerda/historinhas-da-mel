@@ -1,0 +1,167 @@
+{
+  "historia_id": "moises-sarca",
+  "titulo": "A Sarça que Não Queimava 🔥 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A sarça que não queimava",
+  "referencia": "Êxodo 3",
+  "descricao": "Moisés cuidava das ovelhas quando viu um arbusto com fogo que não se apagava. Ali Deus falou com ele e o chamou para uma missão! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 3\n💛 Lição: quando Deus chama, Ele vai junto com a gente.",
+  "tags": [
+    "moisés",
+    "sarça ardente",
+    "deus chama moisés",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus vai junto com quem Ele chama",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Já viu um fogo que não queima nada?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "moises",
+        "ovelha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés cuidava das ovelhas lá perto do monte."
+        },
+        {
+          "quem": "ovelha",
+          "texto": "Méééé! Que fome!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "moises",
+          "texto": "Vamos, ovelhinhas, tem capim fresquinho ali!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, ele viu um arbusto pegando fogo!"
+        },
+        {
+          "quem": "moises",
+          "texto": "Que estranho! O fogo não queima as folhinhas!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Moisés chegou pertinho para ver melhor."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Moisés! Moisés!"
+        },
+        {
+          "quem": "moises",
+          "texto": "Estou aqui!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "deus",
+          "texto": "Tire as sandálias. Este lugar é santo."
+        },
+        {
+          "quem": "moises",
+          "texto": "Tá bom! Tirei as sandálias!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Eu vi meu povo sofrendo. Você vai ajudar a libertá-lo."
+        },
+        {
+          "quem": "moises",
+          "texto": "Mas quem sou eu para isso?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "deus",
+          "texto": "Eu estarei com você, sempre!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando Deus chama, Ele vai junto com a gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

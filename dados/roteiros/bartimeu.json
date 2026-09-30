@@ -1,0 +1,170 @@
+{
+  "historia_id": "bartimeu",
+  "titulo": "Bartimeu Volta a Enxergar 👀 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Bartimeu",
+  "referencia": "Marcos 10",
+  "descricao": "Bartimeu não enxergava, mas gritou bem alto chamando Jesus. E Jesus o curou! Historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Marcos 10\n💛 Lição: Jesus sempre escuta você quando você chama por ele.",
+  "tags": [
+    "bartimeu",
+    "cego bartimeu",
+    "milagres de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus escuta quem chama por ele",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "bartimeu": {
+      "preset": "bartimeu"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem um grito bem forte na história!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "bartimeu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Bartimeu ficava sentadinho na beira da estrada. Ele não enxergava."
+        },
+        {
+          "quem": "bartimeu",
+          "texto": "Estou ouvindo muita gente passando... Quem é?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "bartimeu",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "É Jesus que está passando!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "bartimeu",
+          "texto": "Jesus! Jesus, tenha pena de mim!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Shhh! Fica quietinho!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "bartimeu",
+          "texto": "JESUS! Me ajude!",
+          "emocao": "neutro",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "bartimeu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus parou e chamou Bartimeu. Ele pulou e foi correndo!"
+        },
+        {
+          "quem": "jesus",
+          "texto": "O que você quer que eu faça?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "bartimeu",
+          "texto": "Mestre, eu quero enxergar!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Pode ir. A sua fé curou você!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "bartimeu",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Plim! Na mesma hora, Bartimeu começou a ver!"
+        },
+        {
+          "quem": "bartimeu",
+          "texto": "Eu vejo o céu! Eu vejo Jesus! Obrigado!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Pode chamar Jesus. Ele sempre escuta você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

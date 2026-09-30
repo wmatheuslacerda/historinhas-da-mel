@@ -1,0 +1,164 @@
+{
+  "historia_id": "oracao-pai-nosso",
+  "titulo": "Jesus Ensina a Orar 🙏 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O Pai Nosso",
+  "referencia": "Mateus 6",
+  "descricao": "Os amigos de Jesus queriam aprender a conversar com Deus, e Jesus ensinou o Pai Nosso! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 6\n💛 Lição: Você pode conversar com Deus a qualquer hora.",
+  "tags": [
+    "pai nosso",
+    "oração",
+    "jesus ensina a orar",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Podemos conversar com Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você sabe conversar com Deus?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus gostava de subir o monte para orar."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Pai, obrigado por este dia!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "pedro",
+        "joao",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "joao",
+          "texto": "Mestre, ensina a gente a orar?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "pedro",
+          "texto": "É! Como se conversa com Deus?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Não precisa falar difícil. Deus é o nosso Pai!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Orem assim: Pai nosso, que estás nos céus, santificado seja o teu nome.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Venha o teu Reino. O pão de cada dia nos dá hoje.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Perdoa as nossas dívidas, assim como perdoamos.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Que bonito! Vou orar todos os dias!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "joao",
+          "texto": "Eu também!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus é seu Pai. Converse com ele a qualquer hora!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

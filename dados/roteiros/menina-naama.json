@@ -1,0 +1,166 @@
+{
+  "historia_id": "menina-naama",
+  "titulo": "A Menina que Ajudou Naamã 👧 | Historinha Bíblica #shorts",
+  "titulo_curto": "A menina e Naamã",
+  "referencia": "2 Reis 5",
+  "descricao": "Uma menina que trabalhava na casa de Naamã conta que o profeta de Deus pode ajudá-lo, e Naamã é curado. Uma historinha mostrando que criança também pode falar de Deus, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Reis 5\n💛 Lição: até uma criança pequena pode ajudar alguém a conhecer Deus.",
+  "tags": [
+    "menina escrava",
+    "naamã",
+    "criança corajosa",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Criança também fala de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "mulher": {
+      "preset": "rainha",
+      "nome": "Esposa de Naamã"
+    },
+    "naama": {
+      "preset": "naama"
+    },
+    "eliseu": {
+      "preset": "eliseu"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Criança pequena pode fazer coisas grandes? Pode sim!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "menina",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Uma menina ajudava na casa de Naamã, longe da família dela."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Naamã tinha uma doença na pele, e estava triste."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Ai, o meu marido não melhora...",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "menina",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "menina",
+          "texto": "Lá na minha terra tem um profeta de Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Ele pode ajudar o senhor Naamã!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Sério? Vou contar para ele!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "naama",
+        "eliseu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Naamã viajou até o profeta Eliseu."
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Mergulhe sete vezes no rio Jordão."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele obedeceu e ficou curadinho! Tchibum!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "naama",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "naama",
+          "texto": "Obrigado, menina! Você falou do Deus verdadeiro!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Viva! Deus é bom!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você também pode contar para os outros que Deus ama eles!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

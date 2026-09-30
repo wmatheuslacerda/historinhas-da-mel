@@ -1,0 +1,176 @@
+{
+  "historia_id": "ascensao",
+  "titulo": "Jesus Sobe ao Céu ☁️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus sobe ao céu",
+  "referencia": "Atos 1",
+  "descricao": "Jesus se despede dos amigos, sobe até as nuvens e dois anjos contam que um dia ele vai voltar. Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 1\n💛 Lição: jesus prometeu voltar, e ele sempre cumpre o que promete.",
+  "tags": [
+    "jesus sobe ao céu",
+    "ascensão",
+    "promessa de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus prometeu voltar, e ele sempre cumpre o que promete",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "anjo2": {
+      "preset": "anjo",
+      "nome": "Anjo",
+      "roupa": "#f4f1ff"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Olha pro céu, amiguinho! Tem uma surpresa lá em cima!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus estava no monte com seus amigos."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Esperem na cidade. O Espírito Santo vai chegar pra ajudar vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Contem de mim pro mundo inteiro!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então Jesus começou a subir, subir, subir..."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Uau! Ele está subindo pro céu!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Até que uma nuvem fofinha cobriu Jesus."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "anjo",
+        "anjo2",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os amigos ficaram olhando pra cima, de boca aberta."
+        },
+        {
+          "quem": "anjo",
+          "texto": "Por que estão olhando pro céu?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "anjo2",
+          "texto": "Jesus vai voltar do mesmo jeitinho que subiu!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "joao",
+          "texto": "Jesus vai voltar! Que notícia boa!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Vamos orar juntos enquanto esperamos!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus prometeu voltar, e ele sempre cumpre!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

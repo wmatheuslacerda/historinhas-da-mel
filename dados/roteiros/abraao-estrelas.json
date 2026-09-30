@@ -1,0 +1,165 @@
+{
+  "historia_id": "abraao-estrelas",
+  "titulo": "Abraão e as Estrelas ⭐ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Abraão e as estrelas",
+  "referencia": "Gênesis 15",
+  "descricao": "Deus leva Abraão para olhar o céu estrelado e promete a ele uma família enorme, do tamanho das estrelas! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 15\n💛 Lição: Deus sempre cumpre o que promete.",
+  "tags": [
+    "abraão",
+    "estrelas",
+    "promessa de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "confiar nas promessas de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "abraao": {
+      "preset": "abraao"
+    },
+    "sara": {
+      "preset": "sara"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quantas estrelinhas tem no céu? Vamos contar juntos!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "abraao",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Abraão e Sara eram velhinhos e não tinham filhos."
+        },
+        {
+          "quem": "sara",
+          "texto": "Queria tanto um bebê...",
+          "emocao": "triste"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Deus vai cuidar de nós, Sara.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "abraao"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Abraão, não tenha medo. Eu estou com você."
+        },
+        {
+          "quem": "deus",
+          "texto": "Venha aqui fora. Olhe para o céu!"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Estou indo, Deus! Já estou indo!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "abraao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O céu estava cheinho de estrelas brilhantes!"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Uma, duas, três... são muitas!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "deus",
+          "texto": "Sua família será assim: enorme como as estrelas!"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "abraao",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Abraão acreditou em Deus. E Deus gostou disso!"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Sara! Deus prometeu uma família enorme!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "sara",
+          "texto": "Que maravilha!",
+          "emocao": "surpreso",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus sempre cumpre o que promete. Pode confiar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

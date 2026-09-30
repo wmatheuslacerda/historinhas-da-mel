@@ -1,0 +1,172 @@
+{
+  "historia_id": "paulo-naufragio",
+  "titulo": "O Naufrágio de Paulo 🌊 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O naufrágio de Paulo",
+  "referencia": "Atos 27",
+  "descricao": "Uma tempestade enorme sacode o navio de Paulo, mas um anjo promete que todos ficarão bem. E todos chegam salvos a uma ilha! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 27\n💛 Lição: deus cuida da gente até no meio da tempestade.",
+  "tags": [
+    "paulo",
+    "naufrágio",
+    "tempestade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida da gente até no meio da tempestade",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Marinheiro",
+      "roupa": "#2f5d8a"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Segura firme, amiguinho! Hoje tem uma tempestade no mar!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "dia",
+      "personagens": [
+        "paulo",
+        "soldado",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paulo estava num navio grande, com muita gente."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Cuidado! Essa viagem vai ser perigosa!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "oceano",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "homem",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Veio uma tempestade enorme. Vuuush! Splash!"
+        },
+        {
+          "quem": "homem",
+          "texto": "O navio está balançando muito!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Muitos dias sem ver o sol nem as estrelas."
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "anjo",
+          "texto": "Não tenha medo, Paulo! Todos vão ficar bem.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Amigos, coragem! Eu confio em Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Agora comam um pouquinho de pão.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "paulo",
+        "homem",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O navio bateu na areia e quebrou. Crec!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Uns nadaram, outros foram em tábuas até a praia."
+        },
+        {
+          "quem": "homem",
+          "texto": "Chegamos todos! Ninguém se perdeu!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de você até no meio da tempestade!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

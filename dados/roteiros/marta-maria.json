@@ -1,0 +1,166 @@
+{
+  "historia_id": "marta-maria",
+  "titulo": "Marta e Maria 🏡 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Marta e Maria",
+  "referencia": "Lucas 10",
+  "descricao": "Marta corria de um lado para o outro, e Maria ficou sentadinha escutando Jesus. Uma historinha sobre dar atenção a Jesus, contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 10\n💛 Lição: Tire um tempinho todo dia para escutar Jesus.",
+  "tags": [
+    "marta e maria",
+    "ouvir jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Escutar Jesus é o mais importante",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "marta": {
+      "preset": "marta"
+    },
+    "maria": {
+      "preset": "maria_betania"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem visita especial na casa de duas irmãs!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "marta",
+        "maria",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus foi visitar Marta e Maria."
+        },
+        {
+          "quem": "marta",
+          "texto": "Bem-vindo, Jesus! Vou fazer um almoço gostoso!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "maria",
+          "texto": "E eu quero escutar tudo o que você fala!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "marta"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Marta correu para a cozinha. Panela aqui, prato ali, tlim, tlom!"
+        },
+        {
+          "quem": "marta",
+          "texto": "Ufa! Tanta coisa para fazer! Sozinha!",
+          "emocao": "bravo",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "marta",
+        "maria",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Maria estava sentadinha aos pés de Jesus, bem atenta."
+        },
+        {
+          "quem": "marta",
+          "texto": "Jesus, manda a Maria me ajudar!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Marta, Marta, você está preocupada com muitas coisas.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Maria escolheu a melhor parte: ficar comigo.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "marta",
+        "maria",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "marta",
+          "texto": "Então eu também vou sentar e escutar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "maria",
+          "texto": "Oba! Senta aqui, maninha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Tire um tempinho todo dia para escutar Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

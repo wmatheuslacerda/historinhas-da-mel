@@ -1,0 +1,173 @@
+{
+  "historia_id": "primeira-desobediencia",
+  "titulo": "A Fruta Proibida 🍎 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A fruta proibida",
+  "referencia": "Gênesis 3",
+  "descricao": "Adão e Eva desobedecem a Deus e ficam tristes, mas Deus continua cuidando deles com amor. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 3\n💛 Lição: mesmo quando erramos, Deus continua nos amando e cuidando de nós.",
+  "tags": [
+    "adão e eva",
+    "fruta proibida",
+    "obediência",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus nos ama mesmo quando erramos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "adao": {
+      "preset": "adao"
+    },
+    "eva": {
+      "preset": "eva"
+    },
+    "cobra": {
+      "preset": "cobra"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você já fez algo que não podia? Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "personagens": [
+        "adao",
+        "eva"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus disse: podem comer de todas as árvores."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Só de uma árvore, não. Essa não pode!"
+        },
+        {
+          "quem": "adao",
+          "texto": "Tá bom, Deus! Vamos obedecer!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "personagens": [
+        "eva",
+        "cobra"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas uma serpente espertinha chegou de mansinho."
+        },
+        {
+          "quem": "cobra",
+          "texto": "Sssss... Pode comer, sim! É gostosa!"
+        },
+        {
+          "quem": "eva",
+          "texto": "Hum... será?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "nublado",
+      "personagens": [
+        "adao",
+        "eva"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eva comeu a fruta e deu para Adão. Nhac!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Depois, eles ficaram tristes e se esconderam."
+        },
+        {
+          "quem": "adao",
+          "texto": "Ai, a gente desobedeceu...",
+          "emocao": "triste"
+        },
+        {
+          "quem": "eva",
+          "texto": "Que tristeza...",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "adao",
+        "eva"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Adão, onde você está?"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Deus ficou triste, mas não parou de amar."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele fez roupinhas quentinhas para os dois."
+        },
+        {
+          "quem": "eva",
+          "texto": "Obrigada, Deus!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo quando a gente erra, Deus continua nos amando!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

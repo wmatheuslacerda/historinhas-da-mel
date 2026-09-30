@@ -1,0 +1,164 @@
+{
+  "historia_id": "anjo-maria",
+  "titulo": "O Anjo Visita Maria 👼 | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "O anjo e Maria",
+  "referencia": "Lucas 1",
+  "descricao": "O anjo Gabriel visita Maria em Nazaré com uma notícia incrível: ela será a mãe de Jesus! Uma historinha de Natal contada pela ovelhinha Mel para os pequenos.\n\n📖 Referência: Lucas 1\n💛 Lição: para Deus nada é impossível.",
+  "tags": [
+    "anjo gabriel",
+    "maria mãe de jesus",
+    "natal",
+    "história de natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Para Deus nada é impossível",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "anjo": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Um anjo trouxe uma notícia muito especial!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Maria era uma moça que amava a Deus."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Um dia, apareceu um anjo chamado Gabriel. Plim!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "maria",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "anjo",
+          "texto": "Alegre-se, Maria! Deus está com você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "maria",
+          "texto": "Oh! Um anjo aqui na minha casa?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Não tenha medo! Você vai ter um bebê.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "anjo",
+          "texto": "O nome dele será Jesus, o Filho de Deus!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "maria",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "maria",
+          "texto": "Mas como isso vai acontecer?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Para Deus nada é impossível!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "maria",
+          "texto": "Eu sou serva do Senhor. Que aconteça assim!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O anjo foi embora. E Maria ficou com o coração alegre."
+        },
+        {
+          "quem": "maria",
+          "texto": "Obrigada, Deus! Que presente maravilhoso!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Para Deus nada é impossível!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

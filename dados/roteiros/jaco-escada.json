@@ -1,0 +1,177 @@
+{
+  "historia_id": "jaco-escada",
+  "titulo": "A Escada de Jacó 🪜 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A escada de Jacó",
+  "referencia": "Gênesis 28",
+  "descricao": "Jacó dorme numa pedra no meio da viagem e sonha com uma escada até o céu, com anjos subindo e descendo. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 28\n💛 Lição: Deus está com a gente em todo lugar, até quando dormimos.",
+  "tags": [
+    "jacó",
+    "escada de jacó",
+    "sonho de jacó",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus está sempre com a gente",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jaco": {
+      "preset": "jaco"
+    },
+    "anjo": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Uma escada que vai até o céu? Uau! Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jacó estava viajando para bem longe de casa."
+        },
+        {
+          "quem": "jaco",
+          "texto": "Ufa, que cansaço! Já está escurecendo.",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ele pegou uma pedra e usou de travesseiro."
+        },
+        {
+          "quem": "jaco",
+          "texto": "Boa noite, estrelinhas!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E dormiu... ronc, ronc!"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jacó sonhou com uma escada até o céu!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Anjos subiam e desciam, bem devagarinho."
+        },
+        {
+          "quem": "anjo",
+          "texto": "Lá, lá, lá!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Jacó, eu estou com você."
+        },
+        {
+          "quem": "deus",
+          "texto": "Vou cuidar de você em todo lugar."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De manhã, Jacó acordou todo feliz."
+        },
+        {
+          "quem": "jaco",
+          "texto": "Deus está aqui! E eu nem sabia!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "jaco",
+          "texto": "Obrigado, Deus, por cuidar de mim!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus está com você em todo lugar, até dormindo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

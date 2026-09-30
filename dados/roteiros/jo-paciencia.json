@@ -1,0 +1,176 @@
+{
+  "historia_id": "jo-paciencia",
+  "titulo": "Jó Confia em Deus 🙏 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jó confia em Deus",
+  "referencia": "Jó 1; 42",
+  "descricao": "Jó amava a Deus e, mesmo quando perdeu muitas coisas, continuou confiando nele. No final, Deus o abençoou em dobro. Uma historinha sobre confiança e paciência, contada pela ovelhinha Mel.\n\n📖 Referência: Jó 1; 42\n💛 Lição: mesmo nos dias difíceis, podemos confiar em Deus.",
+  "tags": [
+    "jó",
+    "paciência de jó",
+    "confiar em deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Confiar em Deus sempre",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jo": {
+      "preset": "idoso",
+      "nome": "Jó",
+      "barba": "longa",
+      "roupa": "#b08968"
+    },
+    "idosa": {
+      "preset": "idosa",
+      "nome": "Esposa de Jó"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    },
+    "camelo": {
+      "preset": "camelo"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "menina": {
+      "preset": "menina"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "nublado",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você confia em Deus mesmo quando o dia é difícil?",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jo",
+        "ovelha",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jó amava muito a Deus. Ele tinha muitas ovelhas e camelos."
+        },
+        {
+          "quem": "ovelha",
+          "texto": "Béééé!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "jo",
+          "texto": "Obrigado, Deus, por tudo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "nublado",
+      "personagens": [
+        "jo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas um dia, Jó perdeu quase tudo que tinha."
+        },
+        {
+          "quem": "jo",
+          "texto": "Deus me deu, e Deus sabe o que faz.",
+          "emocao": "triste"
+        },
+        {
+          "quem": "jo",
+          "texto": "Eu continuo amando o Senhor.",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "jo",
+        "idosa"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Foi um tempo bem difícil. Mas Jó esperou com paciência."
+        },
+        {
+          "quem": "jo",
+          "texto": "Eu sei que Deus está vivo e cuida de mim!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "jo",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No final, Deus abençoou Jó em dobro!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mais animais, uma família grande e muita alegria!"
+        },
+        {
+          "quem": "menina",
+          "texto": "Viva o papai Jó!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo nos dias difíceis, podemos confiar em Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

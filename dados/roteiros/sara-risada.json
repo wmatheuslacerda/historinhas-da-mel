@@ -1,0 +1,182 @@
+{
+  "historia_id": "sara-risada",
+  "titulo": "Sara Dá Risada 😄 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Sara dá risada",
+  "referencia": "Gênesis 18; 21",
+  "descricao": "Sara acha graça quando ouve que vai ter um bebê já velhinha, mas Deus cumpre a promessa e nasce Isaque, que quer dizer riso! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 18; 21\n💛 Lição: para Deus nada é impossível.",
+  "tags": [
+    "sara",
+    "isaque",
+    "abraão",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "para Deus nada é impossível",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "abraao": {
+      "preset": "abraao"
+    },
+    "sara": {
+      "preset": "sara"
+    },
+    "isaque": {
+      "preset": "isaque"
+    },
+    "visitante": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Por que a vovó Sara deu risada? Vem descobrir!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "abraao",
+        "visitante"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, três visitantes chegaram na tenda de Abraão."
+        },
+        {
+          "quem": "abraao",
+          "texto": "Sejam bem-vindos! Fiquem para comer!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Abraão serviu pão quentinho e comida gostosa."
+        },
+        {
+          "quem": "visitante",
+          "texto": "Obrigado, Abraão! Que delícia!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "visitante",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "visitante",
+          "texto": "No ano que vem, Sara terá um bebê!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Sara estava escondidinha, ouvindo tudo."
+        },
+        {
+          "quem": "sara",
+          "texto": "Hi, hi, hi! Eu? Tão velhinha?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "abraao",
+        "sara"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Por que Sara riu? Existe algo difícil para Deus?"
+        },
+        {
+          "quem": "sara",
+          "texto": "Opa... Deus ouviu!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "abraao",
+          "texto": "Deus pode tudo, Sara!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "abraao",
+        "sara",
+        "isaque"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E Deus cumpriu! Nasceu o bebê Isaque!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Isaque quer dizer riso!"
+        },
+        {
+          "quem": "sara",
+          "texto": "Deus me fez sorrir de alegria!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "isaque",
+          "texto": "Hi, hi, hi!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Para Deus, nada é impossível!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "historia_id": "elias-viuva",
+  "titulo": "A Farinha que Não Acabava 🫓 | Historinha Bíblica #shorts",
+  "titulo_curto": "A farinha que não acabava",
+  "referencia": "1 Reis 17",
+  "descricao": "Uma viúva divide com o profeta Elias o pouquinho que tinha, e Deus faz a farinha e o azeite não acabarem. Uma historinha sobre partilha e confiança, contada pela ovelhinha Mel.\n\n📖 Referência: 1 Reis 17\n💛 Lição: quando a gente divide, Deus cuida de nós.",
+  "tags": [
+    "elias e a viúva",
+    "viúva de sarepta",
+    "farinha e azeite",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Dividir com alegria",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "elias": {
+      "preset": "elias"
+    },
+    "mulher": {
+      "preset": "mulher",
+      "nome": "Viúva"
+    },
+    "menino": {
+      "preset": "menino"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você sabe dividir? Olha que surpresa gostosa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "elias",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "elias",
+          "texto": "Moça, pode me dar água e um pãozinho?",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Eu só tenho um pouquinho de farinha e azeite.",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "elias",
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "elias",
+          "texto": "Não tenha medo! Faça primeiro um pãozinho para mim."
+        },
+        {
+          "quem": "elias",
+          "texto": "Deus disse: a farinha e o azeite não vão acabar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Tá bom! Vou confiar em Deus.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ela fez o pão. E olha só... ainda tinha farinha!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Mamãe, o pote está cheio de novo!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "mulher",
+          "texto": "E o azeite também! Que milagre de Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "elias",
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Todo dia tinha comida para todos. Nhac, nhac!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Obrigado, Deus!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando a gente divide, Deus cuida da gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

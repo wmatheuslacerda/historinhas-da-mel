@@ -1,0 +1,175 @@
+{
+  "historia_id": "lazaro",
+  "titulo": "Lázaro, Venha Para Fora! 🌅 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Lázaro",
+  "referencia": "João 11",
+  "descricao": "Jesus chorou com as amigas Marta e Maria e depois chamou: Lázaro, venha para fora! Historinha bíblica contada com delicadeza pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: João 11\n💛 Lição: Jesus se importa com a nossa tristeza e é mais forte que tudo.",
+  "tags": [
+    "lázaro",
+    "ressurreição de lázaro",
+    "milagres de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus é mais forte que tudo",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "marta": {
+      "preset": "marta"
+    },
+    "maria": {
+      "preset": "maria_betania"
+    },
+    "lazaro": {
+      "preset": "lazaro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Jesus faz um milagre enorme!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "marta",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Lázaro era amigo de Jesus. Ele ficou doente e não acordou mais."
+        },
+        {
+          "quem": "marta",
+          "texto": "Jesus, se você estivesse aqui, meu irmão estaria vivo!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "maria",
+          "texto": "Estamos com muita saudade dele...",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "nublado",
+      "personagens": [
+        "jesus",
+        "marta",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus viu as amigas tristes e chorou junto com elas."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Eu sou a ressurreição e a vida. Tirem a pedra!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "marta",
+          "texto": "A pedra? Tá bom, Mestre!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "lazaro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus orou ao Pai e chamou bem alto."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Lázaro, venha para fora!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Lázaro saiu, todo enroladinho em faixas!"
+        },
+        {
+          "quem": "lazaro",
+          "texto": "Oi, Jesus! Oi, pessoal!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "lazaro",
+        "marta",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "marta",
+          "texto": "Lázaro! Que alegria!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "maria",
+          "texto": "Obrigada, Jesus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus cuida da nossa tristeza e é mais forte que tudo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

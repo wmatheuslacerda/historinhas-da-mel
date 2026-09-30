@@ -1,0 +1,43 @@
+{
+  "historia_id": "davi-golias",
+  "titulo": "Davi e o Gigante Golias 🪨 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Davi e Golias",
+  "referencia": "1 Samuel 17",
+  "descricao": "O pequeno pastor Davi enfrenta o gigante Golias com uma funda, uma pedrinha e muita confiança em Deus! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 17\n💛 Lição: quando sentir medo, lembre que Deus é maior que qualquer gigante.",
+  "tags": ["davi e golias", "historinha bíblica", "bíblia para crianças", "história infantil", "desenho bíblico", "ovelhinha mel"],
+  "licao": "Deus é maior que qualquer gigante",
+  "elenco": {
+    "mel": {"preset": "mel"},
+    "davi": {"preset": "davi"},
+    "golias": {"preset": "golias"},
+    "soldado": {"preset": "soldado"},
+    "ovelhinha": {"preset": "ovelhinha"}
+  },
+  "cenas": [
+    {"cenario": "abertura", "periodo": "dia", "efeito": "brilhos", "personagens": ["mel"],
+     "falas": [{"quem": "mel", "texto": "Oi, amiguinho! Hoje a história é de um menino muito corajoso!", "emocao": "feliz", "acao": "pular"}]},
+    {"cenario": "campo", "periodo": "dia", "personagens": ["davi", "ovelhinha"],
+     "falas": [
+       {"quem": "narrador", "texto": "Davi era um menino pastor. Ele cuidava das ovelhinhas com muito carinho."},
+       {"quem": "davi", "texto": "Eu converso com Deus todos os dias!", "emocao": "feliz"}]},
+    {"cenario": "deserto", "periodo": "dia", "personagens": ["soldado", "golias"],
+     "falas": [
+       {"quem": "narrador", "texto": "Um dia, apareceu um gigante enorme chamado Golias."},
+       {"quem": "golias", "texto": "Quem tem coragem de lutar comigo? Ninguém?", "emocao": "bravo"},
+       {"quem": "soldado", "texto": "Ai, ai, que medo!", "emocao": "assustado", "acao": "tremer"}]},
+    {"cenario": "deserto", "periodo": "tarde", "personagens": ["davi", "golias"],
+     "falas": [
+       {"quem": "davi", "texto": "Eu tenho coragem! Deus está comigo!", "emocao": "feliz", "acao": "pular"},
+       {"quem": "golias", "texto": "Você? Um menininho? Rá, rá, rá!", "emocao": "bravo"},
+       {"quem": "narrador", "texto": "Davi pegou sua funda e uma pedrinha lisa. Girou, girou e... zuuum!"},
+       {"quem": "narrador", "texto": "A pedrinha acertou o gigante, e ele caiu no chão. Tum!", "acao": "cair", "alvo": "golias", "emocao": "surpreso"}]},
+    {"cenario": "campo", "periodo": "dia", "efeito": "brilhos", "personagens": ["soldado", "davi"],
+     "falas": [
+       {"quem": "soldado", "texto": "Viva! O Davi venceu!", "emocao": "feliz", "acao": "comemorar"},
+       {"quem": "davi", "texto": "Não fui eu sozinho. Foi Deus que me ajudou!", "emocao": "feliz"}]},
+    {"cenario": "abertura", "periodo": "dia", "efeito": "coracoes", "personagens": ["mel"],
+     "falas": [
+       {"quem": "mel", "texto": "Quando sentir medo, lembre: Deus é maior que qualquer gigante!", "emocao": "feliz"},
+       {"quem": "mel", "texto": "Tchau, amiguinho! Deus te ama!", "emocao": "feliz", "acao": "pular"}]}
+  ]
+}

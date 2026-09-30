@@ -1,0 +1,180 @@
+{
+  "historia_id": "pescadores",
+  "titulo": "Os Pescadores Amigos de Jesus 🎣 | Historinha Bíblica #shorts",
+  "titulo_curto": "Os pescadores",
+  "referencia": "Mateus 4",
+  "descricao": "Jesus chama os pescadores Pedro, André, Tiago e João para segui-lo, e eles deixam tudo na mesma hora! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Mateus 4\n💛 Lição: seguir Jesus é a melhor escolha que podemos fazer.",
+  "tags": [
+    "pescadores de gente",
+    "pedro e andré",
+    "discípulos de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Seguir Jesus é a melhor escolha",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "andre": {
+      "preset": "andre"
+    },
+    "tiago": {
+      "preset": "tiago"
+    },
+    "joao": {
+      "preset": "joao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Jesus vai fazer novos amigos!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "pedro",
+        "andre"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro e André eram irmãos. Eles eram pescadores."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Joga a rede, André! Um, dois, três!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "andre",
+          "texto": "Splash! Vamos ver se vem peixinho!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "andre"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus passou ali, na beira do mar."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Venham comigo! Vou fazer de vocês pescadores de gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Pescadores de gente? Que legal!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Na mesma hora, eles largaram as redes e foram!"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "tarde",
+      "personagens": [
+        "tiago",
+        "joao",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mais adiante, Tiago e João arrumavam redes no barco."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Venham vocês também!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "joao",
+          "texto": "Vamos, Tiago! Vamos com Jesus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E todos seguiram Jesus, felizes da vida."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Agora somos amigos de Jesus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Seguir Jesus é a melhor escolha que existe!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

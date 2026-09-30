@@ -1,0 +1,164 @@
+{
+  "historia_id": "semente-mostarda",
+  "titulo": "A Sementinha de Mostarda 🌱 | Historinha Bíblica #shorts",
+  "titulo_curto": "A semente de mostarda",
+  "referencia": "Mateus 13",
+  "descricao": "A semente de mostarda é bem pequenininha, mas cresce e vira uma árvore onde os passarinhos fazem ninho! Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 13\n💛 Lição: Com Deus, o que é pequeno fica grande.",
+  "tags": [
+    "semente de mostarda",
+    "parábola",
+    "reino de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus faz coisas pequenas crescerem",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "pomba": {
+      "preset": "pomba"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Olha que sementinha pequenininha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "O Reino de Deus é como uma semente de mostarda.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "É a menor de todas as sementes!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Ela é tão pequenininha! Parece um pontinho!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "personagens": [
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um homem plantou a sementinha na terra."
+        },
+        {
+          "quem": "homem",
+          "texto": "Um buraquinho, um pouquinho de água... Plim!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Primeiro saiu um brotinho verde."
+        },
+        {
+          "quem": "narrador",
+          "texto": "O sol brilhou, a chuva caiu. E ela cresceu, cresceu, cresceu!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Uau! Virou uma árvore enorme!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "personagens": [
+        "pomba",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os passarinhos vieram fazer ninho nos galhos."
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Que casinha boa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Que sombra fresquinha! De uma sementinha, uma árvore gigante!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Com Deus, até o que é pequenininho fica grande!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

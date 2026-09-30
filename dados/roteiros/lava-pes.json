@@ -1,0 +1,166 @@
+{
+  "historia_id": "lava-pes",
+  "titulo": "Jesus Lava os Pés dos Amigos 💧 | Historinha Bíblica #shorts",
+  "titulo_curto": "Jesus lava os pés",
+  "referencia": "João 13",
+  "descricao": "Jesus pegou uma bacia e uma toalha e lavou os pés dos seus amigos, mostrando que amar é servir! Historinha de Páscoa contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: João 13\n💛 Lição: Quem ama ajuda e serve os outros.",
+  "tags": [
+    "lava-pés",
+    "servir",
+    "páscoa para crianças",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Amar é servir",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Jesus pega uma bacia com água!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus estava jantando com seus amigos."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele levantou, pegou uma toalha e uma bacia de água."
+        },
+        {
+          "quem": "joao",
+          "texto": "Ué! O que o Mestre vai fazer?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "jesus",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus começou a lavar os pés dos amigos. Splash, splash!"
+        },
+        {
+          "quem": "joao",
+          "texto": "Que água fresquinha!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Não, Senhor! Você não vai lavar os meus pés!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Se eu não lavar, você não fica comigo.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Então lava tudo! Os pés, as mãos e a cabeça!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Eu sou o Mestre e servi vocês.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Façam como eu fiz: sirvam uns aos outros!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "joao",
+          "texto": "Vamos ajudar todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Amar é servir. Ajude alguém hoje!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

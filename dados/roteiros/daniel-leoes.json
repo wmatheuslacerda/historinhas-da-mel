@@ -1,0 +1,183 @@
+{
+  "historia_id": "daniel-leoes",
+  "titulo": "Daniel na Cova dos Leões 🦁 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Daniel e os leões",
+  "referencia": "Daniel 6",
+  "descricao": "Daniel não deixa de orar, mesmo quando o rei faz uma lei proibindo. Na cova dos leões, Deus manda um anjo para protegê-lo! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Daniel 6\n💛 Lição: quem ora a Deus nunca está sozinho, Deus cuida de nós.",
+  "tags": [
+    "daniel na cova dos leões",
+    "daniel",
+    "leões",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de quem ora a Ele",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "daniel": {
+      "preset": "daniel"
+    },
+    "dario": {
+      "preset": "dario"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você sabia que leões podem ficar mansinhos?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "daniel"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Daniel amava muito a Deus. Ele orava três vezes por dia."
+        },
+        {
+          "quem": "daniel",
+          "texto": "Obrigado, Deus, por cuidar de mim!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "dario",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Uns homens invejosos enganaram o rei Dario."
+        },
+        {
+          "quem": "homem",
+          "texto": "Rei, faça uma lei: ninguém pode orar a Deus!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O rei assinou. Mas Daniel continuou orando."
+        },
+        {
+          "quem": "dario",
+          "texto": "Ai, ai! Agora Daniel vai para a cova dos leões!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "daniel",
+        "leao",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Daniel foi colocado na cova, cheia de leões."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas Deus mandou um anjo, que fechou a boca dos leões!"
+        },
+        {
+          "quem": "leao",
+          "texto": "Rrrr... que soninho! Miau!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "daniel",
+          "texto": "Obrigado, Deus! Estou seguro!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "dario",
+        "daniel"
+      ],
+      "falas": [
+        {
+          "quem": "dario",
+          "texto": "Daniel! Seu Deus cuidou de você?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "daniel",
+          "texto": "Cuidou sim, rei! Não tenho nem um arranhão!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "dario",
+          "texto": "Viva! O Deus de Daniel é o Deus verdadeiro!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quem ora a Deus nunca está sozinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

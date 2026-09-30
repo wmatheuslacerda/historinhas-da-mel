@@ -1,0 +1,189 @@
+{
+  "historia_id": "neemias-muro",
+  "titulo": "Neemias e o Grande Muro 🧱 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Neemias e o muro",
+  "referencia": "Neemias 2-6",
+  "descricao": "Neemias pede ajuda a Deus e ao rei, e todo o povo trabalha junto para reconstruir o muro de Jerusalém em apenas 52 dias. Uma historinha sobre trabalho em equipe, contada pela ovelhinha Mel.\n\n📖 Referência: Neemias 2-6\n💛 Lição: juntos, e com Deus, a gente faz coisas grandes.",
+  "tags": [
+    "neemias",
+    "muro de jerusalém",
+    "trabalho em equipe",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Juntos com Deus somos fortes",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "neemias": {
+      "tipo": "humano",
+      "nome": "Neemias",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#2f9e44",
+      "roupa2": "#f1e3c6",
+      "cobertura": "faixa",
+      "acessorio": "nenhum",
+      "manto": true
+    },
+    "rei": {
+      "preset": "rei",
+      "nome": "Rei Artaxerxes"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "menino": {
+      "preset": "menino"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Vamos empilhar tijolos? Um em cima do outro. Toc!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "neemias",
+        "rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Neemias trabalhava para um rei, bem longe de casa."
+        },
+        {
+          "quem": "rei",
+          "texto": "Por que está tristinho, Neemias?"
+        },
+        {
+          "quem": "neemias",
+          "texto": "O muro da minha cidade caiu, meu rei.",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "neemias",
+        "rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Neemias orou baixinho e pediu ajuda."
+        },
+        {
+          "quem": "neemias",
+          "texto": "Posso ir lá consertar o muro?"
+        },
+        {
+          "quem": "rei",
+          "texto": "Pode sim! Leve madeira também!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "dia",
+      "personagens": [
+        "neemias",
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "neemias",
+          "texto": "Pessoal, vamos construir juntos!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Eu levo as pedras!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Eu ajudo também! Toc, toc!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "neemias",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Alguns riam e diziam: não vai dar certo!"
+        },
+        {
+          "quem": "neemias",
+          "texto": "Deus está com a gente! Continuem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Em cinquenta e dois dias, o muro ficou pronto!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Juntinhos e com Deus, a gente faz coisas grandes!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

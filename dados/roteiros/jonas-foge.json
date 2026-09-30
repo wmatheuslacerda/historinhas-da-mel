@@ -1,0 +1,172 @@
+{
+  "historia_id": "jonas-foge",
+  "titulo": "Jonas Foge de Deus ⛵ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jonas foge de Deus",
+  "referencia": "Jonas 1",
+  "descricao": "Deus pede para Jonas ir a Nínive, mas ele entra num barco para o lado contrário! Vem uma tempestade e Jonas aprende que não dá para fugir de Deus. Contada pela ovelhinha Mel.\n\n📖 Referência: Jonas 1\n💛 Lição: é melhor obedecer a Deus logo, porque Ele nos ama e sabe o que é melhor.",
+  "tags": [
+    "jonas",
+    "jonas foge de deus",
+    "tempestade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Obedecer a Deus logo é o melhor caminho",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jonas": {
+      "preset": "jonas"
+    },
+    "marinheiro": {
+      "preset": "homem"
+    },
+    "capitao": {
+      "preset": "idoso"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Dá para se esconder de Deus? Vamos ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Jonas, vá para a cidade de Nínive falar de mim."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Nínive? Ah, não! Eu não quero ir!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Jonas correu para o lado contrário!"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "dia",
+      "personagens": [
+        "jonas",
+        "marinheiro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ele pagou a passagem e entrou num barco."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Aqui Deus não me acha. Vou tirar um soninho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E dormiu: rooonc, rooonc!"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "marinheiro",
+        "capitao",
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Veio um ventão e ondas enormes. Splash! Splash!"
+        },
+        {
+          "quem": "marinheiro",
+          "texto": "Socorro! O barco tá balançando muito!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "capitao",
+          "texto": "Acorda, dorminhoco! Ore ao seu Deus!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jonas",
+          "texto": "A culpa é minha. Eu fugi de Deus!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "nublado",
+      "personagens": [
+        "jonas",
+        "marinheiro"
+      ],
+      "falas": [
+        {
+          "quem": "jonas",
+          "texto": "Me coloquem no mar, e a tempestade vai parar."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Os marinheiros colocaram Jonas na água. Splash!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o mar ficou calminho, calminho. Mas Deus ainda cuidava de Jonas!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Não dá para fugir de Deus. Obedecer logo é o melhor!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

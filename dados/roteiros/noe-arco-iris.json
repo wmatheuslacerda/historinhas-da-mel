@@ -1,0 +1,188 @@
+{
+  "historia_id": "noe-arco-iris",
+  "titulo": "A Promessa do Arco-Íris 🌈 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A promessa do arco-íris",
+  "referencia": "Gênesis 9",
+  "descricao": "Depois da grande chuva, Deus coloca o arco-íris no céu como sinal da sua promessa de amor. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 9\n💛 Lição: Deus sempre cumpre suas promessas.",
+  "tags": [
+    "noé",
+    "arco-íris",
+    "promessa de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cumpre suas promessas",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "noe": {
+      "preset": "noe"
+    },
+    "esposa_noe": {
+      "preset": "esposa_noe"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "pomba": {
+      "preset": "pomba"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você sabe por que existe o arco-íris?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A terra secou, e a arca parou numa montanha."
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Chão sequinho! Que bom!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "noe",
+          "texto": "Pessoal, podem sair da arca!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ovelhinha",
+        "leao",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os bichinhos saíram correndo e pulando!"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méé! Grama fresquinha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "leao",
+          "texto": "Roaar! Que alegria!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Céu azul!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "noe",
+          "texto": "Obrigado, Deus, por cuidar de nós!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "deus",
+          "texto": "Nunca mais mandarei uma chuva assim."
+        },
+        {
+          "quem": "deus",
+          "texto": "Esta é a minha promessa para vocês."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "arco_iris",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E no céu apareceu um arco-íris colorido!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Vermelho, amarelo, verde, azul... que lindo!"
+        },
+        {
+          "quem": "noe",
+          "texto": "É o sinal da promessa de Deus!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Que presente bonito!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Viu um arco-íris? Lembre: Deus cumpre o que promete!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

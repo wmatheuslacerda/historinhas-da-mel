@@ -1,0 +1,152 @@
+{
+  "historia_id": "jonas-planta",
+  "titulo": "Jonas e a Plantinha 🌱 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jonas e a plantinha",
+  "referencia": "Jonas 4",
+  "descricao": "Jonas fica emburrado porque Deus perdoou Nínive. Então Deus usa uma plantinha para ensinar a Jonas sobre o seu grande amor por todos. Contada pela ovelhinha Mel.\n\n📖 Referência: Jonas 4\n💛 Lição: Deus ama todas as pessoas, e nós também devemos amar.",
+  "tags": [
+    "jonas",
+    "jonas e a planta",
+    "compaixão",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus ama todas as pessoas",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jonas": {
+      "preset": "jonas"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje uma plantinha vai dar uma lição!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus perdoou Nínive. Mas Jonas ficou emburrado."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Hunf! Eu não queria que Deus perdoasse!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele sentou fora da cidade, num sol quentinho."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus fez crescer uma planta grandona. Que sombra gostosa!"
+        },
+        {
+          "quem": "jonas",
+          "texto": "Oba! Que plantinha boa! Adorei!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No outro dia, um bichinho roeu a planta. Ela secou."
+        },
+        {
+          "quem": "narrador",
+          "texto": "O sol ficou quente, e o vento soprou forte."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Ah, não! Minha plantinha! Que pena!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Jonas, você teve pena da plantinha, não teve?"
+        },
+        {
+          "quem": "deus",
+          "texto": "E eu não vou ter pena de Nínive, com tanta gente e animais?"
+        },
+        {
+          "quem": "jonas",
+          "texto": "É verdade, Senhor. Tu amas todo mundo!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus ama todas as pessoas. Vamos amar também!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

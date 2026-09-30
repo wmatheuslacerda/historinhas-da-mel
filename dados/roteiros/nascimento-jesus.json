@@ -1,0 +1,182 @@
+{
+  "historia_id": "nascimento-jesus",
+  "titulo": "Jesus Nasceu! ⭐ | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "Jesus nasceu",
+  "referencia": "Lucas 2",
+  "descricao": "Em Belém, numa noite especial, nasce o bebê Jesus e é colocado numa manjedoura. Uma historinha de Natal cheia de carinho contada pela ovelhinha Mel.\n\n📖 Referência: Lucas 2\n💛 Lição: Jesus é o maior presente que Deus deu ao mundo.",
+  "tags": [
+    "nascimento de jesus",
+    "natal",
+    "manjedoura",
+    "história de natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus é o maior presente de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "jose": {
+      "preset": "jose_carpinteiro"
+    },
+    "jesus_bebe": {
+      "preset": "jesus_bebe"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "jumento": {
+      "preset": "jumento"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje é a noite mais especial de todas!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "maria",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Maria e José estavam em Belém, num lugar com animais."
+        },
+        {
+          "quem": "jose",
+          "texto": "Maria, está tudo bem?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "maria",
+          "texto": "Está sim, José. O bebê vai nascer!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "maria",
+        "jose",
+        "jesus_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E nasceu o bebê Jesus! Que lindo!"
+        },
+        {
+          "quem": "jesus_bebe",
+          "texto": "Uê, uê!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Maria enrolou o bebê em paninhos quentinhos."
+        },
+        {
+          "quem": "maria",
+          "texto": "Bem-vindo, meu filhinho!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "jose",
+        "jesus_bebe",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Não tinha berço. Então José arrumou a manjedoura, com palha macia."
+        },
+        {
+          "quem": "jose",
+          "texto": "Pronto! Uma caminha fofinha para Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méééé! Que bebê fofinho!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "maria",
+        "jumento",
+        "jesus_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "jumento",
+          "texto": "Ióóó! Silêncio! O bebê está dormindo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jesus, o Filho de Deus, veio morar com a gente!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus é o maior presente que Deus nos deu!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Feliz Natal, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "historia_id": "jose-sonhos",
+  "titulo": "Os Sonhos de José ⭐ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Os sonhos de José",
+  "referencia": "Gênesis 37",
+  "descricao": "José tem dois sonhos curiosos: feixes de trigo e estrelas que se curvam diante dele. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 37\n💛 Lição: Deus tem planos lindos para cada um de nós.",
+  "tags": [
+    "josé do egito",
+    "sonhos de josé",
+    "planos de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus tem planos para você",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jose_menino": {
+      "preset": "jose_menino"
+    },
+    "jaco": {
+      "preset": "jaco"
+    },
+    "irmao": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você lembra com o que sonhou esta noite?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "José dormia bem quietinho. Ronc, ronc!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E teve um sonho muito diferente!"
+        },
+        {
+          "quem": "jose_menino",
+          "texto": "Hum... trigo? Que sonho engraçado, né?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jose_menino",
+        "irmao"
+      ],
+      "falas": [
+        {
+          "quem": "jose_menino",
+          "texto": "Sonhei que estávamos amarrando o trigo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jose_menino",
+          "texto": "E os feixes de vocês se curvavam para o meu!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "irmao",
+          "texto": "Hunf! Você quer mandar na gente?",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois, José teve outro sonho."
+        },
+        {
+          "quem": "narrador",
+          "texto": "O sol, a lua e onze estrelas se curvavam para ele!"
+        },
+        {
+          "quem": "jose_menino",
+          "texto": "Uau! Que sonho!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "jaco",
+        "jose_menino"
+      ],
+      "falas": [
+        {
+          "quem": "jose_menino",
+          "texto": "Papai, sonhei com estrelas de novo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jaco",
+          "texto": "Hum... que sonho curioso, José!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jacó guardou tudo isso no coração."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus tem planos lindos para você também!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "historia_id": "zaqueu",
+  "titulo": "Zaqueu Sobe na Árvore 🌳 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Zaqueu",
+  "referencia": "Lucas 19",
+  "descricao": "Zaqueu era baixinho e subiu numa árvore para ver Jesus passar. Jesus chamou Zaqueu pelo nome e foi à casa dele! Historinha da ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 19\n💛 Lição: Jesus conhece você pelo nome e quer ser seu amigo.",
+  "tags": [
+    "zaqueu",
+    "zaqueu na árvore",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus nos chama pelo nome",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "zaqueu": {
+      "preset": "zaqueu"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você já subiu numa árvore?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "zaqueu",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Zaqueu era baixinho. Tinha muita gente na rua!"
+        },
+        {
+          "quem": "zaqueu",
+          "texto": "Jesus vai passar! Mas eu não consigo ver nada!",
+          "emocao": "triste",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Sai da frente, Zaqueu!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "zaqueu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então ele teve uma ideia. Correu e subiu numa árvore!"
+        },
+        {
+          "quem": "zaqueu",
+          "texto": "Upa, upa! Daqui eu vejo tudinho!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "zaqueu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus parou bem embaixo da árvore e olhou para cima."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Zaqueu, desça depressa! Hoje vou ficar na sua casa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "zaqueu",
+          "texto": "Na minha casa? Que alegria!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "zaqueu",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "zaqueu",
+          "texto": "Jesus, eu errei muito. Agora vou devolver tudo e ajudar os pobres!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Hoje a salvação chegou a esta casa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "zaqueu",
+          "texto": "Viva!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus conhece seu nome e quer ser seu amigo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

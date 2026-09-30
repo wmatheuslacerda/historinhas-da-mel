@@ -1,0 +1,162 @@
+{
+  "historia_id": "cafe-na-praia",
+  "titulo": "Café da Manhã na Praia com Jesus 🐟 | Historinha Bíblica #shorts",
+  "titulo_curto": "Café da manhã na praia",
+  "referencia": "João 21",
+  "descricao": "Os discípulos pescam a noite toda e não pegam nada. Então Jesus aparece na praia com uma dica e um café da manhã quentinho! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: João 21\n💛 Lição: jesus cuida da gente com carinho.",
+  "tags": [
+    "café na praia",
+    "pesca milagrosa",
+    "páscoa",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus cuida da gente com carinho",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "jesus": {
+      "preset": "jesus"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Hum, que cheirinho de peixe assado! De onde vem?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro e os amigos pescaram a noite inteirinha."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Nenhum peixinho! A rede está vazia!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De manhã, um homem gritou lá da praia."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Joguem a rede do lado direito do barco!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Splash! A rede ficou tão cheia que quase não subia!"
+        },
+        {
+          "quem": "joao",
+          "texto": "É o Senhor! É Jesus!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro nem esperou. Pulou na água, tchibum, e nadou até a praia!",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na areia tinha uma fogueira, com peixe e pão."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Venham tomar café da manhã!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Que delícia, Jesus! Obrigado!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus cuida de você com muito carinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

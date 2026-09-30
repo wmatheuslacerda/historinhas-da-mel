@@ -1,0 +1,173 @@
+{
+  "historia_id": "jonas-ninive",
+  "titulo": "Jonas Vai a Nínive 🏙️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jonas em Nínive",
+  "referencia": "Jonas 3",
+  "descricao": "Desta vez Jonas obedece a Deus e vai até a grande cidade de Nínive. O povo e até o rei pedem perdão, e Deus perdoa todos! Contada pela ovelhinha Mel.\n\n📖 Referência: Jonas 3\n💛 Lição: Deus ama perdoar quem se arrepende de verdade.",
+  "tags": [
+    "jonas",
+    "nínive",
+    "perdão",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus ama perdoar",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jonas": {
+      "preset": "jonas"
+    },
+    "rei": {
+      "preset": "rei"
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "menino": {
+      "preset": "menino"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje o Jonas vai obedecer? Vamos descobrir!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Jonas, vá para Nínive e fale o que eu mandar."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Sim, Senhor! Agora eu vou!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "jonas",
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Nínive era enorme! Jonas andou um dia inteiro."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Atenção! Deus viu as coisas erradas daqui!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "menino",
+          "texto": "Mamãe, e agora? O que a gente faz?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Vamos parar de fazer o mal, filho!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei ouviu. Tirou a capa bonita e desceu do trono."
+        },
+        {
+          "quem": "rei",
+          "texto": "Todo mundo vai pedir perdão a Deus! Até os bichos!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E todos pararam de fazer coisas erradas."
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "rei",
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus viu que eles mudaram de coração. E perdoou!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Oba! Deus perdoou a gente!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "rei",
+          "texto": "Obrigado, Deus, pelo seu amor!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus ama perdoar quem se arrepende de verdade!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

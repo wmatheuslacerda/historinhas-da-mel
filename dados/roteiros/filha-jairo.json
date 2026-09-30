@@ -1,0 +1,196 @@
+{
+  "historia_id": "filha-jairo",
+  "titulo": "A Filha de Jairo 👧 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A filha de Jairo",
+  "referencia": "Marcos 5",
+  "descricao": "Jairo pediu ajuda a Jesus para sua filhinha, e Jesus segurou a mão dela e disse: levante-se! Historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Marcos 5\n💛 Lição: Quando algo parecer difícil, confie em Jesus.",
+  "tags": [
+    "filha de jairo",
+    "talita cumi",
+    "milagres de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Não tenha medo, somente creia",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jairo": {
+      "tipo": "humano",
+      "nome": "Jairo",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "longa",
+      "roupa": "#4a6fa5",
+      "roupa2": "#e8d8b0",
+      "cobertura": "faixa",
+      "manto": true
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "pedro": {
+      "preset": "pedro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Jesus diz duas palavrinhas especiais!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "jairo",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jairo tinha uma filhinha de doze anos. Ela estava muito doente."
+        },
+        {
+          "quem": "jairo",
+          "texto": "Jesus, por favor, venha ajudar minha filhinha!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Eu vou com você.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "jairo",
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No caminho, chegou um recado bem triste para Jairo."
+        },
+        {
+          "quem": "jairo",
+          "texto": "Ai... será que é tarde demais?",
+          "emocao": "triste",
+          "acao": "tremer"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Não tenha medo. Somente creia!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "jesus",
+        "menina",
+        "jairo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na casa, a menina estava deitadinha, sem se mexer."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Ela não morreu. Está dormindo.",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jesus segurou a mãozinha dela com carinho."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Menina, eu te digo: levante-se!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "menina",
+        "jairo",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E ela se levantou e começou a andar! Oba!"
+        },
+        {
+          "quem": "menina",
+          "texto": "Papai! Bom dia!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "jairo",
+          "texto": "Minha filhinha! Obrigado, Jesus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Deem comida para ela!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Não tenha medo. Confie sempre em Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

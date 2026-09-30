@@ -1,0 +1,178 @@
+{
+  "historia_id": "moises-cestinho",
+  "titulo": "Moisés no Cestinho 🧺 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Moisés no cestinho",
+  "referencia": "Êxodo 2",
+  "descricao": "A mamãe de Moisés coloca o bebê num cestinho no rio, e a irmã Miriã fica de olho. Deus cuida de tudo! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 2\n💛 Lição: Deus cuida dos pequeninos em todo lugar.",
+  "tags": [
+    "moisés no cestinho",
+    "bebê moisés",
+    "miriã",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida dos pequeninos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "mae_moises": {
+      "preset": "mulher",
+      "nome": "Mamãe de Moisés"
+    },
+    "moises_bebe": {
+      "preset": "moises_bebe"
+    },
+    "miria": {
+      "preset": "miria"
+    },
+    "princesa": {
+      "tipo": "humano",
+      "idade": "adulto",
+      "nome": "Princesa",
+      "voz": "mulher",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "preto",
+      "estilo_cabelo": "longo",
+      "roupa": "#f2c94c",
+      "roupa2": "#ffffff",
+      "cobertura": "coroa"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você já viu um bebê num barquinho?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mae_moises",
+        "moises_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A mamãe de Moisés queria proteger seu bebezinho."
+        },
+        {
+          "quem": "mae_moises",
+          "texto": "Vou fazer um cestinho bem fechadinho pra você, filhinho!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "miria",
+        "moises_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ela colocou o cestinho no rio, bem devagar. Ploc!"
+        },
+        {
+          "quem": "miria",
+          "texto": "Eu vou ficar vigiando meu irmãozinho escondidinha!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "princesa",
+        "moises_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A filha do Faraó veio tomar banho no rio."
+        },
+        {
+          "quem": "princesa",
+          "texto": "Olha! Um bebê! Que fofura!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "moises_bebe",
+          "texto": "Buá, buá!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "miria",
+        "princesa",
+        "mae_moises"
+      ],
+      "falas": [
+        {
+          "quem": "miria",
+          "texto": "Quer que eu chame uma mulher pra cuidar dele?",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "princesa",
+          "texto": "Quero, sim! Vou chamar ele de Moisés!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Miriã chamou a própria mamãe do bebê! Que alegria!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida dos pequeninos, até no meio do rio!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "historia_id": "ultima-ceia",
+  "titulo": "A Ceia Com os Amigos 🍞 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A última ceia",
+  "referencia": "Lucas 22",
+  "descricao": "Jesus jantou com seus amigos, repartiu o pão e o cálice e pediu: façam isso para lembrar de mim. Historinha de Páscoa contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 22\n💛 Lição: Jesus nos ama muito, e sempre lembramos do seu amor.",
+  "tags": [
+    "santa ceia",
+    "última ceia",
+    "páscoa para crianças",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Lembrar do amor de Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem um jantar muito especial!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "pedro",
+        "joao",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Era a festa da Páscoa. Jesus mandou Pedro e João prepararem a ceia."
+        },
+        {
+          "quem": "homem",
+          "texto": "Podem usar a sala lá de cima!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Obrigado! Vamos arrumar tudo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "À noite, Jesus sentou à mesa com seus amigos."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Eu queria muito comer esta Páscoa com vocês!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus pegou o pão, agradeceu a Deus e repartiu."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Isto é o meu corpo, dado por vocês. Façam isso para lembrar de mim.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Depois pegou o cálice e passou para todos."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "pedro",
+        "joao",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "joao",
+          "texto": "Nunca vamos esquecer, Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Obrigado pelo seu amor!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando lembrar da ceia, lembre: Jesus te ama muito!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

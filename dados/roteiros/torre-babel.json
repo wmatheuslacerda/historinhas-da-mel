@@ -1,0 +1,174 @@
+{
+  "historia_id": "torre-babel",
+  "titulo": "A Torre de Babel 🧱 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A torre de Babel",
+  "referencia": "Gênesis 11",
+  "descricao": "O povo quer construir uma torre até o céu para ficar famoso, e Deus mistura as línguas deles. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 11\n💛 Lição: Deus gosta de corações humildes, não de quem quer se exibir.",
+  "tags": [
+    "torre de babel",
+    "gênesis para crianças",
+    "humildade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "ser humilde",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "idoso": {
+      "preset": "idoso"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Uma torre até o céu? Será que dá certo?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Antigamente, todo mundo falava a mesma língua."
+        },
+        {
+          "quem": "homem",
+          "texto": "Vamos fazer uma torre até o céu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Aí todo mundo vai ver como somos importantes!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "tarde",
+      "personagens": [
+        "homem",
+        "mulher",
+        "idoso"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tijolo em cima de tijolo. Toc, toc, toc!"
+        },
+        {
+          "quem": "idoso",
+          "texto": "Mais alto! Mais alto!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas eles só queriam se exibir."
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "nublado",
+      "efeito": "luz",
+      "personagens": [
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus viu, e misturou as línguas deles."
+        },
+        {
+          "quem": "homem",
+          "texto": "Blá, blu, bli?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Plim, plom, plum?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "homem",
+          "texto": "Hã? Não entendi nada!",
+          "emocao": "surpreso",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "idoso",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ninguém se entendia! Pararam de construir a torre."
+        },
+        {
+          "quem": "narrador",
+          "texto": "E cada grupo foi morar num lugar diferente."
+        },
+        {
+          "quem": "idoso",
+          "texto": "Tchauzinho, pessoal!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus gosta de coração humilde, não de exibido!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

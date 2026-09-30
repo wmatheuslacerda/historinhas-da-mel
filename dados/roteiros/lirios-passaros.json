@@ -1,0 +1,168 @@
+{
+  "historia_id": "lirios-passaros",
+  "titulo": "Os Passarinhos e as Flores 🌸 | Historinha Bíblica #shorts",
+  "titulo_curto": "Os lírios e os passarinhos",
+  "referencia": "Mateus 6",
+  "descricao": "Jesus mostrou os passarinhos e as flores do campo para ensinar que Deus cuida de tudo, e cuida de você também! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 6\n💛 Lição: Não precisa se preocupar: Deus cuida de você.",
+  "tags": [
+    "lírios do campo",
+    "aves do céu",
+    "não se preocupe",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de você",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pomba": {
+      "preset": "pomba"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "pedro": {
+      "preset": "pedro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos passear no campo com Jesus?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Muita gente estava preocupada. Jesus sentou no monte para ensinar."
+        },
+        {
+          "quem": "menina",
+          "texto": "Jesus, e se faltar comida? E se faltar roupa?",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pomba",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Olhem os passarinhos! Eles não plantam e não guardam comida.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu, piu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "jesus",
+          "texto": "E o Pai do céu dá comida para eles!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Olhem as flores do campo! Elas não costuram roupa.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Mas são tão lindas e coloridas!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Deus veste as flores. E cuida muito mais de vocês!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "menina",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "menina",
+          "texto": "Então eu não preciso me preocupar!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu! Deus cuida de nós!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida dos passarinhos, das flores e de você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

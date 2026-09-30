@@ -1,0 +1,178 @@
+{
+  "historia_id": "emaus",
+  "titulo": "O Caminho de Emaús 🍞 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O caminho de Emaús",
+  "referencia": "Lucas 24",
+  "descricao": "Dois amigos caminham tristes até Emaús, e um viajante misterioso vai junto. Na hora do jantar, uma surpresa! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 24\n💛 Lição: jesus caminha com a gente, mesmo quando não percebemos.",
+  "tags": [
+    "caminho de emaús",
+    "páscoa",
+    "jesus ressuscitou",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus caminha com a gente, mesmo quando não percebemos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "cleopas": {
+      "tipo": "humano",
+      "nome": "Cléopas",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "morena",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#8a6d3b",
+      "roupa2": "#d9c8a0",
+      "cobertura": "faixa",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "amigo": {
+      "preset": "homem"
+    },
+    "jesus": {
+      "preset": "jesus"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Adivinha quem apareceu numa caminhada? Vem ver!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "cleopas",
+        "amigo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Dois amigos caminhavam para a vila de Emaús."
+        },
+        {
+          "quem": "cleopas",
+          "texto": "Estou com tanta saudade de Jesus...",
+          "emocao": "triste"
+        },
+        {
+          "quem": "amigo",
+          "texto": "Eu também. Que dia difícil!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "cleopas",
+        "amigo",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um viajante chegou e foi andando junto. Era Jesus! Mas eles não perceberam."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Por que vocês estão tristes?",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Jesus explicou tudinho o que a Bíblia dizia."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "cleopas",
+        "amigo",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "cleopas",
+          "texto": "Já está escurecendo. Fica com a gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "No jantar, Jesus pegou o pão, agradeceu e partiu."
+        },
+        {
+          "quem": "amigo",
+          "texto": "Olha! É Jesus! Ele está vivo!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "cleopas",
+        "amigo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus sumiu, e eles correram de volta, zuuum!"
+        },
+        {
+          "quem": "cleopas",
+          "texto": "Nosso coração ficou quentinho no caminho!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus caminha com você, mesmo quando você não vê!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

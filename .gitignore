@@ -1,0 +1,6 @@
+.env
+.cache/
+saida/
+__pycache__/
+*.pyc
+scripts/client_secret*.json

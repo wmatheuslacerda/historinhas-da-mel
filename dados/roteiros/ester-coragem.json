@@ -1,0 +1,186 @@
+{
+  "historia_id": "ester-coragem",
+  "titulo": "A Coragem da Rainha Ester 💜 | Historinha Bíblica #shorts",
+  "titulo_curto": "A coragem de Ester",
+  "referencia": "Ester 4-7",
+  "descricao": "O malvado Hamã queria fazer mal ao povo de Deus. A rainha Ester ora, jejua e fala corajosamente com o rei, e o povo é salvo. Uma historinha sobre coragem, contada pela ovelhinha Mel.\n\n📖 Referência: Ester 4-7\n💛 Lição: com Deus, a gente tem coragem para fazer o que é certo.",
+  "tags": [
+    "rainha ester",
+    "coragem",
+    "hamã",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Coragem para fazer o certo",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "ester": {
+      "preset": "ester"
+    },
+    "mardoqueu": {
+      "preset": "mardoqueu"
+    },
+    "rei": {
+      "preset": "rei",
+      "nome": "Rei Assuero"
+    },
+    "hama": {
+      "tipo": "humano",
+      "nome": "Hamã",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "clara",
+      "cabelo": "preto",
+      "estilo_cabelo": "curto",
+      "barba": "longa",
+      "roupa": "#5f3dc4",
+      "roupa2": "#212529",
+      "cobertura": "faixa",
+      "acessorio": "nenhum",
+      "manto": true
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você sabe o que é coragem? A rainha Ester sabia!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "nublado",
+      "personagens": [
+        "mardoqueu",
+        "ester"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um homem chamado Hamã queria fazer mal ao povo de Deus."
+        },
+        {
+          "quem": "mardoqueu",
+          "texto": "Ester, fale com o rei! Deus te colocou lá!"
+        },
+        {
+          "quem": "ester",
+          "texto": "Vamos orar primeiro!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "ester",
+        "rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ester foi até o rei. O coração dela batia: tum, tum!"
+        },
+        {
+          "quem": "rei",
+          "texto": "O que você quer, rainha Ester?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ester",
+          "texto": "Quero convidar o senhor para um jantar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "personagens": [
+        "ester",
+        "rei",
+        "hama"
+      ],
+      "falas": [
+        {
+          "quem": "ester",
+          "texto": "Meu rei, alguém quer fazer mal ao meu povo!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "rei",
+          "texto": "Quem faria isso?",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "ester",
+          "texto": "Foi o Hamã!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "hama",
+          "texto": "Opa! Ai, ai, ai!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ester",
+        "mardoqueu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei mandou Hamã embora, e o povo ficou salvo!"
+        },
+        {
+          "quem": "mardoqueu",
+          "texto": "Viva! Deus usou a rainha Ester!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Com Deus, você tem coragem para fazer o que é certo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

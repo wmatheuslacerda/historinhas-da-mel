@@ -1,0 +1,182 @@
+{
+  "historia_id": "rute-campo",
+  "titulo": "Rute no Campo de Boaz 🌾 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Rute no campo de Boaz",
+  "referencia": "Rute 2",
+  "descricao": "Rute trabalha colhendo espigas de trigo para cuidar da Noemi, e Boaz, o dono do campo, é muito bondoso com ela! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Rute 2\n💛 Lição: quem é bondoso espalha o amor de Deus.",
+  "tags": [
+    "rute e boaz",
+    "rute",
+    "bondade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Bondade espalha o amor de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "rute": {
+      "preset": "rute"
+    },
+    "noemi": {
+      "preset": "noemi"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Trabalhador"
+    },
+    "boaz": {
+      "tipo": "humano",
+      "idade": "adulto",
+      "nome": "Boaz",
+      "voz": "homem",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#2e6b8a",
+      "roupa2": "#e8d9b0",
+      "manto": true
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos colher trigo no campo?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "rute",
+        "boaz",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Rute pegava as espiguinhas que caíam no chão."
+        },
+        {
+          "quem": "narrador",
+          "texto": "O dono do campo chegou. Era Boaz!"
+        },
+        {
+          "quem": "boaz",
+          "texto": "Quem é aquela moça trabalhadora?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "homem",
+          "texto": "É Rute, que cuida da sogra Noemi."
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "boaz",
+        "rute"
+      ],
+      "falas": [
+        {
+          "quem": "boaz",
+          "texto": "Rute, fique no meu campo. Aqui você está segura!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "rute",
+          "texto": "Por que você é tão bondoso comigo?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "boaz",
+          "texto": "Porque você cuida da Noemi com amor!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "homem",
+        "rute"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Boaz mandou deixar cair mais espigas de propósito! Hihi!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Opa! Caiu mais uma!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "noemi",
+        "rute"
+      ],
+      "falas": [
+        {
+          "quem": "noemi",
+          "texto": "Quanto trigo! Deus mandou alguém bondoso!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "rute",
+          "texto": "Foi o Boaz! Ele é muito bondoso!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quem é bondoso espalha o amor de Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

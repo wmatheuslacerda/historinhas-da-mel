@@ -1,0 +1,175 @@
+{
+  "historia_id": "tempestade-acalma",
+  "titulo": "Jesus Acalma a Tempestade 🌊 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus acalma a tempestade",
+  "referencia": "Marcos 4",
+  "descricao": "No meio de uma grande tempestade, Jesus acorda e diz ao vento: silêncio, fique quieto! E tudo se acalma. Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Marcos 4\n💛 Lição: Jesus é mais forte que qualquer tempestade.",
+  "tags": [
+    "jesus acalma a tempestade",
+    "milagres de jesus",
+    "discípulos",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus é mais forte que qualquer tempestade",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "nublado",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Quem manda no vento? Vamos descobrir!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "tarde",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Vamos atravessar para o outro lado do mar.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jesus estava cansado. Deitou num travesseiro e dormiu. Zzzz."
+        },
+        {
+          "quem": "joao",
+          "texto": "Que passeio gostoso!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "pedro",
+        "joao",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, veio um ventão! Uuuuh! E ondas enormes! Splash!"
+        },
+        {
+          "quem": "pedro",
+          "texto": "O barco está enchendo de água!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "joao",
+          "texto": "Mestre, acorda! Ajuda a gente!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "nublado",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus acordou e falou com o vento e o mar."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Silêncio! Fique quieto!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E tudo ficou calminho. Shhh...",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "tarde",
+      "efeito": "arco_iris",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Por que tiveram medo? Confiem em mim!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Até o vento e o mar obedecem a ele!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "joao",
+          "texto": "Uau! Jesus é demais!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus é mais forte que qualquer tempestade!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

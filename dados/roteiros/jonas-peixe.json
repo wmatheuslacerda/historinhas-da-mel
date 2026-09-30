@@ -1,0 +1,161 @@
+{
+  "historia_id": "jonas-peixe",
+  "titulo": "Jonas Dentro do Grande Peixe 🐋 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jonas e o grande peixe",
+  "referencia": "Jonas 1-2",
+  "descricao": "Jonas cai no mar e Deus manda um peixe enorme para engoli-lo. Lá dentro, Jonas ora, e Deus o leva de volta para a praia! Uma historinha contada pela ovelhinha Mel.\n\n📖 Referência: Jonas 1-2\n💛 Lição: podemos orar a Deus em qualquer lugar, e Ele sempre escuta.",
+  "tags": [
+    "jonas e a baleia",
+    "jonas",
+    "grande peixe",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus escuta nossa oração em qualquer lugar",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jonas": {
+      "preset": "jonas"
+    },
+    "baleia": {
+      "preset": "baleia"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Já pensou orar dentro de um peixe gigante?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "oceano",
+      "periodo": "dia",
+      "personagens": [
+        "jonas",
+        "baleia"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jonas fugiu de Deus e foi parar no mar."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas Deus preparou um peixe enorme. Nhac! Engoliu Jonas inteirinho!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "baleia",
+          "texto": "Blub, blub! Fica tranquilo aí dentro, Jonas!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "dentro_peixe",
+      "periodo": "noite",
+      "personagens": [
+        "jonas"
+      ],
+      "falas": [
+        {
+          "quem": "jonas",
+          "texto": "Nossa! Que lugar escuro e molhado!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jonas ficou lá três dias e três noites."
+        },
+        {
+          "quem": "jonas",
+          "texto": "Deus, me perdoa! Eu quero te obedecer!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "jonas",
+          "texto": "Obrigado, Senhor, porque tu me escutas!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "oceano",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "baleia"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Peixe, leve Jonas até a praia."
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jonas",
+        "baleia"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O peixe nadou, nadou... e bleeerg! Jonas saiu na praia!"
+        },
+        {
+          "quem": "jonas",
+          "texto": "Terra firme! Obrigado, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "baleia",
+          "texto": "Tchau, Jonas! Agora obedeça, hein?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus escuta sua oração em qualquer lugar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

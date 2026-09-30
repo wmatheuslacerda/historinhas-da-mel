@@ -1,0 +1,178 @@
+{
+  "historia_id": "gideao-trombetas",
+  "titulo": "Gideão e os 300 🔦 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Gideão e os 300",
+  "referencia": "Juízes 7",
+  "descricao": "Deus escolhe só 300 homens para Gideão. Com trombetas, jarros e tochas, eles vencem, porque Deus estava com eles! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Juízes 7\n💛 Lição: com Deus do nosso lado, pouquinho vira muito.",
+  "tags": [
+    "gideão",
+    "gideão e os 300",
+    "trombetas e tochas",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Com Deus, pouco vira muito",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "gideao": {
+      "preset": "gideao"
+    },
+    "soldado": {
+      "preset": "soldado"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem trombeta, jarro e muita luz!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "gideao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Gideão tinha muitos soldados para enfrentar os inimigos."
+        },
+        {
+          "quem": "deus",
+          "texto": "Gideão, você tem gente demais."
+        },
+        {
+          "quem": "gideao",
+          "texto": "Demais? Mas são muitos inimigos!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "soldado",
+        "gideao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus foi escolhendo, até ficar só trezentos homens."
+        },
+        {
+          "quem": "soldado",
+          "texto": "Só trezentos? Que pouquinho!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "gideao",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "gideao",
+          "texto": "Cada um pega uma trombeta e um jarro com tocha!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "No meio da noite, eles cercaram o acampamento."
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "soldado",
+        "gideao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tuuu! Tuuu! Crash! Quebraram os jarros e as tochas brilharam!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Pelo Senhor e por Gideão!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Os inimigos se assustaram e fugiram correndo!"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "gideao",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "gideao",
+          "texto": "Não foi a nossa força. Foi Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Viva!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Com Deus do nosso lado, pouquinho vira muito!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

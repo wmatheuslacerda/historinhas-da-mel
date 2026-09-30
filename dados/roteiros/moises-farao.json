@@ -1,0 +1,166 @@
+{
+  "historia_id": "moises-farao",
+  "titulo": "Deixe Meu Povo Ir! 👑 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Deixe meu povo ir!",
+  "referencia": "Êxodo 5",
+  "descricao": "Moisés e Arão vão ao palácio pedir ao Faraó que liberte o povo de Deus. O rei diz não, mas Deus promete agir! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 5\n💛 Lição: mesmo quando demora, Deus cumpre o que promete.",
+  "tags": [
+    "moisés e arão",
+    "moisés e faraó",
+    "deixe meu povo ir",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cumpre o que promete",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "arao": {
+      "preset": "arao"
+    },
+    "farao": {
+      "preset": "farao"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje dois irmãos vão falar com um rei!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "dia",
+      "personagens": [
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O povo de Deus trabalhava muito no Egito, fazendo tijolos."
+        },
+        {
+          "quem": "homem",
+          "texto": "Ufa, que cansaço! Tijolo, tijolo, tijolo!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "tarde",
+      "personagens": [
+        "moises",
+        "arao"
+      ],
+      "falas": [
+        {
+          "quem": "moises",
+          "texto": "Arão, vamos juntos falar com o Faraó!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "arao",
+          "texto": "Vamos! Deus mandou, e Deus vai ajudar!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "moises",
+        "arao",
+        "farao"
+      ],
+      "falas": [
+        {
+          "quem": "moises",
+          "texto": "Faraó, Deus diz: deixe meu povo ir!"
+        },
+        {
+          "quem": "farao",
+          "texto": "Quem é esse Deus? Não deixo, não!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "farao",
+          "texto": "Voltem ao trabalho, já!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "arao",
+          "texto": "Ai, ai, o Faraó ficou bravo!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés ficou triste e foi conversar com Deus."
+        },
+        {
+          "quem": "deus",
+          "texto": "Agora você verá o que eu vou fazer!"
+        },
+        {
+          "quem": "moises",
+          "texto": "Obrigado, Deus! Eu confio em você!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo quando demora, Deus cumpre o que promete!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "historia_id": "dez-mandamentos",
+  "titulo": "Os Dez Mandamentos 📜 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Os dez mandamentos",
+  "referencia": "Êxodo 20",
+  "descricao": "No alto do monte, Deus dá ao povo regras de amor para viver bem com Ele e com os outros! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 20\n💛 Lição: as regras de Deus nos ensinam a amar a Deus e aos outros.",
+  "tags": [
+    "dez mandamentos",
+    "moisés no monte sinai",
+    "regras de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "As regras de Deus são regras de amor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Deus vai dar um presente especial!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "personagens": [
+        "menino",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O povo acampou pertinho de um monte bem alto."
+        },
+        {
+          "quem": "narrador",
+          "texto": "No monte tinha nuvem, trovão e som de trombeta. Tuuu!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Uau! Que barulhão!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés subiu o monte para falar com Deus."
+        },
+        {
+          "quem": "deus",
+          "texto": "Eu sou o seu Deus. Não tenha outros deuses."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Honre seu pai e sua mãe."
+        },
+        {
+          "quem": "deus",
+          "texto": "Não roube. Não minta."
+        },
+        {
+          "quem": "moises",
+          "texto": "Sim, Senhor! Vou ensinar tudo ao povo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "moises",
+        "mulher",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus escreveu as regras em duas placas de pedra."
+        },
+        {
+          "quem": "moises",
+          "texto": "São regras de amor para vivermos bem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Vamos obedecer a Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "E obedecer ao papai e à mamãe!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "As regras de Deus mostram como amar a Deus e aos outros!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

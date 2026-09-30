@@ -1,0 +1,169 @@
+{
+  "historia_id": "agua-rocha",
+  "titulo": "Água da Pedra! 💧 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Água da pedra",
+  "referencia": "Êxodo 17",
+  "descricao": "No deserto quente o povo ficou com sede. Deus mandou Moisés bater na rocha, e saiu água fresquinha! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Êxodo 17\n💛 Lição: quando você precisar, peça a Deus, porque Ele cuida de você.",
+  "tags": [
+    "água da rocha",
+    "moisés",
+    "milagre no deserto",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida quando pedimos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "moises": {
+      "preset": "moises"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você sabia que uma pedra pode dar água?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "menina",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O sol estava quentão, e o povo estava com sede."
+        },
+        {
+          "quem": "menina",
+          "texto": "Ai, que sede! Minha boca está sequinha!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "homem",
+          "texto": "Moisés, cadê a água?",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés foi conversar com Deus."
+        },
+        {
+          "quem": "moises",
+          "texto": "Deus, o que eu faço com este povo?",
+          "emocao": "triste"
+        },
+        {
+          "quem": "deus",
+          "texto": "Bata na rocha com seu cajado."
+        },
+        {
+          "quem": "deus",
+          "texto": "Eu estarei lá na rocha com você."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Moisés levantou o cajado e... toc!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Saiu água fresquinha da pedra! Glub, glub, splash!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "menina",
+        "homem",
+        "moises"
+      ],
+      "falas": [
+        {
+          "quem": "menina",
+          "texto": "Que água gostosa! Obrigada, Deus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Tem água pra todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "moises",
+          "texto": "Deus nunca esquece da gente!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando você precisar, peça a Deus. Ele cuida de você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

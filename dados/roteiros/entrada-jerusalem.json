@@ -1,0 +1,186 @@
+{
+  "historia_id": "entrada-jerusalem",
+  "titulo": "Hosana! Jesus no Jumentinho 🌿 | Historinha Bíblica #shorts",
+  "titulo_curto": "Hosana! Jesus no jumentinho",
+  "referencia": "Mateus 21",
+  "descricao": "Jesus chegou a Jerusalém montado num jumentinho, e o povo balançou ramos gritando hosana! Historinha de Páscoa contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 21\n💛 Lição: Jesus é o Rei, e podemos louvar com alegria.",
+  "tags": [
+    "hosana",
+    "domingo de ramos",
+    "páscoa para crianças",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus é o nosso Rei",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "jumento": {
+      "preset": "jumento"
+    },
+    "menino": {
+      "preset": "menino",
+      "acessorio": "ramo"
+    },
+    "menina": {
+      "preset": "menina",
+      "acessorio": "ramo"
+    },
+    "pedro": {
+      "preset": "pedro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Pega um raminho, que hoje tem festa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus estava chegando na grande cidade de Jerusalém."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Tragam aquele jumentinho para mim.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Aqui está, Mestre! Bem mansinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jumento",
+          "texto": "Ióóó!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus montou no jumentinho. Tloc, tloc, tloc!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O povo estendeu mantos e ramos pelo chão."
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "menino",
+        "menina",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "menino",
+          "texto": "Hosana! Bendito o que vem em nome do Senhor!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "menina",
+          "texto": "Hosana! Olha, é o nosso Rei!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Todo mundo balançava os ramos, bem feliz!"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Obrigado, pequeninos!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Até no templo as crianças continuaram cantando! Jesus gostou muito."
+        },
+        {
+          "quem": "menino",
+          "texto": "Hosana! Hosana!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "menina",
+          "texto": "Jesus é o Rei!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus é o nosso Rei. Vamos louvar com alegria!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

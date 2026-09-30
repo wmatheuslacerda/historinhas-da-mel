@@ -1,0 +1,178 @@
+{
+  "historia_id": "paes-peixes",
+  "titulo": "Cinco Pães e Dois Peixinhos 🐟 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Pães e peixinhos",
+  "referencia": "João 6",
+  "descricao": "Um menino divide seu lanche de cinco pães e dois peixinhos, e Jesus alimenta uma multidão enorme, e ainda sobra! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: João 6\n💛 Lição: quando dividimos o pouco com Jesus, Ele faz muito.",
+  "tags": [
+    "cinco pães e dois peixes",
+    "multiplicação dos pães",
+    "menino do lanche",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Dividir com Jesus o que temos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "andre": {
+      "preset": "andre"
+    },
+    "menino_lanche": {
+      "preset": "menino_lanche"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Um lanchinho pode alimentar um montão de gente?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "andre",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Uma multidão enorme seguiu Jesus até um monte."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Tô com fome! Minha barriga faz ronc!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Onde vamos achar comida para todo mundo?",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "andre",
+        "menino_lanche",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "andre",
+          "texto": "Este menino tem cinco pães e dois peixinhos."
+        },
+        {
+          "quem": "andre",
+          "texto": "Mas o que é isso para tanta gente?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "menino_lanche",
+          "texto": "Pode ficar, Jesus! Eu divido!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "andre",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Peçam para todos sentarem na grama.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jesus agradeceu a Deus e repartiu os pães e os peixes."
+        },
+        {
+          "quem": "narrador",
+          "texto": "E dava, e dava, e não acabava!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Que delícia! Comi até encher!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "andre",
+        "menino_lanche"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois, recolheram as sobras. Deu doze cestos cheios!"
+        },
+        {
+          "quem": "menino_lanche",
+          "texto": "Uau! Meu lanchinho virou um banquetão!",
+          "emocao": "surpreso",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando dividimos com Jesus o pouco que temos, Ele faz muito!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

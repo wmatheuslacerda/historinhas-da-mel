@@ -1,0 +1,175 @@
+{
+  "historia_id": "jaco-esau-abraco",
+  "titulo": "O Abraço dos Irmãos 🤗 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O abraço dos irmãos",
+  "referencia": "Gênesis 33",
+  "descricao": "Depois de muito tempo longe, Jacó volta para casa e reencontra seu irmão Esaú, que corre para abraçá-lo. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 33\n💛 Lição: fazer as pazes é muito bom e alegra o coração de Deus.",
+  "tags": [
+    "jacó e esaú",
+    "perdão",
+    "irmãos",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "fazer as pazes",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jaco": {
+      "preset": "jaco"
+    },
+    "esau": {
+      "preset": "esau"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    },
+    "camelo": {
+      "preset": "camelo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você já fez as pazes com alguém? Vem ver essa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jaco",
+        "ovelha",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jacó morou muitos anos longe do irmão Esaú."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Agora, estava voltando para casa."
+        },
+        {
+          "quem": "jaco",
+          "texto": "Será que Esaú ainda está chateado comigo?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jacó orou pedindo ajuda para Deus."
+        },
+        {
+          "quem": "jaco",
+          "texto": "Deus, me ajuda a fazer as pazes!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E mandou presentes: cabritos, ovelhas e camelos!"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "esau"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, lá vinha Esaú, correndo!"
+        },
+        {
+          "quem": "esau",
+          "texto": "Jacó! Jacó! É você mesmo?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "jaco",
+          "texto": "Sou eu, Esaú!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "jaco",
+        "esau"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Esaú deu um abraço bem apertado. Hum!"
+        },
+        {
+          "quem": "esau",
+          "texto": "Que saudade, meu irmão!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "jaco",
+          "texto": "Me desculpe, Esaú!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Os dois choraram de alegria!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Fazer as pazes é muito bom! Deus adora ver isso!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

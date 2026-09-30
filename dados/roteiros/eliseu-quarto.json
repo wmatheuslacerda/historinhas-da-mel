@@ -1,0 +1,185 @@
+{
+  "historia_id": "eliseu-quarto",
+  "titulo": "O Quartinho para Eliseu 🛏️ | Historinha Bíblica #shorts",
+  "titulo_curto": "O quartinho de Eliseu",
+  "referencia": "2 Reis 4",
+  "descricao": "Uma mulher de Suném e seu marido preparam um quartinho para o profeta Eliseu descansar, e Deus abençoa a família com um filhinho. Uma historinha sobre hospitalidade, contada pela ovelhinha Mel.\n\n📖 Referência: 2 Reis 4\n💛 Lição: quando a gente acolhe os outros com amor, Deus se alegra.",
+  "tags": [
+    "eliseu",
+    "sunamita",
+    "hospitalidade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Acolher os outros com amor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "eliseu": {
+      "preset": "eliseu"
+    },
+    "mulher": {
+      "preset": "mulher",
+      "nome": "Sunamita"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Marido"
+    },
+    "bebe": {
+      "tipo": "humano",
+      "nome": "Bebê",
+      "voz": "menino",
+      "idade": "bebe",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "nenhuma",
+      "roupa": "#9ad0f5",
+      "roupa2": "#ffffff",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você gosta de receber visitas? Essa família adorava!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "eliseu",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eliseu sempre passava pela cidade de Suném."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Eliseu, venha comer com a gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Que bom! Obrigado!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "mulher",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "mulher",
+          "texto": "Vamos fazer um quartinho para ele descansar?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "homem",
+          "texto": "Boa ideia! Com cama, mesa, cadeira e lampião!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "eliseu",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "eliseu",
+          "texto": "Que quartinho gostoso! O que posso fazer por você?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ela não tinha filhos. Então Eliseu contou uma novidade."
+        },
+        {
+          "quem": "eliseu",
+          "texto": "Daqui a um ano, você vai ter um bebê!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mulher",
+        "homem",
+        "bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E aconteceu! Nasceu um menininho lindo. Oi, bebê!"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Obrigada, Deus! Que presente maravilhoso!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "homem",
+          "texto": "Nosso filhinho! Deus é tão bom!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando você acolhe os outros com amor, Deus se alegra!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

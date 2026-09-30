@@ -1,0 +1,175 @@
+{
+  "historia_id": "paulo-cesto",
+  "titulo": "Paulo Desce no Cesto 🧺 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Paulo desce no cesto",
+  "referencia": "Atos 9",
+  "descricao": "Quando uns homens bravos querem pegar Paulo, os amigos têm uma ideia bem criativa: um cesto e uma corda! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 9\n💛 Lição: deus usa bons amigos para cuidar da gente.",
+  "tags": [
+    "paulo",
+    "paulo no cesto",
+    "amizade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus usa bons amigos para cuidar da gente",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "amigo": {
+      "preset": "homem",
+      "nome": "Amigo de Paulo"
+    },
+    "amiga": {
+      "preset": "mulher",
+      "nome": "Amiga de Paulo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Já pensou passear dentro de um cesto? Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Em Damasco, Paulo falava de Jesus pra todo mundo."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Jesus é o Filho de Deus! Ele ama vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Muita gente ficava admirada."
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "soldado",
+        "amigo",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas uns homens bravos queriam pegar Paulo."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Eles vigiavam os portões da cidade dia e noite."
+        },
+        {
+          "quem": "amigo",
+          "texto": "Paulo, eles estão nos portões!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "amiga",
+        "amigo",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "amiga",
+          "texto": "Tive uma ideia! Um cesto bem grande!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "amigo",
+          "texto": "E uma corda bem forte!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Que ideia criativa!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "paulo",
+        "amigo",
+        "amiga"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De noite, Paulo entrou no cesto."
+        },
+        {
+          "quem": "narrador",
+          "texto": "E os amigos desceram devagarinho pela janela do muro. Desce, desce..."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Cheguei! Obrigado, amigos!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus usa bons amigos pra cuidar da gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

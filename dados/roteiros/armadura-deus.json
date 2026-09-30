@@ -1,0 +1,166 @@
+{
+  "historia_id": "armadura-deus",
+  "titulo": "A Armadura de Deus 🛡️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A armadura de Deus",
+  "referencia": "Efésios 6",
+  "descricao": "Paulo olhou para um soldado e explicou que Deus nos dá uma armadura especial: cinto da verdade, escudo da fé, capacete da salvação e espada da Palavra. Explicado pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Efésios 6\n💛 Lição: deus nos protege com sua armadura.",
+  "tags": [
+    "armadura de deus",
+    "efésios 6",
+    "escudo da fé",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus nos protege com sua armadura",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "menino": {
+      "preset": "menino",
+      "armadura": true
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quer ser um soldadinho de Deus? Vem se vestir!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "paulo",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paulo estava preso, e um soldado ficava pertinho dele."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Olha a armadura desse soldado! Deus também dá uma pra nós!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "paulo",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "paulo",
+          "texto": "Primeiro, o cinto da verdade. Sempre falar a verdade!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Cinto colocado! Clic!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Agora, o escudo da fé. É confiar em Deus!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "paulo",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "paulo",
+          "texto": "Aqui está o capacete da salvação. Jesus te salvou!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Que capacete brilhante!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "paulo",
+          "texto": "E a espada é a Palavra de Deus, a Bíblia!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "menino",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "menino",
+          "texto": "Estou pronto! Deus me protege!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "paulo",
+          "texto": "E não esqueça de orar sempre!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus protege você com a armadura dele!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

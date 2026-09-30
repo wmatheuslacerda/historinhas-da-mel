@@ -1,0 +1,180 @@
+{
+  "historia_id": "jumenta-balaao",
+  "titulo": "A Jumentinha que Falou! 🫏 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A jumentinha que falou",
+  "referencia": "Números 22",
+  "descricao": "Balaão viajava na sua jumentinha quando um anjo apareceu no caminho. Só ela viu, e Deus fez a jumentinha falar! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Números 22\n💛 Lição: Deus sabe o melhor caminho, então vamos sempre ouvir Deus.",
+  "tags": [
+    "jumenta de balaão",
+    "balaão",
+    "animal que falou",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus sabe o melhor caminho",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "balaao": {
+      "tipo": "humano",
+      "idade": "adulto",
+      "nome": "Balaão",
+      "voz": "homem",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "grisalho",
+      "estilo_cabelo": "curto",
+      "barba": "longa",
+      "roupa": "#7a5c3e",
+      "roupa2": "#d9b98a",
+      "cobertura": "lenco",
+      "manto": true
+    },
+    "jumento": {
+      "preset": "jumento",
+      "nome": "Jumentinha"
+    },
+    "anjo": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você já ouviu uma jumentinha falar?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "balaao",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Balaão ia viajando montado na sua jumentinha."
+        },
+        {
+          "quem": "balaao",
+          "texto": "Anda, jumentinha! Temos pressa!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jumento",
+        "balaao",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No caminho estava um anjo! Só a jumentinha viu."
+        },
+        {
+          "quem": "jumento",
+          "texto": "Ióóó! Eu não vou passar!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "balaao",
+          "texto": "Por que você parou? Anda logo!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "personagens": [
+        "jumento",
+        "balaao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ela parou três vezes. Então Deus fez a jumentinha falar!"
+        },
+        {
+          "quem": "jumento",
+          "texto": "Por que você está bravo comigo? Eu sempre te obedeci!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "balaao",
+          "texto": "Uma jumentinha falando?!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "balaao",
+        "anjo",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então Deus abriu os olhos de Balaão, e ele viu o anjo!"
+        },
+        {
+          "quem": "anjo",
+          "texto": "A jumentinha te protegeu. Fale só o que Deus mandar!"
+        },
+        {
+          "quem": "balaao",
+          "texto": "Desculpa! Vou obedecer!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus sabe o melhor caminho. Vamos sempre ouvir Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

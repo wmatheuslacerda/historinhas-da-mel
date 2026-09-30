@@ -1,0 +1,179 @@
+{
+  "historia_id": "fornalha",
+  "titulo": "Os Três Amigos na Fornalha 🔥 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Três amigos na fornalha",
+  "referencia": "Daniel 3",
+  "descricao": "Sadraque, Mesaque e Abede-Nego não se curvam para a estátua do rei, e Deus os protege dentro da fornalha. Uma historinha sobre fidelidade e coragem, contada pela ovelhinha Mel.\n\n📖 Referência: Daniel 3\n💛 Lição: Deus está com a gente em qualquer situação.",
+  "tags": [
+    "fornalha ardente",
+    "sadraque mesaque abede-nego",
+    "daniel 3",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus está sempre com a gente",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "sadraque": {
+      "preset": "sadraque"
+    },
+    "mesaque": {
+      "preset": "mesaque"
+    },
+    "abednego": {
+      "preset": "abednego"
+    },
+    "nabucodonosor": {
+      "preset": "nabucodonosor"
+    },
+    "anjo": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Três amigos, uma estátua gigante e uma grande surpresa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "nabucodonosor",
+        "sadraque",
+        "mesaque"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei fez uma estátua de ouro enorme."
+        },
+        {
+          "quem": "nabucodonosor",
+          "texto": "Todo mundo tem que se curvar para ela!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "sadraque",
+          "texto": "Nós só adoramos a Deus!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "nabucodonosor",
+        "abednego",
+        "mesaque"
+      ],
+      "falas": [
+        {
+          "quem": "nabucodonosor",
+          "texto": "Então vão para a fornalha quente!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "abednego",
+          "texto": "Nosso Deus pode nos livrar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mesaque",
+          "texto": "E mesmo assim, só adoramos a ele!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "fornalha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "sadraque",
+        "mesaque",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os três foram colocados no fogo. Fuuu!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas eles passeavam lá dentro, e tinha mais um com eles!"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Não tenham medo. Deus está com vocês!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "fornalha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "nabucodonosor",
+        "sadraque",
+        "abednego"
+      ],
+      "falas": [
+        {
+          "quem": "nabucodonosor",
+          "texto": "Saiam daí! Nem cheiro de fumaça!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "sadraque",
+          "texto": "Deus nos protegeu!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "nabucodonosor",
+          "texto": "O Deus de vocês é maravilhoso!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus está com você em qualquer lugar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

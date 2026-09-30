@@ -1,0 +1,179 @@
+{
+  "historia_id": "paulo-luz",
+  "titulo": "A Luz no Caminho de Paulo ✨ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A luz no caminho de Paulo",
+  "referencia": "Atos 9",
+  "descricao": "Paulo não gostava dos amigos de Jesus, até que uma luz fortíssima brilhou no caminho e Jesus falou com ele. Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 9\n💛 Lição: jesus pode mudar qualquer coração.",
+  "tags": [
+    "paulo",
+    "caminho de damasco",
+    "conversão de paulo",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus pode mudar qualquer coração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "ananias": {
+      "tipo": "humano",
+      "nome": "Ananias",
+      "voz": "idoso",
+      "idade": "idoso",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "grisalho",
+      "estilo_cabelo": "curto",
+      "barba": "longa",
+      "roupa": "#8f7a5a",
+      "roupa2": "#e8dcc2",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Uma luz mais forte que o sol? Vem ver!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "paulo",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paulo era bravo com os amigos de Jesus."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Vou até Damasco pegar esse pessoal!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "paulo",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No caminho, uma luz fortíssima brilhou do céu. Fuuush!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Paulo caiu no chão, tum!",
+          "emocao": "surpreso",
+          "acao": "cair",
+          "alvo": "paulo"
+        },
+        {
+          "quem": "deus",
+          "texto": "Paulo, Paulo, por que você está contra mim?"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Quem é você, Senhor?",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "paulo",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Eu sou Jesus! Levante e entre na cidade."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Paulo ficou sem enxergar por três dias."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ananias",
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "ananias",
+          "texto": "Irmão Paulo, Jesus me mandou aqui!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ananias orou, e Paulo voltou a enxergar!"
+        },
+        {
+          "quem": "paulo",
+          "texto": "Agora eu vou contar de Jesus pra todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus pode mudar qualquer coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "historia_id": "teto-aberto",
+  "titulo": "Os Amigos Que Abriram o Teto 🏠 | Historinha Bíblica #shorts",
+  "titulo_curto": "Os amigos e o teto",
+  "referencia": "Marcos 2",
+  "descricao": "Quatro amigos levam um amigo que não podia andar até Jesus, descendo pelo telhado! Jesus vê a fé deles e o homem volta a andar. Contada pela ovelhinha Mel.\n\n📖 Referência: Marcos 2\n💛 Lição: bons amigos levam os outros até Jesus.",
+  "tags": [
+    "paralítico",
+    "amigos de jesus",
+    "milagres de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Bons amigos levam os outros até Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "amigo": {
+      "tipo": "humano",
+      "nome": "Amigo",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "morena",
+      "cabelo": "preto",
+      "estilo_cabelo": "cacheado",
+      "barba": "curta",
+      "roupa": "#3d8c5a",
+      "roupa2": "#e8d9b5",
+      "cobertura": "faixa",
+      "acessorio": "nenhum"
+    },
+    "amigo2": {
+      "tipo": "humano",
+      "nome": "Amigo",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "clara",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "nenhuma",
+      "roupa": "#d9822b",
+      "roupa2": "#f2efe6",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum"
+    },
+    "doente": {
+      "tipo": "humano",
+      "nome": "Homem",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#6b8fb3",
+      "roupa2": "#f2efe6",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Já viu alguém entrar pelo telhado? Hihi!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "doente",
+        "amigo",
+        "amigo2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tinha um homem que não conseguia andar. Mas ele tinha quatro amigos!"
+        },
+        {
+          "quem": "amigo",
+          "texto": "Vamos levar você até Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "amigo2",
+          "texto": "Um, dois, três... levanta a maca!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "amigo",
+        "mulher",
+        "amigo2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas a casa estava lotada! Não cabia mais ninguém."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Não dá pra passar! Tá cheio!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "amigo",
+          "texto": "Já sei! Vamos pelo telhado!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "doente",
+        "amigo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles abriram um buraco no teto e desceram o amigo. Devagarinho!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Filho, seus pecados estão perdoados.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Levante-se, pegue sua maca e vá para casa!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "doente",
+        "amigo",
+        "amigo2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E o homem levantou na hora!"
+        },
+        {
+          "quem": "doente",
+          "texto": "Eu estou andando! Obrigado, Jesus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "amigo2",
+          "texto": "Nunca vimos nada assim!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Bons amigos ajudam os outros a chegar até Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

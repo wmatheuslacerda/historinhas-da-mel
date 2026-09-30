@@ -1,0 +1,166 @@
+{
+  "historia_id": "ovelha-perdida",
+  "titulo": "A Ovelhinha Perdida 🐑 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A ovelha perdida",
+  "referencia": "Lucas 15",
+  "descricao": "O bom pastor tinha cem ovelhas e uma se perdeu. Ele deixou as noventa e nove e procurou até achar! Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 15\n💛 Lição: Você é muito importante para Deus. Ele nunca desiste de você.",
+  "tags": [
+    "ovelha perdida",
+    "parábola",
+    "bom pastor",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus procura cada um de nós",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pastor": {
+      "preset": "pastor"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Essa história é de uma ovelhinha, igual eu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus contou uma história bem bonita."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Um pastor tinha cem ovelhas. Ele conhecia cada uma!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "pastor",
+        "ovelha"
+      ],
+      "falas": [
+        {
+          "quem": "pastor",
+          "texto": "Noventa e sete, noventa e oito, noventa e nove... Ué! Falta uma!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "ovelha",
+          "texto": "Béé!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "pastor",
+          "texto": "Fiquem aqui. Vou procurar minha ovelhinha!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Lá longe, na montanha, a ovelhinha estava sozinha."
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Bééé! Cadê meu pastor?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "pastor",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O pastor subiu e desceu, procurando em todo lugar."
+        },
+        {
+          "quem": "pastor",
+          "texto": "Achei você! Vem cá, pequenina!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele colocou a ovelhinha nos ombros e voltou cantando."
+        },
+        {
+          "quem": "pastor",
+          "texto": "Amigos, façam festa comigo! Achei minha ovelha!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você é muito importante para Deus. Ele nunca desiste de você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

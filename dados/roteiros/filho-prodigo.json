@@ -1,0 +1,156 @@
+{
+  "historia_id": "filho-prodigo",
+  "titulo": "O Filho Que Voltou Para Casa 🏠 | Historinha Bíblica #shorts",
+  "titulo_curto": "O filho pródigo",
+  "referencia": "Lucas 15",
+  "descricao": "Um filho foi embora de casa, mas quando voltou, o pai correu para abraçá-lo! Parábola de Jesus sobre o perdão, contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 15\n💛 Lição: Deus perdoa e recebe você de braços abertos.",
+  "tags": [
+    "filho pródigo",
+    "parábola",
+    "perdão",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus sempre nos recebe de braços abertos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pai": {
+      "preset": "idoso"
+    },
+    "filho": {
+      "preset": "homem"
+    },
+    "jesus": {
+      "preset": "jesus"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem o abraço mais gostoso do mundo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "pai",
+        "filho"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus contou a história de um pai e seu filho."
+        },
+        {
+          "quem": "filho",
+          "texto": "Pai, me dá minha parte do dinheiro. Vou embora!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "pai",
+          "texto": "Ai, meu filho...",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "personagens": [
+        "filho"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O filho gastou tudinho em festas. Ficou sem nada!"
+        },
+        {
+          "quem": "filho",
+          "texto": "Ai, que fome! Estou cuidando de porquinhos!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "nublado",
+      "personagens": [
+        "filho"
+      ],
+      "falas": [
+        {
+          "quem": "filho",
+          "texto": "Na casa do meu pai tem comida para todos!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "filho",
+          "texto": "Vou voltar e pedir perdão.",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "pai",
+        "filho"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O pai viu o filho lá longe e correu, zuuum!"
+        },
+        {
+          "quem": "filho",
+          "texto": "Pai, eu errei. Me perdoa?",
+          "emocao": "triste"
+        },
+        {
+          "quem": "pai",
+          "texto": "Meu filho voltou! Vamos fazer uma festa!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus sempre perdoa e recebe você de braços abertos!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

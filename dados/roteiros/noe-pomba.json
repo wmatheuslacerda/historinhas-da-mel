@@ -1,0 +1,172 @@
+{
+  "historia_id": "noe-pomba",
+  "titulo": "A Pomba e o Raminho 🕊️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A pomba e o raminho",
+  "referencia": "Gênesis 8",
+  "descricao": "Noé solta uma pombinha da arca, e ela volta trazendo um raminho de oliveira: a terra está secando! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 8\n💛 Lição: vale a pena esperar com paciência o tempo de Deus.",
+  "tags": [
+    "noé",
+    "pomba",
+    "ramo de oliveira",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "esperar o tempo de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "noe": {
+      "preset": "noe"
+    },
+    "esposa_noe": {
+      "preset": "esposa_noe"
+    },
+    "pomba": {
+      "preset": "pomba"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Uma pombinha levou um presente especial. Qual será?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "dia",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A chuva tinha parado, mas ainda tinha muita água."
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Será que a terra já secou?",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "noe",
+          "texto": "Vamos descobrir!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "oceano",
+      "periodo": "dia",
+      "personagens": [
+        "noe",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "noe",
+          "texto": "Voa, pombinha! Vai ver lá fora!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Lá vou eu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas ela não achou lugar para pousar. Voltou!"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "tarde",
+      "personagens": [
+        "noe",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Noé esperou sete dias. E soltou de novo!"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu! Vou tentar outra vez!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "noe",
+        "esposa_noe",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De tardinha, ela voltou com um raminho no bico!"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Olha o que achei!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "noe",
+          "texto": "Um raminho de oliveira! A terra está secando!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Que notícia boa!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Esperar com paciência o tempo de Deus vale a pena!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

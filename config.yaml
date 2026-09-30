@@ -1,0 +1,52 @@
+# =====================================================================
+#  Historinhas da Mel — configuração do canal
+#  Tudo aqui pode ser alterado sem mexer no código.
+#  As CHAVES (senhas) NÃO ficam aqui: ficam nos "Secrets" do GitHub.
+# =====================================================================
+
+canal:
+  nome: "Historinhas da Mel"          # troque pelo nome do canal que você criar
+  mascote: "Mel"                      # ovelhinha que apresenta as histórias
+  publico: "crianças de 3 a 6 anos"
+
+roteiro:
+  modelo: "claude-sonnet-5-5"         # modelo da API da Anthropic
+  palavras_min: 95
+  palavras_max: 135
+  tentativas: 3
+
+video:
+  largura: 1080
+  altura: 1920
+  fps: 30
+  duracao_max: 59.0                   # segundos (Shorts)
+  musica_volume: 0.16                 # 0 a 1 (fica mais baixa quando alguém fala)
+
+elevenlabs:
+  modelo: "eleven_flash_v2_5"         # metade dos créditos; troque por "eleven_multilingual_v2" para mais qualidade
+  formato: "mp3_44100_128"
+  # Cada TIPO de voz aponta para um voice_id da sua conta ElevenLabs.
+  # Rode:  python scripts/listar_vozes.py   para ver os IDs das suas vozes.
+  # Dica: na Voice Library da ElevenLabs, filtre por "Portuguese (Brazil)"
+  #       e adicione vozes brasileiras à sua conta; depois cole os IDs aqui.
+  # tom: 1.0 = natural | >1 mais fina (criança/desenho) | <1 mais grossa
+  # velocidade: 0.7 a 1.2 (para 3–6 anos, um pouco mais devagar é melhor)
+  vozes:
+    narrador: { voice_id: "I0AnpkopkGhBwaILLLi4", tom: 1.0,  velocidade: 0.95 }   # Mel Ovelhinha (voz criada no Voice Design)
+    menino:   { voice_id: "IGmfzACCDHYu8YfQJuVi", tom: 1.22, velocidade: 1.0 }    # Jonas - desenho animado (BR) afinado
+    menina:   { voice_id: "y9CNRBALdlEecGD3RnmT", tom: 1.18, velocidade: 1.0 }    # Carla Playful (BR) afinada
+    homem:    { voice_id: "6pQlwCgfwffNdI3jjzM6", tom: 1.0,  velocidade: 0.95 }   # Fernando Borges (BR)
+    mulher:   { voice_id: "FIEA0c5UHH9JnvWaQrXS", tom: 1.0,  velocidade: 0.95 }   # Michele (BR)
+    idoso:    { voice_id: "9gyzbQHdF25s4QwkUOhx", tom: 1.0,  velocidade: 0.92 }   # Vovô Sábio (Voice Design)
+    idosa:    { voice_id: "7eUAxNOneHxqfyRS77mW", tom: 0.93, velocidade: 0.9 }    # Carla (BR)
+    gigante:  { voice_id: "TGQ6TCIGuQLE50EExKQi", tom: 0.85, velocidade: 0.9 }    # Gigante Desenho (Voice Design)
+    deus:     { voice_id: "7ahork8lgnTEYV8TzR3y", tom: 0.97, velocidade: 0.88, eco: true }  # Rodrigo (BR)
+    anjo:     { voice_id: "7eUAxNOneHxqfyRS77mW", tom: 1.10, velocidade: 0.95, eco: true }  # Carla (BR)
+    animal:   { voice_id: "eTEvfK713so2JqIkcSxe", tom: 1.0,  velocidade: 1.0 }    # Bichinho Fofo (Voice Design)
+
+youtube:
+  privacidade: "public"               # public | unlisted | private
+  categoria: "1"                      # 1 = Filmes e animação
+  feito_para_criancas: true           # obrigatório para conteúdo infantil (lei COPPA)
+  idioma: "pt-BR"
+  hashtags: ["#shorts", "#historinhabiblica", "#bibliaparacriancas"]

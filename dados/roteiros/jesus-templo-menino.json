@@ -1,0 +1,170 @@
+{
+  "historia_id": "jesus-templo-menino",
+  "titulo": "Jesus Menino no Templo 📜 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus no templo",
+  "referencia": "Lucas 2",
+  "descricao": "Aos 12 anos, Jesus fica no templo conversando com os mestres, e Maria e José o procuram por três dias! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Lucas 2\n💛 Lição: é bom aprender sobre Deus e obedecer ao papai e à mamãe.",
+  "tags": [
+    "jesus menino",
+    "jesus no templo",
+    "jesus aos 12 anos",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Aprender sobre Deus e obedecer aos pais",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus_menino": {
+      "preset": "jesus_menino"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "jose": {
+      "preset": "jose_carpinteiro"
+    },
+    "idoso": {
+      "preset": "idoso"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Onde será que o menino Jesus se escondeu?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "jesus_menino",
+        "maria",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus tinha doze anos. A família foi a Jerusalém para uma festa."
+        },
+        {
+          "quem": "jesus_menino",
+          "texto": "Que cidade grande! Adoro essa festa!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "maria",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na volta, Maria e José andaram um dia inteiro."
+        },
+        {
+          "quem": "maria",
+          "texto": "José, cadê o Jesus? Ele não está com os primos!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jose",
+          "texto": "Vamos voltar e procurar!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus_menino",
+        "idoso"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois de três dias, acharam Jesus no templo."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele conversava com os mestres, ouvindo e perguntando."
+        },
+        {
+          "quem": "idoso",
+          "texto": "Que menino sábio! Estou admirado!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "maria",
+        "jesus_menino",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "maria",
+          "texto": "Filho, estávamos procurando você!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "jesus_menino",
+          "texto": "Não sabiam que eu devia estar na casa do meu Pai?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Depois, Jesus voltou para casa e obedecia a eles.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Aprender sobre Deus é bom! E obedecer ao papai e à mamãe também!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

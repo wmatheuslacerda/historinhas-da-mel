@@ -1,0 +1,193 @@
+{
+  "historia_id": "rode-porta",
+  "titulo": "Rode Esquece de Abrir a Porta 🚪 | Historinha Bíblica #shorts",
+  "titulo_curto": "Rode e a porta",
+  "referencia": "Atos 12",
+  "descricao": "Pedro saiu da prisão e bate na porta. A menina Rode fica tão feliz que corre contar para todos... e esquece de abrir! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 12\n💛 Lição: deus responde as nossas orações.",
+  "tags": [
+    "rode",
+    "pedro",
+    "oração respondida",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus responde as nossas orações",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "rode": {
+      "tipo": "humano",
+      "nome": "Rode",
+      "voz": "menina",
+      "idade": "crianca",
+      "genero": "f",
+      "pele": "clara",
+      "cabelo": "ruivo",
+      "estilo_cabelo": "tranca",
+      "barba": "nenhuma",
+      "roupa": "#e07aa0",
+      "roupa2": "#fbe9d6",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "mulher": {
+      "preset": "mulher"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Toc, toc! Quem será? Essa história é engraçada!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "mulher",
+        "homem",
+        "rode"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na casa de Maria, muitos amigos oravam por Pedro, que estava preso."
+        },
+        {
+          "quem": "homem",
+          "texto": "Deus, protege o Pedro!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas Deus já tinha tirado Pedro da prisão!"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Toc, toc, toc! Abram, sou eu!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "rode"
+      ],
+      "falas": [
+        {
+          "quem": "rode",
+          "texto": "Essa voz... É o Pedro!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Rode ficou tão feliz que correu... e esqueceu de abrir a porta!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "rode",
+        "mulher",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "rode",
+          "texto": "O Pedro está lá fora!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "mulher",
+          "texto": "Rode, você está sonhando!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o Pedro lá fora: toc, toc, toc!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "pedro",
+        "rode",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Quando abriram a porta, todos se espantaram!"
+        },
+        {
+          "quem": "homem",
+          "texto": "É o Pedro mesmo! Deus ouviu a gente!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus responde as nossas orações!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

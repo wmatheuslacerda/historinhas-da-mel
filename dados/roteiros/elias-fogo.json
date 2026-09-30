@@ -1,0 +1,167 @@
+{
+  "historia_id": "elias-fogo",
+  "titulo": "Elias e o Fogo do Céu 🔥 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Elias e o fogo do céu",
+  "referencia": "1 Reis 18",
+  "descricao": "No monte Carmelo, os profetas de Baal gritam e nada acontece, mas Elias ora com calma e Deus responde com fogo do céu. Uma historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Reis 18\n💛 Lição: só existe um Deus verdadeiro, e Ele ouve a nossa oração.",
+  "tags": [
+    "elias",
+    "monte carmelo",
+    "fogo do céu",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus ouve a nossa oração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "elias": {
+      "preset": "elias"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Profeta de Baal"
+    },
+    "idoso": {
+      "preset": "idoso"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Hoje tem um desafio no alto de um monte!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "elias",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O povo estava esquecendo de Deus. Elias fez um teste."
+        },
+        {
+          "quem": "elias",
+          "texto": "Vocês chamam o seu deus. Eu chamo o Senhor!"
+        },
+        {
+          "quem": "elias",
+          "texto": "Quem mandar fogo é o Deus verdadeiro!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "personagens": [
+        "homem",
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "homem",
+          "texto": "Baal! Baal! Responde! Ô Baal!",
+          "emocao": "bravo",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Gritaram o dia inteiro... e nada! Silêncio."
+        },
+        {
+          "quem": "elias",
+          "texto": "Será que ele está dormindo?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Elias ainda jogou muita água no altar. Splash!"
+        },
+        {
+          "quem": "elias",
+          "texto": "Senhor, mostra que só tu és Deus!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o fogo desceu do céu! Fuuush! Secou até a água!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "idoso",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "idoso",
+          "texto": "O Senhor é Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "mulher",
+          "texto": "O Senhor é Deus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Só existe um Deus verdadeiro, e ele ouve você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "historia_id": "sansao-forte",
+  "titulo": "Sansão, o Homem Forte 💪 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Sansão, o homem forte",
+  "referencia": "Juízes 16",
+  "descricao": "Sansão era fortão, mas a força dele vinha de Deus. Quando perdeu a força, ele orou, e Deus o ajudou outra vez! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Juízes 16\n💛 Lição: a nossa força de verdade vem de Deus.",
+  "tags": [
+    "sansão",
+    "sansão e dalila",
+    "homem forte da bíblia",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Nossa força vem de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "sansao": {
+      "preset": "sansao"
+    },
+    "dalila": {
+      "preset": "mulher",
+      "nome": "Dalila"
+    },
+    "soldado": {
+      "preset": "soldado"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você sabe quem era o homem mais forte?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "sansao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Sansão era fortão! Mas a força vinha de Deus."
+        },
+        {
+          "quem": "sansao",
+          "texto": "Meu cabelo comprido mostra que sou de Deus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "dalila",
+        "sansao"
+      ],
+      "falas": [
+        {
+          "quem": "dalila",
+          "texto": "Sansão, qual é o segredo da sua força?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ela perguntou tanto, que ele contou o segredo."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "sansao",
+        "dalila",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Enquanto ele dormia, cortaram o cabelo dele. Tchic, tchic!"
+        },
+        {
+          "quem": "sansao",
+          "texto": "Oh, não! Minha força foi embora!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Peguei você, Sansão!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "nublado",
+      "personagens": [
+        "sansao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Sansão ficou preso. Mas o cabelo foi crescendo..."
+        },
+        {
+          "quem": "sansao",
+          "texto": "Senhor, lembra de mim! Me dá força outra vez!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "sansao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus respondeu! Sansão empurrou as colunas com força. Cabrum!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele aprendeu: sem Deus, a gente não consegue nada."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "A nossa força de verdade vem de Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

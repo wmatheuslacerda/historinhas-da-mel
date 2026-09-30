@@ -1,0 +1,176 @@
+{
+  "historia_id": "dez-leprosos",
+  "titulo": "O Que Voltou Para Agradecer 🙏 | Historinha Bíblica #shorts",
+  "titulo_curto": "Os dez leprosos",
+  "referencia": "Lucas 17",
+  "descricao": "Dez homens doentes foram curados por Jesus, mas só um voltou para dizer obrigado! Uma historinha sobre gratidão contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 17\n💛 Lição: Não esqueça de dizer obrigado a Deus e às pessoas.",
+  "tags": [
+    "dez leprosos",
+    "gratidão",
+    "obrigado jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Sempre diga obrigado a Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "homem2": {
+      "tipo": "humano",
+      "nome": "Amigo",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "escura",
+      "cabelo": "preto",
+      "estilo_cabelo": "cacheado",
+      "barba": "curta",
+      "roupa": "#7a9e7e"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Qual é a palavrinha mágica? Vamos descobrir!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "homem",
+        "homem2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Dez homens tinham uma doença na pele. Eles moravam longe de todo mundo."
+        },
+        {
+          "quem": "homem",
+          "texto": "Olha lá! É Jesus!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "homem2",
+          "texto": "Jesus, Mestre, tenha pena de nós!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "homem",
+        "homem2"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Vão se mostrar aos sacerdotes!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Eles foram andando e... plim! A pele ficou limpinha!"
+        },
+        {
+          "quem": "homem2",
+          "texto": "Estamos curados! Uhuu!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "homem",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Nove foram embora correndo. Só um voltou, cantando bem alto."
+        },
+        {
+          "quem": "homem",
+          "texto": "Obrigado, Jesus! Muito obrigado!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Não eram dez? Onde estão os outros nove?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "jesus",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Levante-se e vá. A sua fé salvou você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "homem",
+          "texto": "Vou contar para todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "A palavrinha mágica é obrigado! Agradeça a Deus todo dia!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

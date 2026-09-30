@@ -1,0 +1,205 @@
+{
+  "historia_id": "noe-animais",
+  "titulo": "Os Bichinhos Entram na Arca 🦁 | Historinha Bíblica #shorts",
+  "titulo_curto": "Os bichinhos na arca",
+  "referencia": "Gênesis 7",
+  "descricao": "Os animais entram de dois em dois na arca de Noé, do jeitinho que Deus mandou! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 7\n💛 Lição: Deus cuida de todos os bichinhos e de você também.",
+  "tags": [
+    "noé",
+    "arca de noé",
+    "animais da bíblia",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de todos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "noe": {
+      "preset": "noe"
+    },
+    "esposa_noe": {
+      "preset": "esposa_noe"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "camelo": {
+      "preset": "camelo"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "pomba": {
+      "preset": "pomba"
+    },
+    "jumento": {
+      "preset": "jumento"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quantos bichinhos cabem num barco? Vamos contar!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Noé, leve os animais para a arca."
+        },
+        {
+          "quem": "deus",
+          "texto": "De dois em dois, macho e fêmea."
+        },
+        {
+          "quem": "noe",
+          "texto": "Sim, Deus! Vamos lá!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "leao",
+        "camelo",
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E lá vieram os bichinhos! Tum, tum, tum!"
+        },
+        {
+          "quem": "leao",
+          "texto": "Roaar! Cheguei com minha leoa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "camelo",
+          "texto": "Com licença, sou o camelo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "noe",
+          "texto": "Entrem, entrem! Tem lugar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ovelha",
+        "ovelhinha",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "ovelha",
+          "texto": "Méé! Nós também vamos!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méé! Que barco grandão!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Eu vou voando!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Bichinhos grandes, pequenos, fofinhos e pintadinhos!"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "tarde",
+      "personagens": [
+        "noe",
+        "esposa_noe",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "jumento",
+          "texto": "Ióóó! Esperem por mim!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Todo mundo aqui dentro!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Então Deus fechou a porta. Plim!"
+        },
+        {
+          "quem": "noe",
+          "texto": "Obrigado, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de todos os bichinhos e de você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "historia_id": "pedro-joao-paralitico",
+  "titulo": "O Homem Que Pulou de Alegria 🦵 | Historinha Bíblica #shorts",
+  "titulo_curto": "O homem que pulou",
+  "referencia": "Atos 3",
+  "descricao": "Na porta do templo, um homem que nunca tinha andado recebe de Pedro e João algo melhor que dinheiro. Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 3\n💛 Lição: jesus tem um presente melhor que ouro e prata.",
+  "tags": [
+    "pedro e joão",
+    "homem que não andava",
+    "porta formosa",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus tem um presente melhor que ouro e prata",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Homem da Porta",
+      "roupa": "#a58a62"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Hoje tem um homem que pulou igualzinho a mim! Boing!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "personagens": [
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na porta bonita do templo, sentava um homem."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Desde bebê, as perninhas dele não andavam."
+        },
+        {
+          "quem": "homem",
+          "texto": "Uma moedinha, por favor!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "personagens": [
+        "pedro",
+        "joao",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro e João chegaram para orar."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Olhe pra nós!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Não tenho dinheiro. Mas o que eu tenho, eu te dou!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "pedro",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Em nome de Jesus, levante-se e ande!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Pedro pegou a mão dele. E as perninhas ficaram fortes!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Eu estou em pé! Eu estou andando!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "homem",
+        "joao",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ele entrou no templo andando e pulando. Boing, boing!",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Obrigado, Deus! Obrigado!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus tem presentes melhores que ouro e prata!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

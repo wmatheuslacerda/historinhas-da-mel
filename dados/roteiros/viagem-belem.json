@@ -1,0 +1,178 @@
+{
+  "historia_id": "viagem-belem",
+  "titulo": "A Viagem para Belém 🫏 | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "A viagem para Belém",
+  "referencia": "Lucas 2",
+  "descricao": "Maria e José fazem uma longa viagem até Belém, mas não encontram lugar na hospedaria. Deus prepara um lugar simples e cheio de amor! Contada pela ovelhinha Mel.\n\n📖 Referência: Lucas 2\n💛 Lição: Deus cuida de cada detalhe, até quando não há lugar.",
+  "tags": [
+    "viagem para belém",
+    "maria e josé",
+    "natal",
+    "história de natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de cada detalhe",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "jose": {
+      "preset": "jose_carpinteiro"
+    },
+    "jumento": {
+      "preset": "jumento"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos fazer uma viagem até Belém?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "jose",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei mandou todo mundo se registrar na sua cidade."
+        },
+        {
+          "quem": "jose",
+          "texto": "Maria, precisamos ir até Belém!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "maria",
+          "texto": "Vamos, José! Deus vai cuidar da gente.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "maria",
+        "jose",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Foi uma viagem longa, longa! Plóc, plóc, plóc!"
+        },
+        {
+          "quem": "jumento",
+          "texto": "Ióóó! Falta muito?",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "jose",
+          "texto": "Estamos quase chegando, amigão!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jose",
+        "homem",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Belém estava cheia de gente. Toc, toc, toc!"
+        },
+        {
+          "quem": "jose",
+          "texto": "Tem um quartinho para nós? O bebê vai nascer!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "homem",
+          "texto": "Sinto muito, está tudo cheio!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "maria",
+        "jose",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então eles ficaram num lugar simples, junto dos animais."
+        },
+        {
+          "quem": "maria",
+          "texto": "Aqui está quentinho. Deus cuidou de nós!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jumento",
+          "texto": "Ióóó! Bem-vindos!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de cada detalhe da nossa vida!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

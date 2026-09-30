@@ -1,0 +1,179 @@
+{
+  "historia_id": "jesus-anda-agua",
+  "titulo": "Jesus Anda Sobre as Águas 🌊 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus anda sobre as águas",
+  "referencia": "Mateus 14",
+  "descricao": "Jesus caminha sobre o mar e chama Pedro para ir até ele. Enquanto olha para Jesus, Pedro também anda na água! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Mateus 14\n💛 Lição: quando olhamos para Jesus, ficamos firmes.",
+  "tags": [
+    "jesus anda sobre as águas",
+    "pedro anda na água",
+    "milagres de jesus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Manter os olhos em Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "andre": {
+      "preset": "andre"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Dá para andar em cima da água? Vamos ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus mandou os amigos irem de barco. Ele subiu o monte para orar."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Pai, obrigado por tudo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "noite",
+      "personagens": [
+        "pedro",
+        "andre",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De madrugada, Jesus veio andando por cima do mar!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "andre",
+          "texto": "Quem é aquele andando na água?",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Coragem! Sou eu! Não tenham medo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Senhor, se é você, mande eu ir também!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pedro",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Venha, Pedro!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Pedro desceu e andou na água! Plic, plic, plic!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas olhou o vento, teve medo e começou a afundar.",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Senhor, me ajuda!",
+          "emocao": "assustado"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro",
+        "andre"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus pegou a mão dele na hora."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Por que duvidou? Confie em mim!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "andre",
+          "texto": "Você é mesmo o Filho de Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando a gente olha para Jesus, fica firme!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

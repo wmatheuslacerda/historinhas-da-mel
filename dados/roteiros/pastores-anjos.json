@@ -1,0 +1,189 @@
+{
+  "historia_id": "pastores-anjos",
+  "titulo": "Os Pastores e os Anjos 🎶 | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "Pastores e anjos",
+  "referencia": "Lucas 2",
+  "descricao": "Numa noite estrelada, anjos cantam no céu e contam aos pastores que Jesus nasceu. Eles correm para Belém para ver o bebê! Contada pela ovelhinha Mel.\n\n📖 Referência: Lucas 2\n💛 Lição: a notícia de Jesus é tão boa que dá vontade de contar para todo mundo.",
+  "tags": [
+    "pastores e anjos",
+    "natal",
+    "nascimento de jesus",
+    "história de natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "A notícia de Jesus é para contar a todos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pastor": {
+      "preset": "pastor"
+    },
+    "pastorzinho": {
+      "preset": "pastorzinho"
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "jesus_bebe": {
+      "preset": "jesus_bebe"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje o céu vai cantar! Escuta só!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pastor",
+        "pastorzinho",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De noite, os pastores cuidavam das ovelhas no campo."
+        },
+        {
+          "quem": "pastorzinho",
+          "texto": "Que noite calminha, né?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méééé! Que sono!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "pastor",
+        "pastorzinho"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, uma luz forte! Era um anjo!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "pastor",
+          "texto": "Nossa! O que é isso?",
+          "emocao": "surpreso",
+          "acao": "tremer"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Não tenham medo! Tenho uma notícia alegre!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Nasceu o Salvador, em Belém! Está numa manjedoura!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "anjo",
+        "pastorzinho"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aí apareceram muitos anjos, cantando:"
+        },
+        {
+          "quem": "anjo",
+          "texto": "Glória a Deus nas alturas! E paz na terra!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "pastorzinho",
+          "texto": "Vamos correr para Belém!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "estabulo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pastor",
+        "maria",
+        "jesus_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles correram e acharam o bebê, bem como o anjo disse."
+        },
+        {
+          "quem": "pastor",
+          "texto": "É o Salvador! Vamos contar para todo mundo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "A notícia de Jesus é boa demais! Conte para alguém!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

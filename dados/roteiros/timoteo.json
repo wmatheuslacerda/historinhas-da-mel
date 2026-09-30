@@ -1,0 +1,205 @@
+{
+  "historia_id": "timoteo",
+  "titulo": "Timóteo Aprende com a Vovó 👵 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Timóteo e a vovó",
+  "referencia": "2 Timóteo 1; 3",
+  "descricao": "Desde pequenininho, Timóteo aprendeu a Bíblia com a vovó Loide e a mamãe Eunice. Uma historinha sobre fé que passa de geração em geração, contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 2 Timóteo 1; 3\n💛 Lição: aprender a Bíblia com a família é um tesouro.",
+  "tags": [
+    "timóteo",
+    "vovó loide",
+    "família",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Aprender a Bíblia com a família é um tesouro",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "timoteo": {
+      "tipo": "humano",
+      "nome": "Timóteo",
+      "voz": "menino",
+      "idade": "crianca",
+      "genero": "m",
+      "pele": "clara",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "nenhuma",
+      "roupa": "#5b8fd1",
+      "roupa2": "#f1e6cc",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "loide": {
+      "tipo": "humano",
+      "nome": "Vovó Loide",
+      "voz": "idosa",
+      "idade": "idoso",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "branco",
+      "estilo_cabelo": "coque",
+      "barba": "nenhuma",
+      "roupa": "#9b7bb8",
+      "roupa2": "#efe3d0",
+      "cobertura": "lenco",
+      "acessorio": "pergaminho",
+      "manto": false
+    },
+    "eunice": {
+      "tipo": "humano",
+      "nome": "Mamãe Eunice",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "longo",
+      "barba": "nenhuma",
+      "roupa": "#4fa3a0",
+      "roupa2": "#f3e7cf",
+      "cobertura": "veu",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "paulo": {
+      "preset": "paulo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Sua vovó conta histórias pra você? Vem conhecer o Timóteo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "loide",
+        "timoteo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Timóteo era um menino que adorava ouvir histórias."
+        },
+        {
+          "quem": "loide",
+          "texto": "Vem, meu netinho! Vou ler a Palavra de Deus.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "timoteo",
+          "texto": "Oba! Conta de novo, vovó Loide!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "eunice",
+        "timoteo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De noite, era a mamãe Eunice quem ensinava."
+        },
+        {
+          "quem": "eunice",
+          "texto": "Deus ama você, filhinho. Sempre confie nele!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "timoteo",
+          "texto": "Eu confio, mamãe!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "paulo",
+        "timoteo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Timóteo cresceu, e virou amigo e ajudante de Paulo."
+        },
+        {
+          "quem": "paulo",
+          "texto": "Timóteo, sua fé é bonita como a da sua vovó e da sua mamãe!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "loide",
+        "eunice",
+        "timoteo"
+      ],
+      "falas": [
+        {
+          "quem": "timoteo",
+          "texto": "Obrigado por me ensinarem sobre Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "loide",
+          "texto": "Que alegria, meu querido!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Aprender a Bíblia com a família é um tesouro!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

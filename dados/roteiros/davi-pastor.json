@@ -1,0 +1,191 @@
+{
+  "historia_id": "davi-pastor",
+  "titulo": "Davi, o Pastorzinho Escolhido 🐑 | Historinha Bíblica #shorts",
+  "titulo_curto": "Davi, o pastorzinho",
+  "referencia": "1 Samuel 16",
+  "descricao": "Samuel vai à casa de Jessé para ungir um novo rei. Deus não escolhe o mais alto, mas o pastorzinho Davi, porque olha o coração! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 16\n💛 Lição: Deus olha o coração, e não o tamanho.",
+  "tags": [
+    "davi pastor",
+    "davi ungido rei",
+    "samuel unge davi",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus olha o coração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "samuel": {
+      "preset": "samuel"
+    },
+    "jesse": {
+      "preset": "idoso",
+      "nome": "Jessé"
+    },
+    "eliabe": {
+      "preset": "homem",
+      "nome": "Eliabe"
+    },
+    "davi": {
+      "preset": "davi"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Quem será que Deus escolheu para ser rei?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "samuel",
+        "jesse"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus mandou Samuel à casa de Jessé, em Belém."
+        },
+        {
+          "quem": "jesse",
+          "texto": "Olha meus filhos! Qual deles vai ser rei?",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "samuel",
+        "eliabe"
+      ],
+      "falas": [
+        {
+          "quem": "samuel",
+          "texto": "Esse aqui é tão alto e bonito!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "deus",
+          "texto": "Eu não olho a aparência. Eu olho o coração."
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "samuel",
+        "jesse"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Passaram sete irmãos, e Deus disse não pra todos."
+        },
+        {
+          "quem": "samuel",
+          "texto": "Jessé, você tem mais algum filho?"
+        },
+        {
+          "quem": "jesse",
+          "texto": "Só o caçula, Davi. Está cuidando das ovelhas."
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "davi",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "davi",
+          "texto": "Venham, ovelhinhas! Hora de beber água!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méééé!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Correram chamar Davi lá no campo!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "samuel",
+        "davi",
+        "jesse"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "É ele! Unja o Davi!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Samuel derramou azeite na cabeça de Davi. Ploc, ploc!"
+        },
+        {
+          "quem": "davi",
+          "texto": "Eu? Um pastorzinho? Obrigado, Deus!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus olha o coração, não o tamanho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

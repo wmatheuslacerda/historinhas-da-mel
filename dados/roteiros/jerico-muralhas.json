@@ -1,0 +1,171 @@
+{
+  "historia_id": "jerico-muralhas",
+  "titulo": "As Muralhas de Jericó 🎺 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "As muralhas de Jericó",
+  "referencia": "Josué 6",
+  "descricao": "O povo de Deus marcha ao redor de Jericó, toca as trombetas, grita bem alto, e as muralhas caem! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Josué 6\n💛 Lição: quando a gente obedece a Deus, até muralhas caem.",
+  "tags": [
+    "muralhas de jericó",
+    "josué",
+    "trombetas",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Obedecer a Deus traz vitória",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "josue": {
+      "preset": "josue"
+    },
+    "soldado": {
+      "preset": "soldado"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Sacerdote"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos marchar juntos? Um, dois, um, dois!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "josue"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A cidade de Jericó tinha muralhas enormes e fechadas."
+        },
+        {
+          "quem": "deus",
+          "texto": "Marchem ao redor da cidade por sete dias."
+        },
+        {
+          "quem": "josue",
+          "texto": "Vamos fazer tudo que Deus mandou!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "dia",
+      "personagens": [
+        "soldado",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Todo dia, o povo dava uma volta. Bem quietinho, shhh!"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Marchando, marchando... sem falar nadinha, nadinha!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "tarde",
+      "personagens": [
+        "josue",
+        "homem",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No sétimo dia, deram sete voltas!"
+        },
+        {
+          "quem": "josue",
+          "texto": "Agora! Toquem as trombetas e gritem!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "homem",
+          "texto": "Tuuuu! Tuuuu!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O povo gritou bem alto!"
+        }
+      ]
+    },
+    {
+      "cenario": "muralha",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "soldado",
+        "josue"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E as muralhas caíram no chão. Cabrum!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Viva! Deus nos deu a vitória!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "josue",
+          "texto": "Obedecer a Deus sempre dá certo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando a gente obedece a Deus, até muralhas caem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

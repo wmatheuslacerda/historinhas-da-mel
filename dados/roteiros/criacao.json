@@ -1,0 +1,175 @@
+{
+  "historia_id": "criacao",
+  "titulo": "Deus Cria o Mundo 🌍 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Deus cria o mundo",
+  "referencia": "Gênesis 1",
+  "descricao": "Deus faz a luz, o céu, o mar, as plantas e os bichinhos, e tudo fica muito bom! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 1\n💛 Lição: tudo o que Deus fez é bom, e Ele fez tudo com amor.",
+  "tags": [
+    "criação do mundo",
+    "gênesis para crianças",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus fez tudo com amor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pomba": {
+      "preset": "pomba"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "adao": {
+      "preset": "adao"
+    },
+    "eva": {
+      "preset": "eva"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Sabe quem fez o céu, o mar e os bichinhos?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "No começo, tudo estava escuro. Bem escurinho."
+        },
+        {
+          "quem": "deus",
+          "texto": "Haja luz!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E... plim! A luz brilhou bonita!"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus fez o céu azul e o mar grandão. Splash!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Depois, fez as plantas, as flores e as árvores."
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "pomba",
+        "leao",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus fez o sol, a lua e as estrelas."
+        },
+        {
+          "quem": "pomba",
+          "texto": "Eu sei voar! Piu, piu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "leao",
+          "texto": "E eu sei rugir! Roaar!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Méé! Eu sou fofinha!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "adao",
+        "eva"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Por último, Deus fez as pessoas, com muito carinho."
+        },
+        {
+          "quem": "adao",
+          "texto": "Que mundo lindo!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "eva",
+          "texto": "Obrigada, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Deus olhou tudo e disse: está muito bom!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus fez tudo com amor, e fez você também!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

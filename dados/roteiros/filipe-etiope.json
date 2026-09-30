@@ -1,0 +1,199 @@
+{
+  "historia_id": "filipe-etiope",
+  "titulo": "Filipe e o Homem da Carruagem 📜 | Historinha Bíblica #shorts",
+  "titulo_curto": "Filipe e a carruagem",
+  "referencia": "Atos 8",
+  "descricao": "Um anjo manda Filipe para uma estrada no deserto, onde um viajante lê a Bíblia sem entender. Filipe explica tudo sobre Jesus! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 8\n💛 Lição: é muito bom ajudar alguém a conhecer Jesus.",
+  "tags": [
+    "filipe",
+    "eunuco etíope",
+    "carruagem",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "É muito bom ajudar alguém a conhecer Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "filipe": {
+      "tipo": "humano",
+      "nome": "Filipe",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "media",
+      "cabelo": "castanho",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#4a7fb5",
+      "roupa2": "#e9dfc4",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": true
+    },
+    "etiope": {
+      "tipo": "humano",
+      "nome": "Viajante da Etiópia",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "escura",
+      "cabelo": "preto",
+      "estilo_cabelo": "curto",
+      "barba": "nenhuma",
+      "roupa": "#7a3fa0",
+      "roupa2": "#e2b93b",
+      "cobertura": "faixa",
+      "acessorio": "pergaminho",
+      "manto": true
+    },
+    "anjo": {
+      "preset": "anjo"
+    },
+    "camelo": {
+      "preset": "camelo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Hoje tem uma conversa dentro de uma carruagem! Vem!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "anjo",
+        "filipe"
+      ],
+      "falas": [
+        {
+          "quem": "anjo",
+          "texto": "Filipe, vá pela estrada do deserto!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "filipe",
+          "texto": "Pode deixar! Estou indo agora mesmo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E lá foi Filipe, tec, tec, tec, pela estrada."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "etiope",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na estrada, passava um viajante importante da Etiópia."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele lia um livro da Bíblia, bem alto."
+        },
+        {
+          "quem": "etiope",
+          "texto": "Hum... De quem será que o profeta fala?",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "filipe",
+        "etiope"
+      ],
+      "falas": [
+        {
+          "quem": "filipe",
+          "texto": "Você entende o que está lendo?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "etiope",
+          "texto": "Como vou entender, se ninguém me explica? Sobe aqui!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Filipe contou tudinho sobre Jesus."
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "arco_iris",
+      "personagens": [
+        "filipe",
+        "etiope"
+      ],
+      "falas": [
+        {
+          "quem": "etiope",
+          "texto": "Olha, água! Posso ser batizado?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Filipe batizou o viajante. Splash!"
+        },
+        {
+          "quem": "etiope",
+          "texto": "Que alegria! Agora eu conheço Jesus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Que bom ajudar alguém a conhecer Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

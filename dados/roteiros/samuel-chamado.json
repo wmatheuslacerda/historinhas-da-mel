@@ -1,0 +1,162 @@
+{
+  "historia_id": "samuel-chamado",
+  "titulo": "Samuel Ouve a Voz de Deus 🌙 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Samuel ouve a voz de Deus",
+  "referencia": "1 Samuel 3",
+  "descricao": "De noite, o menino Samuel ouve alguém chamar seu nome. Era Deus! E Samuel responde: fala, Senhor! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 3\n💛 Lição: crianças também podem ouvir e falar com Deus.",
+  "tags": [
+    "samuel",
+    "chamado de samuel",
+    "fala senhor",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Crianças podem ouvir Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "samuel_menino": {
+      "preset": "samuel_menino"
+    },
+    "eli": {
+      "preset": "eli"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Shhh! Alguém está chamando de noite!",
+          "emocao": "feliz",
+          "acao": "nenhuma"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "samuel_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O menino Samuel morava no templo, ajudando o velho Eli."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Uma noite, ele estava dormindo, e ouviu:"
+        },
+        {
+          "quem": "deus",
+          "texto": "Samuel! Samuel!"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "samuel_menino",
+        "eli"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Samuel correu até a cama de Eli. Tum, tum, tum!"
+        },
+        {
+          "quem": "samuel_menino",
+          "texto": "Estou aqui, Eli! Você me chamou?",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "eli",
+          "texto": "Eu não chamei, filho. Volte a dormir."
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "noite",
+      "personagens": [
+        "eli",
+        "samuel_menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aconteceu de novo, e de novo! Três vezes!"
+        },
+        {
+          "quem": "eli",
+          "texto": "Ah! É Deus que está te chamando!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "eli",
+          "texto": "Responda: fala, Senhor, que teu servo ouve!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "samuel_menino"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Samuel! Samuel!"
+        },
+        {
+          "quem": "samuel_menino",
+          "texto": "Fala, Senhor, que eu estou ouvindo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Deus conversou com o menino Samuel."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Crianças também podem ouvir e falar com Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

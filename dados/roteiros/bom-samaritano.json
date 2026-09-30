@@ -1,0 +1,170 @@
+{
+  "historia_id": "bom-samaritano",
+  "titulo": "O Bom Samaritano 🤝 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O bom samaritano",
+  "referencia": "Lucas 10",
+  "descricao": "Um homem machucado ficou na estrada. Dois passaram direto, mas o samaritano parou para ajudar! Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Lucas 10\n💛 Lição: Ajude quem precisa, sempre que puder.",
+  "tags": [
+    "bom samaritano",
+    "parábola",
+    "ajudar o próximo",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Ame e ajude o próximo",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "samaritano": {
+      "preset": "samaritano"
+    },
+    "sacerdote": {
+      "preset": "idoso"
+    },
+    "jumento": {
+      "preset": "jumento"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você gosta de ajudar os outros?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Vou contar a história de um homem que viajava pela estrada.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Uns ladrões pegaram as coisas dele e deixaram o homem machucado."
+        },
+        {
+          "quem": "homem",
+          "texto": "Ai, ai! Alguém me ajuda?",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "sacerdote",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Passou um homem importante... e foi embora. Passou outro... e nada!"
+        },
+        {
+          "quem": "sacerdote",
+          "texto": "Hum... Estou com pressa!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "samaritano",
+        "homem",
+        "jumento"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aí chegou um samaritano com seu jumentinho, tloc, tloc."
+        },
+        {
+          "quem": "samaritano",
+          "texto": "Coitadinho! Deixa que eu cuido de você!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele fez curativos e levou o homem para uma pousada."
+        },
+        {
+          "quem": "homem",
+          "texto": "Muito obrigado, amigo!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Vá e faça a mesma coisa!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Ame o próximo e ajude quem precisa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

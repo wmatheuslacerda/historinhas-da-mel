@@ -1,0 +1,170 @@
+{
+  "historia_id": "ester-rainha",
+  "titulo": "Ester Vira Rainha 👑 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Ester vira rainha",
+  "referencia": "Ester 2",
+  "descricao": "Ester, uma moça criada com carinho pelo primo Mardoqueu, é escolhida pelo rei para ser rainha, e Deus tinha um plano especial para ela. Uma historinha contada pela ovelhinha Mel.\n\n📖 Referência: Ester 2\n💛 Lição: Deus tem um plano lindo para a sua vida.",
+  "tags": [
+    "rainha ester",
+    "mardoqueu",
+    "plano de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus tem um plano para você",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "ester": {
+      "preset": "ester"
+    },
+    "mardoqueu": {
+      "preset": "mardoqueu"
+    },
+    "rei": {
+      "preset": "rei",
+      "nome": "Rei Assuero"
+    },
+    "mulher": {
+      "preset": "mulher",
+      "nome": "Ajudante do palácio"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Era uma vez uma moça que virou rainha de verdade!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "ester",
+        "mardoqueu"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ester morava com seu primo Mardoqueu. Ele cuidava dela com carinho."
+        },
+        {
+          "quem": "mardoqueu",
+          "texto": "Ester, lembre sempre: Deus cuida de você.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ester",
+          "texto": "Eu sei, primo! Obrigada!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "personagens": [
+        "ester",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, o rei procurava uma nova rainha."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Venha, Ester! O rei quer conhecer você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ester",
+          "texto": "Eu? Que surpresa!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "ester",
+        "rei"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ester era gentil, e todo mundo gostava dela."
+        },
+        {
+          "quem": "rei",
+          "texto": "Você será a minha rainha! Coloquem a coroa nela!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ester",
+          "texto": "Nossa! Obrigada, meu rei!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "ester",
+        "mardoqueu"
+      ],
+      "falas": [
+        {
+          "quem": "mardoqueu",
+          "texto": "Deus tem um plano especial para você, rainha Ester!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ester",
+          "texto": "Vou confiar nele de todo o coração!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus também tem um plano lindo para você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

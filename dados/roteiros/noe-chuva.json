@@ -1,0 +1,179 @@
+{
+  "historia_id": "noe-chuva",
+  "titulo": "A Grande Chuva 🌧️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A grande chuva",
+  "referencia": "Gênesis 7-8",
+  "descricao": "Chove muitos e muitos dias, mas Deus protege Noé, sua família e os animais dentro da arca. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 7-8\n💛 Lição: quando vem a tempestade, Deus nos protege.",
+  "tags": [
+    "noé",
+    "arca de noé",
+    "dilúvio",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus nos protege",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "noe": {
+      "preset": "noe"
+    },
+    "esposa_noe": {
+      "preset": "esposa_noe"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "camelo": {
+      "preset": "camelo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você gosta de barulhinho de chuva? Plic, plic!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "noe",
+        "esposa_noe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A porta da arca fechou. E começou a chover!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Plic, plic... chuááá! Choveu quarenta dias!"
+        },
+        {
+          "quem": "esposa_noe",
+          "texto": "Quanta água, Noé!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "oceano",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "A água subiu, subiu, e a arca flutuou."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Balança pra cá, balança pra lá!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Lá dentro, todo mundo estava sequinho e seguro."
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "noite",
+      "personagens": [
+        "ovelhinha",
+        "leao",
+        "noe"
+      ],
+      "falas": [
+        {
+          "quem": "ovelhinha",
+          "texto": "Méé! Tá balançando!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "noe",
+          "texto": "Calma! Deus está cuidando de nós!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "leao",
+          "texto": "Roaar... que soninho gostoso!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "arca",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "noe",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, a chuva parou. Deus lembrou de Noé!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Um vento soprou, e a água foi baixando."
+        },
+        {
+          "quem": "camelo",
+          "texto": "Olha o sol!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "noe",
+          "texto": "Obrigado, Deus, por nos proteger!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando vem a tempestade, Deus cuida de você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "historia_id": "josias-rei-menino",
+  "titulo": "Josias, o Rei Menino 👑 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Josias, o rei menino",
+  "referencia": "2 Reis 22",
+  "descricao": "Josias virou rei com apenas oito anos e amava a Deus. Quando encontraram o livro da Lei no templo, ele quis obedecer a tudo. Uma historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 2 Reis 22\n💛 Lição: criança também pode amar e obedecer a Deus de todo o coração.",
+  "tags": [
+    "josias",
+    "rei menino",
+    "livro da lei",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Amar a Palavra de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "josias": {
+      "tipo": "humano",
+      "nome": "Rei Josias",
+      "voz": "menino",
+      "idade": "crianca",
+      "genero": "m",
+      "pele": "morena",
+      "cabelo": "preto",
+      "estilo_cabelo": "curto",
+      "barba": "nenhuma",
+      "roupa": "#3b5bdb",
+      "roupa2": "#f5c542",
+      "cobertura": "coroa",
+      "acessorio": "nenhum",
+      "manto": true
+    },
+    "idoso": {
+      "preset": "idoso",
+      "nome": "Sacerdote",
+      "acessorio": "pergaminho"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Ajudante"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Já pensou ser rei com oito aninhos? Olha só!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "josias",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Josias tinha só oito anos quando virou rei!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Viva o rei Josias!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "josias",
+          "texto": "Eu quero fazer o que Deus gosta!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "personagens": [
+        "josias",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Quando cresceu, mandou arrumar o templo, que estava bagunçado."
+        },
+        {
+          "quem": "josias",
+          "texto": "Vamos deixar a casa de Deus bem bonita!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "idoso",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Arrumando, o sacerdote achou um rolo antigo."
+        },
+        {
+          "quem": "idoso",
+          "texto": "Olha! É o livro da Lei de Deus!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "personagens": [
+        "josias",
+        "idoso"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Leram o livro para o rei. Ele ouviu com atenção."
+        },
+        {
+          "quem": "josias",
+          "texto": "Nós esquecemos da Palavra de Deus!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "josias",
+          "texto": "Daqui para frente, vamos obedecer a tudo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Criança também pode amar a Deus de todo o coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

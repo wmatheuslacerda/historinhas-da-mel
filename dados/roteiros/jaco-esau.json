@@ -1,0 +1,189 @@
+{
+  "historia_id": "jaco-esau",
+  "titulo": "Jacó e Esaú, os Gêmeos 🍲 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jacó e Esaú, os gêmeos",
+  "referencia": "Gênesis 25-27",
+  "descricao": "Jacó e Esaú eram gêmeos bem diferentes, e um dia Esaú troca algo muito valioso por uma tigela de sopa. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 25-27\n💛 Lição: as coisas especiais que Deus nos dá valem mais que qualquer comida.",
+  "tags": [
+    "jacó e esaú",
+    "gêmeos da bíblia",
+    "sopa de lentilha",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "valorizar os presentes de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jaco": {
+      "preset": "jaco"
+    },
+    "esau": {
+      "preset": "esau"
+    },
+    "rebeca": {
+      "tipo": "humano",
+      "nome": "Rebeca",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "morena",
+      "cabelo": "castanho",
+      "estilo_cabelo": "longo",
+      "barba": "nenhuma",
+      "roupa": "#E67E22",
+      "roupa2": "#8E44AD",
+      "cobertura": "lenco",
+      "acessorio": "nenhum",
+      "manto": false,
+      "armadura": false,
+      "asas": false,
+      "gigante": false
+    },
+    "isaque": {
+      "preset": "isaque"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você trocaria um presente especial por uma sopinha?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "rebeca",
+        "isaque"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Rebeca e Isaque ganharam dois bebês gêmeos!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Esaú nasceu primeiro. Depois, Jacó."
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "esau",
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Esaú adorava correr no campo e caçar."
+        },
+        {
+          "quem": "esau",
+          "texto": "Eu sou o mais rápido!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jacó gostava de ficar em casa."
+        },
+        {
+          "quem": "jaco",
+          "texto": "E eu adoro cozinhar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "esau",
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, Esaú chegou morrendo de fome."
+        },
+        {
+          "quem": "esau",
+          "texto": "Que cheirinho! Me dá essa sopa!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jaco",
+          "texto": "Só se você me der o direito de filho mais velho!"
+        },
+        {
+          "quem": "esau",
+          "texto": "Tá bom! Eu quero é sopa!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "personagens": [
+        "esau",
+        "jaco"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Nhac, nhac! Esaú comeu tudo, rapidinho."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele trocou uma coisa muito especial por comida."
+        },
+        {
+          "quem": "esau",
+          "texto": "Ops... acho que não foi uma boa troca.",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "O que Deus nos dá vale mais que qualquer sopinha!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

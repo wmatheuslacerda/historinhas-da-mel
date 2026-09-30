@@ -1,0 +1,169 @@
+{
+  "historia_id": "casa-rocha",
+  "titulo": "A Casa na Rocha 🏠 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A casa na rocha",
+  "referencia": "Mateus 7",
+  "descricao": "Um homem construiu sua casa na rocha e outro na areia. Quando veio a chuva, qual ficou de pé? Parábola de Jesus contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Mateus 7\n💛 Lição: Quem ouve e pratica as palavras de Jesus fica firme como a rocha.",
+  "tags": [
+    "casa na rocha",
+    "parábola",
+    "homem prudente",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Ouvir e praticar o que Jesus ensina",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "sabio": {
+      "preset": "homem"
+    },
+    "tolo": {
+      "tipo": "humano",
+      "nome": "Vizinho",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "clara",
+      "cabelo": "ruivo",
+      "estilo_cabelo": "cacheado",
+      "barba": "nenhuma",
+      "roupa": "#e0a030"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos construir uma casinha?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Quem ouve e pratica minhas palavras é como um homem sábio.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "dia",
+      "personagens": [
+        "sabio"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O homem sábio construiu sua casa em cima da rocha."
+        },
+        {
+          "quem": "sabio",
+          "texto": "Toc, toc, toc! Aqui é bem firme!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "dia",
+      "personagens": [
+        "tolo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O vizinho construiu a casa dele na areia da praia."
+        },
+        {
+          "quem": "tolo",
+          "texto": "Na areia é mais rapidinho! Pronto!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "tolo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aí veio a chuva, chuáá! E o vento, fuuu!"
+        },
+        {
+          "quem": "tolo",
+          "texto": "Ai, ai! Minha casa caiu! Tchibum!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "efeito": "chuva",
+      "personagens": [
+        "sabio"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E a casa na rocha? Ficou firme, de pé!"
+        },
+        {
+          "quem": "sabio",
+          "texto": "Obrigado, Deus! Estou seguro aqui!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "arco_iris",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Ouça e faça o que Jesus ensina. Você fica firme como a rocha!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

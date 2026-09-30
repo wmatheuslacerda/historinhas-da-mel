@@ -1,0 +1,170 @@
+{
+  "historia_id": "pesca-maravilhosa",
+  "titulo": "A Rede Cheia de Peixes 🐟 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A rede cheia de peixes",
+  "referencia": "Lucas 5",
+  "descricao": "Pedro pescou a noite toda e não pegou nada. Mas quando obedece a Jesus, a rede fica tão cheia que quase arrebenta! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Lucas 5\n💛 Lição: quando obedecemos a Jesus, coisas incríveis acontecem.",
+  "tags": [
+    "pesca maravilhosa",
+    "pedro",
+    "rede cheia de peixes",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Obedecer a Jesus traz bênçãos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "tiago": {
+      "preset": "tiago"
+    },
+    "joao": {
+      "preset": "joao"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Quantos peixinhos cabem numa rede? Vamos ver!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "mar",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro pescou a noite inteirinha."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Nada! Nem um peixinho! Que cansaço!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De manhã, Jesus subiu no barco de Pedro e ensinou o povo."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Pedro, vá para o fundo e jogue as redes.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Mestre, não pegamos nada... Mas vou jogar, porque o senhor mandou!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "pedro",
+        "tiago",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Splash! A rede encheu tanto que começou a rasgar!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Tiago! João! Venham ajudar!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        },
+        {
+          "quem": "joao",
+          "texto": "Uau! Os dois barcos estão cheios de peixes!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "barco",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "pedro",
+        "jesus"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Pedro se ajoelhou diante de Jesus."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Não tenha medo. Agora você vai pescar gente!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E eles deixaram tudo e seguiram Jesus."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quando a gente obedece Jesus, coisas incríveis acontecem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

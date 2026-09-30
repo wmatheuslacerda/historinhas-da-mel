@@ -1,0 +1,165 @@
+{
+  "historia_id": "tome",
+  "titulo": "Tomé Quer Ver Para Crer 👀 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Tomé quer ver para crer",
+  "referencia": "João 20",
+  "descricao": "Tomé não estava lá quando Jesus apareceu e disse que só acreditaria vendo. Oito dias depois, Jesus vem pertinho dele! Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: João 20\n💛 Lição: felizes os que creem em Jesus mesmo sem ver.",
+  "tags": [
+    "tomé",
+    "páscoa",
+    "jesus ressuscitou",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Felizes os que creem em Jesus mesmo sem ver",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "tome": {
+      "tipo": "humano",
+      "nome": "Tomé",
+      "voz": "homem",
+      "idade": "adulto",
+      "genero": "m",
+      "pele": "morena",
+      "cabelo": "preto",
+      "estilo_cabelo": "curto",
+      "barba": "curta",
+      "roupa": "#3f7f6e",
+      "roupa2": "#e6dcc0",
+      "cobertura": "nenhuma",
+      "acessorio": "nenhum",
+      "manto": false
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "jesus": {
+      "preset": "jesus"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Você acredita em algo que não consegue ver? Vem!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "tome",
+        "pedro",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tomé chegou em casa, e os amigos estavam pulando de alegria."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Tomé! Nós vimos Jesus! Ele está vivo!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "tome",
+          "texto": "Hum... Só acredito se eu vir com meus olhos!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "tome",
+        "joao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Oito dias depois, com a porta fechada, Jesus apareceu no meio deles!"
+        },
+        {
+          "quem": "jesus",
+          "texto": "A paz esteja com vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Tomé, vem cá. Veja minhas mãos. Pode acreditar!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "brilhos",
+      "personagens": [
+        "jesus",
+        "tome"
+      ],
+      "falas": [
+        {
+          "quem": "tome",
+          "texto": "Meu Senhor e meu Deus!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Você creu porque viu. Felizes os que creem sem ver!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "tome",
+          "texto": "Eu acredito! Eu acredito! Jesus está vivo mesmo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "A gente não vê Jesus, mas ele está pertinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

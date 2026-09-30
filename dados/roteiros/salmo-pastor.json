@@ -1,0 +1,165 @@
+{
+  "historia_id": "salmo-pastor",
+  "titulo": "O Senhor é Meu Pastor 🐑 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O Senhor é meu pastor",
+  "referencia": "Salmo 23",
+  "descricao": "Com o pastorzinho Davi e suas ovelhinhas, a Mel conta o Salmo 23: Deus cuida de nós como um bom pastor cuida das ovelhas. Uma historinha para crianças de 3 a 6 anos.\n\n📖 Referência: Salmo 23\n💛 Lição: Deus é o nosso bom pastor e cuida de nós em todo lugar.",
+  "tags": [
+    "salmo 23",
+    "o senhor é meu pastor",
+    "bom pastor",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus é o meu pastor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "davi": {
+      "preset": "davi"
+    },
+    "ovelhinha": {
+      "preset": "ovelhinha"
+    },
+    "ovelha": {
+      "preset": "ovelha"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Eu sou uma ovelhinha! Sabe quem cuida de mim?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "personagens": [
+        "davi",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Davi era pastor e fez uma música para Deus."
+        },
+        {
+          "quem": "davi",
+          "texto": "O Senhor é o meu pastor! Nada vai me faltar!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "davi",
+        "ovelhinha",
+        "ovelha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um bom pastor leva as ovelhas para a grama verdinha."
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Béé! Que gostoso descansar aqui!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "davi",
+          "texto": "Deus me deixa descansar também!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "davi",
+        "ovelha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E leva as ovelhas para beber água fresquinha. Glup!"
+        },
+        {
+          "quem": "ovelha",
+          "texto": "Béé! Obrigada, pastor!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "davi",
+        "ovelhinha"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Quando o caminho fica escuro, o pastor está pertinho."
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Béé... tá escuro!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        },
+        {
+          "quem": "davi",
+          "texto": "Não tenha medo! Deus está comigo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "ovelhinha",
+          "texto": "Oba! Então eu fico tranquila!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus é o seu bom pastor e cuida de você sempre!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

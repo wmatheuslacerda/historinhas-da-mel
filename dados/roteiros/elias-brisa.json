@@ -1,0 +1,154 @@
+{
+  "historia_id": "elias-brisa",
+  "titulo": "Deus Fala na Brisa 🍃 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Deus fala na brisa",
+  "referencia": "1 Reis 19",
+  "descricao": "Cansado, o profeta Elias descansa e recebe comida de um anjo. Depois, no monte, descobre que Deus fala num sussurro suave. Uma historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Reis 19\n💛 Lição: Deus fala com a gente de mansinho; é só prestar atenção.",
+  "tags": [
+    "elias",
+    "brisa suave",
+    "voz de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Escute a voz mansa de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "elias": {
+      "preset": "elias"
+    },
+    "anjo": {
+      "preset": "anjo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "nublado",
+      "efeito": "nenhum",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Shhh... Vamos fazer silêncio? Tem alguém falando baixinho!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "elias",
+        "anjo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Elias estava muito cansado. Ele deitou e dormiu."
+        },
+        {
+          "quem": "anjo",
+          "texto": "Levanta, Elias! Come esse pãozinho quentinho.",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "elias",
+          "texto": "Hum, que delícia! Obrigado!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois, Elias subiu um monte. Veio um vento forte. Vuuuuush!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas Deus não estava no vento."
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "nublado",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aí a terra tremeu. Tum, tum! Depois veio um fogo."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Mas Deus também não estava ali."
+        },
+        {
+          "quem": "elias",
+          "texto": "Onde será que Deus está? Hum...",
+          "emocao": "surpreso",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então veio uma brisa suave, bem fresquinha..."
+        },
+        {
+          "quem": "deus",
+          "texto": "Elias, o que você faz aqui?"
+        },
+        {
+          "quem": "elias",
+          "texto": "É Deus! Ele fala de mansinho!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Faça silêncio e ore. Deus fala com carinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

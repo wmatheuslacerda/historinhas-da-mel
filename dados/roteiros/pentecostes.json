@@ -1,0 +1,171 @@
+{
+  "historia_id": "pentecostes",
+  "titulo": "O Vento e as Línguas de Fogo 🔥 | Historinha Bíblica #shorts",
+  "titulo_curto": "Pentecostes",
+  "referencia": "Atos 2",
+  "descricao": "Os amigos de Jesus estão reunidos quando chega um vento forte e o Espírito Santo enche todo mundo de coragem. Historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Atos 2\n💛 Lição: o Espírito Santo nos dá coragem para falar de Jesus.",
+  "tags": [
+    "pentecostes",
+    "espírito santo",
+    "línguas de fogo",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "O Espírito Santo nos dá coragem para falar de Jesus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "joao": {
+      "preset": "joao"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "homem": {
+      "preset": "homem"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Escuta só esse barulhão! Fuuuu! O que será?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "personagens": [
+        "pedro",
+        "joao",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os amigos de Jesus estavam juntinhos, orando numa casa."
+        },
+        {
+          "quem": "maria",
+          "texto": "Jesus prometeu mandar o Espírito Santo.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "pedro",
+        "joao",
+        "maria"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De repente, veio do céu um som de vento forte. Fuuuu!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Em cima de cada um, apareceu uma chaminha brilhante, como fogo!"
+        },
+        {
+          "quem": "joao",
+          "texto": "Uau! Meu coração está cheio de alegria!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "pedro",
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Na cidade tinha gente de muitos países."
+        },
+        {
+          "quem": "homem",
+          "texto": "Eles estão falando na minha língua!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "mulher",
+          "texto": "E na minha também! Que maravilha!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "pedro",
+        "homem",
+        "mulher"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Jesus está vivo! Ele ama vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Nesse dia, umas três mil pessoas creram em Jesus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "O Espírito Santo dá coragem pra falar de Jesus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "historia_id": "magos-estrela",
+  "titulo": "Os Magos e a Estrela 🌟 | Historinha Bíblica de Natal #shorts",
+  "titulo_curto": "Os magos e a estrela",
+  "referencia": "Mateus 2",
+  "descricao": "Os magos do Oriente seguem uma estrela brilhante até encontrar o menino Jesus e o adoram com presentes. Uma historinha de Natal contada pela ovelhinha Mel.\n\n📖 Referência: Mateus 2\n💛 Lição: o melhor presente que podemos dar a Jesus é o nosso coração.",
+  "tags": [
+    "três reis magos",
+    "estrela de belém",
+    "natal",
+    "história de natal",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Dar a Jesus o nosso coração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "mago_1": {
+      "preset": "mago_1"
+    },
+    "mago_2": {
+      "preset": "mago_2"
+    },
+    "mago_3": {
+      "preset": "mago_3"
+    },
+    "camelo": {
+      "preset": "camelo"
+    },
+    "maria": {
+      "preset": "maria"
+    },
+    "jesus_bebe": {
+      "preset": "jesus_bebe"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Vamos seguir uma estrela brilhante?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mago_1",
+        "mago_2",
+        "mago_3"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Lá longe, no Oriente, uns sábios olhavam o céu."
+        },
+        {
+          "quem": "mago_1",
+          "texto": "Vejam! Uma estrela nova!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "mago_2",
+          "texto": "Nasceu um rei muito especial!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mago_3",
+          "texto": "Vamos seguir a estrela!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mago_1",
+        "camelo",
+        "mago_2"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles viajaram muito, muito longe, de camelo."
+        },
+        {
+          "quem": "camelo",
+          "texto": "Grunf! Quantos quilômetros! Mas vale a pena!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mago_2",
+          "texto": "Olhem! A estrela parou em cima daquela casa!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "noite",
+      "efeito": "luz",
+      "personagens": [
+        "mago_1",
+        "maria",
+        "jesus_bebe"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles entraram e viram o menino com Maria, sua mãe."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ajoelharam e adoraram Jesus."
+        },
+        {
+          "quem": "mago_1",
+          "texto": "Trouxemos presentes: ouro, incenso e mirra!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "maria",
+          "texto": "Obrigada! Deus abençoe vocês!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mago_1",
+        "mago_2",
+        "mago_3"
+      ],
+      "falas": [
+        {
+          "quem": "mago_3",
+          "texto": "Que alegria! Encontramos o Rei!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E voltaram para casa por outro caminho."
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "O melhor presente para Jesus é o nosso coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

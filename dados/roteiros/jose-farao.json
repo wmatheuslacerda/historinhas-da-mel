@@ -1,0 +1,167 @@
+{
+  "historia_id": "jose-farao",
+  "titulo": "José e os Sonhos do Faraó 🐄 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "José e o Faraó",
+  "referencia": "Gênesis 41",
+  "descricao": "O Faraó sonha com vacas gordas e magras, e José, com a ajuda de Deus, explica o que o sonho quer dizer. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 41\n💛 Lição: tudo o que sabemos de bom vem de Deus.",
+  "tags": [
+    "josé do egito",
+    "faraó",
+    "vacas gordas e magras",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus nos dá sabedoria",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jose": {
+      "preset": "jose"
+    },
+    "farao": {
+      "preset": "farao"
+    },
+    "servo": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Sete vacas gordas e sete magrinhas? Que sonho é esse?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "farao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O Faraó, o rei do Egito, teve um sonho."
+        },
+        {
+          "quem": "farao",
+          "texto": "Sete vacas gordas... e sete vacas magrinhas!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "farao",
+          "texto": "O que será que isso quer dizer?",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "farao",
+        "servo"
+      ],
+      "falas": [
+        {
+          "quem": "farao",
+          "texto": "Ninguém sabe explicar meu sonho?",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "servo",
+          "texto": "Eu conheço um moço chamado José!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "farao",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "jose",
+          "texto": "Eu não sei sozinho. Mas Deus sabe!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jose",
+          "texto": "Vão vir sete anos de muita comida.",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "jose",
+          "texto": "Depois, sete anos de pouquinha comida.",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "farao",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "jose",
+          "texto": "Vamos guardar comida agora!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "farao",
+          "texto": "Que sabedoria! José, você vai cuidar do Egito!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E José guardou muito trigo para todo mundo!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Tudo que sabemos de bom vem de Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

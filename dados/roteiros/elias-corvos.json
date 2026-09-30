@@ -1,0 +1,158 @@
+{
+  "historia_id": "elias-corvos",
+  "titulo": "Elias e os Corvos 🐦 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Elias e os corvos",
+  "referencia": "1 Reis 17",
+  "descricao": "Na época sem chuva, Deus mandou o profeta Elias ficar perto de um riacho, e os corvos levavam pão e carne para ele todos os dias. Uma historinha sobre o cuidado de Deus, contada pela ovelhinha Mel.\n\n📖 Referência: 1 Reis 17\n💛 Lição: Deus cuida de nós todos os dias.",
+  "tags": [
+    "elias",
+    "corvos",
+    "profeta elias",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus cuida de nós",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "elias": {
+      "preset": "elias"
+    },
+    "corvo": {
+      "tipo": "pomba",
+      "nome": "Corvo",
+      "voz": "animal",
+      "roupa": "#222222"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Já imaginou um passarinho trazendo seu lanche?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Fazia muito tempo que não chovia. Tudo estava sequinho."
+        },
+        {
+          "quem": "deus",
+          "texto": "Elias, vá para o riacho. Lá eu vou cuidar de você."
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "elias"
+      ],
+      "falas": [
+        {
+          "quem": "elias",
+          "texto": "Aqui tem água fresquinha! Glup, glup!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "elias",
+          "texto": "Mas... e a comida? Minha barriga está roncando!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "personagens": [
+        "elias",
+        "corvo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Então chegaram uns passarinhos pretos, os corvos. Flap, flap!"
+        },
+        {
+          "quem": "corvo",
+          "texto": "Crá, crá! Trouxemos pão e carne!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "elias",
+          "texto": "Obrigado, amiguinhos! Obrigado, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "noite",
+      "efeito": "estrelas",
+      "personagens": [
+        "elias",
+        "corvo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "De manhã e de tarde, os corvos voltavam com comida."
+        },
+        {
+          "quem": "elias",
+          "texto": "Deus nunca esquece de mim!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "corvo",
+          "texto": "Até amanhã, Elias! Crá, crá!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus cuida de você todos os dias, do jeitinho dele!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

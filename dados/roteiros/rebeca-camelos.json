@@ -1,0 +1,191 @@
+{
+  "historia_id": "rebeca-camelos",
+  "titulo": "Rebeca e os Camelos 🐪 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Rebeca e os camelos",
+  "referencia": "Gênesis 24",
+  "descricao": "O servo de Abraão pede um sinal a Deus, e Rebeca, muito gentil, dá água para ele e para todos os camelos. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 24\n💛 Lição: ser gentil e ajudar os outros alegra o coração de Deus.",
+  "tags": [
+    "rebeca",
+    "camelos",
+    "gentileza",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "ser gentil com todos",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "servo": {
+      "preset": "idoso"
+    },
+    "rebeca": {
+      "tipo": "humano",
+      "nome": "Rebeca",
+      "voz": "mulher",
+      "idade": "adulto",
+      "genero": "f",
+      "pele": "morena",
+      "cabelo": "castanho",
+      "estilo_cabelo": "longo",
+      "barba": "nenhuma",
+      "roupa": "#E67E22",
+      "roupa2": "#8E44AD",
+      "cobertura": "lenco",
+      "acessorio": "nenhum",
+      "manto": false,
+      "armadura": false,
+      "asas": false,
+      "gigante": false
+    },
+    "camelo": {
+      "preset": "camelo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Quantos camelos você consegue dar água? Rebeca deu muitos!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "servo",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O ajudante de Abraão viajou com dez camelos."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele procurava uma esposa para Isaque."
+        },
+        {
+          "quem": "camelo",
+          "texto": "Ufa! Que sede!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "personagens": [
+        "servo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Ele parou perto de um poço e orou."
+        },
+        {
+          "quem": "servo",
+          "texto": "Deus, mostra quem é a moça certa.",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "servo",
+          "texto": "Quem der água para mim e para os camelos!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "rebeca",
+        "servo",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Antes de terminar a oração, chegou Rebeca!"
+        },
+        {
+          "quem": "servo",
+          "texto": "Moça, me dá um pouquinho de água?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "rebeca",
+          "texto": "Claro! E vou dar para os camelos também!",
+          "emocao": "feliz",
+          "acao": "pular"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Splash, splash! Muitos baldes de água!"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "servo",
+        "rebeca",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "camelo",
+          "texto": "Glub, glub! Obrigado, Rebeca!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        },
+        {
+          "quem": "servo",
+          "texto": "Obrigado, Deus! Ela é a moça certa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E Rebeca foi casar com Isaque!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Ser gentil e ajudar os outros alegra Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

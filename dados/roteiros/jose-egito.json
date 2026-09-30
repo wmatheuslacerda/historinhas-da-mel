@@ -1,0 +1,172 @@
+{
+  "historia_id": "jose-egito",
+  "titulo": "José no Egito 🏜️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "José no Egito",
+  "referencia": "Gênesis 39",
+  "descricao": "José foi levado para longe, até o Egito, mas Deus estava com ele em todo lugar, e tudo o que José fazia dava certo. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 39\n💛 Lição: mesmo longe de casa, Deus está com a gente.",
+  "tags": [
+    "josé do egito",
+    "egito",
+    "deus está comigo",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus está com você em todo lugar",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jose": {
+      "preset": "jose"
+    },
+    "potifar": {
+      "preset": "homem"
+    },
+    "camelo": {
+      "preset": "camelo"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "José foi parar num lugar bem longe. Onde será?",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "jose",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "José foi levado para longe da sua casa."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Atravessou o deserto numa caravana de camelos."
+        },
+        {
+          "quem": "jose",
+          "texto": "Estou longe, mas Deus está comigo!",
+          "emocao": "neutro"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Chegou no Egito. Quantas pirâmides!"
+        },
+        {
+          "quem": "jose",
+          "texto": "Uau! Que lugar diferente!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Ele não conhecia ninguém. Mas não estava sozinho!"
+        },
+        {
+          "quem": "jose",
+          "texto": "Deus, cuida de mim aqui também!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "potifar",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "José foi trabalhar na casa de Potifar."
+        },
+        {
+          "quem": "jose",
+          "texto": "Vou fazer tudo bem feitinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E tudo que José fazia dava certo!"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "potifar",
+        "jose"
+      ],
+      "falas": [
+        {
+          "quem": "potifar",
+          "texto": "Deus está com esse moço!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "potifar",
+          "texto": "José, agora você cuida da minha casa!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jose",
+          "texto": "Obrigado, Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo longe de casa, Deus está com você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "historia_id": "fruto-espirito",
+  "titulo": "O Fruto do Espírito 🍇 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O fruto do Espírito",
+  "referencia": "Gálatas 5",
+  "descricao": "Paulo escreveu que o Espírito Santo faz crescer no nosso coração um fruto especial: amor, alegria, paz, paciência e bondade. Explicado pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gálatas 5\n💛 Lição: deus faz crescer coisas boas no nosso coração.",
+  "tags": [
+    "fruto do espírito",
+    "gálatas 5",
+    "amor e bondade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Deus faz crescer coisas boas no nosso coração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "paulo": {
+      "preset": "paulo"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "menina": {
+      "preset": "menina"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Existe uma fruta que cresce no coração? Vem descobrir!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "tarde",
+      "personagens": [
+        "paulo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paulo escreveu uma carta pros amigos de Jesus."
+        },
+        {
+          "quem": "paulo",
+          "texto": "O Espírito Santo faz crescer um fruto no coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "paulo",
+          "texto": "É amor, alegria, paz, paciência e bondade!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Amor é dividir o brinquedo."
+        },
+        {
+          "quem": "menino",
+          "texto": "Toma, pode brincar com a minha bola!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Oba! Que alegria!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "personagens": [
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paz é fazer as pazes depois da briga."
+        },
+        {
+          "quem": "menina",
+          "texto": "Desculpa, amigo!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "menino",
+          "texto": "Tudo bem! Amigos de novo!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "menina",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Paciência é esperar a sua vez, bem calminho."
+        },
+        {
+          "quem": "menina",
+          "texto": "Pode ir primeiro. Eu espero!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "E bondade é ajudar quem precisa!"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deixe Deus fazer crescer coisas boas no seu coração!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

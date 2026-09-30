@@ -1,0 +1,171 @@
+{
+  "historia_id": "batismo-jesus",
+  "titulo": "O Batismo de Jesus 🕊️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "O batismo de Jesus",
+  "referencia": "Mateus 3",
+  "descricao": "João batiza Jesus no rio Jordão, o céu se abre, uma pomba desce e Deus diz: este é o meu Filho amado! Uma historinha bíblica contada pela ovelhinha Mel.\n\n📖 Referência: Mateus 3\n💛 Lição: Jesus é o Filho amado de Deus.",
+  "tags": [
+    "batismo de jesus",
+    "joão batista",
+    "rio jordão",
+    "pomba",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus é o Filho amado de Deus",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "joao_batista": {
+      "preset": "joao_batista"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pomba": {
+      "preset": "pomba"
+    },
+    "homem": {
+      "preset": "homem"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje uma pombinha desce do céu!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "joao_batista",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "João batizava as pessoas no rio Jordão. Splash!"
+        },
+        {
+          "quem": "joao_batista",
+          "texto": "Voltem para Deus! Ele ama vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "homem",
+          "texto": "Eu quero ser batizado!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "joao_batista"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Um dia, Jesus chegou ao rio."
+        },
+        {
+          "quem": "joao_batista",
+          "texto": "Jesus? Eu é que preciso ser batizado por você!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Deixe assim agora. É o certo a fazer.",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pomba",
+        "joao_batista"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "João batizou Jesus. Quando Jesus saiu da água, o céu se abriu!"
+        },
+        {
+          "quem": "narrador",
+          "texto": "O Espírito de Deus desceu como uma pomba.",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Pruu, pruu!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "rio",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "deus",
+          "texto": "Este é o meu Filho amado. Eu me alegro nele!"
+        },
+        {
+          "quem": "joao_batista",
+          "texto": "Que lindo! Deus falou do céu!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus é o Filho amado de Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

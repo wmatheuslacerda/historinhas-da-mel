@@ -1,0 +1,158 @@
+{
+  "historia_id": "oferta-viuva",
+  "titulo": "As Duas Moedinhas 🪙 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "A oferta da viúva",
+  "referencia": "Marcos 12",
+  "descricao": "No templo, uma viúva deu só duas moedinhas, mas Jesus disse que ela deu mais que todos! Historinha sobre dar com amor, contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Marcos 12\n💛 Lição: Deus olha o seu coração quando você dá com amor.",
+  "tags": [
+    "oferta da viúva",
+    "duas moedinhas",
+    "generosidade",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Dar com o coração",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "viuva": {
+      "preset": "idosa"
+    },
+    "rico": {
+      "preset": "rei"
+    },
+    "pedro": {
+      "preset": "pedro"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! O que vale mais: muito ou pouquinho?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jesus sentou no templo, perto da caixa das ofertas."
+        },
+        {
+          "quem": "pedro",
+          "texto": "Olha, Mestre, quanta gente trazendo dinheiro!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "personagens": [
+        "rico"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os ricos jogavam muitas moedas. Plim, plim, plim, plim!"
+        },
+        {
+          "quem": "rico",
+          "texto": "Olhem todos! Eu dei muito!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "personagens": [
+        "viuva"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Aí veio uma vovó bem pobrezinha. Ela era viúva."
+        },
+        {
+          "quem": "viuva",
+          "texto": "Só tenho duas moedinhas. Vou dar tudo para Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Plim, plim."
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "jesus",
+          "texto": "Essa viúva deu mais do que todos!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Mais? Mas foi tão pouquinho!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Os outros deram o que sobrava. Ela deu tudo o que tinha!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus olha o seu coração. Dê sempre com amor!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "historia_id": "davi-saul-caverna",
+  "titulo": "Davi Poupa o Rei Saul 🕯️ | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Davi poupa o rei Saul",
+  "referencia": "1 Samuel 24",
+  "descricao": "Numa caverna, Davi tem a chance de fazer mal ao rei Saul, mas escolhe fazer o bem e só corta um pedacinho da capa dele! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 24\n💛 Lição: mesmo quando alguém é mau, escolha fazer o bem.",
+  "tags": [
+    "davi e saul",
+    "davi na caverna",
+    "fazer o bem",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Escolha fazer o bem",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "davi_rei": {
+      "preset": "davi_rei",
+      "nome": "Davi"
+    },
+    "saul": {
+      "preset": "saul"
+    },
+    "soldado": {
+      "preset": "soldado",
+      "nome": "Amigo de Davi"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje Davi faz uma escolha muito bonita!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei Saul estava procurando Davi no deserto."
+        },
+        {
+          "quem": "saul",
+          "texto": "Onde será que está o Davi?",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "dia",
+      "personagens": [
+        "davi_rei",
+        "soldado",
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Davi e seus amigos estavam escondidinhos numa caverna."
+        },
+        {
+          "quem": "narrador",
+          "texto": "E o rei Saul entrou lá sozinho, sem ver ninguém!"
+        },
+        {
+          "quem": "soldado",
+          "texto": "Davi, essa é a sua chance!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "cova",
+      "periodo": "tarde",
+      "personagens": [
+        "davi_rei",
+        "soldado"
+      ],
+      "falas": [
+        {
+          "quem": "davi_rei",
+          "texto": "Não! Não vou fazer mal ao rei."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Davi só cortou um pedacinho da capa dele. Tchic!"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "personagens": [
+        "davi_rei",
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "davi_rei",
+          "texto": "Rei Saul! Olha o pedacinho da sua capa!"
+        },
+        {
+          "quem": "davi_rei",
+          "texto": "Eu podia te fazer mal, mas não fiz."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "saul",
+        "davi_rei"
+      ],
+      "falas": [
+        {
+          "quem": "saul",
+          "texto": "Davi, você foi mais bondoso que eu!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "saul",
+          "texto": "Que Deus te abençoe!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Mesmo quando alguém é mau, escolha fazer o bem!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

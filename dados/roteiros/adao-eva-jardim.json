@@ -1,0 +1,193 @@
+{
+  "historia_id": "adao-eva-jardim",
+  "titulo": "Adão e Eva no Jardim 🌳 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Adão e Eva no jardim",
+  "referencia": "Gênesis 2",
+  "descricao": "Deus cria Adão e Eva e dá a eles um jardim lindo, cheio de frutas e bichinhos, para cuidar. Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 2\n💛 Lição: Deus nos dá coisas lindas e quer que a gente cuide delas.",
+  "tags": [
+    "adão e eva",
+    "jardim do éden",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "cuidar do que Deus nos deu",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "adao": {
+      "preset": "adao"
+    },
+    "eva": {
+      "preset": "eva"
+    },
+    "leao": {
+      "preset": "leao"
+    },
+    "camelo": {
+      "preset": "camelo"
+    },
+    "pomba": {
+      "preset": "pomba"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Vamos visitar o jardim mais lindo do mundo?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "luz",
+      "personagens": [
+        "adao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus fez o primeiro homem com o pozinho da terra."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Soprou nele, fuuu, e ele ficou vivo!"
+        },
+        {
+          "quem": "adao",
+          "texto": "Oi! Eu sou o Adão!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "personagens": [
+        "adao",
+        "leao",
+        "camelo"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus trouxe os bichinhos para Adão dar nomes."
+        },
+        {
+          "quem": "adao",
+          "texto": "Você vai se chamar leão!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "leao",
+          "texto": "Roaar! Gostei!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "adao",
+          "texto": "E você, camelo!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "camelo",
+          "texto": "Que nome bonito!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "adao",
+        "eva"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas Adão não tinha uma companheira igual a ele."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Então Deus fez a Eva. Que alegria!"
+        },
+        {
+          "quem": "eva",
+          "texto": "Olá, Adão!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "adao",
+          "texto": "Agora tenho uma amiga especial!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "jardim",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "adao",
+        "eva",
+        "pomba"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Deus deu o jardim para eles cuidarem."
+        },
+        {
+          "quem": "eva",
+          "texto": "Vamos regar as flores!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "pomba",
+          "texto": "Piu, piu! Que jardim cheiroso!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus nos dá coisas lindas para cuidar com carinho!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "historia_id": "jose-perdao",
+  "titulo": "José Perdoa os Irmãos 🤗 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "José perdoa os irmãos",
+  "referencia": "Gênesis 45",
+  "descricao": "José reencontra os irmãos no Egito e, em vez de ficar bravo, escolhe perdoar e abraçar todo mundo! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Gênesis 45\n💛 Lição: perdoar é abraçar de novo, como José fez.",
+  "tags": [
+    "josé do egito",
+    "josé perdoa os irmãos",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Perdoar é abraçar de novo",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jose": {
+      "preset": "jose"
+    },
+    "irmao": {
+      "preset": "homem",
+      "nome": "Irmão de José"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje tem uma história de abraço e perdão!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "dia",
+      "personagens": [
+        "irmao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Os irmãos de José viajaram até o Egito. Estavam com fome."
+        },
+        {
+          "quem": "irmao",
+          "texto": "Senhor, viemos comprar comida, por favor!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "personagens": [
+        "jose",
+        "irmao"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Eles não sabiam, mas aquele homem importante era José!"
+        },
+        {
+          "quem": "jose",
+          "texto": "Sou eu, José, o irmão de vocês!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "irmao",
+          "texto": "José?! Nós fomos tão maus com você!",
+          "emocao": "assustado",
+          "acao": "tremer"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "jose",
+        "irmao"
+      ],
+      "falas": [
+        {
+          "quem": "jose",
+          "texto": "Não tenham medo. Eu perdoo vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "José deu um abração em cada irmão. E chorou de alegria!"
+        },
+        {
+          "quem": "jose",
+          "texto": "Deus cuidou de tudo para salvar nossa família!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "egito",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "jose",
+        "irmao"
+      ],
+      "falas": [
+        {
+          "quem": "jose",
+          "texto": "Tragam o papai Jacó pra morar aqui!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "irmao",
+          "texto": "Oba! Vamos buscar o papai!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Perdoar é abraçar de novo, como José fez!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

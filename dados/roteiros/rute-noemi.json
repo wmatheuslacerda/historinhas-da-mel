@@ -1,0 +1,167 @@
+{
+  "historia_id": "rute-noemi",
+  "titulo": "Rute e Noemi 💕 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Rute e Noemi",
+  "referencia": "Rute 1",
+  "descricao": "Rute não abandona a sogra Noemi e promete: aonde você for, eu vou, e seu Deus será o meu Deus! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: Rute 1\n💛 Lição: amigo de verdade não abandona, e Deus nunca abandona você.",
+  "tags": [
+    "rute e noemi",
+    "rute",
+    "amizade na bíblia",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Amigo de verdade não abandona",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "rute": {
+      "preset": "rute"
+    },
+    "noemi": {
+      "preset": "noemi"
+    },
+    "orfa": {
+      "preset": "mulher",
+      "nome": "Orfa"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Hoje a história é de uma amiga fiel!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "casa",
+      "periodo": "nublado",
+      "personagens": [
+        "noemi",
+        "rute",
+        "orfa"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Noemi morava longe de casa, com suas noras, Rute e Orfa."
+        },
+        {
+          "quem": "noemi",
+          "texto": "Vou voltar pra minha terra, Belém.",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "dia",
+      "personagens": [
+        "noemi",
+        "orfa"
+      ],
+      "falas": [
+        {
+          "quem": "noemi",
+          "texto": "Minhas queridas, voltem pra casa da mamãe de vocês."
+        },
+        {
+          "quem": "orfa",
+          "texto": "Tchau, Noemi! Vou sentir saudade!",
+          "emocao": "triste"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Orfa deu um beijo e voltou."
+        }
+      ]
+    },
+    {
+      "cenario": "deserto",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "rute",
+        "noemi"
+      ],
+      "falas": [
+        {
+          "quem": "rute",
+          "texto": "Eu não vou te deixar, Noemi!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "rute",
+          "texto": "Aonde você for, eu vou. Seu Deus será meu Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "noemi",
+          "texto": "Ah, Rute! Que amor!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "rute",
+        "noemi"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "E as duas chegaram juntinhas em Belém."
+        },
+        {
+          "quem": "noemi",
+          "texto": "Obrigada por ficar comigo, Rute!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "rute",
+          "texto": "Juntas, com Deus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Amigo de verdade não abandona. E Deus nunca abandona você!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

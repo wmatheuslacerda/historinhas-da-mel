@@ -1,0 +1,164 @@
+{
+  "historia_id": "salomao-templo",
+  "titulo": "Salomão Constrói o Templo 🏛️ | Historinha Bíblica #shorts",
+  "titulo_curto": "O templo de Salomão",
+  "referencia": "1 Reis 6",
+  "descricao": "O rei Salomão constrói um templo lindo, com pedras, madeira de cedro e ouro, para o povo adorar a Deus. Uma historinha contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Reis 6\n💛 Lição: Deus merece o nosso melhor, com alegria.",
+  "tags": [
+    "templo de salomão",
+    "rei salomão",
+    "casa de deus",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Dar a Deus o nosso melhor",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "salomao": {
+      "preset": "salomao"
+    },
+    "homem": {
+      "preset": "homem",
+      "nome": "Construtor"
+    },
+    "menino": {
+      "preset": "menino"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Vamos construir uma casa bem especial? Toc, toc, toc!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "salomao",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "O rei Salomão teve uma ideia bonita."
+        },
+        {
+          "quem": "salomao",
+          "texto": "Vamos construir um templo para adorar a Deus!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "homem",
+          "texto": "Sim, rei! Mãos à obra!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "montanha",
+      "periodo": "tarde",
+      "personagens": [
+        "homem",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "As pedras eram cortadas longe, lá na pedreira."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Por isso, no templo, não se ouvia martelo. Shhh!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Que obra mais quietinha! Nem precisa tapar o ouvido!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "salomao",
+        "homem"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Tinha madeira cheirosa de cedro e muito ouro brilhante!"
+        },
+        {
+          "quem": "homem",
+          "texto": "Olha como brilha, rei!",
+          "emocao": "surpreso"
+        },
+        {
+          "quem": "salomao",
+          "texto": "Para Deus, o melhor que temos!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "templo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "salomao",
+        "menino"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Depois de sete anos, o templo ficou pronto!"
+        },
+        {
+          "quem": "menino",
+          "texto": "Que lindo! Vamos cantar para Deus!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Deus merece o nosso melhor, sempre com alegria!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

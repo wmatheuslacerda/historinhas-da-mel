@@ -1,0 +1,163 @@
+{
+  "historia_id": "davi-jonatas",
+  "titulo": "Davi e Jônatas, Melhores Amigos 🤝 | Historinha Bíblica #shorts",
+  "titulo_curto": "Davi e Jônatas",
+  "referencia": "1 Samuel 18-20",
+  "descricao": "Jônatas, filho do rei Saul, e Davi eram melhores amigos. Quando Davi precisou, Jônatas avisou e protegeu o amigo! Uma historinha bíblica contada pela ovelhinha Mel para crianças de 3 a 6 anos.\n\n📖 Referência: 1 Samuel 18-20\n💛 Lição: amigo de verdade cuida e protege o outro.",
+  "tags": [
+    "davi e jônatas",
+    "amizade",
+    "melhores amigos na bíblia",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "história infantil",
+    "desenho bíblico",
+    "ovelhinha mel"
+  ],
+  "licao": "Amigo de verdade cuida do outro",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "davi": {
+      "preset": "davi"
+    },
+    "jonatas": {
+      "preset": "jonatas"
+    },
+    "saul": {
+      "preset": "saul"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Você tem um melhor amigo?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "jonatas",
+        "davi"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Jônatas era filho do rei Saul. Ele amava Davi como a si mesmo."
+        },
+        {
+          "quem": "jonatas",
+          "texto": "Davi, vamos ser amigos para sempre!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "narrador",
+          "texto": "Jônatas deu a Davi o seu manto e o seu arco."
+        },
+        {
+          "quem": "davi",
+          "texto": "Uau! Obrigado, amigão!",
+          "emocao": "surpreso",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "palacio",
+      "periodo": "nublado",
+      "personagens": [
+        "saul"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas o rei Saul ficou com ciúmes de Davi."
+        },
+        {
+          "quem": "saul",
+          "texto": "Não quero esse Davi aqui!",
+          "emocao": "bravo"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "personagens": [
+        "jonatas",
+        "davi"
+      ],
+      "falas": [
+        {
+          "quem": "jonatas",
+          "texto": "Vou atirar flechas. Se eu disser 'mais longe', fuja!"
+        },
+        {
+          "quem": "davi",
+          "texto": "Tá bom. Vou me esconder aqui."
+        },
+        {
+          "quem": "narrador",
+          "texto": "Zuuum! A flecha voou longe. Era o sinal!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "jonatas",
+        "davi"
+      ],
+      "falas": [
+        {
+          "quem": "jonatas",
+          "texto": "Vá em paz, Davi. Deus cuida da nossa amizade!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "davi",
+          "texto": "Amigos para sempre, Jônatas!",
+          "emocao": "feliz"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "tarde",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Amigo de verdade cuida e protege o outro!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}

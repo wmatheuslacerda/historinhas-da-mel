@@ -1,0 +1,178 @@
+{
+  "historia_id": "jesus-criancas",
+  "titulo": "Jesus Ama as Criancinhas 🧒 | Historinha Bíblica para Crianças #shorts",
+  "titulo_curto": "Jesus ama as criancinhas",
+  "referencia": "Marcos 10",
+  "descricao": "As mamães levam as crianças até Jesus, e ele abre os braços para recebê-las! A ovelhinha Mel conta essa historinha para crianças de 3 a 6 anos.\n\n📖 Referência: Marcos 10\n💛 Lição: Jesus ama você e sempre tem tempo para você.",
+  "tags": [
+    "jesus e as crianças",
+    "deixai vir a mim",
+    "historinha bíblica",
+    "bíblia para crianças",
+    "ovelhinha mel"
+  ],
+  "licao": "Jesus ama as crianças",
+  "elenco": {
+    "mel": {
+      "preset": "mel"
+    },
+    "jesus": {
+      "preset": "jesus"
+    },
+    "pedro": {
+      "preset": "pedro"
+    },
+    "menino": {
+      "preset": "menino"
+    },
+    "menina": {
+      "preset": "menina"
+    },
+    "mulher": {
+      "preset": "mulher"
+    }
+  },
+  "cenas": [
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "brilhos",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Oi, amiguinho! Sabe quem gosta muito de criança?",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "mulher",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "As mamães levaram as crianças para ver Jesus."
+        },
+        {
+          "quem": "mulher",
+          "texto": "Vamos, filhinhos! Jesus vai abençoar vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menina",
+          "texto": "Oba! Eu quero ver Jesus!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    },
+    {
+      "cenario": "cidade",
+      "periodo": "dia",
+      "personagens": [
+        "pedro",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "pedro",
+          "texto": "Psiu! Crianças, agora não. Jesus está ocupado!",
+          "emocao": "bravo"
+        },
+        {
+          "quem": "menino",
+          "texto": "Ah, não... A gente queria tanto!",
+          "emocao": "triste"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "luz",
+      "personagens": [
+        "jesus",
+        "pedro"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "Mas Jesus viu tudo e não gostou nada."
+        },
+        {
+          "quem": "jesus",
+          "texto": "Deixem as crianças virem a mim! Não mandem embora!",
+          "emocao": "neutro"
+        },
+        {
+          "quem": "pedro",
+          "texto": "Opa! Tá bom, Mestre!",
+          "emocao": "surpreso"
+        }
+      ]
+    },
+    {
+      "cenario": "campo",
+      "periodo": "tarde",
+      "efeito": "coracoes",
+      "personagens": [
+        "jesus",
+        "menino",
+        "menina"
+      ],
+      "falas": [
+        {
+          "quem": "narrador",
+          "texto": "As crianças correram, zuuum! Jesus abraçou cada uma."
+        },
+        {
+          "quem": "menina",
+          "texto": "Jesus, você gosta de mim?",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "jesus",
+          "texto": "Gosto muito! O Reino de Deus é de quem é como vocês!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "menino",
+          "texto": "Eba! Jesus me ama!",
+          "emocao": "feliz",
+          "acao": "comemorar"
+        }
+      ]
+    },
+    {
+      "cenario": "abertura",
+      "periodo": "dia",
+      "efeito": "coracoes",
+      "personagens": [
+        "mel"
+      ],
+      "falas": [
+        {
+          "quem": "mel",
+          "texto": "Jesus sempre tem tempo para você. Ele te ama muito!",
+          "emocao": "feliz"
+        },
+        {
+          "quem": "mel",
+          "texto": "Tchau, amiguinho! Deus te ama!",
+          "emocao": "feliz",
+          "acao": "pular"
+        }
+      ]
+    }
+  ]
+}
