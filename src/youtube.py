@@ -1,4 +1,4 @@
-"""Publica o vídeo no YouTube pela API oficial (marcado como "feito para crianças")."""
+﻿"""Publica o vídeo no YouTube pela API oficial (marcado como "feito para crianças")."""
 from __future__ import annotations
 
 import os
@@ -30,7 +30,10 @@ def publicar(caminho: str, roteiro: dict, cfg: dict, log=print) -> str:
     yt_cfg = cfg["youtube"]
     yt = build("youtube", "v3", credentials=credenciais(), cache_discovery=False)
     hashtags = " ".join(yt_cfg.get("hashtags", []))
-    descricao = f"{roteiro.get('descricao', '')}\n\n📖 {roteiro.get('referencia', '')}\n\n{hashtags}".strip()
+    base = roteiro.get("descricao", "")
+    if "📖" not in base and roteiro.get("referencia"):
+        base += f"\n\n📖 {roteiro['referencia']}"
+    descricao = f"{base}\n\n{hashtags}".strip()
     corpo = {
         "snippet": {
             "title": roteiro["titulo"][:100],
