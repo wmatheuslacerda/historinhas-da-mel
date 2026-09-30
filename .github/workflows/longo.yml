@@ -1,0 +1,60 @@
+name: Video longo de domingo
+
+on:
+  schedule:
+    # Domingo às 10h de Brasília (13h UTC)
+    - cron: "7 13 * * 0"
+  workflow_dispatch:
+    inputs:
+      postar:
+        description: "Publicar no YouTube? (false = só gera o vídeo para você baixar)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: video-longo
+  cancel-in-progress: false
+
+jobs:
+  longo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Montar e publicar o vídeo longo
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.postar }}" = "false" ]; then
+            python -m src.longo --nao-postar
+          else
+            python -m src.longo
+          fi
+
+      - name: Guardar vídeo (7 dias)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-longo-${{ github.run_number }}
+          path: saida/
+          retention-days: 7
+          if-no-files-found: ignore

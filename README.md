@@ -106,3 +106,9 @@ estado/             histórico do que já foi postado (atualizado pelo robô)
 - `invalid_grant` no YouTube → a autorização expirou (app ficou em "Teste"). Refaça o passo 5 com o app **Em produção**.
 - `quotaExceeded` → a cota diária da API acabou; volta no dia seguinte.
 - Erro 401 da ElevenLabs → chave errada ou sem créditos.
+
+## 📅 Agenda atual
+- **Shorts:** 3 por dia — 8h, 12h e 18h (`.github/workflows/postar.yml`).
+- **Vídeo longo:** todo domingo às 10h (`.github/workflows/longo.yml`). Junta os Shorts da semana num vídeo horizontal de ~15 min, com abertura e despedida da Mel, capítulos na descrição e capa.
+- Os Shorts de cada semana ficam guardados em *Releases* (`semana-AAAA-SS`) para montar o vídeo de domingo.
+- Capa personalizada só funciona depois de verificar o canal por telefone em youtube.com/verify.

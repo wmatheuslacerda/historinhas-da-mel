@@ -1,9 +1,9 @@
-﻿name: Postar historinha
+name: Postar historinha
 
 on:
   schedule:
-    # A cada 2 horas, das 8h às 18h (Brasília = UTC-3). Horários em UTC.
-    - cron: "7 11,13,15,17,19,21 * * *"
+    # 3 Shorts por dia: 8h, 12h e 18h de Brasília (UTC-3). Horários em UTC.
+    - cron: "7 11,15,21 * * *"
   workflow_dispatch:
     inputs:
       postar:
@@ -58,6 +58,15 @@ jobs:
           path: saida/
           retention-days: 7
           if-no-files-found: ignore
+
+      - name: Guardar vídeo para o vídeo longo de domingo
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="semana-$(TZ=America/Sao_Paulo date +%G-%V)"
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "$TAG" --notes "Shorts da semana (usados no vídeo longo de domingo)"
+          gh release upload "$TAG" saida/*.mp4 saida/*.json --clobber
 
       - name: Salvar histórico
         if: success()

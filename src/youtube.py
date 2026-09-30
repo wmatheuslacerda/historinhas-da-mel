@@ -1,4 +1,4 @@
-﻿"""Publica o vídeo no YouTube pela API oficial (marcado como "feito para crianças")."""
+"""Publica o vídeo no YouTube pela API oficial (marcado como "feito para crianças")."""
 from __future__ import annotations
 
 import os
@@ -23,22 +23,26 @@ def credenciais():
 
 
 def publicar(caminho: str, roteiro: dict, cfg: dict, log=print) -> str:
+    """Publica um Short a partir do roteiro."""
+    hashtags = " ".join(cfg["youtube"].get("hashtags", []))
+    base = roteiro.get("descricao", "")
+    if "📖" not in base and roteiro.get("referencia"):
+        base += f"\n\n📖 {roteiro['referencia']}"
+    return enviar(caminho, roteiro["titulo"], f"{base}\n\n{hashtags}".strip(), roteiro.get("tags", []), cfg, log=log)
+
+
+def enviar(caminho: str, titulo: str, descricao: str, tags: list, cfg: dict, capa: str | None = None, log=print) -> str:
     from googleapiclient.discovery import build
     from googleapiclient.http import MediaFileUpload
     from googleapiclient.errors import HttpError
 
     yt_cfg = cfg["youtube"]
     yt = build("youtube", "v3", credentials=credenciais(), cache_discovery=False)
-    hashtags = " ".join(yt_cfg.get("hashtags", []))
-    base = roteiro.get("descricao", "")
-    if "📖" not in base and roteiro.get("referencia"):
-        base += f"\n\n📖 {roteiro['referencia']}"
-    descricao = f"{base}\n\n{hashtags}".strip()
     corpo = {
         "snippet": {
-            "title": roteiro["titulo"][:100],
+            "title": titulo[:100],
             "description": descricao[:4900],
-            "tags": [t[:30] for t in roteiro.get("tags", [])][:15],
+            "tags": [t[:30] for t in tags][:15],
             "categoryId": str(yt_cfg.get("categoria", "1")),
             "defaultLanguage": yt_cfg.get("idioma", "pt-BR"),
             "defaultAudioLanguage": yt_cfg.get("idioma", "pt-BR"),
@@ -68,4 +72,10 @@ def publicar(caminho: str, roteiro: dict, cfg: dict, log=print) -> str:
     if priv != yt_cfg.get("privacidade", "public"):
         log(f"⚠️  O YouTube deixou o vídeo como '{priv}'. Isso acontece enquanto o projeto da API "
             "não passa pela auditoria do Google (veja o README).")
+    if capa:
+        try:
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(capa, mimetype="image/png")).execute()
+            log("🖼️  Capa enviada")
+        except Exception as e:  # canal sem verificação por telefone não aceita capa personalizada
+            log(f"⚠️  Não consegui enviar a capa (verifique o canal por telefone em youtube.com/verify): {e}")
     return vid
