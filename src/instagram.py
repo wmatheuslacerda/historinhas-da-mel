@@ -59,9 +59,9 @@ def publicar_reel(caminho: str, texto: str, log=print, capa_ms: int = 1500) -> s
     uid = me.get("user_id") or me["id"]
     log(f"📸 Instagram @{me.get('username')}: criando Reel...")
 
-    cont = _checar(requests.post(f"{API}/{uid}/media", timeout=60, data={
+    cont = _checar(requests.post(f"{API}/{uid}/media", timeout=60, params={"access_token": tok}, json={
         "media_type": "REELS", "upload_type": "resumable", "caption": texto,
-        "share_to_feed": "true", "thumb_offset": str(capa_ms), "access_token": tok}))["id"]
+        "share_to_feed": True, "thumb_offset": capa_ms}))["id"]
 
     tamanho = Path(caminho).stat().st_size
     with open(caminho, "rb") as f:
@@ -110,7 +110,7 @@ def main():
     if a.renovar:
         renovar()
     if a.video:
-        rot = json.loads(Path(a.roteiro).read_text()) if a.roteiro else {}
+        rot = json.loads(Path(a.roteiro).read_text(encoding="utf-8")) if a.roteiro else {}
         publicar_reel(a.video, legenda(rot))
 
 
