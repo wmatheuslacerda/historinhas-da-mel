@@ -79,6 +79,19 @@ jobs:
           MP4=$(ls saida/*.mp4 | head -1)
           python -m src.instagram --release "$TAG" --video "$MP4" --roteiro "${MP4%.mp4}.json"
 
+      - name: Enviar para o TikTok
+        if: success() && !(github.event_name == 'workflow_dispatch' && inputs.postar == false)
+        continue-on-error: true
+        env:
+          TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
+          TT_CLIENT_SECRET: ${{ secrets.TT_CLIENT_SECRET }}
+          TT_REFRESH_TOKEN: ${{ secrets.TT_REFRESH_TOKEN }}
+          TT_MODO: ${{ vars.TT_MODO || 'rascunho' }}
+        run: |
+          [ -z "$TT_REFRESH_TOKEN" ] && exit 0
+          MP4=$(ls saida/*.mp4 | head -1)
+          python -m src.tiktok --video "$MP4" --roteiro "${MP4%.mp4}.json"
+
       - name: Salvar histórico
         if: success()
         run: |
