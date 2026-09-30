@@ -1,9 +1,9 @@
-name: Postar historinha
+﻿name: Postar historinha
 
 on:
   schedule:
     # A cada 2 horas, das 8h às 18h (Brasília = UTC-3). Horários em UTC.
-    - cron: "53 10,12,14,16,18,20 * * *"
+    - cron: "7 11,13,15,17,19,21 * * *"
   workflow_dispatch:
     inputs:
       postar:
