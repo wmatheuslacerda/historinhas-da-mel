@@ -193,7 +193,10 @@ def _personagem(preset: str, altura: int, emocao="feliz", espelho=False) -> Imag
     bb = img.getbbox()
     img = img.crop(bb) if bb else img
     k = altura / img.height
-    img = img.resize((max(1, int(img.width * k)), altura), Image.LANCZOS)
+    w, h = max(1, int(img.width * k)), altura
+    if w > 380:  # bichos largos (pomba, leão, baleia) não podem cobrir a Mel
+        h, w = int(h * 380 / w), 380
+    img = img.resize((w, h), Image.LANCZOS)
     return img.transpose(Image.FLIP_LEFT_RIGHT) if espelho else img
 
 
@@ -347,6 +350,14 @@ def main():
 
     if a.offline:
         d = dict(EXEMPLO)
+    elif not os.environ.get("ANTHROPIC_API_KEY"):
+        # sem chave: usa o banco de curiosidades prontas, sem repetir até dar a volta
+        banco = json.loads((RAIZ / "dados" / "vocesabia.json").read_text(encoding="utf-8"))
+        usados = [p["curiosidade"] for p in est["postados"]]
+        volta = len(usados) // len(banco)
+        ja = set(usados[volta * len(banco):])
+        d = dict(next((b for b in banco if b["curiosidade"] not in ja), banco[0]))
+        d["historia_id"] = d["referencia"]
     else:
         catalogo = json.loads((RAIZ / "dados" / "historias.json").read_text(encoding="utf-8"))
         hist = escolher_historia(catalogo, est["postados"])
