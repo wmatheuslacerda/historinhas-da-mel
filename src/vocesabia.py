@@ -308,6 +308,34 @@ def imagem_para_video(jpg: Path, mp4: Path, segundos: int = 8):
     wav.unlink(missing_ok=True)
 
 
+PAGES = "https://wmatheuslacerda.github.io/historinhas-da-mel"
+
+
+def publicar_pages(jpg: Path, log=print) -> str:
+    """Coloca a imagem no GitHub Pages (branch gh-pages) e espera o link ficar no ar."""
+    import requests
+    import time
+    pasta = Path("/tmp/gh-pages")
+    if not pasta.exists():
+        subprocess.run(["git", "worktree", "add", str(pasta), "origin/gh-pages"], check=True, cwd=RAIZ)
+    (pasta / "fotos").mkdir(exist_ok=True)
+    (pasta / "fotos" / jpg.name).write_bytes(jpg.read_bytes())
+    g = lambda *a: subprocess.run(["git", "-C", str(pasta), *a], check=True)
+    g("add", "fotos")
+    g("-c", "user.name=historinhas-bot", "-c", "user.email=historinhas-bot@users.noreply.github.com",
+      "commit", "-q", "-m", f"foto {jpg.name}")
+    g("push", "-q", "origin", "HEAD:gh-pages")
+    url = f"{PAGES}/fotos/{jpg.name}"
+    for _ in range(40):  # o Pages leva ~1 min para publicar
+        try:
+            if requests.head(url, timeout=15).status_code == 200:
+                return url
+        except requests.RequestException:
+            pass
+        time.sleep(10)
+    raise RuntimeError("GitHub Pages não publicou a imagem a tempo")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--nao-postar", action="store_true")
@@ -354,7 +382,14 @@ def main():
             from .tiktok import enviar
             registro["tiktok"] = enviar(str(mp4), legenda_tt(d), os.environ.get("TT_MODO", "rascunho"))
         except Exception as e:  # noqa
-            print(f"⚠️ TikTok falhou: {e}", flush=True)
+            print(f"⚠️ TikTok (vídeo) falhou: {e}", flush=True)
+        try:
+            from .tiktok import enviar_foto
+            url = publicar_pages(jpg)
+            registro["tiktok_foto"] = enviar_foto([url], f"Você sabia? 💡 {d['referencia']}", legenda_tt(d),
+                                                  os.environ.get("TT_MODO", "rascunho"))
+        except Exception as e:  # noqa
+            print(f"⚠️ TikTok (foto) falhou: {e}", flush=True)
     if resumo:
         with open(resumo, "a", encoding="utf-8") as f:
             f.write(f"\n💡 {d['curiosidade']}\n\n📸 {registro.get('instagram', '-')} · 🎵 {registro.get('tiktok', '-')}\n"

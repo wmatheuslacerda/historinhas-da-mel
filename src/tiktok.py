@@ -96,6 +96,35 @@ def enviar(caminho: str, texto: str, modo: str = "rascunho", log=print) -> str:
     return status
 
 
+def enviar_foto(urls: list[str], titulo: str, descricao: str, modo: str = "rascunho", log=print) -> str:
+    """Post de FOTO. O TikTok baixa a imagem do link, que precisa estar num domínio/URL verificado
+    no portal de desenvolvedores (usamos o GitHub Pages do repositório)."""
+    tok = token(log)
+    h = {"Authorization": f"Bearer {tok}", "Content-Type": "application/json; charset=UTF-8"}
+    info = {"title": titulo[:90], "description": descricao[:4000]}
+    if modo == "direto":
+        dados = _checar(requests.post(f"{API}/post/publish/creator_info/query/", headers=h, timeout=30))["data"]
+        opcoes = dados.get("privacy_level_options", [])
+        info.update({"privacy_level": "PUBLIC_TO_EVERYONE" if "PUBLIC_TO_EVERYONE" in opcoes else opcoes[0],
+                     "disable_comment": False, "auto_add_music": True})
+    corpo = {"post_info": info, "post_mode": "DIRECT_POST" if modo == "direto" else "MEDIA_UPLOAD",
+             "media_type": "PHOTO",
+             "source_info": {"source": "PULL_FROM_URL", "photo_images": urls, "photo_cover_index": 0}}
+    pid = _checar(requests.post(f"{API}/post/publish/content/init/", headers=h, json=corpo, timeout=60))["data"]["publish_id"]
+    status = "?"
+    for _ in range(30):
+        time.sleep(6)
+        s = _checar(requests.post(f"{API}/post/publish/status/fetch/", headers=h, timeout=30,
+                                  json={"publish_id": pid}))["data"]
+        status = s.get("status")
+        if status in ("SEND_TO_USER_INBOX", "PUBLISH_COMPLETE"):
+            break
+        if status == "FAILED":
+            raise RuntimeError(f"TikTok recusou a foto: {s.get('fail_reason')}")
+    log(f"🎉 TikTok (foto): {status}")
+    return status
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--video", required=True)

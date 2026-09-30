@@ -25,6 +25,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Buscar o site das imagens (gh-pages)
+        run: git fetch -q --depth=1 origin gh-pages:refs/remotes/origin/gh-pages
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
