@@ -1,10 +1,10 @@
 """Publica Reels no Instagram (API do Instagram com login do Instagram).
 
-Upload "resumable": o vídeo vai direto do GitHub para o Instagram, sem precisar de link público.
+O Instagram busca o vídeo por link público: usamos o arquivo da release da semana no GitHub.
 
 Uso avulso:
   python -m src.instagram --renovar            # renova o token (vale 60 dias) e salva no GitHub
-  python -m src.instagram --video X.mp4 --roteiro X.json   # posta um Reel manualmente
+  python -m src.instagram --release TAG --video X.mp4 --roteiro X.json   # posta o Reel
 """
 from __future__ import annotations
 
@@ -18,7 +18,6 @@ from pathlib import Path
 import requests
 
 API = "https://graph.instagram.com/v23.0"
-RUPLOAD = "https://rupload.facebook.com/ig-api-upload/v23.0"
 HASHTAGS = "#historinhabiblica #bibliaparacriancas #desenhobiblico #historiasbiblicas #criancacrista #educacaocrista #reels"
 
 
@@ -53,21 +52,24 @@ def legenda(roteiro: dict) -> str:
     return "\n\n".join(p for p in partes if p)[:2150]
 
 
-def publicar_reel(caminho: str, texto: str, log=print, capa_ms: int = 1500) -> str:
+def link_publico(url: str) -> str:
+    """Segue o redirecionamento do GitHub até o arquivo final (o Instagram prefere link direto)."""
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=30)
+        return r.url if r.ok else url
+    except requests.RequestException:
+        return url
+
+
+def publicar_reel(video_url: str, texto: str, log=print, capa_ms: int = 1500) -> str:
     tok = _token()
     me = _checar(requests.get(f"{API}/me", params={"fields": "user_id,username", "access_token": tok}, timeout=30))
     uid = me.get("user_id") or me["id"]
     log(f"📸 Instagram @{me.get('username')}: criando Reel...")
-
-    cont = _checar(requests.post(f"{API}/{uid}/media", timeout=60, params={
-        "media_type": "REELS", "upload_type": "resumable", "caption": texto,
+    cont = _checar(requests.post(f"{API}/{uid}/media", timeout=60, data={
+        "media_type": "REELS", "video_url": link_publico(video_url), "caption": texto,
         "share_to_feed": "true", "thumb_offset": str(capa_ms), "access_token": tok}))["id"]
-
-    tamanho = Path(caminho).stat().st_size
-    with open(caminho, "rb") as f:
-        _checar(requests.post(f"{RUPLOAD}/{cont}", data=f, timeout=600, headers={
-            "Authorization": f"OAuth {tok}", "offset": "0", "file_size": str(tamanho)}))
-    log(f"   upload ok ({tamanho / 1e6:.1f} MB), aguardando processamento...")
+    log("   aguardando o Instagram processar o vídeo...")
 
     for _ in range(60):  # até ~10 min
         st = _checar(requests.get(f"{API}/{cont}", timeout=30,
@@ -104,14 +106,22 @@ def renovar(log=print) -> None:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--renovar", action="store_true")
-    ap.add_argument("--video")
+    ap.add_argument("--video", help="arquivo .mp4 já enviado para a release")
     ap.add_argument("--roteiro")
+    ap.add_argument("--release", help="tag da release onde o vídeo está")
+    ap.add_argument("--url", help="link público do vídeo (em vez de --release)")
     a = ap.parse_args()
     if a.renovar:
         renovar()
     if a.video:
         rot = json.loads(Path(a.roteiro).read_text(encoding="utf-8")) if a.roteiro else {}
-        publicar_reel(a.video, legenda(rot))
+        repo = os.environ.get("GITHUB_REPOSITORY", "wmatheuslacerda/historinhas-da-mel")
+        url = a.url or f"https://github.com/{repo}/releases/download/{a.release}/{Path(a.video).name}"
+        link = publicar_reel(url, legenda(rot))
+        resumo = os.environ.get("GITHUB_STEP_SUMMARY")
+        if resumo:
+            with open(resumo, "a", encoding="utf-8") as f:
+                f.write(f"\n📸 Instagram: {link}\n")
 
 
 if __name__ == "__main__":

@@ -143,21 +143,6 @@ def main():
             with open(resumo, "a") as f:
                 f.write(f"### 🐑 {roteiro['titulo']}\n\n{url}\n")
 
-    # 5) Instagram (Reels) — se falhar, não atrapalha o YouTube
-    if postar and os.environ.get("IG_ACCESS_TOKEN"):
-        try:
-            from .instagram import publicar_reel, legenda
-            link = publicar_reel(mp4, legenda(roteiro), log=log)
-            if estado["postados"]:
-                estado["postados"][-1]["instagram"] = link
-                arq_estado.write_text(json.dumps(estado, ensure_ascii=False, indent=1))
-            resumo = os.environ.get("GITHUB_STEP_SUMMARY")
-            if resumo:
-                with open(resumo, "a") as f:
-                    f.write(f"\n📸 Instagram: {link}\n")
-        except Exception as e:
-            log(f"⚠️  Instagram falhou (YouTube ok): {e}")
-
 
 if __name__ == "__main__":
     try:

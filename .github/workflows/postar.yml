@@ -43,7 +43,6 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.postar }}" = "false" ]; then
             python -m src.main --nao-postar
@@ -68,6 +67,17 @@ jobs:
           TAG="semana-$(TZ=America/Sao_Paulo date +%G-%V)"
           gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "$TAG" --notes "Shorts da semana (usados no vídeo longo de domingo)"
           gh release upload "$TAG" saida/*.mp4 saida/*.json --clobber
+          echo "TAG=$TAG" >> "$GITHUB_ENV"
+
+      - name: Postar no Instagram (Reels)
+        if: success() && !(github.event_name == 'workflow_dispatch' && inputs.postar == false)
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          [ -z "$IG_ACCESS_TOKEN" ] && exit 0
+          MP4=$(ls saida/*.mp4 | head -1)
+          python -m src.instagram --release "$TAG" --video "$MP4" --roteiro "${MP4%.mp4}.json"
 
       - name: Salvar histórico
         if: success()
