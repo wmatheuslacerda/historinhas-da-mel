@@ -22,6 +22,8 @@ LEGENDA_Y = 1480
 GAP_FALA = 0.28
 BORDA_CENA = 0.30
 NAO_DESENHADOS = {"narrador", "deus"}
+TOC_BATIDAS = (0.18, 0.55)
+TOC_DURACAO = 1.4
 
 
 def fonte(tam, peso="Bold"):
@@ -65,6 +67,7 @@ class Evento:
     acao: str | None
     alvo: str | None
     env: np.ndarray
+    fl: dict | None = None
 
 
 class Renderizador:
@@ -109,7 +112,7 @@ class Renderizador:
                 k += 1
                 env = A.envelope(fala.audio, self.fps)
                 self.eventos.append(Evento(ci, fl["quem"], fl["texto"], t, t + fala.duracao, fala,
-                                           fl.get("emocao"), fl.get("acao"), fl.get("alvo"), env))
+                                           fl.get("emocao"), fl.get("acao"), fl.get("alvo"), env, fl))
                 t += fala.duracao + GAP_FALA
             t += BORDA_CENA - GAP_FALA
             self.cenas_t.append([ini, t])
@@ -131,6 +134,12 @@ class Renderizador:
                 continue
             i0 = int((ini - 0.05) * A.SR)
             efx[i0:i0 + len(plim)] += plim[: n - i0]
+        toc = A.efeito_toc()
+        for e in self.eventos:
+            if e.acao == "toctoc" and e.quem == "mel":
+                for bat in TOC_BATIDAS:
+                    i0 = int((e.t0 + bat) * A.SR)
+                    efx[i0:i0 + len(toc)] += toc[: max(0, n - i0)]
         musica = A.gerar_musica(self.total + 0.5, self.seed)
         mix = A.mixar(voz[: int(self.total * A.SR)], musica[: int(self.total * A.SR)], efx[: int(self.total * A.SR)],
                       self.cfg["video"].get("musica_volume", 0.16))
@@ -248,8 +257,8 @@ class Renderizador:
             if e.cena != ci or not e.acao or e.t0 > t:
                 continue
             alvo = e.alvo or e.quem
-            if e.acao == "cair" or t <= e.t1 + 0.2:
-                out[alvo] = (e.acao, t - e.t0, e.t1 - e.t0)
+            if e.acao in ("cair", "tchau") or t <= e.t1 + 0.2:
+                out[alvo] = (e.acao, t - e.t0, e.t1 - e.t0, e.fl or {})
         return out
 
     # ------------------------------------------------------------ sprites
@@ -374,6 +383,8 @@ class Renderizador:
                 arco = Image.merge("RGBA", (r, g, b, al.point(lambda v, a=a: int(v * a))))
             img.paste(arco, (0, 0), arco)
 
+        mel_fx = []
+        mel_pos = None
         emo = self._emocoes_ate(ci, t)
         acoes = self._acoes(ci, t)
         ids = cena["_ids"]
@@ -400,7 +411,7 @@ class Renderizador:
             piscar = ((t + fase * 1.3) % (3.1 + (idx % 3) * 0.7)) < 0.13
             dx, rot = 0, 0
             if pid in acoes:
-                ac, at, dur = acoes[pid]
+                ac, at, dur, extra = acoes[pid]
                 if ac == "pular" and at < 0.6:
                     dy -= math.sin(math.pi * at / 0.6) * 130
                 elif ac == "comemorar" and at < dur:
@@ -408,6 +419,22 @@ class Renderizador:
                 elif ac == "tremer" and at < dur:
                     dx += math.sin(at * 70) * 7
                     e = "assustado" if "assustado" not in emo.get(pid, "") else emo[pid]
+                elif pid == "mel" and ac in ("rir", "chorar", "tchau", "toctoc"):
+                    rindo = ac == "rir" or (ac == "tchau" and extra.get("risadinha") and at < 1.1)
+                    chorando = ac == "chorar" or (ac == "tchau" and extra.get("chorinho"))
+                    if rindo and at < dur + 0.2:
+                        dy -= abs(math.sin(at * 2 * math.pi * 3.2)) * 16
+                        dx += math.sin(at * 2 * math.pi * 1.6) * 6
+                        piscar = True
+                        e = "feliz"
+                        mel_fx.append(("rir", at))
+                    if chorando and at < dur + 0.6:
+                        e = "triste" if ac == "chorar" else "feliz"
+                        mel_fx.append(("chorar", at))
+                    if ac == "tchau" and (not extra.get("risadinha") or at >= 0.9):
+                        mel_fx.append(("tchau", at))
+                    if ac == "toctoc" and at < TOC_DURACAO:
+                        mel_fx.append(("toctoc", at))
                 elif ac == "cair":
                     rot = -85 * suave(at / 0.7)
                     piscar = at > 0.7
@@ -435,6 +462,13 @@ class Renderizador:
                 img.paste(sh, (int(x - sh.width / 2 + dx), PES - 20), sh)
             img.paste(corpo, (bx, by), corpo)
             img.paste(cab, (bx, by + int(min(dy, 0) * 0.15)), cab)
+            if pid == "mel":
+                mel_pos = (bx, by + int(min(dy, 0) * 0.15), p, espelho, corpo.width)
+                for fx, at in mel_fx:
+                    if fx == "tchau":
+                        self._patinha_tchau(img, bx, by, p, espelho, corpo.width, at)
+                    elif fx == "chorar":
+                        self._lagrimas(img, mel_pos, at)
 
         if frente is not None:
             img.paste(frente, (0, 0), frente)
@@ -482,6 +516,13 @@ class Renderizador:
             ImageDraw.Draw(img).ellipse((bx - 8, by - 8, bx + 248, by + 248), fill=(255, 111, 145))
             img.paste(fundo_b, (bx, by), self._badge_mask)
 
+        for fx, at in mel_fx:
+            if fx == "rir" and mel_pos:
+                self._risada(img, mel_pos, at)
+        toc = next((at for fx, at in mel_fx if fx == "toctoc"), None)
+        if toc is not None:
+            img = self._toctoc(img, toc)
+
         # legenda
         if ev:
             leg, nome = self._legenda(ev, t)
@@ -503,6 +544,121 @@ class Renderizador:
             ImageDraw.Draw(m).ellipse((540 - r_iris, 950 - r_iris, 540 + r_iris, 950 + r_iris), fill=0)
             img.paste((58, 34, 72), (0, 0, W, H), m)
         return img
+
+    # ------------------------------------------------------------ interações da Mel
+    def _sprite_patinha(self, tam):
+        k = ("patinha", tam)
+        if k not in self._cache_rot:
+            p = Pintor(260, 520)
+            la = Pintor.soma(*[p.circ(p.m(), 130 + 18 * math.sin(i), 120 + i * 62, 64) for i in range(6)])
+            p.pintar(la, "#fffaf2", contorno=5, sombra=0.35)
+            casco = p.rect(p.m(), (78, 2, 182, 104), r=46)
+            p.pintar(casco, "#4b3b3b", contorno=5)
+            p.pintar(p.linha(p.m(), [(130, 14), (130, 70)], 7), "#2e2424", contorno=0)
+            img = p.reduzir(1.0)
+            img = img.resize((int(img.width * tam / img.height), tam), Image.LANCZOS)
+            self._cache_rot[k] = img
+        return self._cache_rot[k]
+
+    def _sola(self, tam):
+        k = ("sola", tam)
+        if k not in self._cache_rot:
+            p = Pintor(520, 520)
+            la = Pintor.soma(*[p.circ(p.m(), 260 + 175 * math.cos(math.radians(a)), 260 + 175 * math.sin(math.radians(a)), 78)
+                               for a in range(0, 360, 36)], p.circ(p.m(), 260, 260, 190))
+            p.pintar(la, "#fffaf2", contorno=6, sombra=0.35)
+            for lado in (-1, 1):
+                casco = p.ell(p.m(), (260 + lado * 8 - (0 if lado > 0 else 110), 150, 260 + lado * 8 + (110 if lado > 0 else 0), 360))
+                p.pintar(casco, "#4b3b3b", contorno=6)
+                p.brilho(casco, forca=0.25)
+            img = p.reduzir(1.0).resize((tam, tam), Image.LANCZOS)
+            self._cache_rot[k] = img
+        return self._cache_rot[k]
+
+    def _patinha_tchau(self, img, bx, by, p, espelho, larg, at):
+        s = p.escala
+        lado = -1 if espelho else 1
+        ombro_x = bx + larg / 2 + lado * 105 * s
+        ombro_y = by + 300 * s
+        sobe = suave(min(at, 0.35) / 0.35)
+        ang = lado * (-(110 - 80 * sobe) - 22 * math.sin(at * 2 * math.pi * 1.8) * sobe)
+        pat = self._sprite_patinha(int(200 * s))
+        rot = pat.rotate(ang, resample=Image.BICUBIC, expand=True)
+        # o "casco" fica na ponta: posiciona a base (lã) no ombro
+        r = pat.height / 2 - 30 * s
+        a = math.radians(ang)
+        cx = ombro_x - math.sin(a) * r
+        cy = ombro_y - math.cos(a) * r
+        img.paste(rot, (int(cx - rot.width / 2), int(cy - rot.height / 2)), rot)
+
+    def _lagrimas(self, img, pos, at):
+        bx, by, p, espelho, larg = pos
+        s = p.escala
+        d = ImageDraw.Draw(img, "RGBA")
+        for i, ex in enumerate((p.cx + p.off - 34, p.cx + p.off + 34)):
+            x = bx + (larg - ex * s if espelho else ex * s) + (-14 if i == 0 else 14) * s
+            for k in range(2):
+                fase = (at * 0.9 + k * 0.5 + i * 0.25) % 1.0
+                y = by + (200 + fase * 150) * s
+                r = (12 + 5 * (1 - fase)) * s
+                al = int(230 * (1 - fase ** 2))
+                d.ellipse((x - r, y - r, x + r, y + r * 1.5), fill=(110, 190, 255, al), outline=(60, 130, 210, al), width=2)
+                d.polygon([(x - r * 0.75, y - r * 0.4), (x + r * 0.75, y - r * 0.4), (x, y - r * 2.4)], fill=(110, 190, 255, al))
+            # risquinho de lágrima no rosto
+            d.line((x, by + 196 * s, x, by + 206 * s + 70 * s * min(at, 1)), fill=(150, 210, 255, 160), width=int(7 * s))
+
+    def _risada(self, img, pos, at):
+        bx, by, p, espelho, larg = pos
+        f = fonte(84)
+        d = ImageDraw.Draw(img, "RGBA")
+        for i, txt in enumerate(("hi", "hi", "hi!")):
+            ti = at - i * 0.22
+            if ti < 0:
+                continue
+            u = min(ti / 1.1, 1)
+            x = bx + larg / 2 + (150 + i * 70) * (-1 if espelho else 1)
+            y = by + 40 - u * 120 - i * 40
+            al = int(255 * (1 - u ** 3))
+            d.text((x, y), txt, font=f, fill=(255, 111, 145, al), anchor="mm", stroke_width=6, stroke_fill=(255, 255, 255, al))
+
+    def _toctoc(self, img, at):
+        """A Mel bate na tela por dentro: patinha gigante, tela treme, ondinhas e TOC!"""
+        out = img
+        for j, bat in enumerate(TOC_BATIDAS):
+            u = at - bat
+            if -0.18 < u < 0.08:
+                sh = int(14 * (1 - abs(u + 0.05) / 0.2))
+                out = ImageOps.expand(img.crop((sh, sh, W, H)), border=(0, 0, sh, sh), fill=(58, 34, 72))
+                break
+        d = ImageDraw.Draw(out, "RGBA")
+        tx, ty = 780, 640
+        # patinha chegando perto da "tela"
+        perto = 0.0
+        for bat in TOC_BATIDAS:
+            u = at - bat
+            perto = max(perto, 1 - min(abs(u) / 0.18, 1))
+        entra = suave(min(at, 0.25) / 0.25) * (1 - suave(max(0, at - (TOC_DURACAO - 0.3)) / 0.3))
+        if entra > 0.01:
+            tam = int(300 + 120 * perto)
+            pat = self._sola(tam)
+            if perto > 0.05:  # sombra de "vidro" quando encosta
+                pat = pat.rotate(-8 * perto, resample=Image.BICUBIC)
+            px = tx - pat.width / 2
+            py = ty - pat.height / 2 + (1 - entra) * 900
+            out.paste(pat, (int(px), int(py)), pat)
+        for j, bat in enumerate(TOC_BATIDAS):
+            u = at - bat
+            if 0 <= u < 0.6:
+                for k in range(3):
+                    r = 60 + (u * 520) + k * 50
+                    al = int(200 * (1 - u / 0.6))
+                    d.ellipse((tx - r, ty - r * 0.7, tx + r, ty + r * 0.7), outline=(255, 255, 255, al), width=7)
+                f = fonte(int(120 + 30 * (1 - min(u / 0.2, 1))))
+                x = tx + (-260 if j == 0 else 40)
+                y = ty - 300 + j * 40 - u * 60
+                al = int(255 * (1 - (u / 0.6) ** 2))
+                d.text((x, y), "TOC!", font=f, fill=(255, 213, 79, al), anchor="mm", stroke_width=10, stroke_fill=(61, 43, 86, al))
+        return out
 
     def _sombra(self, largura):
         k = ("sombra", largura)

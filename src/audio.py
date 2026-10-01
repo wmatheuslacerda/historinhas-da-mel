@@ -179,3 +179,13 @@ def mixar(voz: np.ndarray, musica: np.ndarray, efeitos: np.ndarray, vol_musica: 
     out = v + m * ganho + e
     pico = np.max(np.abs(out)) + 1e-9
     return (out * (0.95 / pico)).astype(np.float32) if pico > 0.95 else out.astype(np.float32)
+
+
+def efeito_toc(vol=0.55) -> np.ndarray:
+    """Batida de "toc" (madeira/vidro abafado) para a Mel batendo na tela."""
+    n = int(0.22 * SR)
+    tt = np.arange(n) / SR
+    corpo = np.sin(2 * np.pi * 180 * tt) * np.exp(-tt * 38)
+    clique = np.sin(2 * np.pi * 1250 * tt) * np.exp(-tt * 140) * 0.5
+    ruido = np.random.default_rng(3).standard_normal(n) * np.exp(-tt * 220) * 0.25
+    return ((corpo + clique + ruido) * vol).astype(np.float32)

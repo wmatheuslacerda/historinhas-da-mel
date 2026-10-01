@@ -19,6 +19,7 @@ from pathlib import Path
 import yaml
 
 from . import audio as A
+from .interacoes import enriquecer
 from .roteiro import Roteirista, escolher_historia, voz_de, validar
 from .video import Renderizador
 from .vozes import Vozes
@@ -96,6 +97,7 @@ def main():
                 roteiro.setdefault("historia_id", historia["id"])
                 roteiro.setdefault("referencia", historia["ref"])
             log(f"✍️  Roteiro: {roteiro['titulo']}")
+        roteiro = enriquecer(roteiro)
 
         # 2) vozes
         vozes = Vozes(cfg, offline=args.offline, cache=RAIZ / ".cache" / "vozes")

@@ -11,7 +11,7 @@ from .personagens import PRESETS, EMOCOES, criar_personagem
 
 RAIZ = Path(__file__).resolve().parent.parent
 EFEITOS = ["nenhum", "brilhos", "luz", "chuva", "estrelas", "arco_iris", "coracoes"]
-ACOES = ["nenhuma", "pular", "comemorar", "tremer", "cair"]
+ACOES = ["nenhuma", "pular", "comemorar", "tremer", "cair", "toctoc", "rir", "chorar", "tchau"]
 VOZES = ["narrador", "menino", "menina", "homem", "mulher", "idoso", "idosa", "gigante", "deus", "anjo", "animal"]
 
 ABORDAGENS = [
@@ -108,6 +108,8 @@ Valores permitidos:
 - efeito: {efeitos}
 - emocao: {emocoes}
 - acao: {acoes} ("cair" pode usar "alvo" para indicar quem cai quando o narrador fala)
+  Ações só da Mel: "toctoc" (bate na tela e fala com a criança), "rir" (risadinha, escreva "hihihi" na fala),
+  "chorar" (só em momento emocionante), "tchau" (acena com a patinha na despedida).
 """
 
 FERRAMENTA = {
