@@ -1,0 +1,17 @@
+/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/torch/jit/_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+cena 1
+   1_bia {'cena': 1, 'x': 219, 'y': 876, 'w': 512, 'h': 1003}
+cena 2
+   2_bia {'cena': 2, 'x': 193, 'y': 851, 'w': 414, 'h': 832}
+   2_mae {'cena': 2, 'x': 801, 'y': 711, 'w': 304, 'h': 650}
+cena 3
+   3_davi {'cena': 3, 'x': 437, 'y': 367, 'w': 608, 'h': 1336}
+cena 4
+   4_bia {'cena': 4, 'x': 74, 'y': 755, 'w': 407, 'h': 796}
+   4_davi {'cena': 4, 'x': 498, 'y': 663, 'w': 526, 'h': 989}
+cena 5
+   5_dupla {'cena': 5, 'x': 229, 'y': 713, 'w': 727, 'h': 935}
+cena 6
+   6_davi {'cena': 6, 'x': 449, 'y': 691, 'w': 680, 'h': 1084}
+ok
