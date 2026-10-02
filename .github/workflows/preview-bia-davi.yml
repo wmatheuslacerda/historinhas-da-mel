@@ -1,0 +1,36 @@
+name: Amostra Bia e Davi
+
+on:
+  push:
+    branches: [preview-bia-e-davi]
+    paths: ["preview-bia-e-davi/gerar.py", ".github/workflows/preview-bia-davi.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Instalar dependências
+        run: pip install requests numpy pyyaml
+      - name: Gerar imagens e vozes
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python preview-bia-e-davi/gerar.py
+      - name: Salvar no ramo
+        if: always()
+        run: |
+          git config user.name "historinhas-bot"
+          git config user.email "historinhas-bot@users.noreply.github.com"
+          git add -f preview-bia-e-davi/saida/
+          git diff --cached --quiet && exit 0
+          git commit -m "amostra bia e davi: arquivos gerados [skip ci]"
+          git push
