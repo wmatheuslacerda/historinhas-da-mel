@@ -1,0 +1,43 @@
+name: Camadas Bia e Davi
+
+on:
+  push:
+    branches: [preview-bia-e-davi]
+    paths: ["preview-bia-e-davi/camadas/preparar.py", ".github/workflows/preview-camadas.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  camadas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependências
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install spandrel pillow numpy
+      - name: Baixar modelos
+        working-directory: preview-bia-e-davi/camadas
+        run: |
+          curl -sSLo realesr-general-x4v3.pth https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-x4v3.pth
+          curl -sSLo big-lama.pt https://github.com/enesmsahin/simple-lama-inpainting/releases/download/v0.1.0/big-lama.pt
+          ls -la
+      - name: Preparar camadas
+        run: |
+          set -o pipefail
+          mkdir -p preview-bia-e-davi/camadas/out
+          python preview-bia-e-davi/camadas/preparar.py 2>&1 | tee preview-bia-e-davi/camadas/out/log.txt
+      - name: Salvar no ramo
+        if: always()
+        run: |
+          git config user.name "historinhas-bot"
+          git config user.email "historinhas-bot@users.noreply.github.com"
+          git add -f preview-bia-e-davi/camadas/out/
+          git diff --cached --quiet && exit 0
+          git commit -m "camadas bia e davi [skip ci]"
+          git push
