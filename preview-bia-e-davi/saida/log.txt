@@ -1,0 +1,11 @@
+Fala 1 (narrador)
+Fala 2 (bia)
+Fala 3 (narrador)
+Fala 4 (davi)
+Fala 5 (bia)
+Fala 6 (davi)
+Fala 7 (narrador)
+Fala 8 (davi)
+Fala 9 (davi)
+Fala 10 (narrador)
+ok
