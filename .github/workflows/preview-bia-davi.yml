@@ -24,7 +24,10 @@ jobs:
       - name: Gerar imagens e vozes
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-        run: python preview-bia-e-davi/gerar.py
+        run: |
+          set -o pipefail
+          mkdir -p preview-bia-e-davi/saida
+          python preview-bia-e-davi/gerar.py 2>&1 | tee preview-bia-e-davi/saida/log.txt
       - name: Salvar no ramo
         if: always()
         run: |

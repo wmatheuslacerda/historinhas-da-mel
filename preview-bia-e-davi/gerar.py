@@ -120,8 +120,9 @@ def horde(prompt: str, seed: int) -> bytes | None:
 
 
 def main():
-    # Imagens
-    for i, prompt in enumerate(CENAS):
+    import os
+    # Imagens (desligadas: geradas à parte no Gemini para manter os personagens iguais)
+    for i, prompt in enumerate(CENAS if os.environ.get("IMAGENS") == "1" else []):
         destino = SAIDA / f"cena{i + 1}.jpg"
         if destino.exists():
             continue
