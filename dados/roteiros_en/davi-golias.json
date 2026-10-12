@@ -1,0 +1,170 @@
+{
+ "historia_id": "davi-golias",
+ "titulo": "David and the Giant Goliath 🪨 | Bible Story for Kids #shorts",
+ "titulo_curto": "David and Goliath",
+ "referencia": "1 Samuel 17",
+ "descricao": "Little shepherd David faces the giant Goliath with a sling, a little stone and big trust in God! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 17\n💛 Lesson: when you feel afraid, remember that God is bigger than any giant.",
+ "tags": [
+  "david and goliath",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God is bigger than any giant",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "davi": {
+   "preset": "davi"
+  },
+  "golias": {
+   "preset": "golias"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today's story is about a very brave boy!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "davi",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "David was a shepherd boy. He cared for the little sheep with love."
+    },
+    {
+     "quem": "davi",
+     "texto": "I talk to God every day!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "soldado",
+    "golias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, a huge giant named Goliath appeared."
+    },
+    {
+     "quem": "golias",
+     "texto": "Who is brave enough to fight me? No one?",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Oh no, how scary!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "davi",
+    "golias"
+   ],
+   "falas": [
+    {
+     "quem": "davi",
+     "texto": "I'm brave! God is with me!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "golias",
+     "texto": "You? A little boy? Ha, ha, ha!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "David took his sling and a smooth stone. He spun it around and... zoom!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The stone hit the giant, and he fell down. Thud!",
+     "acao": "cair",
+     "alvo": "golias",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "soldado",
+    "davi"
+   ],
+   "falas": [
+    {
+     "quem": "soldado",
+     "texto": "Hooray! David won!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "davi",
+     "texto": "It wasn't just me. God helped me!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you feel afraid, remember: God is bigger than any giant!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

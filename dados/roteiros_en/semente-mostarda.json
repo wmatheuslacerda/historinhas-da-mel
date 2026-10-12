@@ -1,0 +1,164 @@
+{
+ "historia_id": "semente-mostarda",
+ "titulo": "The Little Mustard Seed 🌱 | Bible Story #shorts",
+ "titulo_curto": "The mustard seed",
+ "referencia": "Matthew 13",
+ "descricao": "The mustard seed is tiny, but it grows into a tree where little birds make nests! A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 13\n💛 Lesson: God makes small things grow.",
+ "tags": [
+  "mustard seed",
+  "parable",
+  "kingdom of god",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "God makes small things grow",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "pomba": {
+   "preset": "pomba"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Look at this teeny tiny seed!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "God's Kingdom is like a mustard seed.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "It's the smallest of all seeds!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "It's so tiny! It looks like a dot!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "personagens": [
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A man planted the little seed in the ground."
+    },
+    {
+     "quem": "homem",
+     "texto": "A little hole, a little water... Plop!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "First, a little green sprout came out."
+    },
+    {
+     "quem": "narrador",
+     "texto": "The sun shone, the rain fell. And it grew and grew and grew!"
+    },
+    {
+     "quem": "homem",
+     "texto": "Wow! It became a huge tree!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "personagens": [
+    "pomba",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The little birds came to make nests in the branches."
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet, tweet! What a nice little home!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "What cool shade! From a tiny seed, a giant tree!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "With God, even the tiniest things become big!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

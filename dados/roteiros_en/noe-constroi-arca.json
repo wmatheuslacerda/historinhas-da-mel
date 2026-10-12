@@ -1,0 +1,192 @@
+{
+ "historia_id": "noe-constroi-arca",
+ "titulo": "Noah Builds the Ark 🔨 | Bible Story for Kids #shorts",
+ "titulo_curto": "Noah builds the ark",
+ "referencia": "Genesis 6",
+ "descricao": "Noah obeys God and builds a giant boat, even with people laughing at him. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 6\n💛 Lesson: obeying God is always the best way, even when others laugh.",
+ "tags": [
+  "noah",
+  "noah's ark",
+  "obedience",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Always obey God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "noe": {
+   "preset": "noe"
+  },
+  "esposa_noe": {
+   "preset": "esposa_noe"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Ever thought of building a giant boat? Come see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Noah loved God with all his heart."
+    },
+    {
+     "quem": "noe",
+     "texto": "Good morning, God! I love you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Noah, build a very big ark!"
+    },
+    {
+     "quem": "noe",
+     "texto": "A boat? On dry land?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "noe",
+     "texto": "Okay, God. I will obey!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Noah got wood and a hammer. Knock, knock, knock!"
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "What a big boat, Noah!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "noe",
+     "texto": "God said so, and I obey!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "noe",
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "Ha, ha! A boat without a sea!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mulher",
+     "texto": "That Noah is funny!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "noe",
+     "texto": "God knows what he's doing!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Noah didn't get mad. He kept working, happy."
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Knock, knock... and the ark was ready!"
+    },
+    {
+     "quem": "noe",
+     "texto": "Hooray! We did it!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Obeying God is always the best way!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

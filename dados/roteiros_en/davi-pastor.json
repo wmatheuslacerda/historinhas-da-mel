@@ -1,0 +1,191 @@
+{
+ "historia_id": "davi-pastor",
+ "titulo": "David, the Chosen Little Shepherd 🐑 | Bible Story for Kids #shorts",
+ "titulo_curto": "David, the shepherd boy",
+ "referencia": "1 Samuel 16",
+ "descricao": "Samuel goes to Jesse's house to anoint a new king. God doesn't choose the tallest, but little shepherd David, because He looks at the heart! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 16\n💛 Lesson: God looks at the heart, not at size.",
+ "tags": [
+  "david shepherd",
+  "david anointed king",
+  "samuel anoints david",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God looks at the heart",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "samuel": {
+   "preset": "samuel"
+  },
+  "jesse": {
+   "preset": "idoso",
+   "nome": "Jessé"
+  },
+  "eliabe": {
+   "preset": "homem",
+   "nome": "Eliabe"
+  },
+  "davi": {
+   "preset": "davi"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Who do you think God chose to be king?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "samuel",
+    "jesse"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God sent Samuel to Jesse's house, in Bethlehem."
+    },
+    {
+     "quem": "jesse",
+     "texto": "Look at my sons! Which one will be king?",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "samuel",
+    "eliabe"
+   ],
+   "falas": [
+    {
+     "quem": "samuel",
+     "texto": "This one is so tall and handsome!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "deus",
+     "texto": "I don't look at looks. I look at the heart."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "samuel",
+    "jesse"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Seven brothers passed by, and God said no to all."
+    },
+    {
+     "quem": "samuel",
+     "texto": "Jesse, do you have another son?"
+    },
+    {
+     "quem": "jesse",
+     "texto": "Only the youngest, David. He's tending the sheep."
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "davi",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "davi",
+     "texto": "Come on, little sheep! Time for water!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baaaa!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They ran to call David from the field!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "samuel",
+    "davi",
+    "jesse"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "It's him! Anoint David!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Samuel poured oil on David's head. Plop, plop!"
+    },
+    {
+     "quem": "davi",
+     "texto": "Me? Just a little shepherd? Thank you, God!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God looks at the heart, not at size!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

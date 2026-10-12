@@ -1,0 +1,175 @@
+{
+ "historia_id": "lazaro",
+ "titulo": "Lazarus, Come Out! 🌅 | Bible Story for Kids #shorts",
+ "titulo_curto": "Lazarus",
+ "referencia": "John 11",
+ "descricao": "Jesus cried with his friends Martha and Mary, and then called, \"Lazarus, come out!\" A Bible story A Bible story told gently by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: John 11\n💛 Lesson: Jesus cares about our sadness and is stronger than everything.",
+ "tags": [
+  "lazarus",
+  "lazarus raised",
+  "miracles of jesus",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Jesus is stronger than everything",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "marta": {
+   "preset": "marta"
+  },
+  "maria": {
+   "preset": "maria_betania"
+  },
+  "lazaro": {
+   "preset": "lazaro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today Jesus does a huge miracle!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "marta",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Lazarus was Jesus' friend. He got sick and did not wake up."
+    },
+    {
+     "quem": "marta",
+     "texto": "Jesus, if you had been here, my brother would be alive!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "maria",
+     "texto": "We miss him so much...",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "nublado",
+   "personagens": [
+    "jesus",
+    "marta",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus saw his sad friends and cried with them."
+    },
+    {
+     "quem": "jesus",
+     "texto": "I am the resurrection and the life. Take away the stone!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "marta",
+     "texto": "The stone? Okay, Teacher!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "lazaro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus prayed to the Father and called out loudly."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Lazarus, come out!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Lazarus came out, all wrapped in bandages!"
+    },
+    {
+     "quem": "lazaro",
+     "texto": "Hi, Jesus! Hi, everybody!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "lazaro",
+    "marta",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "marta",
+     "texto": "Lazarus! What joy!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "maria",
+     "texto": "Thank you, Jesus!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus cares about our sadness and is stronger than everything!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

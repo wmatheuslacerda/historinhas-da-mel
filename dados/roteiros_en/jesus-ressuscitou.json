@@ -1,0 +1,202 @@
+{
+ "historia_id": "jesus-ressuscitou",
+ "titulo": "Jesus Is Alive! 🌅 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus Is Alive!",
+ "referencia": "Matthew 28",
+ "descricao": "Early in the morning, two friends of Jesus find the empty tomb, and an angel shares the happiest news in the world. An Easter story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 28\n💛 Lesson: Jesus is alive and always with us.",
+ "tags": [
+  "Jesus is risen",
+  "Easter",
+  "empty tomb",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Jesus is alive!",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "madalena": {
+   "tipo": "humano",
+   "nome": "Maria Madalena",
+   "voz": "mulher",
+   "idade": "adulto",
+   "genero": "f",
+   "pele": "morena",
+   "cabelo": "preto",
+   "estilo_cabelo": "longo",
+   "barba": "nenhuma",
+   "roupa": "#b5651d",
+   "roupa2": "#f3e3c3",
+   "cobertura": "veu",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "maria2": {
+   "tipo": "humano",
+   "nome": "Maria",
+   "voz": "mulher",
+   "idade": "adulto",
+   "genero": "f",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "coque",
+   "barba": "nenhuma",
+   "roupa": "#7b6fb0",
+   "roupa2": "#efe6d0",
+   "cobertura": "lenco",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "jesus": {
+   "preset": "jesus"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today has the happiest news in the world!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "personagens": [
+    "madalena",
+    "maria2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Early in the morning, two friends of Jesus went to his tomb."
+    },
+    {
+     "quem": "madalena",
+     "texto": "Oh, I miss our Jesus so much!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "maria2",
+     "texto": "Let's see where he is.",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They carried sweet perfumes, with lots of love."
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, the ground shook! A shining angel rolled the stone, whoosh!"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Oh my, what is this light?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "madalena",
+    "maria2"
+   ],
+   "falas": [
+    {
+     "quem": "anjo",
+     "texto": "Don't be afraid! Jesus is not here. He is risen!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "madalena",
+     "texto": "He's alive? What joy!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "madalena",
+    "maria2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the way, they met none other than... Jesus!"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Good morning! Rejoice!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "maria2",
+     "texto": "Let's tell everyone!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus is alive and always with you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

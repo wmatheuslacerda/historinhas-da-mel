@@ -1,0 +1,164 @@
+{
+ "historia_id": "salomao-templo",
+ "titulo": "Solomon Builds the Temple 🏛️ | Bible Story #shorts",
+ "titulo_curto": "Solomon's temple",
+ "referencia": "1 Kings 6",
+ "descricao": "King Solomon builds a beautiful temple with stones, cedar wood and gold, so the people can worship God. Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Kings 6\n💛 Lesson: Give God our best.",
+ "tags": [
+  "solomon's temple",
+  "king solomon",
+  "god's house",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Give God our best",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "salomao": {
+   "preset": "salomao"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Construtor"
+  },
+  "menino": {
+   "preset": "menino"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Let's build a very special house! Knock, knock, knock!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "salomao",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "King Solomon had a lovely idea."
+    },
+    {
+     "quem": "salomao",
+     "texto": "Let's build a temple to worship God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "homem",
+     "texto": "Yes, king! Let's get to work!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "personagens": [
+    "homem",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The stones were cut far away, at the quarry."
+    },
+    {
+     "quem": "narrador",
+     "texto": "So at the temple, no hammer was heard. Shhh!"
+    },
+    {
+     "quem": "menino",
+     "texto": "What a quiet building site! No need to cover our ears!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "salomao",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "There was sweet-smelling cedar wood and lots of shiny gold!"
+    },
+    {
+     "quem": "homem",
+     "texto": "Look how it shines, king!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "salomao",
+     "texto": "For God, the very best we have!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "salomao",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "After seven years, the temple was ready!"
+    },
+    {
+     "quem": "menino",
+     "texto": "How beautiful! Let's sing to God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God deserves our best, always with joy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

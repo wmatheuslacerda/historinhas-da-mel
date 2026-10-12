@@ -1,0 +1,172 @@
+{
+ "historia_id": "noe-pomba",
+ "titulo": "The Dove and the Little Branch 🕊️ | Bible Story for Kids #shorts",
+ "titulo_curto": "The dove and the branch",
+ "referencia": "Genesis 8",
+ "descricao": "Noah sends out a little dove, and she comes back with an olive branch: the land is drying! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 8\n💛 Lesson: it's worth waiting patiently for God's time.",
+ "tags": [
+  "noah",
+  "dove",
+  "olive branch",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Waiting for God's time",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "noe": {
+   "preset": "noe"
+  },
+  "esposa_noe": {
+   "preset": "esposa_noe"
+  },
+  "pomba": {
+   "preset": "pomba"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A little dove brought a special gift. What could it be?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "dia",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The rain had stopped, but there was still lots of water."
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "Is the land dry yet?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "noe",
+     "texto": "Let's find out!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "oceano",
+   "periodo": "dia",
+   "personagens": [
+    "noe",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "noe",
+     "texto": "Fly, little dove! Go see outside!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Coo, coo! Here I go!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But she found no place to land. She came back!"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "tarde",
+   "personagens": [
+    "noe",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Noah waited seven days. Then he sent her again!"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Coo! I'll try again!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "noe",
+    "esposa_noe",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the evening, she came back with a little branch in her beak!"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Coo, coo! Look what I found!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "noe",
+     "texto": "An olive branch! The land is drying!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "What good news!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Waiting patiently for God's time is worth it!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

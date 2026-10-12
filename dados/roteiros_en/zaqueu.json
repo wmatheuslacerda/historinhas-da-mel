@@ -1,0 +1,165 @@
+{
+ "historia_id": "zaqueu",
+ "titulo": "Zacchaeus Climbs the Tree 🌳 | Bible Story for Kids #shorts",
+ "titulo_curto": "Zacchaeus",
+ "referencia": "Luke 19",
+ "descricao": "Zacchaeus was short and climbed a tree to see Jesus pass by. Jesus called Zacchaeus by name and went to his house! A story by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 19\n💛 Lesson: Jesus calls us by name.",
+ "tags": [
+  "zacchaeus",
+  "zacchaeus in the tree",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus calls us by name",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "zaqueu": {
+   "preset": "zaqueu"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Have you ever climbed a tree?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "zaqueu",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Zacchaeus was short. There were so many people in the street!"
+    },
+    {
+     "quem": "zaqueu",
+     "texto": "Jesus is coming! But I can't see a thing!",
+     "emocao": "triste",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "Get out of the way, Zacchaeus!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "zaqueu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then he had an idea. He ran and climbed a tree!"
+    },
+    {
+     "quem": "zaqueu",
+     "texto": "Up, up! From here I can see everything!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "zaqueu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus stopped right under the tree and looked up."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Zacchaeus, come down quickly! Today I'll stay at your house!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "zaqueu",
+     "texto": "At my house? What joy!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "zaqueu",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "zaqueu",
+     "texto": "Jesus, I did wrong. Now I'll give everything back and help the poor!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Today salvation has come to this house!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "zaqueu",
+     "texto": "Hooray!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus knows your name and wants to be your friend!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

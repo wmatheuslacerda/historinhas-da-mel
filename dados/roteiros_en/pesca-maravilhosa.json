@@ -1,0 +1,170 @@
+{
+ "historia_id": "pesca-maravilhosa",
+ "titulo": "The Net Full of Fish 🐟 | Bible Story for Kids #shorts",
+ "titulo_curto": "The net full of fish",
+ "referencia": "Luke 5",
+ "descricao": "Peter fished all night and caught nothing. But when he obeys Jesus, the net gets so full it almost breaks! A Bible story told by Mel the little sheep.\n\n📖 Reference: Luke 5\n💛 Lesson: Obeying Jesus brings blessings.",
+ "tags": [
+  "miraculous catch of fish",
+  "peter",
+  "net full of fish",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Obeying Jesus brings blessings",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "tiago": {
+   "preset": "tiago"
+  },
+  "joao": {
+   "preset": "joao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! How many fish fit in a net? Let's see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter fished all night long."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Nothing! Not one little fish! So tired!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the morning, Jesus climbed into Peter's boat and taught the people."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Peter, go out to deep water and throw your nets.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Master, we caught nothing... But I'll do it, because you said so!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "pedro",
+    "tiago",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Splash! The net got so full it began to tear!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "pedro",
+     "texto": "James! John! Come help!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "joao",
+     "texto": "Wow! Both boats are full of fish!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "pedro",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter knelt down before Jesus."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Don't be afraid. Now you will fish for people!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And they left everything and followed Jesus."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When we obey Jesus, amazing things happen!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

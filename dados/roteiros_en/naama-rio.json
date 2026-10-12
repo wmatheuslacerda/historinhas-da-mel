@@ -1,0 +1,160 @@
+{
+ "historia_id": "naama-rio",
+ "titulo": "Naaman in the Jordan River 🌊 | Bible Story for Kids #shorts",
+ "titulo_curto": "Naaman in the Jordan",
+ "referencia": "2 Kings 5",
+ "descricao": "General Naaman had a skin sickness. Elisha tells him to dip seven times in the Jordan River, and when he obeys, God heals him. A Bible story A story about obedience, told by Mel the little sheep.\n\n📖 Reference: 2 Kings 5\n💛 Lesson: obeying God is always the best way.",
+ "tags": [
+  "naaman",
+  "jordan river",
+  "elisha",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Obeying God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "naama": {
+   "preset": "naama"
+  },
+  "eliseu": {
+   "preset": "eliseu"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Mensageiro"
+  },
+  "soldado": {
+   "preset": "soldado"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Shall we count to seven? Today's story has a dip!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "naama",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Naaman was an important leader, but he had a skin sickness."
+    },
+    {
+     "quem": "homem",
+     "texto": "Elisha sent word: dip seven times in the Jordan River."
+    },
+    {
+     "quem": "naama",
+     "texto": "In the river? That's all? Hmph!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "personagens": [
+    "naama",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "soldado",
+     "texto": "Sir, it's so easy! Why not try?"
+    },
+    {
+     "quem": "naama",
+     "texto": "Okay... you're right. I'll obey.",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "naama",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Splash! One, two, three, four, five, six..."
+    },
+    {
+     "quem": "soldado",
+     "texto": "Just one more! Go!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And... seven! Splash! What a fun splash!"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "naama",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Naaman's skin was smooth, like a child's!"
+    },
+    {
+     "quem": "naama",
+     "texto": "I'm healed! Now I know only the Lord is God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Obeying God is always the best way!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

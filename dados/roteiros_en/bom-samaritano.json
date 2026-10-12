@@ -1,0 +1,170 @@
+{
+ "historia_id": "bom-samaritano",
+ "titulo": "The Good Samaritan 🤝 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Good Samaritan",
+ "referencia": "Luke 10",
+ "descricao": "A hurt man lay on the road. Two walked right past, but the Samaritan stopped to help! A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 10\n💛 Lesson: Help people in need, whenever you can.",
+ "tags": [
+  "good samaritan",
+  "parable",
+  "helping others",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "love and help your neighbor",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "samaritano": {
+   "preset": "samaritano"
+  },
+  "sacerdote": {
+   "preset": "idoso"
+  },
+  "jumento": {
+   "preset": "jumento"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you like helping others?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "I'll tell you a story about a man traveling on the road.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Some robbers took his things and left him hurt."
+    },
+    {
+     "quem": "homem",
+     "texto": "Ouch, ouch! Can someone help me?",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "sacerdote",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "An important man passed by... and left. Another passed... and nothing!"
+    },
+    {
+     "quem": "sacerdote",
+     "texto": "Hmm... I'm in a hurry!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "samaritano",
+    "homem",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then a Samaritan came with his little donkey, clip-clop."
+    },
+    {
+     "quem": "samaritano",
+     "texto": "Poor man! I'll take care of you!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He bandaged the man and took him to an inn."
+    },
+    {
+     "quem": "homem",
+     "texto": "Thank you so much, friend!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Go and do the same!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Love your neighbor and help those in need!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

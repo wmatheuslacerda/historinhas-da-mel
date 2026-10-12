@@ -1,0 +1,171 @@
+{
+ "historia_id": "jerico-muralhas",
+ "titulo": "The Walls of Jericho 🎺 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Walls of Jericho",
+ "referencia": "Joshua 6",
+ "descricao": "God's people march around Jericho, blow the trumpets, shout loud, and the walls fall down! Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Joshua 6\n💛 Lesson: obeying God brings victory.",
+ "tags": [
+  "walls of Jericho",
+  "Joshua",
+  "trumpets",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Obey God, win together",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "josue": {
+   "preset": "josue"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Sacerdote"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Let's march together? One, two, one, two!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "josue"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The city of Jericho had huge walls, shut tight."
+    },
+    {
+     "quem": "deus",
+     "texto": "March around the city for seven days."
+    },
+    {
+     "quem": "josue",
+     "texto": "We'll do everything God said!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "dia",
+   "personagens": [
+    "soldado",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Every day, the people walked around once. Nice and quiet, shh!"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Marching, marching... not saying a single word!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "tarde",
+   "personagens": [
+    "josue",
+    "homem",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the seventh day, they went around seven times!"
+    },
+    {
+     "quem": "josue",
+     "texto": "Now! Blow the trumpets and shout!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "Toot! Toot!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The people shouted super loud!"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "soldado",
+    "josue"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And the walls fell flat. Crash!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Hooray! God gave us the victory!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "josue",
+     "texto": "Obeying God always works!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When we obey God, even walls fall down!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

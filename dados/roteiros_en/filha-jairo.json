@@ -1,0 +1,196 @@
+{
+ "historia_id": "filha-jairo",
+ "titulo": "Jairus's Daughter 👧 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jairus's Daughter",
+ "referencia": "Mark 5",
+ "descricao": "Jairus asked Jesus for help for his little girl, and Jesus held her hand and said: get up! Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Mark 5\n💛 Lesson: When something seems hard, trust Jesus.",
+ "tags": [
+  "Jairus's daughter",
+  "talitha koum",
+  "miracles of Jesus",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Don't be afraid, believe",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jairo": {
+   "tipo": "humano",
+   "nome": "Jairo",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "longa",
+   "roupa": "#4a6fa5",
+   "roupa2": "#e8d8b0",
+   "cobertura": "faixa",
+   "manto": true
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "pedro": {
+   "preset": "pedro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today Jesus says two special little words!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "jairo",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jairus had a little girl, twelve years old. She was very sick."
+    },
+    {
+     "quem": "jairo",
+     "texto": "Jesus, please come help my little girl!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "jesus",
+     "texto": "I will go with you.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "personagens": [
+    "jairo",
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the way, a very sad message came for Jairus."
+    },
+    {
+     "quem": "jairo",
+     "texto": "Oh no... is it too late?",
+     "emocao": "triste",
+     "acao": "tremer"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Don't be afraid. Just believe!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "jesus",
+    "menina",
+    "jairo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "At the house, the girl lay very still."
+    },
+    {
+     "quem": "jesus",
+     "texto": "She is not dead. She is sleeping.",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jesus held her little hand gently."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Little girl, I say to you: get up!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "menina",
+    "jairo",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And she got up and started to walk! Yay!"
+    },
+    {
+     "quem": "menina",
+     "texto": "Daddy! Good morning!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "jairo",
+     "texto": "My little girl! Thank you, Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Give her something to eat!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Don't be afraid. Always trust Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

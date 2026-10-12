@@ -1,0 +1,186 @@
+{
+ "historia_id": "ester-coragem",
+ "titulo": "Queen Esther's Courage 💜 | Bible Story for Kids #shorts",
+ "titulo_curto": "Esther's Courage",
+ "referencia": "Esther 4-7",
+ "descricao": "Wicked Haman wanted to hurt God's people. Queen Esther prays, fasts, and bravely speaks to the king, and the people are saved. A story about courage, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Esther 4-7\n💛 Lesson: with God, we have courage to do what is right.",
+ "tags": [
+  "Queen Esther",
+  "courage",
+  "Haman",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Courage to do what's right",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "ester": {
+   "preset": "ester"
+  },
+  "mardoqueu": {
+   "preset": "mardoqueu"
+  },
+  "rei": {
+   "preset": "rei",
+   "nome": "Rei Assuero"
+  },
+  "hama": {
+   "tipo": "humano",
+   "nome": "Hamã",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "clara",
+   "cabelo": "preto",
+   "estilo_cabelo": "curto",
+   "barba": "longa",
+   "roupa": "#5f3dc4",
+   "roupa2": "#212529",
+   "cobertura": "faixa",
+   "acessorio": "nenhum",
+   "manto": true
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know what courage is? Queen Esther did!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "nublado",
+   "personagens": [
+    "mardoqueu",
+    "ester"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A man named Haman wanted to hurt God's people."
+    },
+    {
+     "quem": "mardoqueu",
+     "texto": "Esther, talk to the king! God put you there!"
+    },
+    {
+     "quem": "ester",
+     "texto": "Let's pray first!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "ester",
+    "rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Esther went to the king. Her heart went thump, thump!"
+    },
+    {
+     "quem": "rei",
+     "texto": "What do you want, Queen Esther?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ester",
+     "texto": "I want to invite you to dinner!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "personagens": [
+    "ester",
+    "rei",
+    "hama"
+   ],
+   "falas": [
+    {
+     "quem": "ester",
+     "texto": "My king, someone wants to hurt my people!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "rei",
+     "texto": "Who would do that?",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "ester",
+     "texto": "It was Haman!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "hama",
+     "texto": "Oh no! Uh-oh!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ester",
+    "mardoqueu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The king sent Haman away, and the people were safe!"
+    },
+    {
+     "quem": "mardoqueu",
+     "texto": "Hooray! God used Queen Esther!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "With God, you have courage to do what is right!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

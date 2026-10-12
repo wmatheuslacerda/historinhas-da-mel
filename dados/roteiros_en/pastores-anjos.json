@@ -1,0 +1,189 @@
+{
+ "historia_id": "pastores-anjos",
+ "titulo": "The Shepherds and the Angels 🎶 | Christmas Bible Story #shorts",
+ "titulo_curto": "Shepherds and angels",
+ "referencia": "Luke 2",
+ "descricao": "On a starry night, angels sing in the sky and tell the shepherds that Jesus is born. They rush to Bethlehem to see the baby! A Bible story A Christmas story told by Mel the little sheep.\n\n📖 Reference: Luke 2\n💛 Lesson: the news about Jesus is so good, you want to tell everyone.",
+ "tags": [
+  "shepherds and angels",
+  "christmas",
+  "birth of jesus",
+  "christmas story",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Tell everyone the news of Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pastor": {
+   "preset": "pastor"
+  },
+  "pastorzinho": {
+   "preset": "pastorzinho"
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "jesus_bebe": {
+   "preset": "jesus_bebe"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Tonight the sky will sing! Listen!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pastor",
+    "pastorzinho",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "At night, the shepherds watched their sheep in the field."
+    },
+    {
+     "quem": "pastorzinho",
+     "texto": "What a calm night, huh?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baaa! I'm sleepy!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "pastor",
+    "pastorzinho"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, a bright light! It was an angel!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "pastor",
+     "texto": "Wow! What is that?",
+     "emocao": "surpreso",
+     "acao": "tremer"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Don't be afraid! I have joyful news!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "anjo",
+     "texto": "The Savior is born in Bethlehem! He's in a manger!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "anjo",
+    "pastorzinho"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then many angels appeared, singing:"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Glory to God in the highest! And peace on earth!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "pastorzinho",
+     "texto": "Let's run to Bethlehem!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pastor",
+    "maria",
+    "jesus_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They ran and found the baby, just as the angel said."
+    },
+    {
+     "quem": "pastor",
+     "texto": "It's the Savior! Let's tell everybody!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "The news about Jesus is so good! Tell someone!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

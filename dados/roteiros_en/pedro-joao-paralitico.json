@@ -1,0 +1,168 @@
+{
+ "historia_id": "pedro-joao-paralitico",
+ "titulo": "The Man Who Jumped for Joy 🦵 | Bible Story #shorts",
+ "titulo_curto": "The man who jumped",
+ "referencia": "Acts 3",
+ "descricao": "At the temple gate, a man who had never walked gets something better than money from Peter and John. Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 3\n💛 Lesson: Jesus has a gift better than gold and silver.",
+ "tags": [
+  "peter and john",
+  "man who could not walk",
+  "beautiful gate",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus has a gift better than gold and silver",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Homem da Porta",
+   "roupa": "#a58a62"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Today a man jumped just like me! Boing!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "personagens": [
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "At the beautiful temple gate, a man sat."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Since he was a baby, his legs couldn't walk."
+    },
+    {
+     "quem": "homem",
+     "texto": "A little coin, please!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "personagens": [
+    "pedro",
+    "joao",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter and John came to pray."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Look at us!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "pedro",
+     "texto": "I have no money. But what I have, I give you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "pedro",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "In Jesus' name, stand up and walk!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Peter took his hand. And his legs got strong!"
+    },
+    {
+     "quem": "homem",
+     "texto": "I'm standing! I'm walking!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "homem",
+    "joao",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "He went into the temple walking and jumping. Boing, boing!",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "Thank you, God! Thank you!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus has gifts better than gold and silver!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

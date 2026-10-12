@@ -1,0 +1,175 @@
+{
+ "historia_id": "tempestade-acalma",
+ "titulo": "Jesus Calms the Storm 🌊 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus calms the storm",
+ "referencia": "Mark 4",
+ "descricao": "In the middle of a big storm, Jesus wakes up and tells the wind: peace, be still! And everything calms down. A Bible story told by Mel the little sheep.\n\n📖 Reference: Mark 4\n💛 Lesson: Jesus is stronger than any storm.",
+ "tags": [
+  "jesus calms the storm",
+  "miracles of jesus",
+  "disciples",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus is stronger than any storm",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "nublado",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Who is the boss of the wind? Let's find out!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "tarde",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Let's cross to the other side of the sea.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jesus was tired. He lay on a pillow and slept. Zzzz."
+    },
+    {
+     "quem": "joao",
+     "texto": "What a nice boat ride!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "pedro",
+    "joao",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, a big wind came! Whooo! And huge waves! Splash!"
+    },
+    {
+     "quem": "pedro",
+     "texto": "The boat is filling with water!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "joao",
+     "texto": "Master, wake up! Help us!",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "nublado",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus woke up and spoke to the wind and the sea."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Peace! Be still!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And everything got calm. Shhh...",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "tarde",
+   "efeito": "arco_iris",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Why were you afraid? Trust me!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Even the wind and the sea obey him!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "joao",
+     "texto": "Wow! Jesus is amazing!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus is stronger than any storm!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

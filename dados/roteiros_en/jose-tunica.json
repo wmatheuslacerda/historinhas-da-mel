@@ -1,0 +1,178 @@
+{
+ "historia_id": "jose-tunica",
+ "titulo": "Joseph's Colorful Coat 🌈 | Bible Story for Kids #shorts",
+ "titulo_curto": "Joseph's colorful coat",
+ "referencia": "Genesis 37",
+ "descricao": "Joseph gets a very special colorful coat from his father Jacob, and his brothers feel jealous. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 37\n💛 Lesson: jealousy makes hearts sad; love makes hearts happy.",
+ "tags": [
+  "joseph",
+  "colorful coat",
+  "jealousy",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "trading jealousy for love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jose_menino": {
+   "preset": "jose_menino"
+  },
+  "jaco": {
+   "preset": "jaco"
+  },
+  "irmao": {
+   "preset": "homem"
+  },
+  "irmao2": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you like colorful clothes? Joseph got a beauty!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "jaco",
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jacob had twelve sons. Joseph was one of the youngest."
+    },
+    {
+     "quem": "jaco",
+     "texto": "Joseph, I made a gift for you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jaco",
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It was a colorful coat! Red, blue, yellow!"
+    },
+    {
+     "quem": "jose_menino",
+     "texto": "Wow! It's so pretty! Thank you, Daddy!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "irmao",
+    "irmao2",
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "jose_menino",
+     "texto": "Look, brothers! My new coat!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "irmao",
+     "texto": "Hmph! Why did only he get one?",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "irmao2",
+     "texto": "Daddy likes Joseph best!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "irmao",
+    "irmao2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The brothers felt jealous. Such grumpy faces!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They stopped being kind to Joseph."
+    },
+    {
+     "quem": "irmao",
+     "texto": "Hmph! I don't want to play with him!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "But God had a wonderful plan for Joseph!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jealousy makes hearts sad. Love makes hearts happy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

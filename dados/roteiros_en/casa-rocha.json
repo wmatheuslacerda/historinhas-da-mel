@@ -1,0 +1,169 @@
+{
+ "historia_id": "casa-rocha",
+ "titulo": "The House on the Rock 🏠 | Bible Story for Kids #shorts",
+ "titulo_curto": "The house on the rock",
+ "referencia": "Matthew 7",
+ "descricao": "One man built his house on the rock and another on the sand. When the rain came, which one stood strong? A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 7\n💛 Lesson: Whoever hears and does Jesus' words stands strong like a rock.",
+ "tags": [
+  "house on the rock",
+  "parable",
+  "wise man",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "hear and do what Jesus teaches",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "sabio": {
+   "preset": "homem"
+  },
+  "tolo": {
+   "tipo": "humano",
+   "nome": "Vizinho",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "clara",
+   "cabelo": "ruivo",
+   "estilo_cabelo": "cacheado",
+   "barba": "nenhuma",
+   "roupa": "#e0a030"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shall we build a little house?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Whoever hears and does My words is like a wise man.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "sabio"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The wise man built his house on the rock."
+    },
+    {
+     "quem": "sabio",
+     "texto": "Knock, knock, knock! It's so strong here!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "tolo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "His neighbor built his house on the beach sand."
+    },
+    {
+     "quem": "tolo",
+     "texto": "Sand is faster! Done!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "tolo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then the rain came, splash! And the wind, whoosh!"
+    },
+    {
+     "quem": "tolo",
+     "texto": "Oh no! My house fell! Splash!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "sabio"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And the house on the rock? It stood strong!"
+    },
+    {
+     "quem": "sabio",
+     "texto": "Thank you, God! I'm safe here!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hear and do what Jesus teaches. You'll stand strong like a rock!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

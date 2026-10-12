@@ -1,0 +1,182 @@
+{
+ "historia_id": "sara-risada",
+ "titulo": "Sarah Laughs 😄 | Bible Story for Kids #shorts",
+ "titulo_curto": "Sarah laughs",
+ "referencia": "Genesis 18; 21",
+ "descricao": "Sarah giggles when she hears she'll have a baby in her old age, but God keeps his promise and Isaac is born, which means laughter! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 18; 21\n💛 Lesson: For God, nothing is impossible.",
+ "tags": [
+  "sarah",
+  "isaac",
+  "abraham",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "For God, nothing is impossible",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "abraao": {
+   "preset": "abraao"
+  },
+  "sara": {
+   "preset": "sara"
+  },
+  "isaque": {
+   "preset": "isaque"
+  },
+  "visitante": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Why did Grandma Sarah laugh? Come find out!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "abraao",
+    "visitante"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, three visitors came to Abraham's tent."
+    },
+    {
+     "quem": "abraao",
+     "texto": "Welcome! Stay and eat with us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Abraham served warm bread and yummy food."
+    },
+    {
+     "quem": "visitante",
+     "texto": "Thank you, Abraham! How delicious!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "visitante",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "visitante",
+     "texto": "Next year, Sarah will have a baby!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Sarah was hiding, listening to everything."
+    },
+    {
+     "quem": "sara",
+     "texto": "Hee, hee, hee! Me? So old?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "abraao",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Why did Sarah laugh? Is anything too hard for God?"
+    },
+    {
+     "quem": "sara",
+     "texto": "Oops... God heard!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "abraao",
+     "texto": "God can do anything, Sarah!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "abraao",
+    "sara",
+    "isaque"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And God did it! Baby Isaac was born!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Isaac means laughter!"
+    },
+    {
+     "quem": "sara",
+     "texto": "God made me smile with joy!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "isaque",
+     "texto": "Ha, ha, ha!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "For God, nothing is impossible!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "historia_id": "emaus",
+ "titulo": "The Road to Emmaus 🍞 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Road to Emmaus",
+ "referencia": "Luke 24",
+ "descricao": "Two friends walk sadly to Emmaus, and a mysterious traveler walks with them. At dinner, a surprise! Story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 24\n💛 Lesson: Jesus walks with us, even when we don't notice.",
+ "tags": [
+  "road to Emmaus",
+  "Easter",
+  "Jesus is risen",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Jesus walks with us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "cleopas": {
+   "tipo": "humano",
+   "nome": "Cléopas",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "morena",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#8a6d3b",
+   "roupa2": "#d9c8a0",
+   "cobertura": "faixa",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "amigo": {
+   "preset": "homem"
+  },
+  "jesus": {
+   "preset": "jesus"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Guess who showed up on a walk? Come see!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "cleopas",
+    "amigo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Two friends were walking to the village of Emmaus."
+    },
+    {
+     "quem": "cleopas",
+     "texto": "I miss Jesus so much...",
+     "emocao": "triste"
+    },
+    {
+     "quem": "amigo",
+     "texto": "Me too. What a hard day!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "cleopas",
+    "amigo",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A traveler came and walked along. It was Jesus! But they didn't notice."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Why are you sad?",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Jesus explained everything the Bible said."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "cleopas",
+    "amigo",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "cleopas",
+     "texto": "It's getting dark. Stay with us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "At dinner, Jesus took the bread, gave thanks, and broke it."
+    },
+    {
+     "quem": "amigo",
+     "texto": "Look! It's Jesus! He's alive!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "cleopas",
+    "amigo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus vanished, and they ran back, zoom!"
+    },
+    {
+     "quem": "cleopas",
+     "texto": "Our hearts felt so warm on the road!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus walks with you, even when you can't see him!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

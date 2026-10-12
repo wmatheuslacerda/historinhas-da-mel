@@ -1,0 +1,166 @@
+{
+ "historia_id": "marta-maria",
+ "titulo": "Martha and Mary 🏡 | Bible Story for Kids #shorts",
+ "titulo_curto": "Martha and Mary",
+ "referencia": "Luke 10",
+ "descricao": "Martha ran back and forth, while Mary sat quietly listening to Jesus. A story about paying attention to Jesus. A Bible story A story about listening to Jesus, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 10\n💛 Lesson: Take a little time every day to listen to Jesus.",
+ "tags": [
+  "martha and mary",
+  "listening to jesus",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Listening to Jesus matters most",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "marta": {
+   "preset": "marta"
+  },
+  "maria": {
+   "preset": "maria_betania"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today two sisters have a special guest!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "marta",
+    "maria",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus went to visit Martha and Mary."
+    },
+    {
+     "quem": "marta",
+     "texto": "Welcome, Jesus! I'll make a yummy lunch!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "maria",
+     "texto": "And I want to hear everything you say!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "marta"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Martha ran to the kitchen. Pot here, plate there, clink, clank!"
+    },
+    {
+     "quem": "marta",
+     "texto": "Phew! So much to do! All alone!",
+     "emocao": "bravo",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "marta",
+    "maria",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Mary sat quietly at Jesus' feet, listening closely."
+    },
+    {
+     "quem": "marta",
+     "texto": "Jesus, tell Mary to help me!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Martha, Martha, you are worried about many things.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Mary chose the best thing: being with me.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "marta",
+    "maria",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "marta",
+     "texto": "Then I'll sit and listen too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "maria",
+     "texto": "Yay! Sit here, sister!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Take a little time every day to listen to Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

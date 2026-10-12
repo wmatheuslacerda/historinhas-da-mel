@@ -1,0 +1,158 @@
+{
+ "historia_id": "oferta-viuva",
+ "titulo": "The Two Little Coins 🪙 | Bible Story for Kids #shorts",
+ "titulo_curto": "The widow's offering",
+ "referencia": "Mark 12",
+ "descricao": "At the temple, a widow gave just two little coins, but Jesus said she gave more than everyone! A story about giving with love. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Mark 12\n💛 Lesson: God looks at your heart when you give with love.",
+ "tags": [
+  "widow's offering",
+  "two coins",
+  "generosity",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Giving from the heart",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "viuva": {
+   "preset": "idosa"
+  },
+  "rico": {
+   "preset": "rei"
+  },
+  "pedro": {
+   "preset": "pedro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Which is worth more: a lot or a little?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus sat in the temple, near the offering box."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Look, Teacher, so many people bringing money!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "personagens": [
+    "rico"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The rich people tossed in lots of coins. Clink, clink, clink, clink!"
+    },
+    {
+     "quem": "rico",
+     "texto": "Everybody look! I gave so much!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "personagens": [
+    "viuva"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then a very poor grandma came. She was a widow."
+    },
+    {
+     "quem": "viuva",
+     "texto": "I only have two little coins. I'll give everything to God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Clink, clink."
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "This widow gave more than everyone!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "More? But it was so little!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "The others gave what they had left over. She gave all she had!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God looks at your heart. Always give with love!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

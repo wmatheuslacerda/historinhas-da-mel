@@ -1,0 +1,180 @@
+{
+ "historia_id": "jumenta-balaao",
+ "titulo": "The Donkey That Talked! 🫏 | Bible Story for Kids #shorts",
+ "titulo_curto": "The donkey that talked",
+ "referencia": "Numbers 22",
+ "descricao": "Balaam was riding his donkey when an angel appeared on the road. Only she saw it, and God made the donkey talk! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Numbers 22\n💛 Lesson: God knows the best way, so let's always listen to God.",
+ "tags": [
+  "balaam's donkey",
+  "balaam",
+  "talking animal",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God knows the best way",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "balaao": {
+   "tipo": "humano",
+   "idade": "adulto",
+   "nome": "Balaão",
+   "voz": "homem",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "grisalho",
+   "estilo_cabelo": "curto",
+   "barba": "longa",
+   "roupa": "#7a5c3e",
+   "roupa2": "#d9b98a",
+   "cobertura": "lenco",
+   "manto": true
+  },
+  "jumento": {
+   "preset": "jumento",
+   "nome": "Jumentinha"
+  },
+  "anjo": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Have you ever heard a donkey talk?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "balaao",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Balaam was traveling on his donkey."
+    },
+    {
+     "quem": "balaao",
+     "texto": "Giddy up, donkey! We're in a hurry!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jumento",
+    "balaao",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "An angel stood in the road! Only the donkey saw him."
+    },
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw! I won't go!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "balaao",
+     "texto": "Why did you stop? Hurry up!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "personagens": [
+    "jumento",
+    "balaao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "She stopped three times. Then God made the donkey talk!"
+    },
+    {
+     "quem": "jumento",
+     "texto": "Why are you mad at me? I always obeyed you!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "balaao",
+     "texto": "A talking donkey?!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "balaao",
+    "anjo",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then God opened Balaam's eyes, and he saw the angel!"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Your donkey protected you. Say only what God tells you!"
+    },
+    {
+     "quem": "balaao",
+     "texto": "Sorry! I will obey!",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God knows the best way. Let's always listen to God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

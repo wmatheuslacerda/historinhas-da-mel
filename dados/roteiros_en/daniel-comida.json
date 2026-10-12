@@ -1,0 +1,173 @@
+{
+ "historia_id": "daniel-comida",
+ "titulo": "Daniel and the Veggies 🥕 | Bible Story for Kids #shorts",
+ "titulo_curto": "Daniel and the veggies",
+ "referencia": "Daniel 1",
+ "descricao": "In Babylon's palace, Daniel and his friends choose to eat vegetables and drink water to obey God, and they grow stronger than everyone. A story told by Mel the little sheep.\n\n📖 Reference: Daniel 1\n💛 Lesson: when we choose to obey God, He helps us.",
+ "tags": [
+  "daniel",
+  "vegetables",
+  "daniel 1",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "choose to obey God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "daniel": {
+   "preset": "daniel"
+  },
+  "sadraque": {
+   "preset": "sadraque"
+  },
+  "mesaque": {
+   "preset": "mesaque"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Chefe do palácio"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you like carrots? Crunch, crunch! Daniel did too!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "daniel",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Daniel and his friends went to live in the king's palace."
+    },
+    {
+     "quem": "homem",
+     "texto": "Eat the king's food! It's very fancy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "daniel",
+     "texto": "Thank you, but we want to obey God."
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "daniel",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "daniel",
+     "texto": "Give us only vegetables and water for ten days."
+    },
+    {
+     "quem": "homem",
+     "texto": "And if you get weak?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "daniel",
+     "texto": "We'll see! You can test us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "personagens": [
+    "daniel",
+    "sadraque",
+    "mesaque"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They ate carrots, beans and greens. Munch, munch!"
+    },
+    {
+     "quem": "sadraque",
+     "texto": "So yummy! So crunchy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mesaque",
+     "texto": "And such fresh water!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "homem",
+    "daniel",
+    "sadraque"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "After ten days, what a surprise!"
+    },
+    {
+     "quem": "homem",
+     "texto": "You look stronger and healthier than everyone!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "daniel",
+     "texto": "God helped us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you choose to obey God, He helps you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

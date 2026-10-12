@@ -1,0 +1,170 @@
+{
+ "historia_id": "bartimeu",
+ "titulo": "Bartimaeus Can See Again 👀 | Bible Story for Kids #shorts",
+ "titulo_curto": "Bartimaeus",
+ "referencia": "Mark 10",
+ "descricao": "Bartimaeus could not see, but he shouted loudly to Jesus. And Jesus healed him! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Mark 10\n💛 Lesson: Jesus always hears you when you call Him.",
+ "tags": [
+  "bartimaeus",
+  "blind bartimaeus",
+  "miracles of jesus",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus hears those who call Him",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "bartimeu": {
+   "preset": "bartimeu"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today there's a very loud shout in the story!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "bartimeu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Bartimaeus sat by the road. He could not see."
+    },
+    {
+     "quem": "bartimeu",
+     "texto": "I hear lots of people passing... Who is it?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "bartimeu",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "It's Jesus passing by!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "bartimeu",
+     "texto": "Jesus! Jesus, have mercy on me!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "Shhh! Be quiet!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "bartimeu",
+     "texto": "JESUS! Help me!",
+     "emocao": "neutro",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "bartimeu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus stopped and called Bartimaeus. He jumped up and ran!"
+    },
+    {
+     "quem": "jesus",
+     "texto": "What do you want Me to do?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "bartimeu",
+     "texto": "Teacher, I want to see!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Go. Your faith has healed you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "bartimeu",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Ping! Right away, Bartimaeus could see!"
+    },
+    {
+     "quem": "bartimeu",
+     "texto": "I see the sky! I see Jesus! Thank you!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You can call Jesus. He always hears you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "historia_id": "eliseu-quarto",
+ "titulo": "A Little Room for Elisha 🛏️ | Bible Story for Kids #shorts",
+ "titulo_curto": "Elisha's Little Room",
+ "referencia": "2 Kings 4",
+ "descricao": "A woman from Shunem and her husband make a little room for the prophet Elisha to rest, and God blesses the family with a baby boy. A story about kindness to guests, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 2 Kings 4\n💛 Lesson: when we welcome others with love, God is happy.",
+ "tags": [
+  "elisha",
+  "Shunammite woman",
+  "hospitality",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Welcome others with love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "eliseu": {
+   "preset": "eliseu"
+  },
+  "mulher": {
+   "preset": "mulher",
+   "nome": "Sunamita"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Marido"
+  },
+  "bebe": {
+   "tipo": "humano",
+   "nome": "Bebê",
+   "voz": "menino",
+   "idade": "bebe",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "nenhuma",
+   "roupa": "#9ad0f5",
+   "roupa2": "#ffffff",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you like having visitors? This family loved it!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "eliseu",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Elisha always passed through the town of Shunem."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Elisha, come eat with us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "eliseu",
+     "texto": "How nice! Thank you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "mulher",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "mulher",
+     "texto": "Let's make a little room for him to rest!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "homem",
+     "texto": "Great idea! With a bed, table, chair, and lamp!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "eliseu",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "eliseu",
+     "texto": "What a cozy room! What can I do for you?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "She had no children. So Elisha shared some news."
+    },
+    {
+     "quem": "eliseu",
+     "texto": "In a year, you will have a baby!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mulher",
+    "homem",
+    "bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And it happened! A lovely baby boy was born. Hi, baby!"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Thank you, God! What a wonderful gift!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "homem",
+     "texto": "Our little son! God is so good!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you welcome others with love, God is happy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

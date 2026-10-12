@@ -1,0 +1,167 @@
+{
+ "historia_id": "moises-sarca",
+ "titulo": "The Bush That Didn't Burn 🔥 | Bible Story for Kids #shorts",
+ "titulo_curto": "The burning bush",
+ "referencia": "Exodus 3",
+ "descricao": "Moses was tending sheep when he saw a bush on fire that did not burn up. There God spoke to him and gave him a mission! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 3\n💛 Lesson: when God calls, he goes with us.",
+ "tags": [
+  "moses",
+  "burning bush",
+  "god calls moses",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God goes with those he calls",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Have you seen a fire that burns nothing?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "moises",
+    "ovelha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses was tending sheep near the mountain."
+    },
+    {
+     "quem": "ovelha",
+     "texto": "Baaa! I'm hungry!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "moises",
+     "texto": "Come on, little sheep, there's fresh grass over there!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, he saw a bush on fire!"
+    },
+    {
+     "quem": "moises",
+     "texto": "How strange! The fire doesn't burn the leaves!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Moses came closer to see better."
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Moses! Moses!"
+    },
+    {
+     "quem": "moises",
+     "texto": "Here I am!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "deus",
+     "texto": "Take off your sandals. This place is holy."
+    },
+    {
+     "quem": "moises",
+     "texto": "Okay! My sandals are off!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "I saw my people suffering. You will help set them free."
+    },
+    {
+     "quem": "moises",
+     "texto": "But who am I to do that?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "deus",
+     "texto": "I will be with you, always!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When God calls, he goes with us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

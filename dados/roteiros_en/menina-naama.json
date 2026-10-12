@@ -1,0 +1,166 @@
+{
+ "historia_id": "menina-naama",
+ "titulo": "The Girl Who Helped Naaman 👧 | Bible Story #shorts",
+ "titulo_curto": "The girl and Naaman",
+ "referencia": "2 Kings 5",
+ "descricao": "A girl working in Naaman's house tells him that God's prophet can help, and Naaman is healed. A Bible story A story showing that children can talk about God too, told by Mel the little sheep.\n\n📖 Reference: 2 Kings 5\n💛 Lesson: even a little child can help someone know God.",
+ "tags": [
+  "servant girl",
+  "naaman",
+  "brave child",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Children can talk about God too",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "mulher": {
+   "preset": "rainha",
+   "nome": "Esposa de Naamã"
+  },
+  "naama": {
+   "preset": "naama"
+  },
+  "eliseu": {
+   "preset": "eliseu"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Can a little child do big things? Yes, she can!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "menina",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A girl helped in Naaman's house, far from her family."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Naaman had a skin sickness, and he was sad."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Oh, my husband isn't getting better...",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "menina",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "menina",
+     "texto": "In my homeland there is a prophet of God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "He can help Mr. Naaman!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Really? I'll tell him!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "naama",
+    "eliseu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Naaman traveled to the prophet Elisha."
+    },
+    {
+     "quem": "eliseu",
+     "texto": "Dip seven times in the Jordan River."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He obeyed and was all better! Splash!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "naama",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "naama",
+     "texto": "Thank you, girl! You told us about the true God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "Hooray! God is good!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You can tell others that God loves them too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

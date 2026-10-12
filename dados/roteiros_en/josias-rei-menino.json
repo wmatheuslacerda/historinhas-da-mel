@@ -1,0 +1,176 @@
+{
+ "historia_id": "josias-rei-menino",
+ "titulo": "Josiah, the Boy King 👑 | Bible Story for Kids #shorts",
+ "titulo_curto": "Josiah, the boy king",
+ "referencia": "2 Kings 22",
+ "descricao": "Josiah became king at only eight years old and loved God. When the Book of the Law was found in the temple, he wanted to obey it all. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 2 Kings 22\n💛 Lesson: a child can love and obey God with all their heart.",
+ "tags": [
+  "josiah",
+  "boy king",
+  "book of the law",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Loving God's Word",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "josias": {
+   "tipo": "humano",
+   "nome": "Rei Josias",
+   "voz": "menino",
+   "idade": "crianca",
+   "genero": "m",
+   "pele": "morena",
+   "cabelo": "preto",
+   "estilo_cabelo": "curto",
+   "barba": "nenhuma",
+   "roupa": "#3b5bdb",
+   "roupa2": "#f5c542",
+   "cobertura": "coroa",
+   "acessorio": "nenhum",
+   "manto": true
+  },
+  "idoso": {
+   "preset": "idoso",
+   "nome": "Sacerdote",
+   "acessorio": "pergaminho"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Ajudante"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Can you imagine being king at eight? Look!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "josias",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Josiah was only eight when he became king!"
+    },
+    {
+     "quem": "homem",
+     "texto": "Hooray for King Josiah!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "josias",
+     "texto": "I want to do what God likes!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "personagens": [
+    "josias",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "When he grew up, he fixed the messy temple."
+    },
+    {
+     "quem": "josias",
+     "texto": "Let's make God's house beautiful!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "idoso",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "While cleaning, the priest found an old scroll."
+    },
+    {
+     "quem": "idoso",
+     "texto": "Look! It's God's Book of the Law!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "josias",
+    "idoso"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They read it to the king. He listened closely."
+    },
+    {
+     "quem": "josias",
+     "texto": "We forgot God's Word!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "josias",
+     "texto": "From now on, we will obey everything!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Children can love God with all their heart too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

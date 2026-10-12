@@ -1,0 +1,189 @@
+{
+ "historia_id": "jaco-esau",
+ "titulo": "Jacob and Esau, the Twins 🍲 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jacob and Esau, Twins",
+ "referencia": "Genesis 25-27",
+ "descricao": "Jacob and Esau were very different twins, and one day Esau trades something very precious for a bowl of soup. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 25-27\n💛 Lesson: the special things God gives us are worth more than any food.",
+ "tags": [
+  "Jacob and Esau",
+  "twins of the Bible",
+  "lentil soup",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Value God's gifts",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jaco": {
+   "preset": "jaco"
+  },
+  "esau": {
+   "preset": "esau"
+  },
+  "rebeca": {
+   "tipo": "humano",
+   "nome": "Rebeca",
+   "voz": "mulher",
+   "idade": "adulto",
+   "genero": "f",
+   "pele": "morena",
+   "cabelo": "castanho",
+   "estilo_cabelo": "longo",
+   "barba": "nenhuma",
+   "roupa": "#E67E22",
+   "roupa2": "#8E44AD",
+   "cobertura": "lenco",
+   "acessorio": "nenhum",
+   "manto": false,
+   "armadura": false,
+   "asas": false,
+   "gigante": false
+  },
+  "isaque": {
+   "preset": "isaque"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Would you trade a special gift for a little soup?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "rebeca",
+    "isaque"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Rebekah and Isaac had twin babies!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Esau was born first. Then Jacob."
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "esau",
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Esau loved running in the field and hunting."
+    },
+    {
+     "quem": "esau",
+     "texto": "I'm the fastest!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jacob liked staying home."
+    },
+    {
+     "quem": "jaco",
+     "texto": "And I love cooking!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "esau",
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, Esau came in starving."
+    },
+    {
+     "quem": "esau",
+     "texto": "What a smell! Give me that soup!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jaco",
+     "texto": "Only if you give me your oldest-son rights!"
+    },
+    {
+     "quem": "esau",
+     "texto": "Okay! All I want is soup!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "esau",
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Yum, yum! Esau ate it all, super fast."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He traded something very special for food."
+    },
+    {
+     "quem": "esau",
+     "texto": "Oops... I don't think that was a good trade.",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "What God gives us is worth more than any soup!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

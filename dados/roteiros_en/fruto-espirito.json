@@ -1,0 +1,169 @@
+{
+ "historia_id": "fruto-espirito",
+ "titulo": "The Fruit of the Spirit 🍇 | Bible Story for Kids #shorts",
+ "titulo_curto": "Fruit of the Spirit",
+ "referencia": "Galatians 5",
+ "descricao": "Paul wrote that the Holy Spirit grows a special fruit in our hearts: love, joy, peace, patience, and kindness. Explained by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Galatians 5\n💛 Lesson: God grows good things in our hearts.",
+ "tags": [
+  "fruit of the Spirit",
+  "Galatians 5",
+  "love and kindness",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God grows good things in us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "menina": {
+   "preset": "menina"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Is there a fruit that grows in your heart? Let's find out!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Paul wrote a letter to Jesus's friends."
+    },
+    {
+     "quem": "paulo",
+     "texto": "The Holy Spirit grows a fruit in your heart!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "paulo",
+     "texto": "It's love, joy, peace, patience, and kindness!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Love is sharing your toy."
+    },
+    {
+     "quem": "menino",
+     "texto": "Here, you can play with my ball!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "Yay! What joy!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "personagens": [
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peace is making up after a fight."
+    },
+    {
+     "quem": "menina",
+     "texto": "Sorry, friend!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "menino",
+     "texto": "It's okay! Friends again!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "menina",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Patience is waiting your turn, nice and calm."
+    },
+    {
+     "quem": "menina",
+     "texto": "You go first. I'll wait!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And kindness is helping those in need!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Let God grow good things in your heart!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

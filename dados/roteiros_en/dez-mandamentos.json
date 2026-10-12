@@ -1,0 +1,168 @@
+{
+ "historia_id": "dez-mandamentos",
+ "titulo": "The Ten Commandments 📜 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Ten Commandments",
+ "referencia": "Exodus 20",
+ "descricao": "At the top of the mountain, God gives the people rules of love to live well with Him and with others! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 20\n💛 Lesson: God's rules teach us to love God and others.",
+ "tags": [
+  "ten commandments",
+  "moses on mount sinai",
+  "god's rules",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God's rules are rules of love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today God will give a special gift!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "personagens": [
+    "menino",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The people camped near a very tall mountain."
+    },
+    {
+     "quem": "narrador",
+     "texto": "On the mountain were clouds, thunder and trumpet sounds. Toot!"
+    },
+    {
+     "quem": "menino",
+     "texto": "Wow! What a noise!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses climbed the mountain to talk with God."
+    },
+    {
+     "quem": "deus",
+     "texto": "I am your God. Have no other gods."
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Honor your father and your mother."
+    },
+    {
+     "quem": "deus",
+     "texto": "Do not steal. Do not lie."
+    },
+    {
+     "quem": "moises",
+     "texto": "Yes, Lord! I'll teach it all to the people!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "moises",
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God wrote the rules on two stone tablets."
+    },
+    {
+     "quem": "moises",
+     "texto": "They are rules of love so we can live well!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Let's obey God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "And obey mommy and daddy!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God's rules show how to love God and others!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

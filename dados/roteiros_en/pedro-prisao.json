@@ -1,0 +1,167 @@
+{
+ "historia_id": "pedro-prisao",
+ "titulo": "The Angel Frees Peter 🔓 | Bible Story #shorts",
+ "titulo_curto": "Peter leaves prison",
+ "referencia": "Acts 12",
+ "descricao": "Peter is in prison, and his friends pray and pray. At night, an angel appears, the chains fall, and the doors open by themselves! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 12\n💛 Lesson: God hears us when we pray.",
+ "tags": [
+  "peter in prison",
+  "angel",
+  "prayer",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God hears us when we pray",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A door that opens by itself? Creeeak! Come see!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "personagens": [
+    "pedro",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The king put Peter in chains, with soldiers."
+    },
+    {
+     "quem": "soldado",
+     "texto": "Nobody leaves here!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "A soldier on each side, and more guards at the door!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Meanwhile, his friends prayed and prayed."
+    },
+    {
+     "quem": "mulher",
+     "texto": "God, please take care of our friend Peter!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "pedro",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter was sleeping. Suddenly, a light! It was an angel!"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Peter, get up quickly!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The chains fell off. Clank, clank!"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Grab your cloak and come with me.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "anjo",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They passed the guards, and the iron gate opened by itself. Creeeak!"
+    },
+    {
+     "quem": "pedro",
+     "texto": "It's not a dream! God sent an angel to free me!",
+     "emocao": "surpreso",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God hears us when we pray!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "historia_id": "jo-paciencia",
+ "titulo": "Job Trusts God 🙏 | Bible Story for Kids #shorts",
+ "titulo_curto": "Job Trusts God",
+ "referencia": "Job 1; 42",
+ "descricao": "Job loved God and, even when he lost many things, kept trusting him. In the end, God blessed him twice as much. A story about trust and patience, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Job 1; 42\n💛 Lesson: even on hard days, we can trust God.",
+ "tags": [
+  "Job",
+  "patience of Job",
+  "trust in God",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Always trust God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jo": {
+   "preset": "idoso",
+   "nome": "Jó",
+   "barba": "longa",
+   "roupa": "#b08968"
+  },
+  "idosa": {
+   "preset": "idosa",
+   "nome": "Esposa de Jó"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  },
+  "camelo": {
+   "preset": "camelo"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "menina": {
+   "preset": "menina"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "nublado",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you trust God even when the day is hard?",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jo",
+    "ovelha",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Job loved God very much. He had many sheep and camels."
+    },
+    {
+     "quem": "ovelha",
+     "texto": "Baaa!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "jo",
+     "texto": "Thank you, God, for everything!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "nublado",
+   "personagens": [
+    "jo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But one day, Job lost almost everything he had."
+    },
+    {
+     "quem": "jo",
+     "texto": "God gave, and God knows best.",
+     "emocao": "triste"
+    },
+    {
+     "quem": "jo",
+     "texto": "I still love the Lord.",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "jo",
+    "idosa"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It was a very hard time. But Job waited patiently."
+    },
+    {
+     "quem": "jo",
+     "texto": "I know God is alive and cares for me!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "jo",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the end, God blessed Job twice as much!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "More animals, a big family, and lots of joy!"
+    },
+    {
+     "quem": "menina",
+     "texto": "Hooray for Daddy Job!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even on hard days, we can trust God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

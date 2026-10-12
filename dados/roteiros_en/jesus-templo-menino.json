@@ -1,0 +1,170 @@
+{
+ "historia_id": "jesus-templo-menino",
+ "titulo": "Boy Jesus in the Temple 📜 | Bible Story for Kids #shorts",
+ "titulo_curto": "Boy Jesus in the Temple",
+ "referencia": "Luke 2",
+ "descricao": "At 12 years old, Jesus stays in the temple talking with the teachers, and Mary and Joseph look for him for three days! Bible story told by Mel the little sheep.\n\n📖 Reference: Luke 2\n💛 Lesson: it's good to learn about God and obey Mom and Dad.",
+ "tags": [
+  "boy Jesus",
+  "Jesus in the temple",
+  "Jesus at 12",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Learn and obey",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus_menino": {
+   "preset": "jesus_menino"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "jose": {
+   "preset": "jose_carpinteiro"
+  },
+  "idoso": {
+   "preset": "idoso"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Where could boy Jesus be hiding?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "jesus_menino",
+    "maria",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus was twelve. The family went to Jerusalem for a feast."
+    },
+    {
+     "quem": "jesus_menino",
+     "texto": "What a big city! I love this feast!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "maria",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the way back, Mary and Joseph walked a whole day."
+    },
+    {
+     "quem": "maria",
+     "texto": "Joseph, where's Jesus? He's not with the cousins!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jose",
+     "texto": "Let's go back and look for him!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus_menino",
+    "idoso"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "After three days, they found Jesus in the temple."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He talked with the teachers, listening and asking."
+    },
+    {
+     "quem": "idoso",
+     "texto": "What a wise boy! I'm amazed!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "maria",
+    "jesus_menino",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "maria",
+     "texto": "Son, we were looking for you!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "jesus_menino",
+     "texto": "Didn't you know I should be in my Father's house?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then Jesus went home and obeyed them.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Learning about God is good! So is obeying Mom and Dad!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

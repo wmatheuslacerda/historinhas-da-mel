@@ -1,0 +1,179 @@
+{
+ "historia_id": "jesus-anda-agua",
+ "titulo": "Jesus Walks on Water 🌊 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus Walks on Water",
+ "referencia": "Matthew 14",
+ "descricao": "Jesus walks on the sea and calls Peter to come to him. While Peter looks at Jesus, he walks on water too! Bible story told by Mel the little sheep.\n\n📖 Reference: Matthew 14\n💛 Lesson: when we look at Jesus, we stand strong.",
+ "tags": [
+  "Jesus walks on water",
+  "Peter walks on water",
+  "miracles of Jesus",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Keep your eyes on Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "andre": {
+   "preset": "andre"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Can you walk on water? Let's see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus sent his friends ahead by boat. He went up the mountain to pray."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Father, thank you for everything!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "noite",
+   "personagens": [
+    "pedro",
+    "andre",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Before dawn, Jesus came walking on the sea!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "andre",
+     "texto": "Who is that walking on water?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Be brave! It's me! Don't be afraid!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Lord, if it's you, tell me to come too!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pedro",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Come, Peter!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Peter stepped out and walked on water! Splish, splish, splish!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But he saw the wind, got scared, and started to sink.",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Lord, help me!",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "andre"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus took his hand right away."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Why did you doubt? Trust me!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "andre",
+     "texto": "You really are the Son of God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When we look at Jesus, we stand strong!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

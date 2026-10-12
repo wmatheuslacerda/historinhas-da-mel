@@ -1,0 +1,177 @@
+{
+ "historia_id": "eliseu-azeite",
+ "titulo": "The Oil That Never Stopped 🫙 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Oil That Never Stops",
+ "referencia": "2 Kings 4",
+ "descricao": "A widow had only a little oil. Following Elisha's advice, she filled lots of jars borrowed from neighbors. A story about faith and obedience, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 2 Kings 4\n💛 Lesson: God does so much with the little we have.",
+ "tags": [
+  "elisha",
+  "widow's oil",
+  "miracle",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God does a lot with a little",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "eliseu": {
+   "preset": "eliseu"
+  },
+  "mulher": {
+   "preset": "mulher",
+   "nome": "Viúva"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "menina": {
+   "preset": "menina"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Let's count jars! One, two, three... lots!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "eliseu",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "mulher",
+     "texto": "Elisha, help me! I have no money at all.",
+     "emocao": "triste"
+    },
+    {
+     "quem": "eliseu",
+     "texto": "What do you have at home?"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Just a little bit of oil.",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "personagens": [
+    "eliseu",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "eliseu",
+     "texto": "Ask the neighbors for lots of empty jars!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "Neighbor! Can I borrow a jar?",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "menina",
+     "texto": "One more! And one more!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mulher",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "She shut the door and started to pour. Glug, glug!"
+    },
+    {
+     "quem": "menina",
+     "texto": "It's full! Bring another jar!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The oil stopped only when the jars ran out!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "eliseu",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "eliseu",
+     "texto": "Now sell the oil and pay what you owe."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Thank you, God! There's enough for us to live!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "menino",
+     "texto": "Hooray! God is good!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God does a lot with the little you have!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

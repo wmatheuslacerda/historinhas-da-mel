@@ -1,0 +1,174 @@
+{
+ "historia_id": "torre-babel",
+ "titulo": "The Tower of Babel 🧱 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Tower of Babel",
+ "referencia": "Genesis 11",
+ "descricao": "The people want to build a tower to the sky to become famous, and God mixes up their languages. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 11\n💛 Lesson: Be humble.",
+ "tags": [
+  "tower of babel",
+  "genesis for kids",
+  "humility",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Be humble",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "idoso": {
+   "preset": "idoso"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A tower all the way to the sky? Will it work?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Long ago, everybody spoke the same language."
+    },
+    {
+     "quem": "homem",
+     "texto": "Let's build a tower to the sky!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Then everyone will see how important we are!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "tarde",
+   "personagens": [
+    "homem",
+    "mulher",
+    "idoso"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Brick on top of brick. Knock, knock, knock!"
+    },
+    {
+     "quem": "idoso",
+     "texto": "Higher! Higher!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But they only wanted to show off."
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "nublado",
+   "efeito": "luz",
+   "personagens": [
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God saw it, and mixed up their languages."
+    },
+    {
+     "quem": "homem",
+     "texto": "Bla, blu, bli?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Ping, pong, pung?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "homem",
+     "texto": "Huh? I don't understand a thing!",
+     "emocao": "surpreso",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "idoso",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Nobody understood each other! They stopped building the tower."
+    },
+    {
+     "quem": "narrador",
+     "texto": "And each group went to live in a different place."
+    },
+    {
+     "quem": "idoso",
+     "texto": "Bye-bye, everybody!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God likes a humble heart, not a show-off!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

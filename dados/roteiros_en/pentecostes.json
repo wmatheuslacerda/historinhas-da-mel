@@ -1,0 +1,171 @@
+{
+ "historia_id": "pentecostes",
+ "titulo": "Wind and Tongues of Fire 🔥 | Bible Story #shorts",
+ "titulo_curto": "Pentecost",
+ "referencia": "Acts 2",
+ "descricao": "Jesus' friends are together when a strong wind comes and the Holy Spirit fills everyone with courage. Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 2\n💛 Lesson: The Holy Spirit gives us courage to tell about Jesus.",
+ "tags": [
+  "pentecost",
+  "holy spirit",
+  "tongues of fire",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "The Holy Spirit gives us courage to tell about Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Listen to that big noise! Whooosh! What is it?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "pedro",
+    "joao",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus' friends were together, praying in a house."
+    },
+    {
+     "quem": "maria",
+     "texto": "Jesus promised to send the Holy Spirit.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "pedro",
+    "joao",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, a sound like strong wind came from heaven. Whooosh!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Above each one, a shiny little flame appeared, like fire!"
+    },
+    {
+     "quem": "joao",
+     "texto": "Wow! My heart is full of joy!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "pedro",
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the city, there were people from many countries."
+    },
+    {
+     "quem": "homem",
+     "texto": "They're speaking in my language!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "mulher",
+     "texto": "And in mine too! How wonderful!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "pedro",
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "Jesus is alive! He loves you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "That day, about three thousand people believed in Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "The Holy Spirit gives us courage to tell about Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

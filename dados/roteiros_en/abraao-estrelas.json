@@ -1,0 +1,165 @@
+{
+ "historia_id": "abraao-estrelas",
+ "titulo": "Abraham and the Stars ⭐ | Bible Story for Kids #shorts",
+ "titulo_curto": "Abraham and the stars",
+ "referencia": "Genesis 15",
+ "descricao": "God takes Abraham outside to see the starry sky and promises him a huge family, as many as the stars! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 15\n💛 Lesson: God always keeps His promises.",
+ "tags": [
+  "abraham",
+  "stars",
+  "god's promise",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "trust God's promises",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "abraao": {
+   "preset": "abraao"
+  },
+  "sara": {
+   "preset": "sara"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "How many little stars are in the sky? Let's count together!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "abraao",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Abraham and Sarah were old and had no children."
+    },
+    {
+     "quem": "sara",
+     "texto": "I want a baby so much...",
+     "emocao": "triste"
+    },
+    {
+     "quem": "abraao",
+     "texto": "God will take care of us, Sarah.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "abraao"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Abraham, do not be afraid. I am with you."
+    },
+    {
+     "quem": "deus",
+     "texto": "Come outside. Look at the sky!"
+    },
+    {
+     "quem": "abraao",
+     "texto": "I'm coming, God! I'm coming!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "abraao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The sky was full of shiny stars!"
+    },
+    {
+     "quem": "abraao",
+     "texto": "One, two, three... so many!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "deus",
+     "texto": "Your family will be like this: huge like the stars!"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "abraao",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Abraham believed God. And God was happy!"
+    },
+    {
+     "quem": "abraao",
+     "texto": "Sarah! God promised us a huge family!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "sara",
+     "texto": "How wonderful!",
+     "emocao": "surpreso",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God always keeps His promises. You can trust Him!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "historia_id": "neemias-muro",
+ "titulo": "Nehemiah and the Great Wall 🧱 | Bible Story for Kids #shorts",
+ "titulo_curto": "Nehemiah and the wall",
+ "referencia": "Nehemiah 2-6",
+ "descricao": "Nehemiah asks God and the king for help, and everyone works together to rebuild Jerusalem's wall in only 52 days. A story about teamwork. A Bible story A story about teamwork, told by Mel the little sheep.\n\n📖 Reference: Nehemiah 2-6\n💛 Lesson: together, and with God, we can do big things.",
+ "tags": [
+  "nehemiah",
+  "wall of jerusalem",
+  "teamwork",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Together with God we are strong",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "neemias": {
+   "tipo": "humano",
+   "nome": "Neemias",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#2f9e44",
+   "roupa2": "#f1e3c6",
+   "cobertura": "faixa",
+   "acessorio": "nenhum",
+   "manto": true
+  },
+  "rei": {
+   "preset": "rei",
+   "nome": "Rei Artaxerxes"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "menino": {
+   "preset": "menino"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Shall we stack bricks? One on top of the other. Knock!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "neemias",
+    "rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Nehemiah worked for a king, far from home."
+    },
+    {
+     "quem": "rei",
+     "texto": "Why so sad, Nehemiah?"
+    },
+    {
+     "quem": "neemias",
+     "texto": "My city's wall has fallen, my king.",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "neemias",
+    "rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Nehemiah prayed quietly and asked for help."
+    },
+    {
+     "quem": "neemias",
+     "texto": "May I go fix the wall?"
+    },
+    {
+     "quem": "rei",
+     "texto": "Yes, you may! Take wood too!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "dia",
+   "personagens": [
+    "neemias",
+    "homem",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "neemias",
+     "texto": "Everybody, let's build together!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "I'll bring the stones!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mulher",
+     "texto": "I'll help too! Knock, knock!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "muralha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "neemias",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Some people laughed and said: it won't work!"
+    },
+    {
+     "quem": "neemias",
+     "texto": "God is with us! Keep going!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "In fifty-two days, the wall was finished!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Together and with God, we can do big things!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

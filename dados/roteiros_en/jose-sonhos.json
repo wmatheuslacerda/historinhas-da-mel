@@ -1,0 +1,168 @@
+{
+ "historia_id": "jose-sonhos",
+ "titulo": "Joseph's Dreams ⭐ | Bible Story for Kids #shorts",
+ "titulo_curto": "Joseph's Dreams",
+ "referencia": "Genesis 37",
+ "descricao": "Joseph has two curious dreams: bundles of wheat and stars that bow down to him. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 37\n💛 Lesson: God has lovely plans for each of us.",
+ "tags": [
+  "Joseph of Egypt",
+  "Joseph's dreams",
+  "God's plans",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God has plans for you",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jose_menino": {
+   "preset": "jose_menino"
+  },
+  "jaco": {
+   "preset": "jaco"
+  },
+  "irmao": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you remember what you dreamed last night?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Joseph slept so quietly. Zzz, zzz!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And he had a very different dream!"
+    },
+    {
+     "quem": "jose_menino",
+     "texto": "Hmm... wheat? What a funny dream, right?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jose_menino",
+    "irmao"
+   ],
+   "falas": [
+    {
+     "quem": "jose_menino",
+     "texto": "I dreamed we were tying up the wheat!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jose_menino",
+     "texto": "And your bundles bowed down to mine!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "irmao",
+     "texto": "Humph! Do you want to boss us around?",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Later, Joseph had another dream."
+    },
+    {
+     "quem": "narrador",
+     "texto": "The sun, the moon, and eleven stars bowed down to him!"
+    },
+    {
+     "quem": "jose_menino",
+     "texto": "Wow! What a dream!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "jaco",
+    "jose_menino"
+   ],
+   "falas": [
+    {
+     "quem": "jose_menino",
+     "texto": "Dad, I dreamed about stars again!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jaco",
+     "texto": "Hmm... what a curious dream, Joseph!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jacob kept all this in his heart."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God has lovely plans for you too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

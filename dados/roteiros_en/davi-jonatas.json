@@ -1,0 +1,163 @@
+{
+ "historia_id": "davi-jonatas",
+ "titulo": "David and Jonathan, Best Friends 🤝 | Bible Story for Kids #shorts",
+ "titulo_curto": "David and Jonathan",
+ "referencia": "1 Samuel 18-20",
+ "descricao": "Jonathan, King Saul's son, and David were best friends. When David needed help, Jonathan warned and protected his friend! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 18-20\n💛 Lesson: a true friend cares for and protects others.",
+ "tags": [
+  "david and jonathan",
+  "friendship",
+  "best friends in the bible",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "a true friend cares for others",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "davi": {
+   "preset": "davi"
+  },
+  "jonatas": {
+   "preset": "jonatas"
+  },
+  "saul": {
+   "preset": "saul"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you have a best friend?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "jonatas",
+    "davi"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jonathan was King Saul's son. He loved David like himself."
+    },
+    {
+     "quem": "jonatas",
+     "texto": "David, let's be friends forever!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jonathan gave David his robe and his bow."
+    },
+    {
+     "quem": "davi",
+     "texto": "Wow! Thank you, buddy!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "nublado",
+   "personagens": [
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But King Saul became jealous of David."
+    },
+    {
+     "quem": "saul",
+     "texto": "I don't want David here!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "jonatas",
+    "davi"
+   ],
+   "falas": [
+    {
+     "quem": "jonatas",
+     "texto": "I'll shoot arrows. If I say 'farther,' run away!"
+    },
+    {
+     "quem": "davi",
+     "texto": "Okay. I'll hide here."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Zoom! The arrow flew far. It was the signal!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "jonatas",
+    "davi"
+   ],
+   "falas": [
+    {
+     "quem": "jonatas",
+     "texto": "Go in peace, David. God watches over our friendship!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "davi",
+     "texto": "Friends forever, Jonathan!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A true friend cares for and protects others!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

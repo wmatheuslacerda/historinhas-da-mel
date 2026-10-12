@@ -1,0 +1,156 @@
+{
+ "historia_id": "filho-prodigo",
+ "titulo": "The Son Who Came Home 🏠 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Son Who Came Home",
+ "referencia": "Luke 15",
+ "descricao": "A son left home, but when he came back, his father ran to hug him! A parable of Jesus about forgiveness, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 15\n💛 Lesson: God forgives and welcomes you with open arms.",
+ "tags": [
+  "prodigal son",
+  "parable",
+  "forgiveness",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God welcomes us with open arms",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pai": {
+   "preset": "idoso"
+  },
+  "filho": {
+   "preset": "homem"
+  },
+  "jesus": {
+   "preset": "jesus"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today has the best hug in the world!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "pai",
+    "filho"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus told a story about a father and his son."
+    },
+    {
+     "quem": "filho",
+     "texto": "Dad, give me my share of the money. I'm leaving!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "pai",
+     "texto": "Oh, my son...",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "personagens": [
+    "filho"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The son spent it all on parties. Now he had nothing!"
+    },
+    {
+     "quem": "filho",
+     "texto": "Oh, I'm so hungry! I'm feeding pigs!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "nublado",
+   "personagens": [
+    "filho"
+   ],
+   "falas": [
+    {
+     "quem": "filho",
+     "texto": "At my father's house, there's food for everyone!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "filho",
+     "texto": "I'll go back and say sorry.",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "pai",
+    "filho"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The father saw his son far away and ran, zoom!"
+    },
+    {
+     "quem": "filho",
+     "texto": "Dad, I was wrong. Forgive me?",
+     "emocao": "triste"
+    },
+    {
+     "quem": "pai",
+     "texto": "My son is back! Let's have a party!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God always forgives and welcomes you with open arms!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

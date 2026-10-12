@@ -1,0 +1,172 @@
+{
+ "historia_id": "jose-egito",
+ "titulo": "Joseph in Egypt 🏜️ | Bible Story for Kids #shorts",
+ "titulo_curto": "Joseph in Egypt",
+ "referencia": "Genesis 39",
+ "descricao": "Joseph was taken far away to Egypt, but God was with him everywhere, and everything Joseph did went well. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 39\n💛 Lesson: even far from home, God is with us.",
+ "tags": [
+  "Joseph of Egypt",
+  "Egypt",
+  "God is with me",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God is with you everywhere",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jose": {
+   "preset": "jose"
+  },
+  "potifar": {
+   "preset": "homem"
+  },
+  "camelo": {
+   "preset": "camelo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Joseph ended up in a faraway place. Where could it be?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "jose",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Joseph was taken far from his home."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He crossed the desert in a camel caravan."
+    },
+    {
+     "quem": "jose",
+     "texto": "I'm far away, but God is with me!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "He arrived in Egypt. So many pyramids!"
+    },
+    {
+     "quem": "jose",
+     "texto": "Wow! What a different place!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He didn't know anyone. But he wasn't alone!"
+    },
+    {
+     "quem": "jose",
+     "texto": "God, take care of me here too!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "potifar",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Joseph went to work in Potiphar's house."
+    },
+    {
+     "quem": "jose",
+     "texto": "I'll do everything just right!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And everything Joseph did went well!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "potifar",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "potifar",
+     "texto": "God is with this young man!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "potifar",
+     "texto": "Joseph, now you take care of my house!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jose",
+     "texto": "Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even far from home, God is with you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

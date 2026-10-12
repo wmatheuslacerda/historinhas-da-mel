@@ -1,0 +1,176 @@
+{
+ "historia_id": "dez-leprosos",
+ "titulo": "The One Who Said Thank You 🙏 | Bible Story for Kids #shorts",
+ "titulo_curto": "The ten lepers",
+ "referencia": "Luke 17",
+ "descricao": "Ten sick men were healed by Jesus, but only one came back to say thank you! A story about gratitude told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 17\n💛 Lesson: don't forget to say thank you to God and to people.",
+ "tags": [
+  "ten lepers",
+  "gratitude",
+  "thank you jesus",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "always thank God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "homem2": {
+   "tipo": "humano",
+   "nome": "Amigo",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "escura",
+   "cabelo": "preto",
+   "estilo_cabelo": "cacheado",
+   "barba": "curta",
+   "roupa": "#7a9e7e"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! What's the magic word? Let's find out!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "homem",
+    "homem2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Ten men had a skin disease. They lived far from everyone."
+    },
+    {
+     "quem": "homem",
+     "texto": "Look over there! It's Jesus!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "homem2",
+     "texto": "Jesus, Master, have mercy on us!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "homem",
+    "homem2"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Go show yourselves to the priests!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They walked along and... ping! Their skin was clean!"
+    },
+    {
+     "quem": "homem2",
+     "texto": "We're healed! Woo-hoo!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "homem",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Nine ran off. Only one came back, singing loudly."
+    },
+    {
+     "quem": "homem",
+     "texto": "Thank you, Jesus! Thank you so much!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Weren't there ten? Where are the other nine?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "jesus",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Get up and go. Your faith has saved you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "homem",
+     "texto": "I'll tell everyone!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "The magic word is thank you! Thank God every day!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

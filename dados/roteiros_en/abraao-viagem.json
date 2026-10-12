@@ -1,0 +1,177 @@
+{
+ "historia_id": "abraao-viagem",
+ "titulo": "Abraham Moves Away 🐪 | Bible Story for Kids #shorts",
+ "titulo_curto": "Abraham moves away",
+ "referencia": "Genesis 12",
+ "descricao": "God asks Abraham to leave his land and go to a new place, and he trusts and obeys. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 12\n💛 Lesson: we can trust God even when we don't know the way.",
+ "tags": [
+  "abraham",
+  "abraham's journey",
+  "trusting god",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "trust God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "abraao": {
+   "preset": "abraao"
+  },
+  "sara": {
+   "preset": "sara"
+  },
+  "camelo": {
+   "preset": "camelo"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Have you ever moved to a new home? Abraham did! Come see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "abraao"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Abraham, leave your land."
+    },
+    {
+     "quem": "deus",
+     "texto": "Go to the land I will show you."
+    },
+    {
+     "quem": "abraao",
+     "texto": "Where to, God?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Abraham didn't know, but he trusted God!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "abraao",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "abraao",
+     "texto": "Sarah, let's pack our bags!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "sara",
+     "texto": "Let's go together! God will guide us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "abraao",
+    "camelo",
+    "ovelha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Off they went, with camels and little sheep."
+    },
+    {
+     "quem": "camelo",
+     "texto": "Clip-clop, clip-clop... so far!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelha",
+     "texto": "Baa! I'm a little hot!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "abraao",
+     "texto": "Come on, everyone! God is with us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "abraao",
+    "sara"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They reached a green and beautiful land."
+    },
+    {
+     "quem": "deus",
+     "texto": "I will give this land to your family."
+    },
+    {
+     "quem": "abraao",
+     "texto": "Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even when we don't know the way, we can trust God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

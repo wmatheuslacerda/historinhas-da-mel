@@ -1,0 +1,178 @@
+{
+ "historia_id": "gideao-trombetas",
+ "titulo": "Gideon and the 300 🔦 | Bible Story for Kids #shorts",
+ "titulo_curto": "Gideon and the 300",
+ "referencia": "Judges 7",
+ "descricao": "God chooses only 300 men for Gideon. With trumpets, jars, and torches, they win, because God was with them! Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Judges 7\n💛 Lesson: with God on our side, a little becomes a lot.",
+ "tags": [
+  "Gideon",
+  "Gideon and the 300",
+  "trumpets and torches",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "With God, a little is a lot",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "gideao": {
+   "preset": "gideao"
+  },
+  "soldado": {
+   "preset": "soldado"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today has trumpets, jars, and lots of light!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "gideao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Gideon had many soldiers to face the enemies."
+    },
+    {
+     "quem": "deus",
+     "texto": "Gideon, you have too many people."
+    },
+    {
+     "quem": "gideao",
+     "texto": "Too many? But there are so many enemies!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "soldado",
+    "gideao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God kept choosing, until only three hundred men were left."
+    },
+    {
+     "quem": "soldado",
+     "texto": "Only three hundred? That's so few!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "gideao",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "gideao",
+     "texto": "Each one take a trumpet and a jar with a torch!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "In the middle of the night, they surrounded the camp."
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "soldado",
+    "gideao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Toot! Toot! Crash! They broke the jars and the torches shone!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "soldado",
+     "texto": "For the Lord and for Gideon!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The enemies got scared and ran away!"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "gideao",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "gideao",
+     "texto": "It wasn't our strength. It was God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Hooray!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "With God on our side, a little becomes a lot!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

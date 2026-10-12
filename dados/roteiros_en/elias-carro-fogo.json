@@ -1,0 +1,157 @@
+{
+ "historia_id": "elias-carro-fogo",
+ "titulo": "Elijah's Chariot of Fire 🌪️ | Bible Story for Kids #shorts",
+ "titulo_curto": "The chariot of fire",
+ "referencia": "2 Kings 2",
+ "descricao": "The prophet Elisha doesn't want to leave his teacher Elijah, who goes up to heaven in a whirlwind as a chariot of fire appears. A story about friendship and loyalty, told by Mel the little sheep.\n\n📖 Reference: 2 Kings 2\n💛 Lesson: God takes care of those who love Him, to the very end.",
+ "tags": [
+  "elijah",
+  "elisha",
+  "chariot of fire",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "God takes care of His friends",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "elias": {
+   "preset": "elias"
+  },
+  "eliseu": {
+   "preset": "eliseu"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Have you ever seen a wind that spins and spins and spins?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "elias",
+    "eliseu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Elijah and his helper Elisha always walked together."
+    },
+    {
+     "quem": "elias",
+     "texto": "Elisha, stay here and rest."
+    },
+    {
+     "quem": "eliseu",
+     "texto": "No! I'm going with you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "elias",
+    "eliseu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "At the Jordan River, Elijah struck the water with his cloak."
+    },
+    {
+     "quem": "narrador",
+     "texto": "And the water parted! Whoosh!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "eliseu",
+     "texto": "Wow! God opened a path!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "elias",
+    "eliseu"
+   ],
+   "falas": [
+    {
+     "quem": "elias",
+     "texto": "What do you want me to do for you?"
+    },
+    {
+     "quem": "eliseu",
+     "texto": "I want a double share of your spirit!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "eliseu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, a chariot of fire with horses appeared!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Elijah went up to heaven in a whirlwind. Whoosh!"
+    },
+    {
+     "quem": "eliseu",
+     "texto": "My father! My father!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of those who love Him, to the very end!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

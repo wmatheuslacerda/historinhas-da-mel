@@ -1,0 +1,158 @@
+{
+ "historia_id": "jose-perdao",
+ "titulo": "Joseph Forgives His Brothers 🤗 | Bible Story for Kids #shorts",
+ "titulo_curto": "Joseph Forgives",
+ "referencia": "Genesis 45",
+ "descricao": "Joseph meets his brothers again in Egypt and, instead of getting angry, chooses to forgive and hug everyone! Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 45\n💛 Lesson: forgiving is hugging again, just like Joseph did.",
+ "tags": [
+  "Joseph of Egypt",
+  "Joseph forgives his brothers",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Forgiving is hugging again",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jose": {
+   "preset": "jose"
+  },
+  "irmao": {
+   "preset": "homem",
+   "nome": "Irmão de José"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today is a story of hugs and forgiveness!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "dia",
+   "personagens": [
+    "irmao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Joseph's brothers traveled to Egypt. They were hungry."
+    },
+    {
+     "quem": "irmao",
+     "texto": "Sir, we came to buy food, please!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "jose",
+    "irmao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They didn't know it, but that important man was Joseph!"
+    },
+    {
+     "quem": "jose",
+     "texto": "It's me, Joseph, your brother!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "irmao",
+     "texto": "Joseph?! We were so mean to you!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "jose",
+    "irmao"
+   ],
+   "falas": [
+    {
+     "quem": "jose",
+     "texto": "Don't be afraid. I forgive you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Joseph gave each brother a big hug. And cried happy tears!"
+    },
+    {
+     "quem": "jose",
+     "texto": "God took care of everything to save our family!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "jose",
+    "irmao"
+   ],
+   "falas": [
+    {
+     "quem": "jose",
+     "texto": "Bring Daddy Jacob to live here!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "irmao",
+     "texto": "Yay! Let's go get Dad!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Forgiving is hugging again, like Joseph did!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "historia_id": "lava-pes",
+ "titulo": "Jesus Washes His Friends' Feet 💧 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus washes feet",
+ "referencia": "John 13",
+ "descricao": "Jesus took a bowl and a towel and washed his friends' feet, showing that loving means serving! A Bible story An Easter story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: John 13\n💛 Lesson: Those who love help and serve others.",
+ "tags": [
+  "washing feet",
+  "serving",
+  "easter for kids",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Loving is serving",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today Jesus grabs a bowl of water!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus was eating dinner with his friends."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He stood up and got a towel and a bowl of water."
+    },
+    {
+     "quem": "joao",
+     "texto": "Huh! What will the Teacher do?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "jesus",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus began washing his friends' feet. Splash, splash!"
+    },
+    {
+     "quem": "joao",
+     "texto": "What cool, fresh water!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "No, Lord! You will never wash my feet!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "If I don't wash you, you can't stay with me.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Then wash all of me! Feet, hands, and head!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "I am your Teacher, and I served you.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Do as I did: serve one another!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "joao",
+     "texto": "Let's help everybody!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Loving is serving. Help someone today!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

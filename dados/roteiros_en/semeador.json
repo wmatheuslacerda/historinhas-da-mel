@@ -1,0 +1,168 @@
+{
+ "historia_id": "semeador",
+ "titulo": "The Sower 🌾 | Bible Story for Kids #shorts",
+ "titulo_curto": "The sower",
+ "referencia": "Matthew 13",
+ "descricao": "A sower scattered seeds on the path, on rocks, in thorns and on good soil. Only the good soil bore fruit! A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 13\n💛 Lesson: Have a good-soil heart.",
+ "tags": [
+  "the sower",
+  "parable",
+  "word of god",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Have a good-soil heart",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "semeador": {
+   "preset": "homem"
+  },
+  "pomba": {
+   "preset": "pomba"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today we'll plant little seeds!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus sat in a little boat and told a story."
+    },
+    {
+     "quem": "jesus",
+     "texto": "A sower went out to scatter seeds.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "semeador",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "semeador",
+     "texto": "Toss here, toss there! Whoosh!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Some fell on the path. The birds ate them!"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Yum, yum! So tasty!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "semeador"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Others fell on rocks and dried up in the sun."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Others fell in thorns and got squished."
+    },
+    {
+     "quem": "semeador",
+     "texto": "Oh no! They didn't grow!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "semeador"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But some fell on good soil. They grew and grew!"
+    },
+    {
+     "quem": "semeador",
+     "texto": "Look at all the plants! So much fruit!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "tarde",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "The seed is God's word. Good soil is someone who listens and understands.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Be good soil: keep God's word in your heart!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

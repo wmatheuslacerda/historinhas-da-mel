@@ -1,0 +1,143 @@
+{
+ "historia_id": "salomao-sabedoria",
+ "titulo": "Solomon Asks for Wisdom ✨ | Bible Story for Kids #shorts",
+ "titulo_curto": "Solomon and wisdom",
+ "referencia": "1 Kings 3",
+ "descricao": "God tells young King Solomon he can ask for anything, and Solomon asks for wisdom to take good care of his people. Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Kings 3\n💛 Lesson: Ask God for wisdom.",
+ "tags": [
+  "solomon",
+  "wisdom",
+  "king solomon",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Ask God for wisdom",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "salomao": {
+   "preset": "salomao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "If you could ask for anything, what would you ask for?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "salomao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Solomon was a very young king. One night, he fell asleep and dreamed."
+    },
+    {
+     "quem": "deus",
+     "texto": "Solomon, ask for whatever you want, and I will give it."
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "salomao"
+   ],
+   "falas": [
+    {
+     "quem": "salomao",
+     "texto": "Wow! Anything? Hmm... let me think.",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "salomao",
+     "texto": "I'm too young to take care of so many people."
+    },
+    {
+     "quem": "salomao",
+     "texto": "Give me wisdom, Lord, to do what is right!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "salomao"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "You asked so well! I give you wisdom."
+    },
+    {
+     "quem": "deus",
+     "texto": "And I also give you riches and honor."
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "salomao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Solomon woke up jumping for joy!"
+    },
+    {
+     "quem": "salomao",
+     "texto": "Thank you, God! Now I'll take good care of the people!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you don't know what to do, ask God for wisdom!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

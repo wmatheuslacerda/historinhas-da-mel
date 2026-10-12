@@ -1,0 +1,207 @@
+{
+ "historia_id": "paulo-silas-cantam",
+ "titulo": "Paul and Silas Sing in Prison 🎶 | Bible Story #shorts",
+ "titulo_curto": "Paul and Silas sing",
+ "referencia": "Acts 16",
+ "descricao": "Paul and Silas are in prison, but at midnight they sing praises to God. The earth shakes, the doors open, and the jailer meets Jesus! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 16\n💛 Lesson: We can praise God in any situation.",
+ "tags": [
+  "paul and silas",
+  "prison",
+  "praise",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "We can praise God in any situation",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "silas": {
+   "tipo": "humano",
+   "nome": "Silas",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "escura",
+   "cabelo": "preto",
+   "estilo_cabelo": "cacheado",
+   "barba": "curta",
+   "roupa": "#b04a4a",
+   "roupa2": "#eadcc0",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "carcereiro": {
+   "tipo": "humano",
+   "nome": "Carcereiro",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "preto",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#5a5a6e",
+   "roupa2": "#c9c0a8",
+   "cobertura": "nenhuma",
+   "acessorio": "lampiao",
+   "manto": false
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you like to sing? This story has music!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "personagens": [
+    "paulo",
+    "silas",
+    "carcereiro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Paul and Silas were jailed for telling about Jesus."
+    },
+    {
+     "quem": "carcereiro",
+     "texto": "Stay there and be quiet!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Their feet were stuck in wooden blocks."
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "paulo",
+    "silas"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But at midnight, they began to sing!"
+    },
+    {
+     "quem": "silas",
+     "texto": "La, la, la! God is good!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Let's praise God even here!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "paulo",
+    "silas",
+    "carcereiro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, the earth shook! Rumble!",
+     "emocao": "surpreso",
+     "acao": "tremer"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The doors opened and the chains fell off!"
+    },
+    {
+     "quem": "carcereiro",
+     "texto": "Oh no! The prisoners will escape!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Calm down! We are all here!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "carcereiro",
+    "paulo",
+    "silas"
+   ],
+   "falas": [
+    {
+     "quem": "carcereiro",
+     "texto": "What must I do to be saved?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "silas",
+     "texto": "Believe in the Lord Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And his whole family believed in Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "We can praise God anywhere!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

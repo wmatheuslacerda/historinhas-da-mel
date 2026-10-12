@@ -1,0 +1,171 @@
+{
+ "historia_id": "batismo-jesus",
+ "titulo": "The Baptism of Jesus 🕊️ | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus' baptism",
+ "referencia": "Matthew 3",
+ "descricao": "John baptizes Jesus in the Jordan River, the sky opens, a dove comes down and God says: this is My beloved Son! A Bible story told by Mel the little sheep.\n\n📖 Reference: Matthew 3\n💛 Lesson: Jesus is God's beloved Son.",
+ "tags": [
+  "baptism of jesus",
+  "john the baptist",
+  "jordan river",
+  "dove",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus is God's beloved Son",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "joao_batista": {
+   "preset": "joao_batista"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pomba": {
+   "preset": "pomba"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today a little dove comes down from the sky!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "joao_batista",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "John baptized people in the Jordan River. Splash!"
+    },
+    {
+     "quem": "joao_batista",
+     "texto": "Turn back to God! He loves you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "homem",
+     "texto": "I want to be baptized!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "joao_batista"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, Jesus came to the river."
+    },
+    {
+     "quem": "joao_batista",
+     "texto": "Jesus? I'm the one who needs to be baptized by You!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Let it be so now. It is the right thing to do.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pomba",
+    "joao_batista"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "John baptized Jesus. When Jesus came out of the water, the sky opened!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "God's Spirit came down like a dove.",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Coo, coo!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "This is My beloved Son. I am so pleased with Him!"
+    },
+    {
+     "quem": "joao_batista",
+     "texto": "How lovely! God spoke from heaven!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus is God's beloved Son!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "historia_id": "jonas-planta",
+ "titulo": "Jonah and the Little Plant 🌱 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jonah and the Plant",
+ "referencia": "Jonah 4",
+ "descricao": "Jonah is grumpy because God forgave Nineveh. So God uses a little plant to teach Jonah about his great love for everyone. Told by Mel the little sheep.\n\n📖 Reference: Jonah 4\n💛 Lesson: God loves all people, and we should love them too.",
+ "tags": [
+  "Jonah",
+  "Jonah and the plant",
+  "compassion",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God loves everyone",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jonas": {
+   "preset": "jonas"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today a little plant gives a lesson!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God forgave Nineveh. But Jonah was grumpy."
+    },
+    {
+     "quem": "jonas",
+     "texto": "Humph! I didn't want God to forgive them!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He sat outside the city, in the warm sun."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God made a big plant grow. What nice shade!"
+    },
+    {
+     "quem": "jonas",
+     "texto": "Yay! What a great plant! I love it!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The next day, a little worm chewed the plant. It dried up."
+    },
+    {
+     "quem": "narrador",
+     "texto": "The sun got hot, and the wind blew hard."
+    },
+    {
+     "quem": "jonas",
+     "texto": "Oh no! My little plant! How sad!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Jonah, you felt sorry for the little plant, didn't you?"
+    },
+    {
+     "quem": "deus",
+     "texto": "Shouldn't I feel sorry for Nineveh, with so many people and animals?"
+    },
+    {
+     "quem": "jonas",
+     "texto": "You're right, Lord. You love everyone!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God loves all people. Let's love them too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

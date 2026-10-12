@@ -1,0 +1,191 @@
+{
+ "historia_id": "magos-estrela",
+ "titulo": "The Wise Men and the Star 🌟 | Christmas Bible Story #shorts",
+ "titulo_curto": "Wise men and the star",
+ "referencia": "Matthew 2",
+ "descricao": "The wise men from the East follow a bright star until they find baby Jesus and worship him with gifts. A Bible story A Christmas story told by Mel the little sheep.\n\n📖 Reference: Matthew 2\n💛 Lesson: the best gift we can give Jesus is our heart.",
+ "tags": [
+  "three wise men",
+  "star of bethlehem",
+  "christmas",
+  "christmas story",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Giving Jesus our heart",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "mago_1": {
+   "preset": "mago_1"
+  },
+  "mago_2": {
+   "preset": "mago_2"
+  },
+  "mago_3": {
+   "preset": "mago_3"
+  },
+  "camelo": {
+   "preset": "camelo"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "jesus_bebe": {
+   "preset": "jesus_bebe"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shall we follow a bright star?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mago_1",
+    "mago_2",
+    "mago_3"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Far away in the East, some wise men watched the sky."
+    },
+    {
+     "quem": "mago_1",
+     "texto": "Look! A new star!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "mago_2",
+     "texto": "A very special king is born!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mago_3",
+     "texto": "Let's follow the star!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mago_1",
+    "camelo",
+    "mago_2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They traveled very, very far on camels."
+    },
+    {
+     "quem": "camelo",
+     "texto": "Oof! So many miles! But it's worth it!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mago_2",
+     "texto": "Look! The star stopped over that house!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "mago_1",
+    "maria",
+    "jesus_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They went in and saw the child with his mother, Mary."
+    },
+    {
+     "quem": "narrador",
+     "texto": "They knelt down and worshiped Jesus."
+    },
+    {
+     "quem": "mago_1",
+     "texto": "We brought gifts: gold, frankincense, and myrrh!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "maria",
+     "texto": "Thank you! God bless you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mago_1",
+    "mago_2",
+    "mago_3"
+   ],
+   "falas": [
+    {
+     "quem": "mago_3",
+     "texto": "What joy! We found the King!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And they went home another way."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "The best gift for Jesus is our heart!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

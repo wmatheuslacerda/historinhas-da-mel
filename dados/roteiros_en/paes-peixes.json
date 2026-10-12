@@ -1,0 +1,178 @@
+{
+ "historia_id": "paes-peixes",
+ "titulo": "Five Loaves and Two Little Fish 🐟 | Bible Story for Kids #shorts",
+ "titulo_curto": "Loaves and little fish",
+ "referencia": "John 6",
+ "descricao": "A boy shares his lunch of five loaves and two little fish, and Jesus feeds a huge crowd, with leftovers! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: John 6\n💛 Lesson: when we share a little with Jesus, he makes a lot.",
+ "tags": [
+  "five loaves and two fish",
+  "feeding the crowd",
+  "boy with the lunch",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Sharing what we have with Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "andre": {
+   "preset": "andre"
+  },
+  "menino_lanche": {
+   "preset": "menino_lanche"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Can one little lunch feed a whole bunch of people?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "andre",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A huge crowd followed Jesus up a hill."
+    },
+    {
+     "quem": "mulher",
+     "texto": "I'm hungry! My tummy says grumble!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Where can we find food for everyone?",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "andre",
+    "menino_lanche",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "andre",
+     "texto": "This boy has five loaves and two little fish."
+    },
+    {
+     "quem": "andre",
+     "texto": "But what is that for so many people?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "menino_lanche",
+     "texto": "Take it, Jesus! I'll share!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "andre",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Ask everyone to sit on the grass.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jesus thanked God and broke the bread and fish."
+    },
+    {
+     "quem": "narrador",
+     "texto": "And he gave, and gave, and it never ran out!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Yummy! I ate until I was full!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "andre",
+    "menino_lanche"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then they gathered the leftovers. Twelve baskets full!"
+    },
+    {
+     "quem": "menino_lanche",
+     "texto": "Wow! My little lunch became a feast!",
+     "emocao": "surpreso",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When we share our little with Jesus, he makes a lot!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

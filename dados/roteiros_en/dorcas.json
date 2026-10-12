@@ -1,0 +1,202 @@
+{
+ "historia_id": "dorcas",
+ "titulo": "Dorcas, the Kind Seamstress 🧵 | Bible Story for Kids #shorts",
+ "titulo_curto": "Dorcas, the seamstress",
+ "referencia": "Acts 9",
+ "descricao": "Dorcas sewed clothes for people in need. When she gets sick, Peter comes to pray and God does a wonder! A story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 9\n💛 Lesson: doing good with our hands makes God happy.",
+ "tags": [
+  "dorcas",
+  "tabitha",
+  "kindness",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "doing good with our hands makes God happy",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "dorcas": {
+   "tipo": "humano",
+   "nome": "Dorcas",
+   "voz": "mulher",
+   "idade": "adulto",
+   "genero": "f",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "coque",
+   "barba": "nenhuma",
+   "roupa": "#d98c5f",
+   "roupa2": "#f6ead2",
+   "cobertura": "lenco",
+   "acessorio": "cesta",
+   "manto": false
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "pedro": {
+   "preset": "pedro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know someone who made clothes with love? Come see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "dorcas",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Dorcas lived in Joppa. She loved to sew."
+    },
+    {
+     "quem": "dorcas",
+     "texto": "This new outfit is for you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "How pretty! Thank you, Dorcas!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "mulher",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, Dorcas got sick and did not wake up."
+    },
+    {
+     "quem": "mulher",
+     "texto": "How sad! Let's call Peter quickly!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Two friends ran and ran until they found Peter."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "pedro",
+    "mulher",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter arrived, and everyone showed the clothes Dorcas made."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Look how many clothes she sewed for us!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Peter knelt and prayed softly."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "pedro",
+    "dorcas"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "Tabitha, get up!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Dorcas opened her eyes and sat up!"
+    },
+    {
+     "quem": "dorcas",
+     "texto": "Peter! What happened?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "dorcas",
+    "mulher",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "menina",
+     "texto": "Dorcas is back! Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Doing good with our hands makes God happy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

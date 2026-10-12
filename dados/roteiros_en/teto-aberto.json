@@ -1,0 +1,219 @@
+{
+ "historia_id": "teto-aberto",
+ "titulo": "The Friends Who Opened the Roof 🏠 | Bible Story #shorts",
+ "titulo_curto": "The friends and the roof",
+ "referencia": "Mark 2",
+ "descricao": "Four friends carry a friend who couldn't walk to Jesus, lowering him through the roof! Jesus sees their faith and the man walks again. Told by Mel the little sheep.\n\n📖 Reference: Mark 2\n💛 Lesson: Good friends bring others to Jesus.",
+ "tags": [
+  "paralyzed man",
+  "friends of jesus",
+  "miracles of jesus",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Good friends bring others to Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "amigo": {
+   "tipo": "humano",
+   "nome": "Amigo",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "morena",
+   "cabelo": "preto",
+   "estilo_cabelo": "cacheado",
+   "barba": "curta",
+   "roupa": "#3d8c5a",
+   "roupa2": "#e8d9b5",
+   "cobertura": "faixa",
+   "acessorio": "nenhum"
+  },
+  "amigo2": {
+   "tipo": "humano",
+   "nome": "Amigo",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "clara",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "nenhuma",
+   "roupa": "#d9822b",
+   "roupa2": "#f2efe6",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum"
+  },
+  "doente": {
+   "tipo": "humano",
+   "nome": "Homem",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#6b8fb3",
+   "roupa2": "#f2efe6",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Ever seen anyone come in through the roof? Hee hee!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "doente",
+    "amigo",
+    "amigo2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "There was a man who couldn't walk. But he had four friends!"
+    },
+    {
+     "quem": "amigo",
+     "texto": "Let's take you to Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "amigo2",
+     "texto": "One, two, three... lift the mat!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "amigo",
+    "mulher",
+    "amigo2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But the house was packed! No room for anyone."
+    },
+    {
+     "quem": "mulher",
+     "texto": "We can't get through! It's full!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "amigo",
+     "texto": "I know! Let's go through the roof!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "doente",
+    "amigo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "They made a hole in the roof and lowered their friend. Nice and slow!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Son, your sins are forgiven.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Get up, take your mat, and go home!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "doente",
+    "amigo",
+    "amigo2"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And the man stood up right away!"
+    },
+    {
+     "quem": "doente",
+     "texto": "I'm walking! Thank you, Jesus!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "amigo2",
+     "texto": "We've never seen anything like this!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Good friends help others come to Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

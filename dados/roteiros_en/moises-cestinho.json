@@ -1,0 +1,178 @@
+{
+ "historia_id": "moises-cestinho",
+ "titulo": "Moses in the Basket 🧺 | Bible Story for Kids #shorts",
+ "titulo_curto": "Moses in the basket",
+ "referencia": "Exodus 2",
+ "descricao": "Moses' mommy puts the baby in a basket on the river, and his sister Miriam keeps watch. God takes care of everything! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 2\n💛 Lesson: God takes care of little ones everywhere.",
+ "tags": [
+  "moses in the basket",
+  "baby moses",
+  "miriam",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God cares for little ones",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "mae_moises": {
+   "preset": "mulher",
+   "nome": "Mamãe de Moisés"
+  },
+  "moises_bebe": {
+   "preset": "moises_bebe"
+  },
+  "miria": {
+   "preset": "miria"
+  },
+  "princesa": {
+   "tipo": "humano",
+   "idade": "adulto",
+   "nome": "Princesa",
+   "voz": "mulher",
+   "genero": "f",
+   "pele": "media",
+   "cabelo": "preto",
+   "estilo_cabelo": "longo",
+   "roupa": "#f2c94c",
+   "roupa2": "#ffffff",
+   "cobertura": "coroa"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Have you ever seen a baby in a little boat?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mae_moises",
+    "moises_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses' mommy wanted to protect her baby."
+    },
+    {
+     "quem": "mae_moises",
+     "texto": "I'll make a snug little basket for you, son!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "miria",
+    "moises_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "She set the basket on the river, nice and slow. Plop!"
+    },
+    {
+     "quem": "miria",
+     "texto": "I'll hide and watch over my baby brother!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "princesa",
+    "moises_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Pharaoh's daughter came to bathe in the river."
+    },
+    {
+     "quem": "princesa",
+     "texto": "Look! A baby! How cute!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "moises_bebe",
+     "texto": "Waah, waah!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "miria",
+    "princesa",
+    "mae_moises"
+   ],
+   "falas": [
+    {
+     "quem": "miria",
+     "texto": "Shall I call a woman to take care of him?",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "princesa",
+     "texto": "Yes, please! I'll name him Moses!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Miriam called the baby's very own mommy! What joy!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of little ones, even in the middle of the river!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

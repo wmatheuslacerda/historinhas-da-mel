@@ -1,0 +1,193 @@
+{
+ "historia_id": "rode-porta",
+ "titulo": "Rhoda Forgets to Open the Door 🚪 | Bible Story #shorts",
+ "titulo_curto": "Rhoda and the door",
+ "referencia": "Acts 12",
+ "descricao": "Peter gets out of prison and knocks on the door. Little Rhoda is so happy she runs to tell everyone... and forgets to open it! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 12\n💛 Lesson: God answers our prayers.",
+ "tags": [
+  "rhoda",
+  "peter",
+  "answered prayer",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God answers our prayers",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "rode": {
+   "tipo": "humano",
+   "nome": "Rode",
+   "voz": "menina",
+   "idade": "crianca",
+   "genero": "f",
+   "pele": "clara",
+   "cabelo": "ruivo",
+   "estilo_cabelo": "tranca",
+   "barba": "nenhuma",
+   "roupa": "#e07aa0",
+   "roupa2": "#fbe9d6",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Knock, knock! Who could it be? This story is funny!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "mulher",
+    "homem",
+    "rode"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "At Mary's house, many friends prayed for Peter, who was in prison."
+    },
+    {
+     "quem": "homem",
+     "texto": "God, protect Peter!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But God had already freed Peter from prison!"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Knock, knock, knock! Open up, it's me!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "rode"
+   ],
+   "falas": [
+    {
+     "quem": "rode",
+     "texto": "That voice... It's Peter!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Rhoda was so happy she ran off... and forgot to open the door!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "rode",
+    "mulher",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "rode",
+     "texto": "Peter is outside!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Rhoda, you're dreaming!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Peter outside: knock, knock, knock!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "pedro",
+    "rode",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "When they opened the door, everyone was amazed!"
+    },
+    {
+     "quem": "homem",
+     "texto": "It really is Peter! God heard us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God answers our prayers!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "historia_id": "adao-eva-jardim",
+ "titulo": "Adam and Eve in the Garden 🌳 | Bible Story for Kids #shorts",
+ "titulo_curto": "Adam and Eve",
+ "referencia": "Genesis 2",
+ "descricao": "God creates Adam and Eve and gives them a beautiful garden, full of fruit and animals, to care for. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 2\n💛 Lesson: God gives us beautiful things and wants us to take care of them.",
+ "tags": [
+  "adam and eve",
+  "garden of eden",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "take care of what God gave us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "adao": {
+   "preset": "adao"
+  },
+  "eva": {
+   "preset": "eva"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "camelo": {
+   "preset": "camelo"
+  },
+  "pomba": {
+   "preset": "pomba"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Shall we visit the most beautiful garden in the world?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "adao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God made the first man from the dust of the ground."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He breathed on him, whoosh, and he came alive!"
+    },
+    {
+     "quem": "adao",
+     "texto": "Hi! I'm Adam!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "personagens": [
+    "adao",
+    "leao",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God brought the animals for Adam to name."
+    },
+    {
+     "quem": "adao",
+     "texto": "You will be called lion!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "leao",
+     "texto": "Roar! I like it!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "adao",
+     "texto": "And you, camel!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "camelo",
+     "texto": "What a nice name!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "adao",
+    "eva"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But Adam had no one just like him."
+    },
+    {
+     "quem": "narrador",
+     "texto": "So God made Eve. What joy!"
+    },
+    {
+     "quem": "eva",
+     "texto": "Hello, Adam!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "adao",
+     "texto": "Now I have a special friend!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "adao",
+    "eva",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God gave them the garden to care for."
+    },
+    {
+     "quem": "eva",
+     "texto": "Let's water the flowers!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet, tweet! What a sweet-smelling garden!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God gives us beautiful things to care for with love!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

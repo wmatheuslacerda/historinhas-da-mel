@@ -1,0 +1,165 @@
+{
+ "historia_id": "mana-ceu",
+ "titulo": "Bread from Heaven! 🍞 | Bible Story for Kids #shorts",
+ "titulo_curto": "Bread from heaven",
+ "referencia": "Exodus 16",
+ "descricao": "In the desert the people felt hungry, and God sent manna, little bread from heaven, every morning! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 16\n💛 Lesson: God takes care of us every day.",
+ "tags": [
+  "manna",
+  "bread from heaven",
+  "moses in the desert",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God cares for us every day",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Can you imagine bread falling from the sky?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the desert, the people were very hungry."
+    },
+    {
+     "quem": "menino",
+     "texto": "My tummy is rumbling! Grumble, grumble!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "moises",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "I will send you bread from heaven!"
+    },
+    {
+     "quem": "moises",
+     "texto": "Did you hear? God will take care of us!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mulher",
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the morning, the ground was covered with tiny white flakes!"
+    },
+    {
+     "quem": "mulher",
+     "texto": "What is this?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "moises",
+     "texto": "It's the bread God gave you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The people called it manna."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "menino",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "menino",
+     "texto": "Yum! It tastes like cookies with honey!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Each family took only what they needed."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Every day, God sent more. Nobody went hungry!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of us every day!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

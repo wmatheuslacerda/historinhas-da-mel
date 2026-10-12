@@ -1,0 +1,205 @@
+{
+ "historia_id": "noe-animais",
+ "titulo": "The Animals Go Into the Ark 🦁 | Bible Story #shorts",
+ "titulo_curto": "The animals in the ark",
+ "referencia": "Genesis 7",
+ "descricao": "The animals go into Noah's ark two by two, just as God said! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 7\n💛 Lesson: God takes care of all the animals and you too.",
+ "tags": [
+  "noah",
+  "noah's ark",
+  "bible animals",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God cares for everyone",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "noe": {
+   "preset": "noe"
+  },
+  "esposa_noe": {
+   "preset": "esposa_noe"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "camelo": {
+   "preset": "camelo"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "pomba": {
+   "preset": "pomba"
+  },
+  "jumento": {
+   "preset": "jumento"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "How many animals fit in a boat? Let's count!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Noah, bring the animals into the ark."
+    },
+    {
+     "quem": "deus",
+     "texto": "Two by two, male and female."
+    },
+    {
+     "quem": "noe",
+     "texto": "Yes, God! Here we go!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "leao",
+    "camelo",
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And here came the animals! Thud, thud, thud!"
+    },
+    {
+     "quem": "leao",
+     "texto": "Roar! I'm here with my lioness!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "camelo",
+     "texto": "Excuse me, I'm the camel!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "noe",
+     "texto": "Come in, come in! There's room!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ovelha",
+    "ovelhinha",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "ovelha",
+     "texto": "Baa! We're coming too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa! What a big boat!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet, tweet! I'm flying in!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Big animals, small animals, fluffy and spotted!"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "tarde",
+   "personagens": [
+    "noe",
+    "esposa_noe",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw! Wait for me!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "Everybody inside!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then God closed the door. Ding!"
+    },
+    {
+     "quem": "noe",
+     "texto": "Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of all the animals and you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "historia_id": "noe-chuva",
+ "titulo": "The Great Rain 🌧️ | Bible Story for Kids #shorts",
+ "titulo_curto": "The great rain",
+ "referencia": "Genesis 7-8",
+ "descricao": "It rains for many, many days, but God protects Noah, his family, and the animals inside the ark. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 7-8\n💛 Lesson: when the storm comes, God protects us.",
+ "tags": [
+  "noah",
+  "noah's ark",
+  "the flood",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God protects us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "noe": {
+   "preset": "noe"
+  },
+  "esposa_noe": {
+   "preset": "esposa_noe"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "camelo": {
+   "preset": "camelo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you like the sound of rain? Pitter-patter!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The ark's door closed. And it began to rain!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Pitter-patter... splash! It rained forty days!"
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "So much water, Noah!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "oceano",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The water rose and rose, and the ark floated."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Rock this way, rock that way!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Inside, everybody was dry and safe."
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "noite",
+   "personagens": [
+    "ovelhinha",
+    "leao",
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa! It's rocking!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "noe",
+     "texto": "Calm down! God is taking care of us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "leao",
+     "texto": "Roar... I'm so sleepy!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "arca",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "noe",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, the rain stopped. God remembered Noah!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "A wind blew, and the water went down."
+    },
+    {
+     "quem": "camelo",
+     "texto": "Look at the sun!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "noe",
+     "texto": "Thank you, God, for protecting us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When the storm comes, God takes care of you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

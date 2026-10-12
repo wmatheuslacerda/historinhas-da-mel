@@ -1,0 +1,182 @@
+{
+ "historia_id": "nascimento-jesus",
+ "titulo": "Jesus Is Born! ⭐ | Christmas Bible Story #shorts",
+ "titulo_curto": "Jesus is born",
+ "referencia": "Luke 2",
+ "descricao": "In Bethlehem, on a special night, baby Jesus is born and laid in a manger. A Bible story A Christmas story full of love, told by Mel the little sheep.\n\n📖 Reference: Luke 2\n💛 Lesson: Jesus is the greatest gift God gave the world.",
+ "tags": [
+  "birth of jesus",
+  "christmas",
+  "manger",
+  "christmas story",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Jesus is God's greatest gift",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "jose": {
+   "preset": "jose_carpinteiro"
+  },
+  "jesus_bebe": {
+   "preset": "jesus_bebe"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "jumento": {
+   "preset": "jumento"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Tonight is the most special night of all!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "maria",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Mary and Joseph were in Bethlehem, in a place with animals."
+    },
+    {
+     "quem": "jose",
+     "texto": "Mary, are you okay?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "maria",
+     "texto": "Yes, Joseph. The baby is coming!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "maria",
+    "jose",
+    "jesus_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And baby Jesus was born! How sweet!"
+    },
+    {
+     "quem": "jesus_bebe",
+     "texto": "Waah, waah!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Mary wrapped the baby in warm cloths."
+    },
+    {
+     "quem": "maria",
+     "texto": "Welcome, my little son!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "jose",
+    "jesus_bebe",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "There was no crib. So Joseph got the manger, with soft hay."
+    },
+    {
+     "quem": "jose",
+     "texto": "There! A cozy little bed for Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baaa! What a cute baby!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "maria",
+    "jumento",
+    "jesus_bebe"
+   ],
+   "falas": [
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw! Shh! The baby is sleeping!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jesus, God's Son, came to live with us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus is the greatest gift God gave us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Merry Christmas, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

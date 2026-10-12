@@ -1,0 +1,172 @@
+{
+ "historia_id": "jonas-foge",
+ "titulo": "Jonah Runs From God ⛵ | Bible Story for Kids #shorts",
+ "titulo_curto": "Jonah Runs From God",
+ "referencia": "Jonah 1",
+ "descricao": "God asks Jonah to go to Nineveh, but he boards a boat going the other way! A storm comes and Jonah learns you can't run from God. Told by Mel the little sheep.\n\n📖 Reference: Jonah 1\n💛 Lesson: it's best to obey God right away, because he loves us and knows best.",
+ "tags": [
+  "Jonah",
+  "Jonah runs from God",
+  "storm",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Obey God right away",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jonas": {
+   "preset": "jonas"
+  },
+  "marinheiro": {
+   "preset": "homem"
+  },
+  "capitao": {
+   "preset": "idoso"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Can you hide from God? Let's see!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Jonah, go to the city of Nineveh and tell them about me."
+    },
+    {
+     "quem": "jonas",
+     "texto": "Nineveh? Oh no! I don't want to go!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Jonah ran the other way!"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "dia",
+   "personagens": [
+    "jonas",
+    "marinheiro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "He paid his fare and got on a boat."
+    },
+    {
+     "quem": "jonas",
+     "texto": "God can't find me here. I'll take a nap!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And he slept: zzzzz, zzzzz!"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "marinheiro",
+    "capitao",
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A big wind came and huge waves. Splash! Splash!"
+    },
+    {
+     "quem": "marinheiro",
+     "texto": "Help! The boat is rocking so much!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "capitao",
+     "texto": "Wake up, sleepyhead! Pray to your God!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jonas",
+     "texto": "It's my fault. I ran from God!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "nublado",
+   "personagens": [
+    "jonas",
+    "marinheiro"
+   ],
+   "falas": [
+    {
+     "quem": "jonas",
+     "texto": "Throw me into the sea, and the storm will stop."
+    },
+    {
+     "quem": "narrador",
+     "texto": "The sailors put Jonah in the water. Splash!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And the sea became calm, so calm. But God still cared for Jonah!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You can't run from God. Obeying right away is best!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

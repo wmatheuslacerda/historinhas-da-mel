@@ -1,0 +1,172 @@
+{
+ "historia_id": "paulo-naufragio",
+ "titulo": "Paul and the Shipwreck 🌊 | Bible Story for Kids #shorts",
+ "titulo_curto": "Paul and the Shipwreck",
+ "referencia": "Acts 27",
+ "descricao": "A huge storm shakes Paul's ship, but an angel promises everyone will be okay. And all reach an island safe and sound! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 27\n💛 Lesson: God takes care of us even in the middle of a storm.",
+ "tags": [
+  "paul",
+  "shipwreck",
+  "storm",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God takes care of us even in the middle of a storm",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Marinheiro",
+   "roupa": "#2f5d8a"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hold on tight, little friend! There's a storm at sea today!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "dia",
+   "personagens": [
+    "paulo",
+    "soldado",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Paul was on a big ship with lots of people."
+    },
+    {
+     "quem": "paulo",
+     "texto": "Be careful! This trip will be dangerous!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "oceano",
+   "periodo": "nublado",
+   "efeito": "chuva",
+   "personagens": [
+    "homem",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A huge storm came. Whoosh! Splash!"
+    },
+    {
+     "quem": "homem",
+     "texto": "The ship is rocking so much!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Many days with no sun or stars."
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "anjo",
+     "texto": "Don't be afraid, Paul! Everyone will be okay.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Friends, be brave! I trust in God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Now, eat a little bread.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "paulo",
+    "homem",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The ship hit the sand and broke. Crack!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Some swam. Others floated on boards to the beach."
+    },
+    {
+     "quem": "homem",
+     "texto": "We all made it! Nobody got lost!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of you even in the middle of a storm!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

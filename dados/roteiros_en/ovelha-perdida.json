@@ -1,0 +1,166 @@
+{
+ "historia_id": "ovelha-perdida",
+ "titulo": "The Lost Little Sheep 🐑 | Bible Story for Kids #shorts",
+ "titulo_curto": "The lost sheep",
+ "referencia": "Luke 15",
+ "descricao": "The good shepherd had a hundred sheep, and one got lost. He left the ninety-nine and searched until he found it! A parable of Jesus. A Bible story A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 15\n💛 Lesson: You are very important to God. He never gives up on you.",
+ "tags": [
+  "lost sheep",
+  "parable",
+  "good shepherd",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "God looks for each one of us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pastor": {
+   "preset": "pastor"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! This story is about a little sheep, just like me!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus told a very beautiful story."
+    },
+    {
+     "quem": "jesus",
+     "texto": "A shepherd had a hundred sheep. He knew every one!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "pastor",
+    "ovelha"
+   ],
+   "falas": [
+    {
+     "quem": "pastor",
+     "texto": "Ninety-seven, ninety-eight, ninety-nine... Oh! One is missing!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "ovelha",
+     "texto": "Baa!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "pastor",
+     "texto": "Stay here. I'll go look for my little sheep!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Far away on the mountain, the little sheep was alone."
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baaa! Where's my shepherd?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "pastor",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The shepherd climbed up and down, looking everywhere."
+    },
+    {
+     "quem": "pastor",
+     "texto": "I found you! Come here, little one!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He put the little sheep on his shoulders and came back singing."
+    },
+    {
+     "quem": "pastor",
+     "texto": "Friends, celebrate with me! I found my sheep!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You are very important to God. He never gives up on you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

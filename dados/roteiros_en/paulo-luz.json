@@ -1,0 +1,179 @@
+{
+ "historia_id": "paulo-luz",
+ "titulo": "The Light on Paul's Road ✨ | Bible Story for Kids #shorts",
+ "titulo_curto": "The light on Paul's road",
+ "referencia": "Acts 9",
+ "descricao": "Paul did not like Jesus' friends, until a very bright light shone on the road and Jesus spoke to him. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 9\n💛 Lesson: Jesus can change any heart.",
+ "tags": [
+  "paul",
+  "road to damascus",
+  "paul's conversion",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "Jesus can change any heart",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "ananias": {
+   "tipo": "humano",
+   "nome": "Ananias",
+   "voz": "idoso",
+   "idade": "idoso",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "grisalho",
+   "estilo_cabelo": "curto",
+   "barba": "longa",
+   "roupa": "#8f7a5a",
+   "roupa2": "#e8dcc2",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A light brighter than the sun? Come see!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "paulo",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Paul was angry at Jesus' friends."
+    },
+    {
+     "quem": "paulo",
+     "texto": "I'm going to Damascus to catch those people!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "paulo",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the road, a super bright light flashed from heaven. Whoosh!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Paul fell to the ground, thud!",
+     "emocao": "surpreso",
+     "acao": "cair",
+     "alvo": "paulo"
+    },
+    {
+     "quem": "deus",
+     "texto": "Paul, Paul, why are you against me?"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Who are you, Lord?",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "paulo",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "I am Jesus! Get up and go into the city."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Paul could not see for three days."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ananias",
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "ananias",
+     "texto": "Brother Paul, Jesus sent me here!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Ananias prayed, and Paul could see again!"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Now I'll tell everyone about Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus can change any heart!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

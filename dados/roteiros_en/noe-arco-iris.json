@@ -1,0 +1,188 @@
+{
+ "historia_id": "noe-arco-iris",
+ "titulo": "The Rainbow Promise 🌈 | Bible Story for Kids #shorts",
+ "titulo_curto": "The rainbow promise",
+ "referencia": "Genesis 9",
+ "descricao": "After the big rain, God puts a rainbow in the sky as a sign of his promise of love. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 9\n💛 Lesson: God always keeps his promises.",
+ "tags": [
+  "noah",
+  "rainbow",
+  "god's promise",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God keeps his promises",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "noe": {
+   "preset": "noe"
+  },
+  "esposa_noe": {
+   "preset": "esposa_noe"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "pomba": {
+   "preset": "pomba"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know why there is a rainbow?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The land dried, and the ark rested on a mountain."
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "Dry ground! Hooray!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "noe",
+     "texto": "Everybody, you can leave the ark!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ovelhinha",
+    "leao",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The animals ran out, hopping and skipping!"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa! Fresh grass!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "leao",
+     "texto": "Roar! What joy!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet, tweet! Blue sky!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "noe"
+   ],
+   "falas": [
+    {
+     "quem": "noe",
+     "texto": "Thank you, God, for taking care of us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "deus",
+     "texto": "I will never send a rain like that again."
+    },
+    {
+     "quem": "deus",
+     "texto": "This is my promise to you."
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "arco_iris",
+   "personagens": [
+    "noe",
+    "esposa_noe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And a colorful rainbow appeared in the sky!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Red, yellow, green, blue... so pretty!"
+    },
+    {
+     "quem": "noe",
+     "texto": "It's the sign of God's promise!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "esposa_noe",
+     "texto": "What a beautiful gift!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Saw a rainbow? Remember: God keeps his promises!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

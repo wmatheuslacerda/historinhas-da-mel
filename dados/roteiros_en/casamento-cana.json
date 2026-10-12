@@ -1,0 +1,184 @@
+{
+ "historia_id": "casamento-cana",
+ "titulo": "The Wedding Party 🍇 | Bible Story for Kids #shorts",
+ "titulo_curto": "The wedding in Cana",
+ "referencia": "John 2",
+ "descricao": "At a wedding party in Cana, the wine runs out. Jesus has the jars filled with water and does His first miracle! A Bible story told by Mel the little sheep.\n\n📖 Reference: John 2\n💛 Lesson: we can tell Jesus all our needs.",
+ "tags": [
+  "wedding at cana",
+  "water into wine",
+  "first miracle of jesus",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "tell Jesus everything",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "homem": {
+   "preset": "homem"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today there's a party! And a yummy surprise!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "homem",
+    "mulher",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "There was a wedding party in Cana. Jesus was invited!"
+    },
+    {
+     "quem": "mulher",
+     "texto": "What a lovely party! La-la-la!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But suddenly, the party ran out of wine!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "maria",
+    "jesus",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "maria",
+     "texto": "Jesus, the drinks have run out.",
+     "emocao": "triste"
+    },
+    {
+     "quem": "maria",
+     "texto": "Do whatever He tells you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Fill those big jars with water.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "Glug, glug, glug! Filled to the brim!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "menino",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Now take it to the master of the feast to taste.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "homem",
+     "texto": "Mmm! Delicious! You saved the best for last!",
+     "emocao": "surpreso",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "menino",
+     "texto": "It was water! Jesus changed it!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "maria",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "That was Jesus' first miracle. The party stayed happy!"
+    },
+    {
+     "quem": "maria",
+     "texto": "Thank you, son!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "We can tell Jesus everything. He always cares!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

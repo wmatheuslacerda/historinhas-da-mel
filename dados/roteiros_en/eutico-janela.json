@@ -1,0 +1,190 @@
+{
+ "historia_id": "eutico-janela",
+ "titulo": "Eutychus Falls From the Window 🪟 | Bible Story for Kids #shorts",
+ "titulo_curto": "Eutychus and the Window",
+ "referencia": "Acts 20",
+ "descricao": "Paul talks late into the night, and young Eutychus dozes off in the window. Thud! But Paul runs down and God takes care of him. Story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 20\n💛 Lesson: God takes care of us, even when we get scared.",
+ "tags": [
+  "Eutychus",
+  "Paul",
+  "God's care",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God cares in scary moments",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "eutico": {
+   "tipo": "humano",
+   "nome": "Êutico",
+   "voz": "menino",
+   "idade": "crianca",
+   "genero": "m",
+   "pele": "morena",
+   "cabelo": "preto",
+   "estilo_cabelo": "cacheado",
+   "barba": "nenhuma",
+   "roupa": "#3f9f7f",
+   "roupa2": "#f0e4c8",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Have you ever fallen asleep in the wrong place? Yaaawn! Come see!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "paulo",
+    "eutico",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Friends gathered on the third floor to hear Paul."
+    },
+    {
+     "quem": "paulo",
+     "texto": "And Jesus loves you! And there's more...",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Paul talked until midnight!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "eutico"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Eutychus was sitting in the window."
+    },
+    {
+     "quem": "eutico",
+     "texto": "Yaaawn... So sleepy...",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He dozed off... and fell down! Thud!",
+     "emocao": "surpreso",
+     "acao": "cair",
+     "alvo": "eutico"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "personagens": [
+    "mulher",
+    "homem",
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "mulher",
+     "texto": "Help! Eutychus fell!",
+     "emocao": "assustado"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Paul ran down and hugged the young man."
+    },
+    {
+     "quem": "paulo",
+     "texto": "Calm down! He is alive!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "eutico",
+    "mulher",
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "eutico",
+     "texto": "I'm okay! God took care of me!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "mulher",
+     "texto": "What a relief! Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then everyone ate together and went home so happy!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of you, even in scary moments!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "historia_id": "jonas-peixe",
+ "titulo": "Jonah in the Big Fish 🐋 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jonah and the Big Fish",
+ "referencia": "Jonah 1-2",
+ "descricao": "Jonah falls into the sea and God sends a huge fish to swallow him. Inside, Jonah prays, and God takes him back to the beach! Told by Mel the little sheep.\n\n📖 Reference: Jonah 1-2\n💛 Lesson: we can pray to God anywhere, and he always listens.",
+ "tags": [
+  "Jonah and the whale",
+  "Jonah",
+  "big fish",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God hears prayers anywhere",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jonas": {
+   "preset": "jonas"
+  },
+  "baleia": {
+   "preset": "baleia"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Ever thought of praying inside a giant fish?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "oceano",
+   "periodo": "dia",
+   "personagens": [
+    "jonas",
+    "baleia"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jonah ran from God and ended up in the sea."
+    },
+    {
+     "quem": "narrador",
+     "texto": "But God prepared a huge fish. Gulp! It swallowed Jonah whole!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "baleia",
+     "texto": "Blub, blub! Relax in there, Jonah!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "dentro_peixe",
+   "periodo": "noite",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "jonas",
+     "texto": "Wow! What a dark, wet place!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jonah stayed there three days and three nights."
+    },
+    {
+     "quem": "jonas",
+     "texto": "God, forgive me! I want to obey you!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "jonas",
+     "texto": "Thank you, Lord, for hearing me!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "oceano",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "baleia"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Fish, take Jonah to the beach."
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jonas",
+    "baleia"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The fish swam and swam... and blaaarg! Jonah landed on the beach!"
+    },
+    {
+     "quem": "jonas",
+     "texto": "Dry land! Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "baleia",
+     "texto": "Bye, Jonah! Now obey, okay?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God hears your prayer anywhere!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

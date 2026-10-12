@@ -1,0 +1,164 @@
+{
+ "historia_id": "oracao-pai-nosso",
+ "titulo": "Jesus Teaches Us to Pray 🙏 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Lord's Prayer",
+ "referencia": "Matthew 6",
+ "descricao": "Jesus' friends wanted to learn how to talk to God, and Jesus taught them the Lord's Prayer! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 6\n💛 Lesson: You can talk to God anytime.",
+ "tags": [
+  "lord's prayer",
+  "prayer",
+  "jesus teaches prayer",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "We can talk with God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you know how to talk to God?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus liked to climb the mountain to pray."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Father, thank you for this day!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "pedro",
+    "joao",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "joao",
+     "texto": "Teacher, will you teach us to pray?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Yes! How do we talk to God?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "No need for fancy words. God is our Father!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Pray like this: Our Father in heaven, holy is your name.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Your kingdom come. Give us today our daily bread.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Forgive us our debts, as we forgive.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "How beautiful! I'll pray every day!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "joao",
+     "texto": "Me too!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God is your Father. Talk to him anytime!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

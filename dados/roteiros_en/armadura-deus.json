@@ -1,0 +1,166 @@
+{
+ "historia_id": "armadura-deus",
+ "titulo": "The Armor of God 🛡️ | Bible Story for Kids #shorts",
+ "titulo_curto": "The armor of God",
+ "referencia": "Ephesians 6",
+ "descricao": "Paul looked at a soldier and explained that God gives us special armor: belt of truth, shield of faith, helmet of salvation and sword of the Word. Explained by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Ephesians 6\n💛 Lesson: God protects us with His armor.",
+ "tags": [
+  "armor of god",
+  "ephesians 6",
+  "shield of faith",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God protects us with His armor",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "paulo": {
+   "preset": "paulo"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "menino": {
+   "preset": "menino",
+   "armadura": true
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Want to be a little soldier of God? Come get dressed!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "paulo",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Paul was in prison, and a soldier stayed close by."
+    },
+    {
+     "quem": "paulo",
+     "texto": "Look at that soldier's armor! God gives us some too!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "paulo",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "paulo",
+     "texto": "First, the belt of truth. Always tell the truth!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "Belt on! Click!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "paulo",
+     "texto": "Now, the shield of faith. It means trusting God!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "paulo",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "paulo",
+     "texto": "Here is the helmet of salvation. Jesus saved you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "What a shiny helmet!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "paulo",
+     "texto": "And the sword is God's Word, the Bible!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "menino",
+    "paulo"
+   ],
+   "falas": [
+    {
+     "quem": "menino",
+     "texto": "I'm ready! God protects me!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "paulo",
+     "texto": "And don't forget to always pray!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God protects you with His armor!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

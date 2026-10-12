@@ -1,0 +1,165 @@
+{
+ "historia_id": "tome",
+ "titulo": "Thomas Wants to See to Believe 👀 | Bible Story for Kids #shorts",
+ "titulo_curto": "Thomas wants to see",
+ "referencia": "John 20",
+ "descricao": "Thomas wasn't there when Jesus appeared and said he would believe only by seeing. Eight days later, Jesus comes right up to him! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: John 20\n💛 Lesson: Blessed are those who believe in Jesus without seeing.",
+ "tags": [
+  "thomas",
+  "easter",
+  "jesus is risen",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Blessed are those who believe in Jesus without seeing",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "tome": {
+   "tipo": "humano",
+   "nome": "Tomé",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "morena",
+   "cabelo": "preto",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#3f7f6e",
+   "roupa2": "#e6dcc0",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  },
+  "jesus": {
+   "preset": "jesus"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you believe in something you can't see? Come on!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "tome",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Thomas got home, and his friends were jumping for joy."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Thomas! We saw Jesus! He's alive!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "tome",
+     "texto": "Hmm... I'll only believe it if I see with my own eyes!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "tome",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Eight days later, with the door shut, Jesus appeared among them!"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Peace be with you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Thomas, come here. See my hands. You can believe!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "tome"
+   ],
+   "falas": [
+    {
+     "quem": "tome",
+     "texto": "My Lord and my God!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "You believed because you saw. Blessed are those who believe without seeing!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "tome",
+     "texto": "I believe! I believe! Jesus is truly alive!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "We can't see Jesus, but he is very close!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

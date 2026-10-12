@@ -1,0 +1,181 @@
+{
+ "historia_id": "davi-harpa",
+ "titulo": "David Plays the Harp for the King 🎶 | Bible Story for Kids #shorts",
+ "titulo_curto": "David plays the harp",
+ "referencia": "1 Samuel 16",
+ "descricao": "King Saul was restless and had no peace. Young David plays his harp in the palace, and the king calms down! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 16\n💛 Lesson: we can use our gifts to help others.",
+ "tags": [
+  "david harp",
+  "david and saul",
+  "music in the bible",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "our gifts help others",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "saul": {
+   "preset": "saul"
+  },
+  "soldado": {
+   "preset": "soldado"
+  },
+  "davi": {
+   "preset": "davi"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you like music? Ting, ting, ting!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "nublado",
+   "personagens": [
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "King Saul was very sad and restless."
+    },
+    {
+     "quem": "saul",
+     "texto": "Oh dear! I can't find peace!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "nublado",
+   "personagens": [
+    "soldado",
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "soldado",
+     "texto": "King, I know a boy who plays the harp beautifully!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "saul",
+     "texto": "Then bring this boy here!"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "davi",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "David was in the field, playing for the little sheep."
+    },
+    {
+     "quem": "davi",
+     "texto": "Ting, ting! This music is for God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baaaa!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "davi",
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "David went to the palace and played his harp."
+    },
+    {
+     "quem": "davi",
+     "texto": "Ting, ting, tong...",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And King Saul slowly calmed down."
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "saul",
+    "davi"
+   ],
+   "falas": [
+    {
+     "quem": "saul",
+     "texto": "What lovely music! I already feel better!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "saul",
+     "texto": "Stay here with me, David!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "We can use our gifts to help others!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

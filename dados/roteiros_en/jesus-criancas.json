@@ -1,0 +1,179 @@
+{
+ "historia_id": "jesus-criancas",
+ "titulo": "Jesus Loves the Little Children 🧒 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jesus Loves Children",
+ "referencia": "Mark 10",
+ "descricao": "Mothers bring their children to Jesus, and he opens his arms to welcome them! Mel the little sheep tells this story for kids ages 3 to 6.\n\n📖 Reference: Mark 10\n💛 Lesson: Jesus loves you and always has time for you.",
+ "tags": [
+  "Jesus and the children",
+  "let the children come",
+  "kids story",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Jesus loves children",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "menino": {
+   "preset": "menino"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you know who loves children a lot?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "mulher",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The mothers took the children to see Jesus."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Come, little ones! Jesus will bless you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "Yay! I want to see Jesus!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "pedro",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "pedro",
+     "texto": "Shh! Children, not now. Jesus is busy!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "menino",
+     "texto": "Oh no... We wanted it so much!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But Jesus saw everything and was not happy."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Let the children come to me! Don't send them away!",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Oops! Okay, Master!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "jesus",
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The children ran, zoom! Jesus hugged every one."
+    },
+    {
+     "quem": "menina",
+     "texto": "Jesus, do you like me?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jesus",
+     "texto": "I like you very much! God's kingdom belongs to those like you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menino",
+     "texto": "Yay! Jesus loves me!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus always has time for you. He loves you so much!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

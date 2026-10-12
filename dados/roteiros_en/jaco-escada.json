@@ -1,0 +1,177 @@
+{
+ "historia_id": "jaco-escada",
+ "titulo": "Jacob's Ladder 🪜 | Bible Story for Kids #shorts",
+ "titulo_curto": "Jacob's Ladder",
+ "referencia": "Genesis 28",
+ "descricao": "Jacob sleeps on a rock in the middle of his trip and dreams of a ladder to heaven, with angels going up and down. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 28\n💛 Lesson: God is with us everywhere, even when we sleep.",
+ "tags": [
+  "Jacob",
+  "Jacob's ladder",
+  "Jacob's dream",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God is always with us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jaco": {
+   "preset": "jaco"
+  },
+  "anjo": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A ladder all the way to heaven? Wow! Come see!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jacob was traveling far away from home."
+    },
+    {
+     "quem": "jaco",
+     "texto": "Phew, so tired! It's getting dark.",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "He took a rock and used it as a pillow."
+    },
+    {
+     "quem": "jaco",
+     "texto": "Good night, little stars!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And he slept... zzz, zzz!"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jacob dreamed of a ladder to heaven!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Angels went up and down, nice and slow."
+    },
+    {
+     "quem": "anjo",
+     "texto": "La, la, la!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Jacob, I am with you."
+    },
+    {
+     "quem": "deus",
+     "texto": "I will take care of you everywhere."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the morning, Jacob woke up so happy."
+    },
+    {
+     "quem": "jaco",
+     "texto": "God is here! And I didn't even know!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "jaco",
+     "texto": "Thank you, God, for caring for me!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God is with you everywhere, even when you sleep!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

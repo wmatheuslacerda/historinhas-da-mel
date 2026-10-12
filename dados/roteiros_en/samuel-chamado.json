@@ -1,0 +1,162 @@
+{
+ "historia_id": "samuel-chamado",
+ "titulo": "Samuel Hears God's Voice 🌙 | Bible Story for Kids #shorts",
+ "titulo_curto": "Samuel hears God",
+ "referencia": "1 Samuel 3",
+ "descricao": "At night, young Samuel hears someone call his name. It was God! And Samuel answers: speak, Lord! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 3\n💛 Lesson: Children can hear God.",
+ "tags": [
+  "samuel",
+  "samuel is called",
+  "speak lord",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Children can hear God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "samuel_menino": {
+   "preset": "samuel_menino"
+  },
+  "eli": {
+   "preset": "eli"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shhh! Someone is calling at night!",
+     "emocao": "feliz",
+     "acao": "nenhuma"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "samuel_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Young Samuel lived in the temple, helping old Eli."
+    },
+    {
+     "quem": "narrador",
+     "texto": "One night, he was sleeping, and he heard:"
+    },
+    {
+     "quem": "deus",
+     "texto": "Samuel! Samuel!"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "samuel_menino",
+    "eli"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Samuel ran to Eli's bed. Thud, thud, thud!"
+    },
+    {
+     "quem": "samuel_menino",
+     "texto": "I'm here, Eli! Did you call me?",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "eli",
+     "texto": "I didn't call, my son. Go back to sleep."
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "noite",
+   "personagens": [
+    "eli",
+    "samuel_menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It happened again, and again! Three times!"
+    },
+    {
+     "quem": "eli",
+     "texto": "Ah! It's God calling you!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "eli",
+     "texto": "Answer: speak, Lord, your servant is listening!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "samuel_menino"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Samuel! Samuel!"
+    },
+    {
+     "quem": "samuel_menino",
+     "texto": "Speak, Lord, I'm listening!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And God talked with young Samuel."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Children can hear and talk with God too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

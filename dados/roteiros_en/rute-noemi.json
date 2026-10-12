@@ -1,0 +1,167 @@
+{
+ "historia_id": "rute-noemi",
+ "titulo": "Ruth and Naomi 💕 | Bible Story for Kids #shorts",
+ "titulo_curto": "Ruth and Naomi",
+ "referencia": "Ruth 1",
+ "descricao": "Ruth won't leave her mother-in-law Naomi and promises: where you go, I will go, and your God will be my God! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Ruth 1\n💛 Lesson: A true friend never leaves.",
+ "tags": [
+  "ruth and naomi",
+  "ruth",
+  "friendship in the bible",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "A true friend never leaves",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "rute": {
+   "preset": "rute"
+  },
+  "noemi": {
+   "preset": "noemi"
+  },
+  "orfa": {
+   "preset": "mulher",
+   "nome": "Orfa"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today's story is about a faithful friend!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "nublado",
+   "personagens": [
+    "noemi",
+    "rute",
+    "orfa"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Naomi lived far from home, with her daughters-in-law, Ruth and Orpah."
+    },
+    {
+     "quem": "noemi",
+     "texto": "I'm going back to my land, Bethlehem.",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "noemi",
+    "orfa"
+   ],
+   "falas": [
+    {
+     "quem": "noemi",
+     "texto": "My dears, go back to your mothers' homes."
+    },
+    {
+     "quem": "orfa",
+     "texto": "Bye, Naomi! I'll miss you!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Orpah gave her a kiss and went back."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "rute",
+    "noemi"
+   ],
+   "falas": [
+    {
+     "quem": "rute",
+     "texto": "I won't leave you, Naomi!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "rute",
+     "texto": "Where you go, I will go. Your God will be my God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "noemi",
+     "texto": "Oh, Ruth! How sweet!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "rute",
+    "noemi"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And the two arrived in Bethlehem together."
+    },
+    {
+     "quem": "noemi",
+     "texto": "Thank you for staying with me, Ruth!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "rute",
+     "texto": "Together, with God!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "A true friend never leaves. And God never leaves you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

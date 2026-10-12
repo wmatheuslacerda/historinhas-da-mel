@@ -1,0 +1,166 @@
+{
+ "historia_id": "ultima-ceia",
+ "titulo": "Supper with Friends 🍞 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Last Supper",
+ "referencia": "Luke 22",
+ "descricao": "Jesus had supper with his friends, shared the bread and the cup, and asked: do this to remember me. An Easter story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 22\n💛 Lesson: Remember Jesus' love.",
+ "tags": [
+  "last supper",
+  "the last supper",
+  "easter for kids",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "Remember Jesus' love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today there's a very special dinner!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "personagens": [
+    "pedro",
+    "joao",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It was the Passover feast. Jesus sent Peter and John to prepare supper."
+    },
+    {
+     "quem": "homem",
+     "texto": "You can use the upstairs room!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Thank you! We'll get everything ready!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "That night, Jesus sat at the table with his friends."
+    },
+    {
+     "quem": "jesus",
+     "texto": "I really wanted to eat this Passover with you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus took the bread, thanked God, and broke it."
+    },
+    {
+     "quem": "jesus",
+     "texto": "This is my body, given for you. Do this to remember me.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then he took the cup and passed it to everyone."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "pedro",
+    "joao",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "joao",
+     "texto": "We'll never forget, Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Thank you for your love!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you remember the supper, remember: Jesus loves you so much!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

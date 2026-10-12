@@ -1,0 +1,165 @@
+{
+ "historia_id": "salmo-pastor",
+ "titulo": "The Lord Is My Shepherd 🐑 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Lord is my shepherd",
+ "referencia": "Psalm 23",
+ "descricao": "With little shepherd David and his sheep, Mel tells Psalm 23: God takes care of us like a good shepherd takes care of sheep. A story for kids ages 3 to 6.\n\n📖 Reference: Psalm 23\n💛 Lesson: God is my shepherd.",
+ "tags": [
+  "psalm 23",
+  "the lord is my shepherd",
+  "good shepherd",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "God is my shepherd",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "davi": {
+   "preset": "davi"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "I'm a little sheep! Do you know who takes care of me?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "davi",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "David was a shepherd and made a song for God."
+    },
+    {
+     "quem": "davi",
+     "texto": "The Lord is my shepherd! I shall not want!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "davi",
+    "ovelhinha",
+    "ovelha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A good shepherd leads the sheep to green grass."
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa! It feels so good to rest here!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "davi",
+     "texto": "God lets me rest too!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "davi",
+    "ovelha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And he leads the sheep to cool, fresh water. Gulp!"
+    },
+    {
+     "quem": "ovelha",
+     "texto": "Baa! Thank you, shepherd!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "davi",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "When the path gets dark, the shepherd is close by."
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa... it's dark!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "davi",
+     "texto": "Don't be afraid! God is with me!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Yay! Then I feel calm!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God is your good shepherd and always takes care of you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

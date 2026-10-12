@@ -1,0 +1,167 @@
+{
+ "historia_id": "elias-fogo",
+ "titulo": "Elijah and the Fire from Heaven 🔥 | Bible Story for Kids #shorts",
+ "titulo_curto": "Elijah and the fire",
+ "referencia": "1 Kings 18",
+ "descricao": "On Mount Carmel, the prophets of Baal shout and nothing happens, but Elijah prays calmly and God answers with fire from heaven. A story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Kings 18\n💛 Lesson: there is only one true God, and He hears our prayers.",
+ "tags": [
+  "elijah",
+  "mount carmel",
+  "fire from heaven",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "God hears our prayers",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "elias": {
+   "preset": "elias"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Profeta de Baal"
+  },
+  "idoso": {
+   "preset": "idoso"
+  },
+  "mulher": {
+   "preset": "mulher"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Today there's a challenge on top of a mountain!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "elias",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The people were forgetting God. Elijah set up a test."
+    },
+    {
+     "quem": "elias",
+     "texto": "You call your god. I'll call the Lord!"
+    },
+    {
+     "quem": "elias",
+     "texto": "The one who sends fire is the true God!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "personagens": [
+    "homem",
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "Baal! Baal! Answer us! Hey, Baal!",
+     "emocao": "bravo",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They shouted all day... and nothing! Silence."
+    },
+    {
+     "quem": "elias",
+     "texto": "Is he sleeping?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Elijah even poured lots of water on the altar. Splash!"
+    },
+    {
+     "quem": "elias",
+     "texto": "Lord, show that You alone are God!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And the fire came down from heaven! Whoosh! It dried up even the water!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "idoso",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "idoso",
+     "texto": "The Lord is God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "mulher",
+     "texto": "The Lord is God!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "There is only one true God, and He hears you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

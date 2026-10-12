@@ -1,0 +1,186 @@
+{
+ "historia_id": "entrada-jerusalem",
+ "titulo": "Hosanna! Jesus on a Donkey 🌿 | Bible Story for Kids #shorts",
+ "titulo_curto": "Hosanna! Jesus, Donkey",
+ "referencia": "Matthew 21",
+ "descricao": "Jesus came to Jerusalem riding a little donkey, and the people waved branches shouting hosanna! An Easter story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 21\n💛 Lesson: Jesus is the King, and we can praise him with joy.",
+ "tags": [
+  "hosanna",
+  "Palm Sunday",
+  "Easter for kids",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Jesus is our King",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "jumento": {
+   "preset": "jumento"
+  },
+  "menino": {
+   "preset": "menino",
+   "acessorio": "ramo"
+  },
+  "menina": {
+   "preset": "menina",
+   "acessorio": "ramo"
+  },
+  "pedro": {
+   "preset": "pedro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Grab a branch, it's party time!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus was coming to the big city of Jerusalem."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Bring me that little donkey.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Here you are, Master! Nice and gentle!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus rode the little donkey. Clip-clop, clip-clop!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The people spread cloaks and branches on the ground."
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "menino",
+    "menina",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "menino",
+     "texto": "Hosanna! Blessed is he who comes in the Lord's name!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "menina",
+     "texto": "Hosanna! Look, it's our King!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Everybody waved their branches, so happy!"
+    },
+    {
+     "quem": "jesus",
+     "texto": "Thank you, little ones!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "menino",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Even in the temple the children kept singing! Jesus loved it."
+    },
+    {
+     "quem": "menino",
+     "texto": "Hosanna! Hosanna!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "menina",
+     "texto": "Jesus is the King!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus is our King. Let's praise him with joy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

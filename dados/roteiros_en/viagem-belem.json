@@ -1,0 +1,178 @@
+{
+ "historia_id": "viagem-belem",
+ "titulo": "The Trip to Bethlehem 🫏 | Christmas Bible Story #shorts",
+ "titulo_curto": "The trip to Bethlehem",
+ "referencia": "Luke 2",
+ "descricao": "Mary and Joseph take a long trip to Bethlehem, but find no room at the inn. God prepares a simple place full of love! Told by Mel the little sheep.\n\n📖 Reference: Luke 2\n💛 Lesson: God cares about every detail.",
+ "tags": [
+  "journey to bethlehem",
+  "mary and joseph",
+  "christmas",
+  "christmas story",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God cares about every detail",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "jose": {
+   "preset": "jose_carpinteiro"
+  },
+  "jumento": {
+   "preset": "jumento"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shall we take a trip to Bethlehem?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "jose",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The king ordered everyone to sign up in their hometown."
+    },
+    {
+     "quem": "jose",
+     "texto": "Mary, we need to go to Bethlehem!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "maria",
+     "texto": "Let's go, Joseph! God will take care of us.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "maria",
+    "jose",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It was a long, long trip! Clip-clop, clip-clop!"
+    },
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw! Are we there yet?",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "jose",
+     "texto": "We're almost there, buddy!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "jose",
+    "homem",
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Bethlehem was full of people. Knock, knock, knock!"
+    },
+    {
+     "quem": "jose",
+     "texto": "Do you have a little room for us? The baby is coming!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "homem",
+     "texto": "I'm sorry, everything is full!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "estabulo",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "maria",
+    "jose",
+    "jumento"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "So they stayed in a simple place, with the animals."
+    },
+    {
+     "quem": "maria",
+     "texto": "It's nice and warm here. God took care of us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jumento",
+     "texto": "Hee-haw! Welcome!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God cares about every detail of our lives!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "historia_id": "agua-rocha",
+ "titulo": "Water from the Rock! 💧 | Bible Story for Kids #shorts",
+ "titulo_curto": "Water from the rock",
+ "referencia": "Exodus 17",
+ "descricao": "In the hot desert the people were thirsty. God told Moses to hit the rock, and fresh water came out! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 17\n💛 Lesson: when you need something, ask God, because He takes care of you.",
+ "tags": [
+  "water from the rock",
+  "moses",
+  "desert miracle",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God cares when we ask",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Did you know a rock can give water?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "menina",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The sun was hot, and the people were thirsty."
+    },
+    {
+     "quem": "menina",
+     "texto": "Oh, I'm so thirsty! My mouth is dry!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "homem",
+     "texto": "Moses, where is the water?",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses went to talk to God."
+    },
+    {
+     "quem": "moises",
+     "texto": "God, what do I do with these people?",
+     "emocao": "triste"
+    },
+    {
+     "quem": "deus",
+     "texto": "Hit the rock with your staff."
+    },
+    {
+     "quem": "deus",
+     "texto": "I will be there at the rock with you."
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses raised his staff and... knock!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Fresh water came out of the rock! Glug, glug, splash!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "menina",
+    "homem",
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "menina",
+     "texto": "What yummy water! Thank you, God!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "There's water for everyone!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "moises",
+     "texto": "God never forgets us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When you need something, ask God. He takes care of you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

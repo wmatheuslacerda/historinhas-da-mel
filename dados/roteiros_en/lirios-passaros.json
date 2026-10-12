@@ -1,0 +1,168 @@
+{
+ "historia_id": "lirios-passaros",
+ "titulo": "The Little Birds and the Flowers 🌸 | Bible Story #shorts",
+ "titulo_curto": "Lilies and little birds",
+ "referencia": "Matthew 6",
+ "descricao": "Jesus pointed to the birds and the flowers of the field to teach that God takes care of everything, and of you too! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Matthew 6\n💛 Lesson: No need to worry: God takes care of you.",
+ "tags": [
+  "lilies of the field",
+  "birds of the air",
+  "do not worry",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "God takes care of you",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pomba": {
+   "preset": "pomba"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "pedro": {
+   "preset": "pedro"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Let's walk in the field with Jesus!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Many people were worried. Jesus sat on the hill to teach."
+    },
+    {
+     "quem": "menina",
+     "texto": "Jesus, what if we run out of food? Or clothes?",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pomba",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Look at the birds! They don't plant or store food.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet, tweet, tweet!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "jesus",
+     "texto": "And your Father in heaven feeds them!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "jesus",
+     "texto": "Look at the flowers! They don't sew clothes.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "menina",
+     "texto": "But they're so pretty and colorful!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "jesus",
+     "texto": "God dresses the flowers. He cares even more for you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "menina",
+    "pomba"
+   ],
+   "falas": [
+    {
+     "quem": "menina",
+     "texto": "Then I don't need to worry!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "pomba",
+     "texto": "Tweet! God takes care of us!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "arco_iris",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of the birds, the flowers, and you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

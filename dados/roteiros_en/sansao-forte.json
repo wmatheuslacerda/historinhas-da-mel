@@ -1,0 +1,172 @@
+{
+ "historia_id": "sansao-forte",
+ "titulo": "Samson, the Strong Man 💪 | Bible Story for Kids #shorts",
+ "titulo_curto": "Samson, the strong man",
+ "referencia": "Judges 16",
+ "descricao": "Samson was super strong, but his strength came from God. When he lost it, he prayed, and God helped him again! Told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Judges 16\n💛 Lesson: Our strength comes from God.",
+ "tags": [
+  "samson",
+  "samson and delilah",
+  "strong man of the bible",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Our strength comes from God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "sansao": {
+   "preset": "sansao"
+  },
+  "dalila": {
+   "preset": "mulher",
+   "nome": "Dalila"
+  },
+  "soldado": {
+   "preset": "soldado"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you know who the strongest man was?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "sansao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Samson was super strong! But his strength came from God."
+    },
+    {
+     "quem": "sansao",
+     "texto": "My long hair shows I belong to God!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "dalila",
+    "sansao"
+   ],
+   "falas": [
+    {
+     "quem": "dalila",
+     "texto": "Samson, what's the secret of your strength?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "She asked and asked, until he told the secret."
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "sansao",
+    "dalila",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "While he slept, they cut his hair. Snip, snip!"
+    },
+    {
+     "quem": "sansao",
+     "texto": "Oh no! My strength is gone!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "soldado",
+     "texto": "Got you, Samson!",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "nublado",
+   "personagens": [
+    "sansao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Samson was jailed. But his hair kept growing..."
+    },
+    {
+     "quem": "sansao",
+     "texto": "Lord, remember me! Give me strength once more!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "sansao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God answered! Samson pushed the pillars with all his might. Crash!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "He learned: without God, we can't do anything."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Our true strength comes from God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

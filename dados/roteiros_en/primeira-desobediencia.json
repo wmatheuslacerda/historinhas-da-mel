@@ -1,0 +1,173 @@
+{
+ "historia_id": "primeira-desobediencia",
+ "titulo": "The Forbidden Fruit 🍎 | Bible Story for Kids #shorts",
+ "titulo_curto": "The forbidden fruit",
+ "referencia": "Genesis 3",
+ "descricao": "Adam and Eve disobey God and feel sad, but God keeps caring for them with love. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 3\n💛 Lesson: God loves us even when we make mistakes.",
+ "tags": [
+  "adam and eve",
+  "forbidden fruit",
+  "obedience",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God loves us even when we make mistakes",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "adao": {
+   "preset": "adao"
+  },
+  "eva": {
+   "preset": "eva"
+  },
+  "cobra": {
+   "preset": "cobra"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Have you ever done something you shouldn't? Come see!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "personagens": [
+    "adao",
+    "eva"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God said: you can eat from all the trees."
+    },
+    {
+     "quem": "narrador",
+     "texto": "But not from one tree. Not that one!"
+    },
+    {
+     "quem": "adao",
+     "texto": "Okay, God! We will obey!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "personagens": [
+    "eva",
+    "cobra"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "But a sneaky snake slithered up."
+    },
+    {
+     "quem": "cobra",
+     "texto": "Sssss... Go ahead, eat it! It's yummy!"
+    },
+    {
+     "quem": "eva",
+     "texto": "Hmm... should I?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "nublado",
+   "personagens": [
+    "adao",
+    "eva"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Eve ate the fruit and gave some to Adam. Munch!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then they felt sad and hid."
+    },
+    {
+     "quem": "adao",
+     "texto": "Oh no, we disobeyed...",
+     "emocao": "triste"
+    },
+    {
+     "quem": "eva",
+     "texto": "So sad...",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "adao",
+    "eva"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Adam, where are you?"
+    },
+    {
+     "quem": "narrador",
+     "texto": "God was sad, but he never stopped loving them."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He made warm little clothes for them."
+    },
+    {
+     "quem": "eva",
+     "texto": "Thank you, God!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even when we make mistakes, God keeps loving us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

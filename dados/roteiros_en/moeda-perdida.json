@@ -1,0 +1,161 @@
+{
+ "historia_id": "moeda-perdida",
+ "titulo": "The Lost Little Coin 🪙 | Bible Story for Kids #shorts",
+ "titulo_curto": "The lost coin",
+ "referencia": "Luke 15",
+ "descricao": "A woman lost one of her ten little coins and searched the whole house until she found it. A parable of Jesus. A Bible story A parable of Jesus told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Luke 15\n💛 Lesson: Every person is a treasure to God.",
+ "tags": [
+  "lost coin",
+  "parable",
+  "bible story",
+  "bible for kids",
+  "mel the sheep"
+ ],
+ "licao": "Heaven celebrates when someone comes back to God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "idosa": {
+   "preset": "idosa"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shall we play find the little coin?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus told another little story."
+    },
+    {
+     "quem": "jesus",
+     "texto": "A woman had ten silver coins.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "mulher",
+     "texto": "One, two, three... nine! Oh no, one is gone!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "She lit the lamp and grabbed the broom."
+    },
+    {
+     "quem": "mulher",
+     "texto": "I'll look in every corner!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "personagens": [
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Sweep under the table, swish, swish! Look behind the vase!"
+    },
+    {
+     "quem": "mulher",
+     "texto": "It's not here... or here...",
+     "emocao": "triste"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Look, there it is! Shining! Found it!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "mulher",
+    "idosa"
+   ],
+   "falas": [
+    {
+     "quem": "mulher",
+     "texto": "Neighbor, come celebrate! I found my coin!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "idosa",
+     "texto": "What joy! Let's celebrate!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Jesus said heaven has a party when someone comes back to God."
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You are a treasure to God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

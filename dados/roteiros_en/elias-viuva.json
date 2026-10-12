@@ -1,0 +1,163 @@
+{
+ "historia_id": "elias-viuva",
+ "titulo": "The Flour That Never Ran Out 🫓 | Bible Story for Kids #shorts",
+ "titulo_curto": "Flour That Never Ran Out",
+ "referencia": "1 Kings 17",
+ "descricao": "A widow shares the little she has with the prophet Elijah, and God makes the flour and oil never run out. A story about sharing and trust, told by Mel the little sheep.\n\n📖 Reference: 1 Kings 17\n💛 Lesson: when we share, God takes care of us.",
+ "tags": [
+  "elijah and the widow",
+  "widow of zarephath",
+  "flour and oil",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "share with joy",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "elias": {
+   "preset": "elias"
+  },
+  "mulher": {
+   "preset": "mulher",
+   "nome": "Viúva"
+  },
+  "menino": {
+   "preset": "menino"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know how to share? Look at this yummy surprise!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "elias",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "elias",
+     "texto": "Ma'am, could you give me water and a little bread?",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "mulher",
+     "texto": "I only have a little flour and oil.",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "elias",
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "elias",
+     "texto": "Do not be afraid! Make a little bread for me first."
+    },
+    {
+     "quem": "elias",
+     "texto": "God said: the flour and oil will not run out!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Okay! I'll trust God.",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "She made the bread. And look... there was still flour!"
+    },
+    {
+     "quem": "menino",
+     "texto": "Mom, the jar is full again!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "mulher",
+     "texto": "And the oil too! What a miracle from God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "elias",
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Every day there was food for everyone. Munch, munch!"
+    },
+    {
+     "quem": "menino",
+     "texto": "Thank you, God!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When we share, God takes care of us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

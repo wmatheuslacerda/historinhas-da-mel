@@ -1,0 +1,179 @@
+{
+ "historia_id": "fornalha",
+ "titulo": "The Three Friends in the Furnace 🔥 | Bible Story for Kids #shorts",
+ "titulo_curto": "Three Friends, Furnace",
+ "referencia": "Daniel 3",
+ "descricao": "Shadrach, Meshach, and Abednego refuse to bow to the king's statue, and God protects them in the furnace. A story about faithfulness and courage, told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Daniel 3\n💛 Lesson: God is with us in every situation.",
+ "tags": [
+  "fiery furnace",
+  "Shadrach Meshach Abednego",
+  "Daniel 3",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God is always with us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "sadraque": {
+   "preset": "sadraque"
+  },
+  "mesaque": {
+   "preset": "mesaque"
+  },
+  "abednego": {
+   "preset": "abednego"
+  },
+  "nabucodonosor": {
+   "preset": "nabucodonosor"
+  },
+  "anjo": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Three friends, a giant statue, and a big surprise!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "nabucodonosor",
+    "sadraque",
+    "mesaque"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The king made a huge gold statue."
+    },
+    {
+     "quem": "nabucodonosor",
+     "texto": "Everyone must bow to it!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "sadraque",
+     "texto": "We only worship God!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "nabucodonosor",
+    "abednego",
+    "mesaque"
+   ],
+   "falas": [
+    {
+     "quem": "nabucodonosor",
+     "texto": "Then into the hot furnace you go!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "abednego",
+     "texto": "Our God can save us!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mesaque",
+     "texto": "And even so, we only worship him!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "fornalha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "sadraque",
+    "mesaque",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The three were put in the fire. Whoosh!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But they strolled inside, and someone else was with them!"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Don't be afraid. God is with you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "fornalha",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "nabucodonosor",
+    "sadraque",
+    "abednego"
+   ],
+   "falas": [
+    {
+     "quem": "nabucodonosor",
+     "texto": "Come out! Not even a smell of smoke!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "sadraque",
+     "texto": "God protected us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "nabucodonosor",
+     "texto": "Your God is wonderful!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God is with you everywhere!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

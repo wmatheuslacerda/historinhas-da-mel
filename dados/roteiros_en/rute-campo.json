@@ -1,0 +1,182 @@
+{
+ "historia_id": "rute-campo",
+ "titulo": "Ruth in Boaz's Field 🌾 | Bible Story for Kids #shorts",
+ "titulo_curto": "Ruth in the field",
+ "referencia": "Ruth 2",
+ "descricao": "Ruth gathers wheat to take care of Naomi, and Boaz, the owner of the field, is very kind to her! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Ruth 2\n💛 Lesson: Kindness spreads God's love.",
+ "tags": [
+  "ruth and boaz",
+  "ruth",
+  "kindness",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Kindness spreads God's love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "rute": {
+   "preset": "rute"
+  },
+  "noemi": {
+   "preset": "noemi"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Trabalhador"
+  },
+  "boaz": {
+   "tipo": "humano",
+   "idade": "adulto",
+   "nome": "Boaz",
+   "voz": "homem",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#2e6b8a",
+   "roupa2": "#e8d9b0",
+   "manto": true
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Shall we pick wheat in the field?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "rute",
+    "boaz",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Ruth picked up the little stalks that fell on the ground."
+    },
+    {
+     "quem": "narrador",
+     "texto": "The owner of the field came. It was Boaz!"
+    },
+    {
+     "quem": "boaz",
+     "texto": "Who is that hard-working girl?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "homem",
+     "texto": "It's Ruth, who takes care of her mother-in-law Naomi."
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "boaz",
+    "rute"
+   ],
+   "falas": [
+    {
+     "quem": "boaz",
+     "texto": "Ruth, stay in my field. You're safe here!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "rute",
+     "texto": "Why are you so kind to me?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "boaz",
+     "texto": "Because you take care of Naomi with love!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "homem",
+    "rute"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Boaz told them to drop more stalks on purpose! Hee!"
+    },
+    {
+     "quem": "homem",
+     "texto": "Oops! Another one fell!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "noemi",
+    "rute"
+   ],
+   "falas": [
+    {
+     "quem": "noemi",
+     "texto": "So much wheat! God sent someone kind!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "rute",
+     "texto": "It was Boaz! He is so kind!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Being kind spreads God's love!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

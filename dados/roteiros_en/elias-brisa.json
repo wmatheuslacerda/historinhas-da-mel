@@ -1,0 +1,154 @@
+{
+ "historia_id": "elias-brisa",
+ "titulo": "God Speaks in the Breeze 🍃 | Bible Story for Kids #shorts",
+ "titulo_curto": "God speaks in the breeze",
+ "referencia": "1 Kings 19",
+ "descricao": "Tired, the prophet Elijah rests and gets food from an angel. Then, on the mountain, he learns that God speaks in a gentle whisper. A story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Kings 19\n💛 Lesson: God speaks to us gently; we just have to pay attention.",
+ "tags": [
+  "elijah",
+  "gentle breeze",
+  "voice of god",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "listen to God's gentle voice",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "elias": {
+   "preset": "elias"
+  },
+  "anjo": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "nublado",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Shhh... Shall we be quiet? Someone is speaking softly!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "elias",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Elijah was very tired. He lay down and slept."
+    },
+    {
+     "quem": "anjo",
+     "texto": "Get up, Elijah! Eat this warm bread.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "elias",
+     "texto": "Mmm, so yummy! Thank you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then Elijah climbed a mountain. A strong wind came. Whoosh!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "But God was not in the wind."
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "nublado",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then the earth shook. Rumble, rumble! Then came a fire."
+    },
+    {
+     "quem": "narrador",
+     "texto": "But God was not there either."
+    },
+    {
+     "quem": "elias",
+     "texto": "Where could God be? Hmm...",
+     "emocao": "surpreso",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "montanha",
+   "periodo": "tarde",
+   "efeito": "luz",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then came a gentle breeze, so fresh..."
+    },
+    {
+     "quem": "deus",
+     "texto": "Elijah, what are you doing here?"
+    },
+    {
+     "quem": "elias",
+     "texto": "It's God! He speaks so gently!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Be quiet and pray. God speaks with love!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

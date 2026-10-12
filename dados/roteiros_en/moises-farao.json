@@ -1,0 +1,166 @@
+{
+ "historia_id": "moises-farao",
+ "titulo": "Let My People Go! 👑 | Bible Story for Kids #shorts",
+ "titulo_curto": "Let my people go!",
+ "referencia": "Exodus 5",
+ "descricao": "Moses and Aaron go to the palace to ask Pharaoh to free God's people. The king says no, but God promises to act! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 5\n💛 Lesson: even when it takes time, God keeps his promises.",
+ "tags": [
+  "moses and aaron",
+  "moses and pharaoh",
+  "let my people go",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God keeps his promises",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "arao": {
+   "preset": "arao"
+  },
+  "farao": {
+   "preset": "farao"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today two brothers will talk to a king!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "dia",
+   "personagens": [
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God's people worked hard in Egypt, making bricks."
+    },
+    {
+     "quem": "homem",
+     "texto": "Phew, so tired! Brick, brick, brick!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "tarde",
+   "personagens": [
+    "moises",
+    "arao"
+   ],
+   "falas": [
+    {
+     "quem": "moises",
+     "texto": "Aaron, let's go talk to Pharaoh together!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "arao",
+     "texto": "Let's go! God sent us, and God will help!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "moises",
+    "arao",
+    "farao"
+   ],
+   "falas": [
+    {
+     "quem": "moises",
+     "texto": "Pharaoh, God says: let my people go!"
+    },
+    {
+     "quem": "farao",
+     "texto": "Who is this God? I will not let them go!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "farao",
+     "texto": "Back to work, right now!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "arao",
+     "texto": "Oh my, Pharaoh got angry!",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses felt sad and went to talk to God."
+    },
+    {
+     "quem": "deus",
+     "texto": "Now you will see what I will do!"
+    },
+    {
+     "quem": "moises",
+     "texto": "Thank you, God! I trust you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even when it takes time, God keeps his promises!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

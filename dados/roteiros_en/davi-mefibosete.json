@@ -1,0 +1,168 @@
+{
+ "historia_id": "davi-mefibosete",
+ "titulo": "David and Mephibosheth 🍞 | Bible Story for Kids #shorts",
+ "titulo_curto": "David and Mephibosheth",
+ "referencia": "2 Samuel 9",
+ "descricao": "King David remembers his best friend Jonathan and lovingly cares for his son, Mephibosheth, who could not walk. A story about kindness and friendship, told by Mel the little sheep.\n\n📖 Reference: 2 Samuel 9\n💛 Lesson: God wants us to be kind to everyone.",
+ "tags": [
+  "david and mephibosheth",
+  "king david",
+  "kindness",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "be kind like David",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "davi_rei": {
+   "preset": "davi_rei"
+  },
+  "homem": {
+   "preset": "homem",
+   "nome": "Ziba"
+  },
+  "mefibosete": {
+   "tipo": "humano",
+   "nome": "Mefibosete",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "cacheado",
+   "barba": "curta",
+   "roupa": "#6a8caf",
+   "roupa2": "#e8d9b0",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": false
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know what a king did for his friend's son?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "davi_rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "King David missed his friend Jonathan."
+    },
+    {
+     "quem": "davi_rei",
+     "texto": "Does anyone in Jonathan's family need help?",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "davi_rei",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "Yes, king! His son, Mephibosheth. He cannot walk.",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "davi_rei",
+     "texto": "Bring him here, please!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "davi_rei",
+    "mefibosete"
+   ],
+   "falas": [
+    {
+     "quem": "mefibosete",
+     "texto": "Hello, king... Did you call me?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "davi_rei",
+     "texto": "Do not be afraid! I want to be kind to you.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "davi_rei",
+     "texto": "You will eat at my table every day!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "davi_rei",
+    "mefibosete"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And so it was! Mephibosheth ate with the king, like a son."
+    },
+    {
+     "quem": "mefibosete",
+     "texto": "Yay! Thank you, King David!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God wants us to be kind to everyone!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

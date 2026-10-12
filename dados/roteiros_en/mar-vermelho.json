@@ -1,0 +1,178 @@
+{
+ "historia_id": "mar-vermelho",
+ "titulo": "The Sea Opens! 🌊 | Bible Story for Kids #shorts",
+ "titulo_curto": "The sea opens",
+ "referencia": "Exodus 14",
+ "descricao": "God's people are stuck between the sea and Pharaoh's soldiers. Then God opens the sea and everyone walks on dry ground! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Exodus 14\n💛 Lesson: when there seems to be no way out, God opens a path.",
+ "tags": [
+  "red sea",
+  "moses parts the sea",
+  "crossing the sea",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the sheep"
+ ],
+ "licao": "God opens paths",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "moises": {
+   "preset": "moises"
+  },
+  "menina": {
+   "preset": "menina"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Do you think a sea can open?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "menina"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God's people left Egypt, so happy!"
+    },
+    {
+     "quem": "menina",
+     "texto": "But look! Here come Pharaoh's soldiers!",
+     "emocao": "assustado"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "tarde",
+   "personagens": [
+    "homem",
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "Now what? There's a big sea ahead!",
+     "emocao": "assustado",
+     "acao": "tremer"
+    },
+    {
+     "quem": "moises",
+     "texto": "Don't be afraid! God will fight for us!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "noite",
+   "efeito": "brilhos",
+   "personagens": [
+    "moises"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Moses raised his staff. A wind blew all night. Whoosh!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The sea opened in the middle! Two walls of water!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "menina",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "menina",
+     "texto": "Wow! The ground is dry!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "homem",
+     "texto": "Come on, everybody, keep walking!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "moises",
+    "menina",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then the water came back. Splash! The people were safe."
+    },
+    {
+     "quem": "moises",
+     "texto": "Thank you, God! You saved us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "menina",
+     "texto": "Hooray! Hooray!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "When there's no way out, God opens a path!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

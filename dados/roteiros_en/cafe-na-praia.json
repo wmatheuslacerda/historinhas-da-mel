@@ -1,0 +1,162 @@
+{
+ "historia_id": "cafe-na-praia",
+ "titulo": "Breakfast on the Beach with Jesus 🐟 | Bible Story for Kids #shorts",
+ "titulo_curto": "Breakfast on the beach",
+ "referencia": "John 21",
+ "descricao": "The disciples fish all night and catch nothing. Then Jesus appears on the beach with advice and a warm breakfast! A story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: John 21\n💛 Lesson: Jesus cares for us with love.",
+ "tags": [
+  "breakfast on the beach",
+  "miraculous catch",
+  "easter",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Jesus cares for us with love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "joao": {
+   "preset": "joao"
+  },
+  "jesus": {
+   "preset": "jesus"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Mmm, what a yummy grilled fish smell! Where is it from?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter and his friends fished all night long."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Not one little fish! The net is empty!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the morning, a man called from the beach."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Throw the net on the right side of the boat!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Splash! The net was so full they could hardly pull it up!"
+    },
+    {
+     "quem": "joao",
+     "texto": "It's the Lord! It's Jesus!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "pedro"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter didn't wait. He jumped in, splash, and swam to the beach!",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the sand was a fire, with fish and bread."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Come and have breakfast!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "So yummy, Jesus! Thank you!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Jesus cares for you with so much love!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "historia_id": "anjo-maria",
+ "titulo": "The Angel Visits Mary 👼 | Christmas Bible Story for Kids #shorts",
+ "titulo_curto": "The angel and Mary",
+ "referencia": "Luke 1",
+ "descricao": "The angel Gabriel visits Mary in Nazareth with amazing news: she will be the mother of Jesus! A Christmas story told by Mel the little sheep for little ones.\n\n📖 Reference: Luke 1\n💛 Lesson: nothing is impossible with God.",
+ "tags": [
+  "angel gabriel",
+  "mary mother of jesus",
+  "christmas",
+  "christmas story",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "nothing is impossible with God",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "maria": {
+   "preset": "maria"
+  },
+  "anjo": {
+   "preset": "anjo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! An angel brought very special news!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Mary was a young woman who loved God."
+    },
+    {
+     "quem": "narrador",
+     "texto": "One day, an angel named Gabriel appeared. Ping!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "maria",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "anjo",
+     "texto": "Rejoice, Mary! God is with you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "maria",
+     "texto": "Oh! An angel here in my house?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Do not be afraid! You will have a baby.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "anjo",
+     "texto": "His name will be Jesus, the Son of God!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "maria",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "maria",
+     "texto": "But how will this happen?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Nothing is impossible with God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "maria",
+     "texto": "I am the Lord's servant. May it be so!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "maria"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The angel left. And Mary's heart was full of joy."
+    },
+    {
+     "quem": "maria",
+     "texto": "Thank you, God! What a wonderful gift!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "estrelas",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Nothing is impossible with God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

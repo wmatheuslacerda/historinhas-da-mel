@@ -1,0 +1,180 @@
+{
+ "historia_id": "pescadores",
+ "titulo": "Jesus and the Fishermen 🎣 | Bible Story #shorts",
+ "titulo_curto": "The fishermen",
+ "referencia": "Matthew 4",
+ "descricao": "Jesus calls the fishermen Peter, Andrew, James and John to follow him, and they leave everything right away! A Bible story told by Mel the little sheep.\n\n📖 Reference: Matthew 4\n💛 Lesson: Following Jesus is the best choice.",
+ "tags": [
+  "fishers of men",
+  "peter and andrew",
+  "disciples of jesus",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Following Jesus is the best choice",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jesus": {
+   "preset": "jesus"
+  },
+  "pedro": {
+   "preset": "pedro"
+  },
+  "andre": {
+   "preset": "andre"
+  },
+  "tiago": {
+   "preset": "tiago"
+  },
+  "joao": {
+   "preset": "joao"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today Jesus will make new friends!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "personagens": [
+    "pedro",
+    "andre"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Peter and Andrew were brothers. They were fishermen."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Throw the net, Andrew! One, two, three!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "andre",
+     "texto": "Splash! Let's see if fish come!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "andre"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jesus walked by, right at the seashore."
+    },
+    {
+     "quem": "jesus",
+     "texto": "Come with me! I'll make you fishers of men!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "pedro",
+     "texto": "Fishers of men? How cool!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Right away, they dropped their nets and went!"
+    }
+   ]
+  },
+  {
+   "cenario": "barco",
+   "periodo": "tarde",
+   "personagens": [
+    "tiago",
+    "joao",
+    "jesus"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Farther along, James and John were fixing nets in the boat."
+    },
+    {
+     "quem": "jesus",
+     "texto": "You come too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "joao",
+     "texto": "Let's go, James! Let's go with Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "jesus",
+    "pedro",
+    "joao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And all followed Jesus, happy as can be."
+    },
+    {
+     "quem": "pedro",
+     "texto": "Now we are Jesus' friends!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Following Jesus is the best choice ever!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "historia_id": "daniel-leoes",
+ "titulo": "Daniel in the Lions' Den 🦁 | Bible Story for Kids #shorts",
+ "titulo_curto": "Daniel and the lions",
+ "referencia": "Daniel 6",
+ "descricao": "Daniel keeps praying even when the king makes a law against it. In the lions' den, God sends an angel to protect him! A Bible story told by Mel the little sheep.\n\n📖 Reference: Daniel 6\n💛 Lesson: whoever prays to God is never alone. God takes care of us.",
+ "tags": [
+  "daniel in the lions' den",
+  "daniel",
+  "lions",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God cares for those who pray to Him",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "daniel": {
+   "preset": "daniel"
+  },
+  "dario": {
+   "preset": "dario"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Did you know lions can be gentle?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "daniel"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Daniel loved God very much. He prayed three times a day."
+    },
+    {
+     "quem": "daniel",
+     "texto": "Thank you, God, for taking care of me!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "dario",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Some jealous men tricked King Darius."
+    },
+    {
+     "quem": "homem",
+     "texto": "King, make a law: no one can pray to God!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "narrador",
+     "texto": "The king signed it. But Daniel kept praying."
+    },
+    {
+     "quem": "dario",
+     "texto": "Oh no! Now Daniel will go to the lions' den!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [
+    "daniel",
+    "leao",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Daniel was put in the den, full of lions."
+    },
+    {
+     "quem": "narrador",
+     "texto": "But God sent an angel, who shut the lions' mouths!"
+    },
+    {
+     "quem": "leao",
+     "texto": "Grrr... so sleepy! Meow!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "daniel",
+     "texto": "Thank you, God! I am safe!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "dario",
+    "daniel"
+   ],
+   "falas": [
+    {
+     "quem": "dario",
+     "texto": "Daniel! Did your God take care of you?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "daniel",
+     "texto": "Yes, king! I don't have a single scratch!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "dario",
+     "texto": "Hooray! Daniel's God is the true God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Whoever prays to God is never alone!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

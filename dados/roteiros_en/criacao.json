@@ -1,0 +1,175 @@
+{
+ "historia_id": "criacao",
+ "titulo": "God Creates the World 🌍 | Bible Story for Kids #shorts",
+ "titulo_curto": "God creates the world",
+ "referencia": "Genesis 1",
+ "descricao": "God makes the light, the sky, the sea, the plants and the animals, and everything is very good! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 1\n💛 Lesson: everything God made is good, and He made it all with love.",
+ "tags": [
+  "creation of the world",
+  "genesis for kids",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God made everything with love",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "pomba": {
+   "preset": "pomba"
+  },
+  "leao": {
+   "preset": "leao"
+  },
+  "ovelhinha": {
+   "preset": "ovelhinha"
+  },
+  "adao": {
+   "preset": "adao"
+  },
+  "eva": {
+   "preset": "eva"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Do you know who made the sky, the sea and the animals?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "noite",
+   "efeito": "luz",
+   "personagens": [],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "In the beginning, everything was dark. Very dark."
+    },
+    {
+     "quem": "deus",
+     "texto": "Let there be light!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And... ping! The light shone bright!"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God made the blue sky and the big sea. Splash!"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Then He made the plants, the flowers and the trees."
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "pomba",
+    "leao",
+    "ovelhinha"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God made the sun, the moon and the stars."
+    },
+    {
+     "quem": "pomba",
+     "texto": "I can fly! Tweet, tweet!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "leao",
+     "texto": "And I can roar! Roar!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ovelhinha",
+     "texto": "Baa! I'm so fluffy!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "jardim",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "adao",
+    "eva"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Last of all, God made people, with great love."
+    },
+    {
+     "quem": "adao",
+     "texto": "What a beautiful world!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "eva",
+     "texto": "Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "narrador",
+     "texto": "God looked at everything and said: it is very good!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God made everything with love, and He made you too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

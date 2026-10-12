@@ -1,0 +1,197 @@
+{
+ "historia_id": "zacarias-mudo",
+ "titulo": "Zechariah Loses His Voice 🤐 | Christmas Bible Story #shorts",
+ "titulo_curto": "Zechariah loses voice",
+ "referencia": "Luke 1",
+ "descricao": "The priest Zechariah doesn't believe the angel and can't speak until baby John is born! A fun Bible story about trusting God's promises, told by Mel.\n\n📖 Reference: Luke 1\n💛 Lesson: God always keeps his promises.",
+ "tags": [
+  "zechariah",
+  "elizabeth",
+  "john the baptist",
+  "christmas",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God always keeps his promises",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "zacarias": {
+   "tipo": "humano",
+   "nome": "Zacarias",
+   "voz": "idoso",
+   "idade": "idoso",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "branco",
+   "estilo_cabelo": "curto",
+   "barba": "longa",
+   "roupa": "#f2efe6",
+   "roupa2": "#4a6fa5",
+   "cobertura": "faixa",
+   "acessorio": "nenhum",
+   "manto": true
+  },
+  "isabel": {
+   "tipo": "humano",
+   "nome": "Isabel",
+   "voz": "idosa",
+   "idade": "idoso",
+   "genero": "f",
+   "pele": "media",
+   "cabelo": "grisalho",
+   "estilo_cabelo": "coque",
+   "barba": "nenhuma",
+   "roupa": "#8e6bb0",
+   "roupa2": "#e8d9b5",
+   "cobertura": "veu",
+   "acessorio": "nenhum"
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "homem": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today a grandpa lost his voice! Why?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "zacarias",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Zechariah was serving God in the temple. An angel appeared!"
+    },
+    {
+     "quem": "anjo",
+     "texto": "Zechariah, your wife Elizabeth will have a baby. His name will be John!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "zacarias",
+     "texto": "A baby? But we are old!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "personagens": [
+    "zacarias",
+    "anjo"
+   ],
+   "falas": [
+    {
+     "quem": "anjo",
+     "texto": "You didn't believe. You won't speak until the baby is born."
+    },
+    {
+     "quem": "zacarias",
+     "texto": "Hmm! Hmm-hmm!",
+     "emocao": "surpreso",
+     "acao": "tremer"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Zechariah could only make signs. How funny!"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "isabel",
+    "zacarias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God kept his promise. Baby John was born!"
+    },
+    {
+     "quem": "isabel",
+     "texto": "What joy! God was so good to us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "zacarias",
+    "isabel",
+    "homem"
+   ],
+   "falas": [
+    {
+     "quem": "homem",
+     "texto": "What will the baby's name be?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Zechariah wrote on a little tablet: his name is John!"
+    },
+    {
+     "quem": "zacarias",
+     "texto": "Praise God! I can speak again!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God always does what he promises!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

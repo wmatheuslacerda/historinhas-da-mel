@@ -1,0 +1,167 @@
+{
+ "historia_id": "jose-farao",
+ "titulo": "Joseph and Pharaoh's Dreams 🐄 | Bible Story for Kids #shorts",
+ "titulo_curto": "Joseph and Pharaoh",
+ "referencia": "Genesis 41",
+ "descricao": "Pharaoh dreams of fat cows and skinny cows, and Joseph, with God's help, explains what the dream means. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 41\n💛 Lesson: everything good we know comes from God.",
+ "tags": [
+  "Joseph of Egypt",
+  "Pharaoh",
+  "fat and skinny cows",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God gives us wisdom",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jose": {
+   "preset": "jose"
+  },
+  "farao": {
+   "preset": "farao"
+  },
+  "servo": {
+   "preset": "homem"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Seven fat cows and seven skinny ones? What a dream!",
+     "emocao": "surpreso",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "farao"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Pharaoh, the king of Egypt, had a dream."
+    },
+    {
+     "quem": "farao",
+     "texto": "Seven fat cows... and seven skinny cows!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "farao",
+     "texto": "What could this mean?",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "personagens": [
+    "farao",
+    "servo"
+   ],
+   "falas": [
+    {
+     "quem": "farao",
+     "texto": "Can no one explain my dream?",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "servo",
+     "texto": "I know a young man named Joseph!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "farao",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "jose",
+     "texto": "I can't do it alone. But God knows!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "jose",
+     "texto": "Seven years of lots of food are coming.",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "jose",
+     "texto": "Then seven years of very little food.",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "egito",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "farao",
+    "jose"
+   ],
+   "falas": [
+    {
+     "quem": "jose",
+     "texto": "Let's save food now!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "farao",
+     "texto": "So wise! Joseph, you will take care of Egypt!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Joseph stored lots of wheat for everyone!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Everything good we know comes from God!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

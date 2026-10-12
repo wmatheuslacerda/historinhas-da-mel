@@ -1,0 +1,175 @@
+{
+ "historia_id": "jaco-esau-abraco",
+ "titulo": "The Brothers' Hug 🤗 | Bible Story for Kids #shorts",
+ "titulo_curto": "The Brothers' Hug",
+ "referencia": "Genesis 33",
+ "descricao": "After a long time away, Jacob comes home and meets his brother Esau, who runs to hug him. Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 33\n💛 Lesson: making peace is wonderful and makes God's heart glad.",
+ "tags": [
+  "Jacob and Esau",
+  "forgiveness",
+  "brothers",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Making peace",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jaco": {
+   "preset": "jaco"
+  },
+  "esau": {
+   "preset": "esau"
+  },
+  "ovelha": {
+   "preset": "ovelha"
+  },
+  "camelo": {
+   "preset": "camelo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Have you ever made up with someone? Come see this one!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "dia",
+   "personagens": [
+    "jaco",
+    "ovelha",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jacob lived many years far from his brother Esau."
+    },
+    {
+     "quem": "narrador",
+     "texto": "Now he was coming back home."
+    },
+    {
+     "quem": "jaco",
+     "texto": "Is Esau still upset with me?",
+     "emocao": "assustado",
+     "acao": "tremer"
+    }
+   ]
+  },
+  {
+   "cenario": "campo",
+   "periodo": "tarde",
+   "personagens": [
+    "jaco"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jacob prayed and asked God for help."
+    },
+    {
+     "quem": "jaco",
+     "texto": "God, help me make peace!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And he sent gifts: goats, sheep, and camels!"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "esau"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Suddenly, here came Esau, running!"
+    },
+    {
+     "quem": "esau",
+     "texto": "Jacob! Jacob! Is it really you?",
+     "emocao": "surpreso",
+     "acao": "pular"
+    },
+    {
+     "quem": "jaco",
+     "texto": "It's me, Esau!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "jaco",
+    "esau"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Esau gave a big, tight hug. Squeeze!"
+    },
+    {
+     "quem": "esau",
+     "texto": "I missed you, brother!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "jaco",
+     "texto": "I'm sorry, Esau!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "They both cried happy tears!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Making peace is so good! God loves to see it!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

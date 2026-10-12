@@ -1,0 +1,172 @@
+{
+ "historia_id": "davi-saul-caverna",
+ "titulo": "David Spares King Saul 🕯️ | Bible Story for Kids #shorts",
+ "titulo_curto": "David spares King Saul",
+ "referencia": "1 Samuel 24",
+ "descricao": "In a cave, David has the chance to hurt King Saul, but he chooses to do good and only cuts a little piece of his cloak! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 24\n💛 Lesson: even when someone is mean, choose to do good.",
+ "tags": [
+  "david and saul",
+  "david in the cave",
+  "doing good",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "choose to do good",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "davi_rei": {
+   "preset": "davi_rei",
+   "nome": "Davi"
+  },
+  "saul": {
+   "preset": "saul"
+  },
+  "soldado": {
+   "preset": "soldado",
+   "nome": "Amigo de Davi"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Today David makes a very kind choice!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "King Saul was looking for David in the desert."
+    },
+    {
+     "quem": "saul",
+     "texto": "Where could David be?",
+     "emocao": "bravo"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "dia",
+   "personagens": [
+    "davi_rei",
+    "soldado",
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "David and his friends were hiding in a cave."
+    },
+    {
+     "quem": "narrador",
+     "texto": "And King Saul came in all alone, seeing no one!"
+    },
+    {
+     "quem": "soldado",
+     "texto": "David, this is your chance!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "cova",
+   "periodo": "tarde",
+   "personagens": [
+    "davi_rei",
+    "soldado"
+   ],
+   "falas": [
+    {
+     "quem": "davi_rei",
+     "texto": "No! I will not hurt the king."
+    },
+    {
+     "quem": "narrador",
+     "texto": "David only cut a little piece of his cloak. Snip!"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "davi_rei",
+    "saul"
+   ],
+   "falas": [
+    {
+     "quem": "davi_rei",
+     "texto": "King Saul! Look at the piece of your cloak!"
+    },
+    {
+     "quem": "davi_rei",
+     "texto": "I could have hurt you, but I didn't."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "saul",
+    "davi_rei"
+   ],
+   "falas": [
+    {
+     "quem": "saul",
+     "texto": "David, you were kinder than me!",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "saul",
+     "texto": "May God bless you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Even when someone is mean, choose to do good!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

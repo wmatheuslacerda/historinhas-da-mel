@@ -1,0 +1,170 @@
+{
+ "historia_id": "ester-rainha",
+ "titulo": "Esther Becomes Queen 👑 | Bible Story for Kids #shorts",
+ "titulo_curto": "Esther Becomes Queen",
+ "referencia": "Esther 2",
+ "descricao": "Esther, raised lovingly by her cousin Mordecai, is chosen by the king to be queen, and God had a special plan for her. A story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Esther 2\n💛 Lesson: God has a lovely plan for your life.",
+ "tags": [
+  "Queen Esther",
+  "Mordecai",
+  "God's plan",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God has a plan for you",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "ester": {
+   "preset": "ester"
+  },
+  "mardoqueu": {
+   "preset": "mardoqueu"
+  },
+  "rei": {
+   "preset": "rei",
+   "nome": "Rei Assuero"
+  },
+  "mulher": {
+   "preset": "mulher",
+   "nome": "Ajudante do palácio"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Once upon a time, a girl became a real queen!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "personagens": [
+    "ester",
+    "mardoqueu"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Esther lived with her cousin Mordecai. He took good care of her."
+    },
+    {
+     "quem": "mardoqueu",
+     "texto": "Esther, always remember: God cares for you.",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ester",
+     "texto": "I know, cousin! Thank you!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "tarde",
+   "personagens": [
+    "ester",
+    "mulher"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "One day, the king was looking for a new queen."
+    },
+    {
+     "quem": "mulher",
+     "texto": "Come, Esther! The king wants to meet you!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ester",
+     "texto": "Me? What a surprise!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ester",
+    "rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Esther was kind, and everyone liked her."
+    },
+    {
+     "quem": "rei",
+     "texto": "You will be my queen! Put the crown on her!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ester",
+     "texto": "Wow! Thank you, my king!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "ester",
+    "mardoqueu"
+   ],
+   "falas": [
+    {
+     "quem": "mardoqueu",
+     "texto": "God has a special plan for you, Queen Esther!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "ester",
+     "texto": "I will trust him with all my heart!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God has a beautiful plan for you too!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

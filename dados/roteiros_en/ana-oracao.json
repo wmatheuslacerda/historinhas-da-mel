@@ -1,0 +1,172 @@
+{
+ "historia_id": "ana-oracao",
+ "titulo": "Hannah's Prayer 🙏 | Bible Story for Kids #shorts",
+ "titulo_curto": "Hannah's prayer",
+ "referencia": "1 Samuel 1",
+ "descricao": "Hannah wanted a little boy so much and told God everything in prayer. God answered with baby Samuel! A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: 1 Samuel 1\n💛 Lesson: you can tell God everything, because He always listens.",
+ "tags": [
+  "hannah and samuel",
+  "hannah's prayer",
+  "god hears prayer",
+  "bible story",
+  "bible for kids",
+  "kids story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "God hears our prayers",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "ana": {
+   "preset": "ana"
+  },
+  "eli": {
+   "preset": "eli"
+  },
+  "bebe": {
+   "tipo": "humano",
+   "idade": "bebe",
+   "nome": "Samuel bebê",
+   "voz": "menino",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "roupa": "#bfe3f5"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Did you know God hears our prayers?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "tarde",
+   "personagens": [
+    "ana"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Hannah wanted a baby so much. She felt sad."
+    },
+    {
+     "quem": "ana",
+     "texto": "I want a little boy so much...",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "tarde",
+   "personagens": [
+    "ana",
+    "eli"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Hannah went to the temple and prayed very softly."
+    },
+    {
+     "quem": "ana",
+     "texto": "God, please give me a son? He will be Yours!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "eli",
+     "texto": "What's wrong, young woman?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "templo",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "ana",
+    "eli"
+   ],
+   "falas": [
+    {
+     "quem": "ana",
+     "texto": "I'm telling God how I feel."
+    },
+    {
+     "quem": "eli",
+     "texto": "Go in peace. May God give you what you asked!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Hannah went home smiling!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "casa",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "ana",
+    "bebe"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "And God answered! A beautiful baby was born!"
+    },
+    {
+     "quem": "ana",
+     "texto": "I will name you Samuel! God heard me!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "bebe",
+     "texto": "Goo goo, ga ga!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "You can tell God everything. He always listens!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

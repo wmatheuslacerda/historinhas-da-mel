@@ -1,0 +1,158 @@
+{
+ "historia_id": "elias-corvos",
+ "titulo": "Elijah and the Ravens 🐦 | Bible Story for Kids #shorts",
+ "titulo_curto": "Elijah and the ravens",
+ "referencia": "1 Kings 17",
+ "descricao": "In a time without rain, God sent the prophet Elijah to a brook, and ravens brought him bread and meat every day. A story about God's care, told by Mel the little sheep.\n\n📖 Reference: 1 Kings 17\n💛 Lesson: God takes care of us every day.",
+ "tags": [
+  "elijah",
+  "ravens",
+  "prophet elijah",
+  "bible story",
+  "bible for kids",
+  "mel the little sheep"
+ ],
+ "licao": "God takes care of us",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "elias": {
+   "preset": "elias"
+  },
+  "corvo": {
+   "tipo": "pomba",
+   "nome": "Corvo",
+   "voz": "animal",
+   "roupa": "#222222"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Can you imagine a little bird bringing your snack?",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "It hadn't rained in a long time. Everything was dry."
+    },
+    {
+     "quem": "deus",
+     "texto": "Elijah, go to the brook. There I will take care of you."
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "dia",
+   "personagens": [
+    "elias"
+   ],
+   "falas": [
+    {
+     "quem": "elias",
+     "texto": "Here's fresh water! Glug, glug!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "elias",
+     "texto": "But... what about food? My tummy is rumbling!",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "personagens": [
+    "elias",
+    "corvo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Then some black birds, the ravens, arrived. Flap, flap!"
+    },
+    {
+     "quem": "corvo",
+     "texto": "Caw, caw! We brought bread and meat!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "elias",
+     "texto": "Thank you, little friends! Thank you, God!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "noite",
+   "efeito": "estrelas",
+   "personagens": [
+    "elias",
+    "corvo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Morning and evening, the ravens came back with food."
+    },
+    {
+     "quem": "elias",
+     "texto": "God never forgets me!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "corvo",
+     "texto": "See you tomorrow, Elijah! Caw, caw!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God takes care of you every day, in His own special way!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

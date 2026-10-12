@@ -1,0 +1,173 @@
+{
+ "historia_id": "jonas-ninive",
+ "titulo": "Jonah Goes to Nineveh 🏙️ | Bible Story for Kids #shorts",
+ "titulo_curto": "Jonah Goes to Nineveh",
+ "referencia": "Jonah 3",
+ "descricao": "This time Jonah obeys God and goes to the great city of Nineveh. The people and even the king say sorry, and God forgives everyone! Told by Mel the little sheep.\n\n📖 Reference: Jonah 3\n💛 Lesson: God loves to forgive those who are truly sorry.",
+ "tags": [
+  "Jonah",
+  "Nineveh",
+  "forgiveness",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "God loves to forgive",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "jonas": {
+   "preset": "jonas"
+  },
+  "rei": {
+   "preset": "rei"
+  },
+  "mulher": {
+   "preset": "mulher"
+  },
+  "menino": {
+   "preset": "menino"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "nenhum",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Hi, little friend! Will Jonah obey today? Let's find out!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "mar",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "jonas"
+   ],
+   "falas": [
+    {
+     "quem": "deus",
+     "texto": "Jonah, go to Nineveh and say what I tell you."
+    },
+    {
+     "quem": "jonas",
+     "texto": "Yes, Lord! I'll go now!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "personagens": [
+    "jonas",
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Nineveh was huge! Jonah walked a whole day."
+    },
+    {
+     "quem": "jonas",
+     "texto": "Listen! God saw the wrong things done here!",
+     "emocao": "bravo"
+    },
+    {
+     "quem": "menino",
+     "texto": "Mom, now what? What do we do?",
+     "emocao": "surpreso"
+    },
+    {
+     "quem": "mulher",
+     "texto": "Let's stop doing bad things, son!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "palacio",
+   "periodo": "tarde",
+   "personagens": [
+    "rei"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "The king heard. He took off his fancy robe and left his throne."
+    },
+    {
+     "quem": "rei",
+     "texto": "Everyone will say sorry to God! Even the animals!",
+     "emocao": "triste"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And everybody stopped doing wrong things."
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "arco_iris",
+   "personagens": [
+    "rei",
+    "mulher",
+    "menino"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "God saw that their hearts had changed. And he forgave them!"
+    },
+    {
+     "quem": "menino",
+     "texto": "Yay! God forgave us!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "rei",
+     "texto": "Thank you, God, for your love!",
+     "emocao": "feliz"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "God loves to forgive those who are truly sorry!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

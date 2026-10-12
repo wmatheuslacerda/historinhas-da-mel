@@ -1,0 +1,199 @@
+{
+ "historia_id": "filipe-etiope",
+ "titulo": "Philip and the Chariot Man 📜 | Bible Story for Kids #shorts",
+ "titulo_curto": "Philip and the Chariot",
+ "referencia": "Acts 8",
+ "descricao": "An angel sends Philip to a desert road, where a traveler reads the Bible without understanding. Philip explains all about Jesus! Story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Acts 8\n💛 Lesson: it is wonderful to help someone know Jesus.",
+ "tags": [
+  "Philip",
+  "Ethiopian official",
+  "chariot",
+  "kids story",
+  "Bible cartoon",
+  "Bible story",
+  "Bible for kids",
+  "Mel the little sheep"
+ ],
+ "licao": "Help others know Jesus",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "filipe": {
+   "tipo": "humano",
+   "nome": "Filipe",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "media",
+   "cabelo": "castanho",
+   "estilo_cabelo": "curto",
+   "barba": "curta",
+   "roupa": "#4a7fb5",
+   "roupa2": "#e9dfc4",
+   "cobertura": "nenhuma",
+   "acessorio": "nenhum",
+   "manto": true
+  },
+  "etiope": {
+   "tipo": "humano",
+   "nome": "Viajante da Etiópia",
+   "voz": "homem",
+   "idade": "adulto",
+   "genero": "m",
+   "pele": "escura",
+   "cabelo": "preto",
+   "estilo_cabelo": "curto",
+   "barba": "nenhuma",
+   "roupa": "#7a3fa0",
+   "roupa2": "#e2b93b",
+   "cobertura": "faixa",
+   "acessorio": "pergaminho",
+   "manto": true
+  },
+  "anjo": {
+   "preset": "anjo"
+  },
+  "camelo": {
+   "preset": "camelo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Today there's a talk inside a chariot! Come on!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "cidade",
+   "periodo": "dia",
+   "efeito": "luz",
+   "personagens": [
+    "anjo",
+    "filipe"
+   ],
+   "falas": [
+    {
+     "quem": "anjo",
+     "texto": "Philip, go down the desert road!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "filipe",
+     "texto": "You got it! I'm going right now!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And off went Philip, clip-clop, down the road."
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "etiope",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "On the road came an important traveler from Ethiopia."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He read a Bible book out loud."
+    },
+    {
+     "quem": "etiope",
+     "texto": "Hmm... Who is the prophet talking about?",
+     "emocao": "surpreso"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "tarde",
+   "personagens": [
+    "filipe",
+    "etiope"
+   ],
+   "falas": [
+    {
+     "quem": "filipe",
+     "texto": "Do you understand what you're reading?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "etiope",
+     "texto": "How can I, if no one explains? Come up here!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Philip told him all about Jesus."
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "arco_iris",
+   "personagens": [
+    "filipe",
+    "etiope"
+   ],
+   "falas": [
+    {
+     "quem": "etiope",
+     "texto": "Look, water! Can I be baptized?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Philip baptized the traveler. Splash!"
+    },
+    {
+     "quem": "etiope",
+     "texto": "What joy! Now I know Jesus!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "It's so good to help someone know Jesus!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}

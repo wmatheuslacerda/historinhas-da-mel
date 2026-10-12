@@ -1,0 +1,191 @@
+{
+ "historia_id": "rebeca-camelos",
+ "titulo": "Rebekah and the Camels 🐪 | Bible Story for Kids #shorts",
+ "titulo_curto": "Rebekah and the camels",
+ "referencia": "Genesis 24",
+ "descricao": "Abraham's servant asks God for a sign, and kind Rebekah gives water to him and to all the camels. A Bible story told by Mel the little sheep for kids ages 3 to 6.\n\n📖 Reference: Genesis 24\n💛 Lesson: Be kind to everyone.",
+ "tags": [
+  "rebekah",
+  "camels",
+  "kindness",
+  "bible story",
+  "bible for kids",
+  "children's story",
+  "bible cartoon",
+  "mel the little sheep"
+ ],
+ "licao": "Be kind to everyone",
+ "elenco": {
+  "mel": {
+   "preset": "mel"
+  },
+  "servo": {
+   "preset": "idoso"
+  },
+  "rebeca": {
+   "tipo": "humano",
+   "nome": "Rebeca",
+   "voz": "mulher",
+   "idade": "adulto",
+   "genero": "f",
+   "pele": "morena",
+   "cabelo": "castanho",
+   "estilo_cabelo": "longo",
+   "barba": "nenhuma",
+   "roupa": "#E67E22",
+   "roupa2": "#8E44AD",
+   "cobertura": "lenco",
+   "acessorio": "nenhum",
+   "manto": false,
+   "armadura": false,
+   "asas": false,
+   "gigante": false
+  },
+  "camelo": {
+   "preset": "camelo"
+  }
+ },
+ "cenas": [
+  {
+   "cenario": "abertura",
+   "periodo": "dia",
+   "efeito": "brilhos",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "How many camels can you give water to? Rebekah gave lots!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  },
+  {
+   "cenario": "deserto",
+   "periodo": "dia",
+   "personagens": [
+    "servo",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Abraham's helper traveled with ten camels."
+    },
+    {
+     "quem": "narrador",
+     "texto": "He was looking for a wife for Isaac."
+    },
+    {
+     "quem": "camelo",
+     "texto": "Phew! So thirsty!",
+     "emocao": "triste"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "personagens": [
+    "servo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "He stopped near a well and prayed."
+    },
+    {
+     "quem": "servo",
+     "texto": "God, show me the right girl.",
+     "emocao": "neutro"
+    },
+    {
+     "quem": "servo",
+     "texto": "The one who gives water to me and the camels!",
+     "emocao": "neutro"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "brilhos",
+   "personagens": [
+    "rebeca",
+    "servo",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Before he finished praying, Rebekah arrived!"
+    },
+    {
+     "quem": "servo",
+     "texto": "Miss, may I have a little water?",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "rebeca",
+     "texto": "Of course! And I'll give some to the camels too!",
+     "emocao": "feliz",
+     "acao": "pular"
+    },
+    {
+     "quem": "narrador",
+     "texto": "Splash, splash! So many buckets of water!"
+    }
+   ]
+  },
+  {
+   "cenario": "rio",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "servo",
+    "rebeca",
+    "camelo"
+   ],
+   "falas": [
+    {
+     "quem": "camelo",
+     "texto": "Glug, glug! Thank you, Rebekah!",
+     "emocao": "feliz",
+     "acao": "comemorar"
+    },
+    {
+     "quem": "servo",
+     "texto": "Thank you, God! She's the right girl!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "narrador",
+     "texto": "And Rebekah went to marry Isaac!"
+    }
+   ]
+  },
+  {
+   "cenario": "abertura",
+   "periodo": "tarde",
+   "efeito": "coracoes",
+   "personagens": [
+    "mel"
+   ],
+   "falas": [
+    {
+     "quem": "mel",
+     "texto": "Being kind and helping others makes God happy!",
+     "emocao": "feliz"
+    },
+    {
+     "quem": "mel",
+     "texto": "Bye-bye, little friend! God loves you!",
+     "emocao": "feliz",
+     "acao": "pular"
+    }
+   ]
+  }
+ ]
+}
