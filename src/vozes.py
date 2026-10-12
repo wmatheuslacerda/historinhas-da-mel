@@ -68,8 +68,9 @@ def _alinhamento_estimado(texto: str, dur: float, margem=0.05):
 
 
 class Vozes:
-    def __init__(self, cfg: dict, offline: bool = False, cache: str | Path = ".cache/vozes"):
+    def __init__(self, cfg: dict, offline: bool = False, cache: str | Path = ".cache/vozes", idioma: str = "pt"):
         self.cfg = cfg["elevenlabs"]
+        self.idioma = idioma
         self.offline = offline
         self.cache = Path(cache)
         self.cache.mkdir(parents=True, exist_ok=True)
@@ -101,7 +102,7 @@ class Vozes:
         corpo = {
             "text": texto,
             "model_id": self.cfg.get("modelo", "eleven_multilingual_v2"),
-            "language_code": "pt",
+            "language_code": self.idioma,
             "voice_settings": {
                 "stability": vc.get("estabilidade", 0.45),
                 "similarity_boost": vc.get("similaridade", 0.8),
@@ -153,7 +154,7 @@ class Vozes:
         var, vel, tom = self.ESPEAK.get(tipo, ("m1", 145, 50))
         with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
             caminho = f.name
-        subprocess.run(["espeak-ng", "-v", f"pt-br+{var}", "-s", str(vel), "-p", str(tom), "-w", caminho, texto],
+        subprocess.run(["espeak-ng", "-v", f"{'en-us' if self.idioma == 'en' else 'pt-br'}+{var}", "-s", str(vel), "-p", str(tom), "-w", caminho, texto],
                        check=True, capture_output=True)
         audio = ffmpeg_decode(caminho=caminho)
         os.unlink(caminho)

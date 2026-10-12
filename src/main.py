@@ -64,12 +64,13 @@ def main():
     ap.add_argument("--offline", action="store_true", help="vozes de teste (espeak), sem gastar créditos")
     ap.add_argument("--roteiro", help="usar um roteiro JSON pronto em vez de pedir ao Claude")
     ap.add_argument("--nao-postar", action="store_true")
+    ap.add_argument("--idioma", default="pt", choices=["pt", "en"], help="pt = português | en = inglês (só YouTube)")
     ap.add_argument("--saida", default="saida")
     args = ap.parse_args()
     carregar_env()
 
     cfg = yaml.safe_load((RAIZ / "config.yaml").read_text())
-    arq_estado = RAIZ / "estado" / "historico.json"
+    arq_estado = RAIZ / "estado" / ("historico.json" if args.idioma == "pt" else f"historico_{args.idioma}.json")
     estado = json.loads(arq_estado.read_text()) if arq_estado.exists() else {"postados": []}
     catalogo = json.loads((RAIZ / "dados" / "historias.json").read_text())
     agora = dt.datetime.now(FUSO)
@@ -82,8 +83,8 @@ def main():
             roteiro = validar(json.loads(Path(args.roteiro).read_text()), cfg)
             log(f"📄 Roteiro carregado: {roteiro['titulo']}")
         else:
-            banco = RAIZ / "dados" / "roteiros"
-            usar_api = bool(os.environ.get("ANTHROPIC_API_KEY"))
+            banco = RAIZ / "dados" / ("roteiros" if args.idioma == "pt" else f"roteiros_{args.idioma}")
+            usar_api = bool(os.environ.get("ANTHROPIC_API_KEY")) and args.idioma == "pt"
             cat = catalogo if usar_api else [h for h in catalogo if (banco / f"{h['id']}.json").exists()]
             if not cat:
                 raise RuntimeError("Sem ANTHROPIC_API_KEY e sem roteiros prontos em dados/roteiros/")
@@ -97,10 +98,10 @@ def main():
                 roteiro.setdefault("historia_id", historia["id"])
                 roteiro.setdefault("referencia", historia["ref"])
             log(f"✍️  Roteiro: {roteiro['titulo']}")
-        roteiro = enriquecer(roteiro)
+        roteiro = enriquecer(roteiro, args.idioma)
 
         # 2) vozes
-        vozes = Vozes(cfg, offline=args.offline, cache=RAIZ / ".cache" / "vozes")
+        vozes = Vozes(cfg, offline=args.offline, cache=RAIZ / ".cache" / "vozes", idioma=args.idioma)
         falas = []
         for cena in roteiro["cenas"]:
             for f in cena["falas"]:
@@ -121,7 +122,7 @@ def main():
     seed = int(hashlib.md5(carimbo.encode()).hexdigest()[:8], 16)
     pasta = RAIZ / args.saida
     pasta.mkdir(parents=True, exist_ok=True)
-    nome = f"{carimbo}_{roteiro.get('historia_id', 'video')}"
+    nome = f"{carimbo}_{roteiro.get('historia_id', 'video')}" + ("" if args.idioma == "pt" else f"_{args.idioma}")
     mp4 = str(pasta / f"{nome}.mp4")
     Renderizador(roteiro, falas, cfg, seed=seed, log=log).renderizar(mp4, str(RAIZ / ".cache" / "tmp"))
     (pasta / f"{nome}.json").write_text(json.dumps(roteiro, ensure_ascii=False, indent=1))
@@ -131,7 +132,7 @@ def main():
     if postar:
         from .youtube import publicar
         log("📤 Publicando no YouTube...")
-        vid = publicar(mp4, roteiro, cfg, log=log)
+        vid = publicar(mp4, roteiro, cfg, log=log, idioma=args.idioma)
         url = f"https://youtube.com/shorts/{vid}"
         log(f"🎉 Publicado: {url}")
         estado["postados"].append({

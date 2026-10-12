@@ -22,8 +22,11 @@ def credenciais():
     return cred
 
 
-def publicar(caminho: str, roteiro: dict, cfg: dict, log=print) -> str:
+def publicar(caminho: str, roteiro: dict, cfg: dict, log=print, idioma: str = "pt") -> str:
     """Publica um Short a partir do roteiro."""
+    if idioma == "en":
+        cfg = {**cfg, "youtube": {**cfg["youtube"], "idioma": "en",
+                                  "hashtags": ["#shorts", "#biblestory", "#biblestoriesforkids"]}}
     hashtags = " ".join(cfg["youtube"].get("hashtags", []))
     base = roteiro.get("descricao", "")
     if "📖" not in base and roteiro.get("referencia"):
